@@ -1,6 +1,5 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 96
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -308,3 +307,16 @@ skills:
   name: Hydroelectric & Desalination Concession Interdiction
   status: ACTIVE
   manifest_file: .antigravity/skills/hydroelectric-and-desalination-concession-interdiction.yaml
+- id: duty-free-retail-and-concession-revenue-disgorgement
+  name: Sovereign Duty-Free Retail & Concession Revenue Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/duty-free-retail-and-concession-revenue-disgorgement.yaml
+- id: airline-catering-and-ground-handling-receivables-garnishment
+  name: International Airline Catering & Ground Handling Receivables Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/airline-catering-and-ground-handling-receivables-garnishment.yaml
+- id: marine-and-aviation-bunkering-contract-interdiction
+  name: Sovereign Marine & Aviation Bunkering Fuel Contract Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/marine-and-aviation-bunkering-contract-interdiction.yaml
+total_skills: 99

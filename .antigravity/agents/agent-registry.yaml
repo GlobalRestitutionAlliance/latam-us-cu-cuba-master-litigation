@@ -316,4 +316,14 @@ agents:
     Concessions Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-utility-tariff-garnishee-marshal.yaml
-total_agents: 64
+- id: agent-duty-free-and-concessions-auditor
+  name: Sovereign Duty-Free Retail Networks & Commercial Concessions Auditor
+  role: Tiendas Caracol, ECASA Commercial Concessions & Dufry/Avolta JV Consignment Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-duty-free-and-concessions-auditor.yaml
+- id: agent-aviation-catering-and-bunkering-marshal
+  name: In-Flight Airline Catering & Sovereign Bunkering Fuelling Marshal
+  role: Ibeca Airline Catering JV, Airport Ground Handling & Marine/Aviation Bunkering Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-aviation-catering-and-bunkering-marshal.yaml
+total_agents: 66

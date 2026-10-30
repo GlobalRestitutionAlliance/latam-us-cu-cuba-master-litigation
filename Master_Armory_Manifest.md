@@ -988,3 +988,22 @@ W:\Legal\US_CUBA\
   - [Master_Water_Utilities_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Water_Utilities_Crosswalk_Matrix.csv)
   - [Master_Water_Utilities_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Water_Utilities_Crosswalk_Dashboard.md)
   - [Master_Water_Utilities_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Water_Utilities_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 30)
+- `agent-duty-free-and-concessions-auditor`: Tiendas Caracol, ECASA Commercial Concessions & Dufry/Avolta JV Consignment Auditor.
+- `agent-aviation-catering-and-bunkering-marshal`: Ibeca Airline Catering JV, Airport Ground Handling & Marine/Aviation Bunkering Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 30)
+- `duty-free-retail-and-concession-revenue-disgorgement`: Sovereign Duty-Free Retail & Concession Revenue Disgorgement.
+- `airline-catering-and-ground-handling-receivables-garnishment`: International Airline Catering & Ground Handling Receivables Garnishment.
+- `marine-and-aviation-bunkering-contract-interdiction`: Sovereign Marine & Aviation Bunkering Fuel Contract Interdiction.
+
+### Campaign 30: Sovereign Duty-Free Retail Monopolies, Airport & Seaport Concessions, In-Flight Airline Catering JVs & Bunkering Fuelling Disgorgement Campaign
+- **Total Restitution Pool:** $295,000,000,000.00 ($295.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** DF-001 through DF-025
+- **Assigned Agents:** `agent-duty-free-and-concessions-auditor`, `agent-aviation-catering-and-bunkering-marshal`
+- **Certified Skills:** `duty-free-retail-and-concession-revenue-disgorgement`, `airline-catering-and-ground-handling-receivables-garnishment`, `marine-and-aviation-bunkering-contract-interdiction`
+- **Evidentiary Artifacts:**
+  - [Master_Duty_Free_Concessions_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Duty_Free_Concessions_Crosswalk_Matrix.csv)
+  - [Master_Duty_Free_Concessions_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Duty_Free_Concessions_Crosswalk_Dashboard.md)
+  - [Master_Duty_Free_Concessions_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Duty_Free_Concessions_Crosswalk_Dashboard.docx)

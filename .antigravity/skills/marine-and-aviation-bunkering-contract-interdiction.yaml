@@ -1,0 +1,12 @@
+id: marine-and-aviation-bunkering-contract-interdiction
+name: Sovereign Marine & Aviation Bunkering Fuel Contract Interdiction
+description: Enforcement protocol targeting sovereign petroleum distribution monopolies (CUPET Bunkering, Empresa Comercializadora de Combustibles) providing bonded marine bunker fuel (IFO 380 / MGO) and aviation jet fuel (Jet A-1) to international carriers, through maritime liens and receivables attachment under Rule B and 28 U.S.C. § 1610(a)(2).
+version: 1.0.0
+tactical_domain: Marine Bunkering Interdiction, Aviation Jet Fuel Liens & Commercial Petroleum Receivables Attachment
+execution_protocol:
+  - Step 1: Documenting expropriation of Esso, Texaco, and Sinclair petroleum refining, storage, and airport/maritime fueling hydrant infrastructure.
+  - Step 2: Tracing international commercial bunkering contracts and spot sales executed by CUPET Bunkering and foreign commodity trading intermediaries.
+  - Step 3: Filing supplemental maritime attachment complaints under Supplemental Rule B and 28 U.S.C. § 1610(a)(2) against fuel deliveries, vessels, and escrow payments.
+  - Step 4: Serving third-party garnishment orders on international bunkering brokers, maritime insurance P&I Clubs, and correspondent bank settlement rails.
+  - Step 5: Liquidating attached bunkering accounts and settling sovereign restitution claims via the Master Restitution Trust.
+operational_mandate: Interdict and garnish sovereign bunkering revenues and commercial fuel escrow receivables across global maritime and aviation networks.

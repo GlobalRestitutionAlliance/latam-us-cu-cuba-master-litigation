@@ -1,0 +1,12 @@
+id: duty-free-retail-and-concession-revenue-disgorgement
+name: Sovereign Duty-Free Retail & Concession Revenue Disgorgement
+description: Operational protocols for Title III Helms-Burton actions (22 U.S.C. § 6082) and commercial receivables garnishment against sovereign duty-free retail monopolies (Tiendas Caracol S.A., Aeromar S.A.), international concession partners (Dufry / Avolta / Swissport), and offshore consignment clearing accounts.
+version: 1.0.0
+tactical_domain: Duty-Free Retail Disgorgement, Title III Helms-Burton Enforcement & Commercial Free Zone Concessions
+execution_protocol:
+  - Step 1: Mapping expropriated airport and seaport terminal land, commercial retail spaces, and historic bonded warehouses against modern Tiendas Caracol S.A. and ECASA retail concessions.
+  - Step 2: Establishing commercial activity exception under 28 U.S.C. § 1605(a)(2) for all international retail transactions conducted in hard currency (EUR, USD, CAD).
+  - Step 3: Proving alter ego liability between Tiendas Caracol S.A., ECASA, MINTUR, and GAESA under Bancec and 28 U.S.C. § 1610(g).
+  - Step 4: Serving Rule 69 writs of attachment and third-party garnishee notices on multinational duty-free suppliers, concession partners, and offshore payment processors.
+  - Step 5: Directing seized retail royalties and consignment proceeds into court-supervised Qualified Settlement Funds (26 U.S.C. § 468B).
+operational_mandate: Execute comprehensive disgorgement actions across all Cuban international airport duty-free stores and cruise passenger terminal concessions.

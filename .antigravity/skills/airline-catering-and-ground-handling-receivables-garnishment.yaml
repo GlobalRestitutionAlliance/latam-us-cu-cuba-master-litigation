@@ -1,0 +1,12 @@
+id: airline-catering-and-ground-handling-receivables-garnishment
+name: International Airline Catering & Ground Handling Receivables Garnishment
+description: Litigation framework for third-party garnishment under Fed. R. Civ. P. 69 and 28 U.S.C. § 1610(a)(2) targeting foreign airline payments to Ibeca S.A. (in-flight catering JV) and ECASA (ramp handling, pushback, VIP lounge concessions, and airport service fees).
+version: 1.0.0
+tactical_domain: Airline Receivables Garnishment, In-Flight Catering Interdiction & Airport Ground Services Attachment
+execution_protocol:
+  - Step 1: Identifying all scheduled and charter foreign airlines operating flights to Cuban international airports (Air Canada, Air France, Iberia, Air Europa, Condor, Neos, Copa Airlines, Turkish Airlines).
+  - Step 2: Subpoenaing billing contracts, flight service agreements, and payment schedules between foreign airlines, IATA, and Ibeca S.A. / ECASA.
+  - Step 3: Serving post-judgment writs of garnishment on airline US headquarters, European bank branches, and IATA Clearing House settlement accounts.
+  - Step 4: Overcoming sovereign immunity defenses by establishing that flight catering and ground handling constitute purely commercial activities under 28 U.S.C. § 1605(a)(2).
+  - Step 5: Diverting commercial catering fees, passenger transit levies, and ramp service billings into the Master Restitution Escrow.
+operational_mandate: Impound all foreign carrier flight provisioning and ground service receivables payable to Ibeca S.A. and ECASA in European and North American financial centers.
