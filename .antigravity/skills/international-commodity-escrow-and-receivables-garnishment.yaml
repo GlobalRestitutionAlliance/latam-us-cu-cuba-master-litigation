@@ -1,0 +1,10 @@
+id: international-commodity-escrow-and-receivables-garnishment
+name: International Commodity Escrow & Trade Receivables Garnishment
+description: Multi-jurisdictional garnishment and third-party debt order protocols targeting international commodity trade receivables, letters of credit (LCs), performance bonds, and escrow accounts maintained by global commodity trading houses (Sucden, Czarnikow, Louis Dreyfus, COFCO, ED&F Man) for purchases of Cuban sugar, industrial molasses, and bio-ethanol.
+version: 1.0.0
+tactical_domain: International Trade Finance Garnishment, Commodity Receivables Levy & Third-Party Debt Orders
+execution_protocol:
+  - Step 1: Subpoenaing commodity trade contracts, pricing schedules, and open trade account registries of multinational sugar merchants trading in Cuban origin sugar.
+  - Step 2: Serving English High Court third-party debt orders, New York CPLR § 5227 turnover notices, and Geneva debt attachments (LP Art. 99/271) on commodity trading desks.
+  - Step 3: Freezing irrevocable documentary letters of credit and open account balances prior to settlement or negotiation with Cuban state financial conduits.
+  - Step 4: Transferring garnished trade proceeds directly into the Master Qualified Settlement Fund (QSF) pursuant to federal enforcement decrees.

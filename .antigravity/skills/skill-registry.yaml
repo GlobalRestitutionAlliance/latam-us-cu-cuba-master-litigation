@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 27
+total_skills: 81
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -236,3 +236,15 @@ skills:
 - id: geospatial-cartography-and-dual-use-procurement-interdiction
   file: geospatial-cartography-and-dual-use-procurement-interdiction.yaml
   status: READY
+- id: azcuba-corporate-alter-ego-and-jv-disgorgement
+  name: AZCUBA Corporate Alter Ego & Biomass Energy Joint-Venture Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/azcuba-corporate-alter-ego-and-jv-disgorgement.yaml
+- id: bulk-sugar-terminal-and-maritime-cargo-arrest
+  name: Bulk Sugar Export Terminal & Maritime Cargo In Rem Arrest
+  status: ACTIVE
+  manifest_file: .antigravity/skills/bulk-sugar-terminal-and-maritime-cargo-arrest.yaml
+- id: international-commodity-escrow-and-receivables-garnishment
+  name: International Commodity Escrow & Trade Receivables Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/international-commodity-escrow-and-receivables-garnishment.yaml

@@ -37,111 +37,138 @@ agents:
 - id: agent-fiduciary-liquidator
   file: agent-fiduciary-liquidator.yaml
   status: ACTIVE
-  role: FRCP Rule 53 Special Master, Rule 70 Equity Receivership & Damages Valuation Architect
+  role: FRCP Rule 53 Special Master, Rule 70 Equity Receivership & Damages Valuation
+    Architect
 - id: agent-admiralty-marshal
   file: agent-admiralty-marshal.yaml
   status: ACTIVE
-  role: Supplemental Rule C Maritime In Rem Arrest & Transnational Asset Restitution Commander
+  role: Supplemental Rule C Maritime In Rem Arrest & Transnational Asset Restitution
+    Commander
 - id: agent-corporate-auditor
   file: agent-corporate-auditor.yaml
   status: ACTIVE
-  role: Corporate Successor Forensic Accounting, CIK Mappings, Balance Sheet Disgorgement & Offshore Tax Haven Tracing
+  role: Corporate Successor Forensic Accounting, CIK Mappings, Balance Sheet Disgorgement
+    & Offshore Tax Haven Tracing
 - id: agent-prejudgment-attache
   file: agent-prejudgment-attache.yaml
   status: ACTIVE
-  role: FRCP Rule 64, D.C. Code § 16-501, 28 U.S.C. § 1610 & Transnational Ex Parte Freeze Architect
+  role: FRCP Rule 64, D.C. Code § 16-501, 28 U.S.C. § 1610 & Transnational Ex Parte
+    Freeze Architect
 - id: agent-diplomatic-plenipotentiary
   file: agent-diplomatic-plenipotentiary.yaml
   status: ACTIVE
-  role: Sovereign Coalition Warfare, UNGA Resolutions, Bilateral Investment Treaties & BRICS+ Diplomatic Accession Architect
+  role: Sovereign Coalition Warfare, UNGA Resolutions, Bilateral Investment Treaties
+    & BRICS+ Diplomatic Accession Architect
 - id: agent-sovereign-arbitrageur
   file: agent-sovereign-arbitrageur.yaml
   status: ACTIVE
-  role: UNCITRAL, ICSID, New York Convention Art. V Defense Demolition & Commercial Property Exequatur
+  role: UNCITRAL, ICSID, New York Convention Art. V Defense Demolition & Commercial
+    Property Exequatur
 - id: agent-trial-strategist
   file: agent-trial-strategist.yaml
   status: ACTIVE
-  role: FRCP Rule 16 Pretrial Orders, FRE 803/902 Evidentiary Admissions, Voir Dire & Rule 49 Special Verdict Architect
+  role: FRCP Rule 16 Pretrial Orders, FRE 803/902 Evidentiary Admissions, Voir Dire
+    & Rule 49 Special Verdict Architect
 - id: agent-scotus-advocate
   file: agent-scotus-advocate.yaml
   status: ACTIVE
-  role: SCOTUS Rules 10, 14, 23, 28 U.S.C. § 1254(1) Certiorari, En Banc Petitions & Amicus Mobilization
+  role: SCOTUS Rules 10, 14, 23, 28 U.S.C. § 1254(1) Certiorari, En Banc Petitions
+    & Amicus Mobilization
 - id: agent-claims-administrator
   file: agent-claims-administrator.yaml
   status: ACTIVE
-  role: FRCP Rule 23(e) Notice, Class Claims Validation, Probate Succession Tracing & Pro-Rata Point Allocation Architect
+  role: FRCP Rule 23(e) Notice, Class Claims Validation, Probate Succession Tracing
+    & Pro-Rata Point Allocation Architect
 - id: agent-zk-custodian
   file: agent-zk-custodian.yaml
   status: ACTIVE
-  role: Shamir Secret Sharing (k-of-n), Groth16 ZK-SNARK Proof of Entitlement, Multi-Sig Fiduciary Vault & DAO Governance Commander
+  role: Shamir Secret Sharing (k-of-n), Groth16 ZK-SNARK Proof of Entitlement, Multi-Sig
+    Fiduciary Vault & DAO Governance Commander
 - id: agent-sanctions-interdictor
   file: agent-sanctions-interdictor.yaml
   status: ACTIVE
-  role: FinCEN Section 311, OFAC SDN Sanctions Enforcement & Global Magnitsky Asset Seizure Architect
+  role: FinCEN Section 311, OFAC SDN Sanctions Enforcement & Global Magnitsky Asset
+    Seizure Architect
 - id: agent-maritime-interdictor
   file: agent-maritime-interdictor.yaml
   status: ACTIVE
-  role: Dark Fleet Tracking, AIS Spoofing Forensics, Admiralty Prize Capture & Flag-State Deregistration Commander
+  role: Dark Fleet Tracking, AIS Spoofing Forensics, Admiralty Prize Capture & Flag-State
+    Deregistration Commander
 - id: agent-terrorism-sanctions-counsel
   file: agent-terrorism-sanctions-counsel.yaml
   status: ACTIVE
-  role: FSIA § 1605A Terrorism Exception, TRIA § 201(a) Blocked Asset Execution & § 1610(g) Statutory Piercing Architect
+  role: FSIA § 1605A Terrorism Exception, TRIA § 201(a) Blocked Asset Execution &
+    § 1610(g) Statutory Piercing Architect
 - id: agent-congressional-statutory-liaison
   file: agent-congressional-statutory-liaison.yaml
   status: ACTIVE
-  role: Congressional Oversight Subpoenas, USVSST Fund Allocations (34 U.S.C. § 20144) & Title II Transition Statutory Architect
+  role: Congressional Oversight Subpoenas, USVSST Fund Allocations (34 U.S.C. § 20144)
+    & Title II Transition Statutory Architect
 - id: agent-natural-resources-auditor
   file: agent-natural-resources-auditor.yaml
   status: ACTIVE
-  role: Mining Concessions, Offshore Hydrocarbon Blocks & Geological Reserve Forensic Auditor
+  role: Mining Concessions, Offshore Hydrocarbon Blocks & Geological Reserve Forensic
+    Auditor
 - id: agent-agrarian-latifundia-marshal
   file: agent-agrarian-latifundia-marshal.yaml
   status: ACTIVE
-  role: Agrarian Latifundia Title Quieting, Sugar Centrales Restitution & 19 U.S.C. § 1307 Forced Labor Interdictor
+  role: Agrarian Latifundia Title Quieting, Sugar Centrales Restitution & 19 U.S.C.
+    § 1307 Forced Labor Interdictor
 - id: agent-sovereign-debt-syndicator
   file: agent-sovereign-debt-syndicator.yaml
   status: ACTIVE
-  role: Paris & London Club Sovereign Debt Restructuring, Secondary Market Arbitrage & Creditor Syndicate Commander
+  role: Paris & London Club Sovereign Debt Restructuring, Secondary Market Arbitrage
+    & Creditor Syndicate Commander
 - id: agent-clearinghouse-garnishee-marshal
   file: agent-clearinghouse-garnishee-marshal.yaml
   status: ACTIVE
-  role: Euroclear, Clearstream, BIS & Global Central Securities Depository Garnishment Architect
+  role: Euroclear, Clearstream, BIS & Global Central Securities Depository Garnishment
+    Architect
 - id: agent-telecom-infrastructure-auditor
   file: agent-telecom-infrastructure-auditor.yaml
   status: ACTIVE
-  role: ETECSA Sovereign Monopoly, Carrier Settlement Auditing & International Roaming Garnishment Architect
+  role: ETECSA Sovereign Monopoly, Carrier Settlement Auditing & International Roaming
+    Garnishment Architect
 - id: agent-subsea-spectrum-marshal
   file: agent-subsea-spectrum-marshal.yaml
   status: ACTIVE
-  role: Subsea Fiber-Optic Cable Landing Stations, ITU Orbital Spectrum & SIGINT Facility Interdiction Commander
+  role: Subsea Fiber-Optic Cable Landing Stations, ITU Orbital Spectrum & SIGINT Facility
+    Interdiction Commander
 - id: agent-human-rights-tvpra-counsel
   file: agent-human-rights-tvpra-counsel.yaml
   status: ACTIVE
-  role: TVPRA § 1589/§ 1595 Forced Labor Litigation, Civil RICO & Humanitarian Restitution Architect
+  role: TVPRA § 1589/§ 1595 Forced Labor Litigation, Civil RICO & Humanitarian Restitution
+    Architect
 - id: agent-labor-export-interdictor
   file: agent-labor-export-interdictor.yaml
   status: ACTIVE
-  role: CSMC S.A. State Monopoly Auditing, Bilateral Host Government Contract Interception & 8-Year Rule Sanctions Marshal
+  role: CSMC S.A. State Monopoly Auditing, Bilateral Host Government Contract Interception
+    & 8-Year Rule Sanctions Marshal
 - id: agent-aviation-fleet-marshal
   file: agent-aviation-fleet-marshal.yaml
   status: ACTIVE
-  role: CACSA Sovereign Holding, Cubana de Aviación Airframe Attachment & Wet Lease Interdiction Commander
+  role: CACSA Sovereign Holding, Cubana de Aviación Airframe Attachment & Wet Lease
+    Interdiction Commander
 - id: agent-airspace-transit-garnishee-counsel
   file: agent-airspace-transit-garnishee-counsel.yaml
   status: ACTIVE
-  role: Havana FIR Overflight Royalties, IATA Clearinghouse Settlement & Air Navigation Garnishment Architect
+  role: Havana FIR Overflight Royalties, IATA Clearinghouse Settlement & Air Navigation
+    Garnishment Architect
 - id: agent-port-concessions-auditor
   file: agent-port-concessions-auditor.yaml
   status: ACTIVE
-  role: ZED Mariel, ASPORT Sovereign Monopoly & Global Maritime Terminal Concession Auditor
+  role: ZED Mariel, ASPORT Sovereign Monopoly & Global Maritime Terminal Concession
+    Auditor
 - id: agent-maritime-cargo-garnishee-marshal
   file: agent-maritime-cargo-garnishee-marshal.yaml
   status: ACTIVE
-  role: Ocean Freight Tariff, Container Demurrage & Transshipment Interline Settlement Marshal
+  role: Ocean Freight Tariff, Container Demurrage & Transshipment Interline Settlement
+    Marshal
 - id: agent-trademark-brand-auditor
   file: agent-trademark-brand-auditor.yaml
   status: ACTIVE
-  role: Havana Club, Habanos S.A., Section 211 & Multinational Joint-Venture Brand Auditor
+  role: Havana Club, Habanos S.A., Section 211 & Multinational Joint-Venture Brand
+    Auditor
 - id: agent-joint-venture-royalty-marshal
   file: agent-joint-venture-royalty-marshal.yaml
   status: ACTIVE
@@ -161,7 +188,8 @@ agents:
 - id: agent-clinical-licensing-garnishee-marshal
   file: agent-clinical-licensing-garnishee-marshal.yaml
   status: ACTIVE
-  role: U.S. Clinical Trial Escrows, Foreign Biotech JV Dividends & Patent Execution Marshal
+  role: U.S. Clinical Trial Escrows, Foreign Biotech JV Dividends & Patent Execution
+    Marshal
 - id: agent-energy-infrastructure-auditor
   file: agent-energy-infrastructure-auditor.yaml
   status: ACTIVE
@@ -177,23 +205,28 @@ agents:
 - id: agent-correspondent-banking-garnishee-marshal
   file: agent-correspondent-banking-garnishee-marshal.yaml
   status: ACTIVE
-  role: U.S. Intermediary Banks, Money Service Businesses & Remittance Clearinghouse Garnishment Marshal
+  role: U.S. Intermediary Banks, Money Service Businesses & Remittance Clearinghouse
+    Garnishment Marshal
 - id: agent-cultural-patrimony-auditor
   file: agent-cultural-patrimony-auditor.yaml
   status: ACTIVE
-  role: Museo Nacional de Bellas Artes, Cintas Collection & Looted Cultural Assets Forensic Auditor
+  role: Museo Nacional de Bellas Artes, Cintas Collection & Looted Cultural Assets
+    Forensic Auditor
 - id: agent-maritime-salvage-garnishee-marshal
   file: agent-maritime-salvage-garnishee-marshal.yaml
   status: ACTIVE
-  role: Carisub S.A., Spanish Treasure Galleons, Gold/Silver Numismatics & Admiralty Marshal
+  role: Carisub S.A., Spanish Treasure Galleons, Gold/Silver Numismatics & Admiralty
+    Marshal
 - id: agent-rail-infrastructure-auditor
   file: agent-rail-infrastructure-auditor.yaml
   status: ACTIVE
-  role: Consolidated Railroads of Cuba, UFC & Industrial Freight Corridor Forensic Auditor
+  role: Consolidated Railroads of Cuba, UFC & Industrial Freight Corridor Forensic
+    Auditor
 - id: agent-rail-logistics-garnishee-marshal
   file: agent-rail-logistics-garnishee-marshal.yaml
   status: ACTIVE
-  role: UFC International Clearing, Foreign Equipment Escrows & Rail Asset Garnishee Marshal
+  role: UFC International Clearing, Foreign Equipment Escrows & Rail Asset Garnishee
+    Marshal
 - id: agent-fisheries-maritime-auditor
   file: agent-fisheries-maritime-auditor.yaml
   status: ACTIVE
@@ -201,12 +234,28 @@ agents:
 - id: agent-seafood-cargo-garnishee-marshal
   file: agent-seafood-cargo-garnishee-marshal.yaml
   status: ACTIVE
-  role: Reefer Cargo Interdiction, European Seafood Distributor Garnishment & Admiralty Marshal
+  role: Reefer Cargo Interdiction, European Seafood Distributor Garnishment & Admiralty
+    Marshal
 - id: agent-defense-industry-auditor
   file: agent-defense-industry-auditor.yaml
   status: ACTIVE
-  role: UCM, GeoCuba, Empresa Militar Industrial (EMI) & Military Enterprise Forensic Auditor
+  role: UCM, GeoCuba, Empresa Militar Industrial (EMI) & Military Enterprise Forensic
+    Auditor
 - id: agent-shipbuilding-drydock-garnishee-marshal
   file: agent-shipbuilding-drydock-garnishee-marshal.yaml
   status: ACTIVE
-  role: Astilleros de La Habana, Caribbean Drydock Company (CDC) & Ship Repair Garnishee Marshal
+  role: Astilleros de La Habana, Caribbean Drydock Company (CDC) & Ship Repair Garnishee
+    Marshal
+- id: agent-sugar-agroindustrial-auditor
+  name: Sovereign Agro-Industrial Sugar Empire & AZCUBA Forensic Auditor
+  role: AZCUBA, Zerus S.A., Centrales Azucareros & Industrial Derivatives Forensic
+    Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-sugar-agroindustrial-auditor.yaml
+- id: agent-bulk-commodity-garnishee-marshal
+  name: Bulk Sugar Maritime Terminal & International Commodity Garnishee Marshal
+  role: Tricontinental Cienfuegos Terminal, Bulk Sugar Freighters & Commodity Receivables
+    Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-bulk-commodity-garnishee-marshal.yaml
+total_agents: 54

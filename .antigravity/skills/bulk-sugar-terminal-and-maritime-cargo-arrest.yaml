@@ -1,0 +1,10 @@
+id: bulk-sugar-terminal-and-maritime-cargo-arrest
+name: Bulk Sugar Export Terminal & Maritime Cargo In Rem Arrest
+description: Operational protocols for tracking bulk cargo vessels berthed at sovereign Cuban sugar export terminals (Cienfuegos Tricontinental Bulk Sugar Terminal, Terminal Guayabal, Matanzas, Puerto Tarafa), filing Supplemental Admiralty Rule C in rem arrest warrants upon arrival in foreign maritime jurisdictions, and levying maritime liens on state-owned sugar cargoes and export terminal handling fees.
+version: 1.0.0
+tactical_domain: Admiralty In Rem Arrest, Bulk Commodity Interdiction & Maritime Cargo Restitution
+execution_protocol:
+  - Step 1: Real-time AIS maritime surveillance of bulk carrier vessels loading raw sugar, white sugar, and liquid molasses at Cuban deepwater bulk terminals.
+  - Step 2: Correlating export bills of lading with expropriated centrales and FCSC certified claim lands.
+  - Step 3: Executing Supplemental Admiralty Rule C and Rule B attachments in transit ports, bunkering stations, and destination discharge terminals across Europe, Latin America, and Asia.
+  - Step 4: Intercepting port loading tariffs, stevedoring fees, and pilotage receipts payable to AZCUBA and EMPREMAR port concessions.

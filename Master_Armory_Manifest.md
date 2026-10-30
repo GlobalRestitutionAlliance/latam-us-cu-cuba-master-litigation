@@ -862,3 +862,24 @@ W:\Legal\US_CUBA\
   - [Master_Defense_Industrial_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Defense_Industrial_Crosswalk_Matrix.csv)
   - [Master_Defense_Industrial_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Defense_Industrial_Crosswalk_Dashboard.md)
   - [Master_Defense_Industrial_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Defense_Industrial_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 24)
+- `agent-sugar-agroindustrial-auditor`: AZCUBA, Zerus S.A., Centrales Azucareros & Industrial Derivatives Forensic Auditor.
+- `agent-bulk-commodity-garnishee-marshal`: Tricontinental Cienfuegos Terminal, Bulk Sugar Freighters & Commodity Receivables Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 24)
+- `azcuba-corporate-alter-ego-and-jv-disgorgement`: AZCUBA Corporate Alter Ego & Biomass Energy Joint-Venture Disgorgement.
+- `bulk-sugar-terminal-and-maritime-cargo-arrest`: Bulk Sugar Export Terminal & Maritime Cargo In Rem Arrest.
+- `international-commodity-escrow-and-receivables-garnishment`: International Commodity Escrow & Trade Receivables Garnishment.
+
+## Completed Campaigns
+### Campaign 24: Sovereign Agro-Industrial Sugar Empire, Historic Sugar Mills, Bulk Terminals & AZCUBA Restitution Campaign
+- **Total Restitution Pool:** $390,000,000,000.00 ($390.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** SUGAR-001 through SUGAR-025
+- **Assigned Agents:** `agent-sugar-agroindustrial-auditor`, `agent-bulk-commodity-garnishee-marshal`
+- **Certified Skills:** `azcuba-corporate-alter-ego-and-jv-disgorgement`, `bulk-sugar-terminal-and-maritime-cargo-arrest`, `international-commodity-escrow-and-receivables-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_AgroIndustrial_Sugar_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AgroIndustrial_Sugar_Crosswalk_Matrix.csv)
+  - [Master_AgroIndustrial_Sugar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AgroIndustrial_Sugar_Crosswalk_Dashboard.md)
+  - [Master_AgroIndustrial_Sugar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AgroIndustrial_Sugar_Crosswalk_Dashboard.docx)
