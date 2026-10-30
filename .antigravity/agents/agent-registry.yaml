@@ -336,4 +336,14 @@ agents:
   role: UPU Clearing Settlement Rails, Foreign Airline Cargo Fees & Transnational Courier Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-terminal-dues-and-freight-garnishee-marshal.yaml
-total_agents: 68
+- id: agent-automotive-fleet-and-rental-auditor
+  name: Sovereign Automotive Fleet & Vehicle Rental Monopoly Auditor
+  role: Transtur, REX Car Rental, Transgaviota & MCV Comercial / Daimler JV Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-automotive-fleet-and-rental-auditor.yaml
+- id: agent-rental-receivables-and-dealership-marshal
+  name: Tourist Rental Receivables & Commercial Dealership Garnishee Marshal
+  role: Amadeus Clearing Rails, European Tour Operator Escrows & Commercial Fleet Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-rental-receivables-and-dealership-marshal.yaml
+total_agents: 70

@@ -1,0 +1,12 @@
+id: prepaid-travel-voucher-and-merchant-settlement-garnishment
+name: Prepaid Travel Voucher & Merchant Settlement Garnishment
+description: Enforcement protocol targeting global distribution systems (Amadeus, Sabre), European tour operators, and merchant acquiring banks processing prepaid car rental bookings and tourist transport packages for Cuban state monopolies.
+version: 1.0.0
+tactical_domain: Travel Booking GDS Garnishment, Acquiring Bank Escrow Attachment & Rental Deposit Freezes
+execution_protocol:
+  - Step 1: Subpoenaing electronic booking records and clearing schedules between international travel platforms (Amadeus IT Group, World2Meet, Destinia) and Transtur S.A.
+  - Step 2: Tracing credit card processing flows through European and Panamanian acquiring banks handling rental deposits and pre-payments.
+  - Step 3: Serving post-judgment restraining notices and turn-over injunctions under Fed. R. Civ. P. 69 and NY CPLR § 5222 on travel aggregator financial clearing desks.
+  - Step 4: Overcoming sovereign immunity defenses by demonstrating that tourist vehicle leasing constitutes a private commercial transaction under 28 U.S.C. § 1605(a)(2).
+  - Step 5: Funneling attached rental reserves and prepaid voucher funds into the court-supervised Qualified Settlement Fund.
+operational_mandate: Impound all prepaid tourist car rental vouchers and commercial clearing receivables across European and international travel platforms.

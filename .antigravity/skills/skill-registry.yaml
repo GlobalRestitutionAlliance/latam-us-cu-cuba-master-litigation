@@ -331,4 +331,16 @@ skills:
   name: Transnational Ecommerce Parcel Conduit & Remittance-in-Kind Interdiction
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-ecommerce-parcel-conduit-interdiction.yaml
-total_skills: 102
+- id: tourist-car-rental-monopoly-disgorgement
+  name: Tourist Car Rental Monopoly & Commercial Fleet Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/tourist-car-rental-monopoly-disgorgement.yaml
+- id: automotive-dealership-and-import-concession-interdiction
+  name: Commercial Automotive Dealership & Import Concession Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/automotive-dealership-and-import-concession-interdiction.yaml
+- id: prepaid-travel-voucher-and-merchant-settlement-garnishment
+  name: Prepaid Travel Voucher & Merchant Settlement Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/prepaid-travel-voucher-and-merchant-settlement-garnishment.yaml
+total_skills: 105

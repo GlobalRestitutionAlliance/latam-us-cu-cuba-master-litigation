@@ -1026,3 +1026,22 @@ W:\Legal\US_CUBA\
   - [Master_Postal_Logistics_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Postal_Logistics_Crosswalk_Matrix.csv)
   - [Master_Postal_Logistics_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Postal_Logistics_Crosswalk_Dashboard.md)
   - [Master_Postal_Logistics_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Postal_Logistics_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 32)
+- `agent-automotive-fleet-and-rental-auditor`: Transtur, REX Car Rental, Transgaviota & MCV Comercial / Daimler JV Auditor.
+- `agent-rental-receivables-and-dealership-marshal`: Amadeus Clearing Rails, European Tour Operator Escrows & Commercial Fleet Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 32)
+- `tourist-car-rental-monopoly-disgorgement`: Tourist Car Rental Monopoly & Commercial Fleet Disgorgement.
+- `automotive-dealership-and-import-concession-interdiction`: Commercial Automotive Dealership & Import Concession Interdiction.
+- `prepaid-travel-voucher-and-merchant-settlement-garnishment`: Prepaid Travel Voucher & Merchant Settlement Garnishment.
+
+### Campaign 32: Sovereign Automotive Distribution, Vehicle Rental Monopolies, Tourist Transportation Fleets & Heavy Machinery Import Concessions Disgorgement Campaign
+- **Total Restitution Pool:** $265,000,000,000.00 ($265.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** AUTO-001 through AUTO-025
+- **Assigned Agents:** `agent-automotive-fleet-and-rental-auditor`, `agent-rental-receivables-and-dealership-marshal`
+- **Certified Skills:** `tourist-car-rental-monopoly-disgorgement`, `automotive-dealership-and-import-concession-interdiction`, `prepaid-travel-voucher-and-merchant-settlement-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Automotive_Fleets_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Automotive_Fleets_Crosswalk_Matrix.csv)
+  - [Master_Automotive_Fleets_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Automotive_Fleets_Crosswalk_Dashboard.md)
+  - [Master_Automotive_Fleets_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Automotive_Fleets_Crosswalk_Dashboard.docx)
