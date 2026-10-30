@@ -1,0 +1,19 @@
+id: intermodal-rail-freight-tariff-interdiction
+name: Intermodal Container Rail Freight & Industrial Transport Tariff Interdiction
+description: Tactical framework for post-judgment garnishment, turnover, and statutory interdiction of container haulage fees, port rail transit tariffs, and bulk commodity rail transport revenues payable to Unión de Ferrocarriles de Cuba (UFC).
+version: 1.0.0
+tactical_domain: Intermodal Rail Freight Interdiction & Tariff Revenue Garnishment
+execution_protocol:
+  - Step 1: Mapping industrial and intermodal container rail freight corridors, including the dedicated double-track corridor servicing the Port of Mariel (ZEDM).
+  - Step 2: Serving federal post-judgment turnover notices on international ocean container carriers (Maersk, CMA CGM) and freight forwarders routing cargo inland via UFC rails.
+  - Step 3: Attaching industrial commodity rail haulage tariffs payable by mining joint ventures (Sherritt Moa nickel) and state petroleum distributors (CUPET tank trains).
+  - Step 4: Obtaining judicial charging orders on UFC commercial bank accounts receiving freight tariff remittances from state export monopolies (AZCUBA, Cubaníquel).
+  - Step 5: Directing all seized freight tariff payments, demurrage surcharges, and intermodal transport float balances into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Execution on Commercial Property)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Restatement (Third) of Restitution and Unjust Enrichment § 51
+  - 22 U.S.C. § 6082 (Helms-Burton Act Title III)
+  - Terrorism Risk Insurance Act (TRIA) § 201(a)
+verified_by: agent-rail-logistics-garnishee-marshal
+status: READY

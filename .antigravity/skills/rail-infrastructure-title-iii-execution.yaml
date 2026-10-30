@@ -1,0 +1,19 @@
+id: rail-infrastructure-title-iii-execution
+name: Expropriated Railway Right-of-Way Title III Execution & Trafficking Disgorgement
+description: Protocols for asserting Helms-Burton Title III trafficking actions and post-judgment execution against multinational commercial entities utilizing confiscated railroad tracks, rights-of-way, and freight terminals (Consolidated Railroads and Hershey precedents).
+version: 1.0.0
+tactical_domain: Railway Infrastructure Title III Trafficking & Network Disgorgement
+execution_protocol:
+  - Step 1: Mapping the cadastral chain of title for over 4,000 miles of mainline railway track, rights-of-way, switches, and stations confiscated in 1960.
+  - Step 2: Correlating expropriated railway property with certified FCSC claims (Consolidated Railroads of Cuba Claim No. CU-2500, Hershey Chocolate Corp. Claim CU-2495).
+  - Step 3: Serving statutory 30-day notice of intent letters demanding cessation of trafficking or payment of full certified value from foreign commercial operators using the lines.
+  - Step 4: Applying D.C. Circuit and S.D. Fla. precedent in Exxon Mobil v. CIMEX & CUPET establishing FSIA commercial jurisdiction over state-owned transport monopolies.
+  - Step 5: Securing treble damages judgments and executing writs of attachment on defendant commercial transport and rolling stock assets worldwide.
+statutory_authorities:
+  - 22 U.S.C. § 6082 (Helms-Burton Act Title III Civil Liability for Trafficking)
+  - 28 U.S.C. § 1605(a)(2) (Commercial Activity Exception)
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Execution on Commercial Agencies & Instrumentalities)
+  - First National City Bank v. Bancec, 462 U.S. 611 (1983)
+  - Federal Rule of Civil Procedure 69 (Execution)
+verified_by: agent-rail-infrastructure-auditor
+status: READY

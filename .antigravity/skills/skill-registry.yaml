@@ -209,3 +209,12 @@ skills:
 - id: colonial-numismatic-and-auction-house-disgorgement
   file: colonial-numismatic-and-auction-house-disgorgement.yaml
   status: READY
+- id: rail-infrastructure-title-iii-execution
+  file: rail-infrastructure-title-iii-execution.yaml
+  status: READY
+- id: locomotive-procurement-and-export-credit-garnishment
+  file: locomotive-procurement-and-export-credit-garnishment.yaml
+  status: READY
+- id: intermodal-rail-freight-tariff-interdiction
+  file: intermodal-rail-freight-tariff-interdiction.yaml
+  status: READY

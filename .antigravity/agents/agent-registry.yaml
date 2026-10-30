@@ -186,3 +186,11 @@ agents:
   file: agent-maritime-salvage-garnishee-marshal.yaml
   status: ACTIVE
   role: Carisub S.A., Spanish Treasure Galleons, Gold/Silver Numismatics & Admiralty Marshal
+- id: agent-rail-infrastructure-auditor
+  file: agent-rail-infrastructure-auditor.yaml
+  status: ACTIVE
+  role: Consolidated Railroads of Cuba, UFC & Industrial Freight Corridor Forensic Auditor
+- id: agent-rail-logistics-garnishee-marshal
+  file: agent-rail-logistics-garnishee-marshal.yaml
+  status: ACTIVE
+  role: UFC International Clearing, Foreign Equipment Escrows & Rail Asset Garnishee Marshal

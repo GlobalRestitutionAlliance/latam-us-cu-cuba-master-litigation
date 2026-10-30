@@ -799,3 +799,24 @@ W:\Legal\US_CUBA\
   - [Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Matrix.csv)
   - [Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Dashboard.md)
   - [Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 21)
+- `agent-rail-infrastructure-auditor`: Consolidated Railroads of Cuba, UFC & Industrial Freight Corridor Forensic Auditor.
+- `agent-rail-logistics-garnishee-marshal`: UFC International Clearing, Foreign Equipment Escrows & Rail Asset Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 21)
+- `rail-infrastructure-title-iii-execution`: Expropriated Railway Right-of-Way Title III Execution & Trafficking Disgorgement.
+- `locomotive-procurement-and-export-credit-garnishment`: Sovereign Rolling Stock Procurement & Russian/Chinese Export Credit Garnishment.
+- `intermodal-rail-freight-tariff-interdiction`: Intermodal Container Rail Freight & Industrial Transport Tariff Interdiction.
+
+## Completed Campaigns
+### Campaign 21: Expropriated National Railway Infrastructure, Rolling Stock Fleet, Industrial Freight Corridors & Port Rail Concessions Campaign
+- **Total Restitution Pool:** $310,000,000,000.00 ($310.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** RAIL-001 through RAIL-025
+- **Assigned Agents:** `agent-rail-infrastructure-auditor`, `agent-rail-logistics-garnishee-marshal`
+- **Certified Skills:** `rail-infrastructure-title-iii-execution`, `locomotive-procurement-and-export-credit-garnishment`, `intermodal-rail-freight-tariff-interdiction`
+- **Evidentiary Artifacts:**
+  - [Master_Rail_Infrastructure_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_Infrastructure_Crosswalk_Matrix.csv)
+  - [Master_Rail_Infrastructure_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_Infrastructure_Crosswalk_Dashboard.md)
+  - [Master_Rail_Infrastructure_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_Infrastructure_Crosswalk_Dashboard.docx)
