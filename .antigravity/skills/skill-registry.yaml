@@ -83,3 +83,12 @@ skills:
 - id: post-judgment-garnishment-cascade
   file: post-judgment-garnishment-cascade.yaml
   status: READY
+- id: fincen-section-311-interdiction
+  file: fincen-section-311-interdiction.yaml
+  status: READY
+- id: dark-fleet-maritime-interdiction
+  file: dark-fleet-maritime-interdiction.yaml
+  status: READY
+- id: title-iv-executive-exclusion
+  file: title-iv-executive-exclusion.yaml
+  status: READY

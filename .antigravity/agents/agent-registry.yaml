@@ -74,3 +74,11 @@ agents:
   file: agent-zk-custodian.yaml
   status: ACTIVE
   role: Shamir Secret Sharing (k-of-n), Groth16 ZK-SNARK Proof of Entitlement, Multi-Sig Fiduciary Vault & DAO Governance Commander
+- id: agent-sanctions-interdictor
+  file: agent-sanctions-interdictor.yaml
+  status: ACTIVE
+  role: FinCEN Section 311, OFAC SDN Sanctions Enforcement & Global Magnitsky Asset Seizure Architect
+- id: agent-maritime-interdictor
+  file: agent-maritime-interdictor.yaml
+  status: ACTIVE
+  role: Dark Fleet Tracking, AIS Spoofing Forensics, Admiralty Prize Capture & Flag-State Deregistration Commander

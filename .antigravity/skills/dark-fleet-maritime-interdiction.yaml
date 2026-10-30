@@ -1,0 +1,19 @@
+id: dark-fleet-maritime-interdiction
+name: Dark Fleet Maritime Interdiction & Prize Law Mastery
+description: Protocols for real-time AIS anomaly tracking, satellite SAR verification, Flag-of-Convenience deregistration petitions, and Supplemental Rule C in rem arrest of illicit tankers and cargoes.
+version: 1.0.0
+tactical_domain: Maritime Domain Warfare, Dark Fleet Interception & In Rem Arrest
+execution_protocol:
+  - Step 1: Ingestion of satellite Synthetic Aperture Radar (SAR) and optical imagery identifying dark fleet vessels conducting STS oil transfers off Cuban/Venezuelan coasts.
+  - Step 2: Forensic analysis of AIS spoofing, transponder blackout intervals, and falsified draft/ballast declarations.
+  - Step 3: Preparation of emergency ex parte Supplemental Rule C in rem arrest warrants under 28 U.S.C. § 1333 in S.D. Fla., D.P.R., and Gulf Coast federal districts.
+  - Step 4: Submission of formal deregistration petitions to the Panama Maritime Authority (AMP), Liberia Registry (LISCR), and Cook Islands Maritime Registry.
+  - Step 5: Service of process by U.S. Marshals Service on arriving tankers, bunker fuel supplies, and port terminal loading rights at Mariel and Cienfuegos.
+statutory_authorities:
+  - Supplemental Rules for Admiralty or Maritime Claims, Rule C (In Rem Actions: Special Provisions)
+  - Supplemental Rules for Admiralty or Maritime Claims, Rule B (In Personam Actions: Attachment and Garnishment)
+  - 28 U.S.C. § 1333 (Admiralty, maritime and prize jurisdiction)
+  - 46 U.S.C. §§ 31341–31343 (Commercial Instruments and Maritime Liens Act - CIMLA)
+  - 14 U.S.C. § 522 (U.S. Coast Guard law enforcement authorities upon the high seas)
+verified_by: agent-maritime-interdictor
+status: READY

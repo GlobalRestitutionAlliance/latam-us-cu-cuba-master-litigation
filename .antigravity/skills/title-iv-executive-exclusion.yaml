@@ -1,0 +1,18 @@
+id: title-iv-executive-exclusion
+name: Helms-Burton Title IV Mandatory Executive Exclusion Mastery
+description: Protocols under 22 U.S.C. § 6091 for compiling State Department Title IV evidentiary dossiers, triggering mandatory alien inadmissibility, and revoking U.S. visas for trafficking corporate executives.
+version: 1.0.0
+tactical_domain: Extraterritorial Executive Sanctions & C-Suite Inadmissibility
+execution_protocol:
+  - Step 1: Mapping corporate officers, board directors, managing agents, and controlling shareholders of multi-national enterprises trafficking in confiscated Cuban property.
+  - Step 2: Compiling certified NARA / FCSC / Title III claim ownership documentation establishing the confiscation of underlying properties.
+  - Step 3: Drafting formal Title IV Notification Packets submitted to the Secretary of State and the Assistant Secretary for Western Hemisphere Affairs.
+  - Step 4: Interfacing with the Department of Homeland Security (CBP/ICE) for immediate entry into the Lookout System and Automated Biometric Identification System (IDENT).
+  - Step 5: Coordinating concurrent Title III civil actions with Title IV executive travel prohibitions to force immediate corporate settlement negotiations.
+statutory_authorities:
+  - 22 U.S.C. § 6091 (LIBERTAD Act Title IV: Exclusion of certain aliens trafficking in confiscated property)
+  - 8 U.S.C. § 1182(a) (Immigration and Nationality Act: Classes of aliens ineligible for visas or admission)
+  - 22 C.F.R. § 41.122 (Revocation of visas by consular officers and Department of State)
+  - 22 U.S.C. § 6082 (LIBERTAD Act Title III: Liability for trafficking)
+verified_by: agent-sanctions-interdictor
+status: READY
