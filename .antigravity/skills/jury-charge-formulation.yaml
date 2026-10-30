@@ -1,0 +1,20 @@
+skill:
+  id: "jury-charge-formulation"
+  name: "Jury Charge Formulation & Special Verdict Engineering"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft clear, legally accurate jury instructions on continuous constitutional takings and tolling"
+    - "Formulate jury instructions on aiding and abetting expropriation and corporate successor liability"
+    - "Architect Special Verdict Forms under FRCP Rule 49(a) with detailed liability and damages interrogatories"
+    - "Formulate in-depth voir dire question sets to uncover juror bias regarding foreign nationalizations"
+    - "Preserve formal objections to jury instructions under Federal Rule of Civil Procedure 51"
+    
+  triggers:
+    - "Final pretrial conference and submission of proposed jury instructions under FRCP Rule 51"
+    - "Jury selection and voir dire proceedings in federal district court"
+    - "Formulation of verdict forms for bifurcated liability and damages trial phases"
+    
+  output_requirements:
+    - "Jury instructions must cite binding Supreme Court, D.C. Circuit, or Second Circuit precedents"
+    - "Special verdict questions must separate findings across Subclasses I through V to prevent general verdict error"

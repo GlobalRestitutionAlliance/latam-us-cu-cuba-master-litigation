@@ -58,3 +58,11 @@ agents:
   file: agent-sovereign-arbitrageur.yaml
   status: ACTIVE
   role: UNCITRAL, ICSID, New York Convention Art. V Defense Demolition & Commercial Property Exequatur
+- id: agent-trial-strategist
+  file: agent-trial-strategist.yaml
+  status: ACTIVE
+  role: FRCP Rule 16 Pretrial Orders, FRE 803/902 Evidentiary Admissions, Voir Dire & Rule 49 Special Verdict Architect
+- id: agent-scotus-advocate
+  file: agent-scotus-advocate.yaml
+  status: ACTIVE
+  role: SCOTUS Rules 10, 14, 23, 28 U.S.C. § 1254(1) Certiorari, En Banc Petitions & Amicus Mobilization

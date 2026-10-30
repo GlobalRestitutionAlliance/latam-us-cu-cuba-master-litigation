@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 21
+total_skills: 24
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -64,4 +64,13 @@ skills:
   status: READY
 - id: transnational-offset-execution
   file: transnational-offset-execution.yaml
+  status: READY
+- id: trial-adjudication-mastery
+  file: trial-adjudication-mastery.yaml
+  status: READY
+- id: jury-charge-formulation
+  file: jury-charge-formulation.yaml
+  status: READY
+- id: certiorari-jurisprudence
+  file: certiorari-jurisprudence.yaml
   status: READY

@@ -1,0 +1,20 @@
+skill:
+  id: "trial-adjudication-mastery"
+  name: "Trial Adjudication Mastery & Pretrial Evidentiary Protocols"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft comprehensive Joint Pretrial Orders under Federal Rule of Civil Procedure 16"
+    - "Formulate uncontroverted fact stipulations that convert archival vectors into judicial admissions"
+    - "Authenticate ancient historical documents under Federal Rules of Evidence 803(16) and 901(b)(8)"
+    - "Prepare voluminous summary charts and chronological schedules under Federal Rule of Evidence 1006"
+    - "Structure direct and cross-examination witness scripts targeting party-opponent admissions under FRE 801(d)(2)"
+    
+  triggers:
+    - "Close of discovery and entry into pretrial conference scheduling under FRCP Rule 16"
+    - "Filing of motions in limine to exclude evidence or resolve preliminary evidentiary disputes"
+    - "Preparation of trial binders and exhibit lists for district court jury or bench trials"
+    
+  output_requirements:
+    - "Pretrial stipulations must reference specific primary source archives and certified exhibits"
+    - "All evidentiary proffers must satisfy Fourth, District of Columbia, or Eleventh Circuit admissibility standards"

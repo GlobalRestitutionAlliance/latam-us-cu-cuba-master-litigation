@@ -1,0 +1,20 @@
+skill:
+  id: "certiorari-jurisprudence"
+  name: "Certiorari Jurisprudence & Supreme Court Practice"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft compelling, question-framing Questions Presented under Supreme Court Rule 14.1(a)"
+    - "Establish statutory and jurisprudential grounds for certiorari under Supreme Court Rule 10"
+    - "Demonstrate deep circuit splits and conflicts with settled Supreme Court precedents"
+    - "Draft emergency stay applications and injunctions pending certiorari under Supreme Court Rule 23"
+    - "Coordinate multi-stakeholder amicus curiae briefs under Supreme Court Rule 37"
+    
+  triggers:
+    - "Entry of adverse final judgment or dismissal by a federal court of appeals"
+    - "Certification of interlocutory questions under 28 U.S.C. § 1292(b)"
+    - "Denial of en banc rehearing in the D.C. Circuit or Eleventh Circuit"
+    
+  output_requirements:
+    - "Certiorari petitions must strictly adhere to Supreme Court Rule 33 booklet formatting and word limits"
+    - "Questions Presented must be framed concisely in a single sentence highlighting constitutional conflict"
