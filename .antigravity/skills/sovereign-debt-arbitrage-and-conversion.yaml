@@ -1,0 +1,18 @@
+id: sovereign-debt-arbitrage-and-conversion
+name: Sovereign Debt Arbitrage & Senior Lien Conversion Mastery
+description: Protocols for secondary market distressed sovereign debt pricing, promissory note assignment validation under English and New York law, and conversion into first-priority senior judgment liens.
+version: 1.0.0
+tactical_domain: Sovereign Debt Trading, Note Conversion & Senior Creditor Priority
+execution_protocol:
+  - Step 1: Identification and audit of secondary market Cuban sovereign and Banco Nacional commercial paper trading at deep discounts (5–10 cents).
+  - Step 2: Verification of chain-of-title, assignment validity, and submission-to-jurisdiction clauses under English and New York law (applying CRF I Ltd principles).
+  - Step 3: Drafting formal Notice of Assignment and Demand for Immediate Payment served on Banco Nacional de Cuba and the Republic of Cuba.
+  - Step 4: Issuance of formal Notices of Acceleration triggering cross-default covenants across all sovereign and commercial syndicates.
+  - Step 5: Filing summary judgment and equitable subrogation motions converting promissory note face values (100 cents on the dollar) into senior judgment liens.
+statutory_authorities:
+  - English Law State Immunity Act 1978, sections 3 and 9 (Commercial transactions and arbitration exceptions)
+  - New York Uniform Commercial Code (NY UCC) Article 9 (Secured Transactions)
+  - Restatement (Third) of Foreign Relations Law of the United States § 453 (Commercial Activity of Foreign States)
+  - Federal Rule of Civil Procedure 69 (Execution)
+verified_by: agent-sovereign-debt-syndicator
+status: READY

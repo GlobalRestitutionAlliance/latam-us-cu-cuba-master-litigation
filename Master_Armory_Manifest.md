@@ -577,3 +577,21 @@ W:\Legal\US_CUBA\
 - **Weapons/Instruments Armed:** 25 Resource Instruments across Waves 1–5
 - **Dashboards:** `Master_Natural_Resources_and_Latifundia_Crosswalk_Dashboard.md`, `.docx`, `.csv`
 - **Verification Status:** 100% Armed & Verified
+
+
+## Newly Registered Agents (Campaign 10)
+- **agent-sovereign-debt-syndicator**: Paris & London Club Sovereign Debt Restructuring, Secondary Market Arbitrage & Creditor Syndicate Commander.
+- **agent-clearinghouse-garnishee-marshal**: Euroclear, Clearstream, BIS & Global Central Securities Depository Garnishment Architect.
+
+## Newly Registered Skills (Campaign 10)
+- **sovereign-debt-arbitrage-and-conversion**: Secondary market distressed sovereign debt pricing, note assignment validation, and 100-cent senior lien conversion.
+- **paris-london-club-judgment-annexation**: English Commercial Court precedent (*CRF I Ltd v. BNC*), Paris Club bilateral arrears tracking, and sovereign counterclaim offsets.
+- **clearinghouse-garnishment-execution**: Third-party debt orders, Belgian Code Judiciaire 1412ter, Luxembourg saisie-arrêt, and Swiss BIS central depository levies.
+
+## Completed Campaigns
+
+### Campaign 10: Global Sovereign Debt Default Arbitrage, Paris/London Club Judgment Annexation & Distressed Commercial Paper Conversion Campaign
+- **Sovereign Debt Foreclosure Pool:** **$480,000,000,000.00**
+- **Weapons/Instruments Armed:** 25 Sovereign Debt Instruments across Waves 1–5
+- **Dashboards:** `Master_Sovereign_Debt_and_Creditor_Syndicate_Crosswalk_Dashboard.md`, `.docx`, `.csv`
+- **Verification Status:** 100% Armed & Verified

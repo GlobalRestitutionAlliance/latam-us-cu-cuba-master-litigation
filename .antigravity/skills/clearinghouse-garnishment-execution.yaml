@@ -1,0 +1,18 @@
+id: clearinghouse-garnishment-execution
+name: Clearinghouse Garnishment & Central Securities Execution Mastery
+description: Protocols for serving third-party debt orders, ex parte Mareva freezing injunctions, and garnishment writs upon Euroclear, Clearstream, and the Bank for International Settlements (BIS).
+version: 1.0.0
+tactical_domain: International Clearinghouse Interception & Central Securities Execution
+execution_protocol:
+  - Step 1: Identification of sovereign bond custody accounts, securities settlement clearings, and foreign exchange reserves in European depositories.
+  - Step 2: Drafting Belgian Code Judiciaire Art. 1412ter third-party attachment writs served on Euroclear Bank SA/NV in Brussels.
+  - Step 3: Preparation of Luxembourg saisie-arrêt petitions served on Clearstream Banking S.A. freezing sovereign transaction float.
+  - Step 4: Structuring Swiss Federal Court debt collection petitions (Betreibung / PILA Art. 27) targeting Bank for International Settlements commercial clearings.
+  - Step 5: Obtaining turnover decrees directing all intercepted settlement proceeds into the Court-Appointed Qualified Settlement Fund.
+statutory_authorities:
+  - Belgian Judicial Code (Code Judiciaire), Article 1412ter (Saisie-arrêt conservatoire et exécutive)
+  - Luxembourg Nouveau Code de Procédure Civile, Articles 693 et seq. (De la saisie-arrêt)
+  - Swiss Federal Act on Private International Law (PILA), Article 27 (Commercial Exceptions to Sovereign Immunity)
+  - Swiss Federal Act on Debt Enforcement and Bankruptcy (DEBA / SchKG), Articles 271 et seq. (Arrestbefehl)
+verified_by: agent-clearinghouse-garnishee-marshal
+status: READY

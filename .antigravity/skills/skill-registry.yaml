@@ -110,3 +110,12 @@ skills:
 - id: forced-labor-trade-interdiction
   file: forced-labor-trade-interdiction.yaml
   status: READY
+- id: sovereign-debt-arbitrage-and-conversion
+  file: sovereign-debt-arbitrage-and-conversion.yaml
+  status: READY
+- id: paris-london-club-judgment-annexation
+  file: paris-london-club-judgment-annexation.yaml
+  status: READY
+- id: clearinghouse-garnishment-execution
+  file: clearinghouse-garnishment-execution.yaml
+  status: READY

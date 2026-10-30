@@ -98,3 +98,11 @@ agents:
   file: agent-agrarian-latifundia-marshal.yaml
   status: ACTIVE
   role: Agrarian Latifundia Title Quieting, Sugar Centrales Restitution & 19 U.S.C. § 1307 Forced Labor Interdictor
+- id: agent-sovereign-debt-syndicator
+  file: agent-sovereign-debt-syndicator.yaml
+  status: ACTIVE
+  role: Paris & London Club Sovereign Debt Restructuring, Secondary Market Arbitrage & Creditor Syndicate Commander
+- id: agent-clearinghouse-garnishee-marshal
+  file: agent-clearinghouse-garnishee-marshal.yaml
+  status: ACTIVE
+  role: Euroclear, Clearstream, BIS & Global Central Securities Depository Garnishment Architect
