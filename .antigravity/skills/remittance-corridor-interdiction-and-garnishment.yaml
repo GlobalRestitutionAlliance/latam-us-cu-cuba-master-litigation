@@ -1,0 +1,19 @@
+id: remittance-corridor-interdiction-and-garnishment
+name: Transnational Remittance Corridor Interdiction & Settlement Garnishment
+description: Protocols for post-judgment garnishment, turnover, and statutory interdiction of family and commercial remittance settlement flows across U.S., European, and Canadian corridors into Cuban sovereign monopolies.
+version: 1.0.0
+tactical_domain: Transnational Remittance Interdiction & Intermediary Settlement Garnishment
+execution_protocol:
+  - Step 1: Mapping the global remittance architecture spanning U.S. licensed Money Service Businesses (MSBs), European MTOs, and Cuban processing gateways (Orbit S.A., Fincimex).
+  - Step 2: Identifying U.S. and foreign correspondent clearing accounts (JPMorgan Chase, Citibank, Banco Santander, Banco Bilbao Vizcaya Argentaria) routing remittance settlements.
+  - Step 3: Serving federal post-judgment writs of garnishment under FRCP 69 and 28 U.S.C. § 1610(a), (b), and (g) on MSB escrow and transit accounts.
+  - Step 4: Applying Terrorism Risk Insurance Act (TRIA) § 201(a) to block, freeze, and turnover all settlement balances originating from or destined for GAESA financial conduits.
+  - Step 5: Directing intercepted remittance transaction fees, FX conversion spreads, and principal clearings into the Master Restitution Qualified Settlement Fund (QSF).
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(2), (b)(2), & (g) (FSIA Execution on Commercial Agencies & Instrumentalities)
+  - Terrorism Risk Insurance Act of 2002 (TRIA) § 201(a), 28 U.S.C. § 1610 note
+  - Weininger v. Castro, 462 F. Supp. 2d 457 (S.D.N.Y. 2006)
+  - Peterson v. Islamic Republic of Iran, 578 U.S. 520 (2016)
+  - Federal Rule of Civil Procedure 69 (Execution)
+verified_by: agent-correspondent-banking-garnishee-marshal
+status: READY

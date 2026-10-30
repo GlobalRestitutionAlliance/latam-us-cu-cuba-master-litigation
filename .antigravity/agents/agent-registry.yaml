@@ -170,3 +170,11 @@ agents:
   file: agent-petroleum-concessions-garnishee-marshal.yaml
   status: ACTIVE
   role: Offshore Oil Concessions, Powership Fuel Escrows & Refinery Judgment Marshal
+- id: agent-remittance-fintech-auditor
+  file: agent-remittance-fintech-auditor.yaml
+  status: ACTIVE
+  role: Fincimex, Orbit S.A., BFI & Western Union Remittance Corridor Forensic Auditor
+- id: agent-correspondent-banking-garnishee-marshal
+  file: agent-correspondent-banking-garnishee-marshal.yaml
+  status: ACTIVE
+  role: U.S. Intermediary Banks, Money Service Businesses & Remittance Clearinghouse Garnishment Marshal

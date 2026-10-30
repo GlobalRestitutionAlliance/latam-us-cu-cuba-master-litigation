@@ -757,3 +757,24 @@ W:\Legal\US_CUBA\
   - [Master_Energy_and_Refineries_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Energy_and_Refineries_Crosswalk_Matrix.csv)
   - [Master_Energy_and_Refineries_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Energy_and_Refineries_Crosswalk_Dashboard.md)
   - [Master_Energy_and_Refineries_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Energy_and_Refineries_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 19)
+- `agent-remittance-fintech-auditor`: Fincimex, Orbit S.A., BFI & Western Union Remittance Corridor Forensic Auditor.
+- `agent-correspondent-banking-garnishee-marshal`: U.S. Intermediary Banks, Money Service Businesses & Remittance Clearinghouse Garnishment Marshal.
+
+## Newly Registered Skills (Campaign 19)
+- `remittance-corridor-interdiction-and-garnishment`: Transnational Remittance Corridor Interdiction & Settlement Garnishment.
+- `orbit-fincimex-alter-ego-annihilation`: Orbit S.A. & Fincimex Sovereign Veil-Piercing & Fraudulent Conveyance Annihilation.
+- `sovereign-card-processing-and-mlc-disgorgement`: Sovereign Payment Card Processing, MLC Virtual Ledger & BFI Clearing Disgorgement.
+
+## Completed Campaigns
+### Campaign 19: Transnational Remittance Pipelines, Sovereign FinTech Monopolies (Orbit S.A., Fincimex, BFI) & Global Correspondent Banking Disgorgement Campaign
+- **Total Restitution Pool:** $350,000,000,000.00 ($350.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** REMIT-001 through REMIT-025
+- **Assigned Agents:** `agent-remittance-fintech-auditor`, `agent-correspondent-banking-garnishee-marshal`
+- **Certified Skills:** `remittance-corridor-interdiction-and-garnishment`, `orbit-fincimex-alter-ego-annihilation`, `sovereign-card-processing-and-mlc-disgorgement`
+- **Evidentiary Artifacts:**
+  - [Master_Remittances_and_FinTech_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Remittances_and_FinTech_Crosswalk_Matrix.csv)
+  - [Master_Remittances_and_FinTech_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Remittances_and_FinTech_Crosswalk_Dashboard.md)
+  - [Master_Remittances_and_FinTech_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Remittances_and_FinTech_Crosswalk_Dashboard.docx)

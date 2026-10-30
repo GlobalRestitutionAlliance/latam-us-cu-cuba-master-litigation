@@ -1,0 +1,19 @@
+id: sovereign-card-processing-and-mlc-disgorgement
+name: Sovereign Payment Card Processing, MLC Virtual Ledger & BFI Clearing Disgorgement
+description: Operational framework for auditing, interdicting, and disgorging revenues derived from Cuba's Moneda Libremente Convertible (MLC) sovereign card processing system, RED S.A. payment rails, and Banco Financiero Internacional (BFI) clearing accounts.
+version: 1.0.0
+tactical_domain: Sovereign Digital Ledger Disgorgement, Payment Gateway Interdiction & BFI Asset Freezes
+execution_protocol:
+  - Step 1: Mapping the closed-loop Moneda Libremente Convertible (MLC) retail financial architecture operated by GAESA/CIMEX/Tiendas Caribe.
+  - Step 2: Auditing RED S.A. (Red Electrónica de Procesamiento y Pago S.A.) domestic card switches and foreign payment acquirer gateways.
+  - Step 3: Tracing dollar-denominated card reloads from diaspora families processed through European and Caribbean acquiring banks into Banco Financiero Internacional (BFI).
+  - Step 4: Serving turnover notices and exequatur freezing injunctions on foreign merchant acquiring partners, payment switch aggregators, and POS hardware suppliers (e.g. Ingenico, PAX).
+  - Step 5: Disgorging artificial FX spreads, merchant discount rates (MDR), and dollar reserve balances into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1610(g) & 28 U.S.C. § 1605A
+  - Banco Financiero Internacional (BFI) Cuba Restricted List Designation (86 FR 144)
+  - Bank of New York v. Rubin, 484 F.3d 149 (2d Cir. 2007)
+  - Federal Rule of Civil Procedure 69 & 28 U.S.C. § 1963
+  - International Emergency Economic Powers Act (IEEPA), 50 U.S.C. § 1701 et seq.
+verified_by: agent-remittance-fintech-auditor
+status: READY

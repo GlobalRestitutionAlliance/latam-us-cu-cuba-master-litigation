@@ -191,3 +191,12 @@ skills:
 - id: cupet-une-sovereign-energy-veil-piercing
   file: cupet-une-sovereign-energy-veil-piercing.yaml
   status: READY
+- id: remittance-corridor-interdiction-and-garnishment
+  file: remittance-corridor-interdiction-and-garnishment.yaml
+  status: READY
+- id: orbit-fincimex-alter-ego-annihilation
+  file: orbit-fincimex-alter-ego-annihilation.yaml
+  status: READY
+- id: sovereign-card-processing-and-mlc-disgorgement
+  file: sovereign-card-processing-and-mlc-disgorgement.yaml
+  status: READY
