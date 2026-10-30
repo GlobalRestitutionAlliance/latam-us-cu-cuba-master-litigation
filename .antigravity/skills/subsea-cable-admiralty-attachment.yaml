@@ -1,0 +1,18 @@
+id: subsea-cable-admiralty-attachment
+name: Subsea Cable Admiralty Attachment & Landing Station Interdiction Mastery
+description: Protocols for Supplemental Rule C and in rem attachment of subsea fiber-optic cables (ALBA-1, ARCOS-1), optical amplification vaults, and international transit bandwidth revenues.
+version: 1.0.0
+tactical_domain: Maritime Domain Communications & Subsea Infrastructure Attachment
+execution_protocol:
+  - Step 1: Technical and spatial mapping of subsea fiber-optic cable routes (ALBA-1, ARCOS-1), repeaters, branching units, and coastal landing stations (Siboney, Cojímar).
+  - Step 2: Identification of state equity ownership and consortium landing rights held by Transbit S.A. and ETECSA.
+  - Step 3: Preparation of Supplemental Admiralty Rule C in rem arrest complaints under 28 U.S.C. § 1333 for subsea cable infrastructure located in territorial and international waters.
+  - Step 4: Serving maritime attachment writs on cable consortium landing station operators, international maintenance contractors, and bandwidth leasing entities.
+  - Step 5: Enforcing constructive trusts over international capacity sales, data transit tariffs, and cross-border connectivity fees.
+statutory_authorities:
+  - Supplemental Rules for Admiralty or Maritime Claims, Rule C (In Rem Actions: Special Provisions)
+  - 28 U.S.C. § 1333 (Admiralty, maritime and prize jurisdiction)
+  - 1884 Convention for the Protection of Submarine Telegraph Cables
+  - United Nations Convention on the Law of the Sea (UNCLOS), Articles 112–115 (Submarine cables and pipelines)
+verified_by: agent-subsea-spectrum-marshal
+status: READY

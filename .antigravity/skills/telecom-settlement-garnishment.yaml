@@ -1,0 +1,19 @@
+id: telecom-settlement-garnishment
+name: Telecommunications Carrier Settlement Garnishment Mastery
+description: Protocols for serving post-judgment garnishment writs under 28 U.S.C. § 1610(a)(7), § 1610(g), and the Alejandre precedent upon domestic and international telecommunications carriers settling traffic with ETECSA.
+version: 1.0.0
+tactical_domain: Telecommunications Settlement Interception & Carrier Garnishment
+execution_protocol:
+  - Step 1: Identification of U.S. and foreign telecommunications carriers (AT&T, Verizon, T-Mobile, Telefónica) maintaining interconnect and settlement agreements with ETECSA.
+  - Step 2: Auditing monthly traffic clearing ledgers, net termination fees, international mobile roaming settlement balances, and top-up corridors.
+  - Step 3: Drafting federal writs of garnishment under FRCP Rule 69 and 28 U.S.C. § 1610(a)(7) and § 1610(g) served on carrier treasury departments.
+  - Step 4: Rebutting sovereign immunity and commercial agency objections applying Alejandre v. Republic of Cuba (996 F. Supp. 1239) binding precedent.
+  - Step 5: Obtaining turnover orders directing carrier settlement disbursements directly into the Court-Appointed Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(7) (Execution upon judgment relating to claim under § 1605A)
+  - 28 U.S.C. § 1610(g) (Property in certain actions; execution on agency or instrumentality)
+  - Communications Act of 1934, as amended (47 U.S.C. § 151 et seq.)
+  - Alejandre v. Republic of Cuba, 996 F. Supp. 1239 (S.D. Fla. 1997)
+  - Federal Rule of Civil Procedure 69 (Execution)
+verified_by: agent-telecom-infrastructure-auditor
+status: READY

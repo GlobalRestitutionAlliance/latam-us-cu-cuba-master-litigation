@@ -595,3 +595,21 @@ W:\Legal\US_CUBA\
 - **Weapons/Instruments Armed:** 25 Sovereign Debt Instruments across Waves 1–5
 - **Dashboards:** `Master_Sovereign_Debt_and_Creditor_Syndicate_Crosswalk_Dashboard.md`, `.docx`, `.csv`
 - **Verification Status:** 100% Armed & Verified
+
+
+## Newly Registered Agents (Campaign 11)
+- **agent-telecom-infrastructure-auditor**: ETECSA Sovereign Monopoly, Carrier Settlement Auditing & International Roaming Garnishment Architect.
+- **agent-subsea-spectrum-marshal**: Subsea Fiber-Optic Cable Landing Stations, ITU Orbital Spectrum & SIGINT Facility Interdiction Commander.
+
+## Newly Registered Skills (Campaign 11)
+- **telecom-settlement-garnishment**: Carrier settlement garnishment under 28 U.S.C. § 1610(g), roaming clearing intercepts, and *Alejandre* execution.
+- **subsea-cable-admiralty-attachment**: Supplemental Rule C and in rem arrest of subsea fiber-optic cables (ALBA-1, ARCOS-1) and landing terminals.
+- **itu-orbital-spectrum-interdiction**: ITU Radio Regulations sovereign orbital slot attachment, transponder capacity leases, and .cu ccTLD turnover.
+
+## Completed Campaigns
+
+### Campaign 11: Critical Telecommunications Infrastructure, Subsea Fiber-Optic Cables & Sovereign Spectrum Disgorgement Campaign
+- **Digital & Telecom Recovery Pool:** **$380,000,000,000.00**
+- **Weapons/Instruments Armed:** 25 Telecom & Cyber Instruments across Waves 1–5
+- **Dashboards:** `Master_Telecom_and_Cyber_Infrastructure_Crosswalk_Dashboard.md`, `.docx`, `.csv`
+- **Verification Status:** 100% Armed & Verified

@@ -106,3 +106,11 @@ agents:
   file: agent-clearinghouse-garnishee-marshal.yaml
   status: ACTIVE
   role: Euroclear, Clearstream, BIS & Global Central Securities Depository Garnishment Architect
+- id: agent-telecom-infrastructure-auditor
+  file: agent-telecom-infrastructure-auditor.yaml
+  status: ACTIVE
+  role: ETECSA Sovereign Monopoly, Carrier Settlement Auditing & International Roaming Garnishment Architect
+- id: agent-subsea-spectrum-marshal
+  file: agent-subsea-spectrum-marshal.yaml
+  status: ACTIVE
+  role: Subsea Fiber-Optic Cable Landing Stations, ITU Orbital Spectrum & SIGINT Facility Interdiction Commander

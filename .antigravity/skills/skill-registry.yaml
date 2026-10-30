@@ -119,3 +119,12 @@ skills:
 - id: clearinghouse-garnishment-execution
   file: clearinghouse-garnishment-execution.yaml
   status: READY
+- id: telecom-settlement-garnishment
+  file: telecom-settlement-garnishment.yaml
+  status: READY
+- id: subsea-cable-admiralty-attachment
+  file: subsea-cable-admiralty-attachment.yaml
+  status: READY
+- id: itu-orbital-spectrum-interdiction
+  file: itu-orbital-spectrum-interdiction.yaml
+  status: READY
