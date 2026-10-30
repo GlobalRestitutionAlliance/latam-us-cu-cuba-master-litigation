@@ -1,0 +1,20 @@
+skill:
+  id: "hydra-mirroring"
+  name: "Decentralized Hydra Mirroring & Cryptographic Escrow"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Manage multi-node Git synchronization (GitHub, Codeberg, Radicle)"
+    - "Pin master archives to IPFS and Filecoin via decentralized smart contracts"
+    - "Maintain the Dead Man's Switch cryptographic heartbeat and time-locked escrow"
+    - "Execute the Reversion Protocol in the event of repository compromise or hostile force-push"
+    - "Generate and verify SHA-256 manifests for all 1,805 vectors and finalized pleadings"
+    
+  triggers:
+    - "Scheduled 6-hour mirror sync across all decentralized nodes"
+    - "Detection of unauthorized commit, hash mismatch, or GPG signature failure"
+    - "Failure of the primary user's biometric/digital heartbeat token"
+    
+  output_requirements:
+    - "Mirror sync logs must be appended to the Master_Chain_of_Custody_Log.md"
+    - "IPFS Content Identifiers (CIDs) must be recorded in the VERIFICATION_KEYS directory"

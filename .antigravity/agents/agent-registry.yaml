@@ -30,3 +30,7 @@ agents:
   file: agent-omega-harvester.yaml
   status: ACTIVE
   role: Autonomous Evidence Ingestion & OSINT Vector Discovery
+- id: agent-hydra-warden
+  file: agent-hydra-warden.yaml
+  status: ACTIVE
+  role: Decentralized Systems, OpSec & Coalition Mobilization

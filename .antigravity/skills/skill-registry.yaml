@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 9
+total_skills: 12
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -28,4 +28,13 @@ skills:
   status: READY
 - id: autonomous-expansion
   file: autonomous-expansion.yaml
+  status: READY
+- id: coalition-mobilization
+  file: coalition-mobilization.yaml
+  status: READY
+- id: hydra-mirroring
+  file: hydra-mirroring.yaml
+  status: READY
+- id: opsec-evasion
+  file: opsec-evasion.yaml
   status: READY

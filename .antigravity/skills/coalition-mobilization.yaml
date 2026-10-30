@@ -1,0 +1,16 @@
+skill:
+  id: "coalition-mobilization"
+  name: "Global Coalition Mobilization & Impact Pitching"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Format the 1,805-Vector Index and Centurion Dossiers into Executive Summary Pitch Decks"
+    - "Execute the Zero-Trust Vetting Protocol for NGOs, impact firms, and sovereign sponsors"
+    - "Draft secure, encrypted pitch transmissions for civil rights syndicates and Global South allies"
+    - "Map intersectional subclass alignments (Indigenous, African-American, Latin American, Global South)"
+    - "Generate Deeds of Assignment for proxy sovereign enforcement and litigation finance syndicates"
+    
+  quality_gates:
+    - "All pitch dossiers must include the Master Chain of Custody hash to prove evidentiary purity."
+    - "All outreach must cross-reference the Controlled_Opposition_Blacklist.csv to prevent intelligence leakage to captured entities."
+    - "Pitch materials must emphasize statutory hooks (Tucker Act, Helms-Burton, FSIA) over historical grievances to satisfy institutional intake committees."
