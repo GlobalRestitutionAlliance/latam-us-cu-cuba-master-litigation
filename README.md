@@ -1,4 +1,4 @@
-# US-CUBA MASTER LITIGATION: 1,805-VECTOR CAMPAIGN
+# US-CUBA MASTER LITIGATION: GLOBAL RESTITUTION CAMPAIGN
 [![Integrity Verification](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml)
 [![Decentralized Mirror Sync](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml)
 [![Genesis Release](https://img.shields.io/badge/Release-v1.805.0--LOCKED-blue.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/releases/tag/v1.805.0)
