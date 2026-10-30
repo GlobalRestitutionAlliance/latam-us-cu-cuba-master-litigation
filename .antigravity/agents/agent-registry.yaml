@@ -154,3 +154,11 @@ agents:
   file: agent-tourism-revenue-garnishee-marshal.yaml
   status: ACTIVE
   role: Global Travel Reservation Clearing, Merchant Settlement & Resort Royalty Marshal
+- id: agent-biotech-patents-auditor
+  file: agent-biotech-patents-auditor.yaml
+  status: ACTIVE
+  role: BioCubaFarma, CIGB, CIM & Sovereign Biotechnology Patent Portfolio Auditor
+- id: agent-clinical-licensing-garnishee-marshal
+  file: agent-clinical-licensing-garnishee-marshal.yaml
+  status: ACTIVE
+  role: U.S. Clinical Trial Escrows, Foreign Biotech JV Dividends & Patent Execution Marshal

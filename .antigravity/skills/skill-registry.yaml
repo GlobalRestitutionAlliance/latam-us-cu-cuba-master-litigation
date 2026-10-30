@@ -173,3 +173,12 @@ skills:
 - id: gaviota-sovereign-tourism-veil-piercing
   file: gaviota-sovereign-tourism-veil-piercing.yaml
   status: READY
+- id: biopharma-patent-portfolio-execution
+  file: biopharma-patent-portfolio-execution.yaml
+  status: READY
+- id: clinical-trial-escrow-garnishment
+  file: clinical-trial-escrow-garnishment.yaml
+  status: READY
+- id: biocubafarma-veil-piercing-and-disgorgement
+  file: biocubafarma-veil-piercing-and-disgorgement.yaml
+  status: READY

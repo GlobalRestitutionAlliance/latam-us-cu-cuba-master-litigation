@@ -1,0 +1,19 @@
+id: clinical-trial-escrow-garnishment
+name: U.S. Clinical Trial Concession & OFAC-Licensed Escrow Garnishment
+description: Protocols for serving federal post-judgment turnover writs on U.S. biomedical institutions and escrow accounts holding royalty balances for Cuban biotechnologies (Roswell Park / CIMAvax precedent).
+version: 1.0.0
+tactical_domain: Clinical Trial Escrow Garnishment & OFAC Concession Attachment
+execution_protocol:
+  - Step 1: Identification of U.S. biomedical research centers and clinical trial sponsors operating under OFAC specific licenses.
+  - Step 2: Forensic auditing of milestone payments, licensing royalties, and advance escrow funds payable to Cuban state biotech entities.
+  - Step 3: Drafting federal writs of garnishment under FRCP Rule 69 and 28 U.S.C. § 1610(g) served on U.S. joint ventures and institutional sponsors.
+  - Step 4: Applying Alejandre v. Republic of Cuba precedent to compel turnover of blocked and licensed commercial remittances.
+  - Step 5: Obtaining turnover decrees transferring garnished clinical trial escrows directly into the Master Restitution QSF.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(7) (Execution on Property of Foreign State in Terrorism Actions)
+  - 28 U.S.C. § 1610(g) (Execution on Property of Agency or Instrumentality)
+  - Terrorism Risk Insurance Act of 2002 (TRIA) § 201(a) (28 U.S.C. § 1610 note)
+  - Alejandre v. Republic of Cuba, 996 F. Supp. 1239 (S.D. Fla. 1997)
+  - 31 C.F.R. § 515.547 (CACR Biomedical Research and Clinical Trial Authorizations)
+verified_by: agent-clinical-licensing-garnishee-marshal
+status: READY

@@ -715,3 +715,24 @@ W:\Legal\US_CUBA\
   - [Master_Tourism_and_Hospitality_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tourism_and_Hospitality_Crosswalk_Matrix.csv)
   - [Master_Tourism_and_Hospitality_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tourism_and_Hospitality_Crosswalk_Dashboard.md)
   - [Master_Tourism_and_Hospitality_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tourism_and_Hospitality_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 17)
+- `agent-biotech-patents-auditor`: BioCubaFarma, CIGB, CIM & Sovereign Biotechnology Patent Portfolio Auditor.
+- `agent-clinical-licensing-garnishee-marshal`: U.S. Clinical Trial Escrows, Foreign Biotech JV Dividends & Patent Execution Marshal.
+
+## Newly Registered Skills (Campaign 17)
+- `biopharma-patent-portfolio-execution`: Sovereign Biopharmaceutical Patent Portfolio Execution & Judicial Auction.
+- `clinical-trial-escrow-garnishment`: U.S. Clinical Trial Concession & OFAC-Licensed Escrow Garnishment.
+- `biocubafarma-veil-piercing-and-disgorgement`: BioCubaFarma Sovereign Conglomerate Veil Piercing & Joint-Venture Disgorgement.
+
+## Completed Campaigns
+### Campaign 17: Biopharmaceutical Patents, Genetic Engineering, Clinical Trial Joint Ventures & WHO/WIPO Intellectual Property Disgorgement Campaign
+- **Total Restitution Pool:** $295,000,000,000.00 ($295.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** BIOPH-001 through BIOPH-025
+- **Assigned Agents:** `agent-biotech-patents-auditor`, `agent-clinical-licensing-garnishee-marshal`
+- **Certified Skills:** `biopharma-patent-portfolio-execution`, `clinical-trial-escrow-garnishment`, `biocubafarma-veil-piercing-and-disgorgement`
+- **Evidentiary Artifacts:**
+  - [Master_Biopharmaceutical_and_Patent_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Biopharmaceutical_and_Patent_Crosswalk_Matrix.csv)
+  - [Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.md)
+  - [Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.docx)

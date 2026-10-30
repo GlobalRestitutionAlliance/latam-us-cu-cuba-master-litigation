@@ -1,0 +1,19 @@
+id: biopharma-patent-portfolio-execution
+name: Sovereign Biopharmaceutical Patent Portfolio Execution & Judicial Auction
+description: Protocols for attaching, seizing, and executing judicial sales upon USPTO, EPO, and WIPO-registered patents and patent applications under 35 U.S.C. § 261 and 28 U.S.C. § 1610(g).
+version: 1.0.0
+tactical_domain: Sovereign Patent Portfolio Execution & Judicial Auction
+execution_protocol:
+  - Step 1: Comprehensive auditing of patent families registered by BioCubaFarma, CIM, CIGB, and Finlay with the USPTO, EPO, and WIPO.
+  - Step 2: Drafting federal motions for writ of execution upon patents under 35 U.S.C. § 261 and FRCP Rule 69.
+  - Step 3: Establishing that patents constitute personal property of foreign state agencies subject to execution under 28 U.S.C. § 1610(g).
+  - Step 4: Obtaining judicial charging orders and appointing a federal marshal or receiver to conduct a public auction of patent rights.
+  - Step 5: Recording judicial assignments of patent ownership with the USPTO Assignment Recordation Branch and international registries.
+statutory_authorities:
+  - 35 U.S.C. § 261 (Ownership and Assignment of Patents as Personal Property)
+  - 28 U.S.C. § 1610(a)(2) (Commercial Property Execution)
+  - 28 U.S.C. § 1610(g) (Property of Foreign State Agency or Instrumentality)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Patent Cooperation Treaty (PCT) & Paris Convention for the Protection of Industrial Property
+verified_by: agent-biotech-patents-auditor
+status: READY
