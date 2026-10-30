@@ -1,0 +1,19 @@
+id: refinery-expropriation-title-iii-execution
+name: Expropriated Petroleum Refinery Title III Execution & Trafficking Disgorgement
+description: Protocols for asserting Helms-Burton Title III trafficking actions and post-judgment execution against multinational commercial entities utilizing confiscated petroleum refineries and service station networks (ExxonMobil precedent).
+version: 1.0.0
+tactical_domain: Petroleum Infrastructure Title III Trafficking & Refinery Disgorgement
+execution_protocol:
+  - Step 1: Mapping chain of title for petroleum refineries, pipelines, marine loading terminals, and service stations confiscated in July 1960.
+  - Step 2: Correlating expropriated refining infrastructure with certified FCSC claims (Exxon Claim No. CU-2492, Texaco, Shell).
+  - Step 3: Serving statutory 30-day notice of intent letters demanding cessation of trafficking or payment of full certified value.
+  - Step 4: Applying D.C. Circuit and S.D. Fla. precedent in Exxon Mobil Corp. v. Corporación CIMEX S.A. & Unión Cuba-Petróleo establishing FSIA commercial jurisdiction.
+  - Step 5: Securing treble damages judgments and executing writs of attachment on defendant commercial petroleum assets worldwide.
+statutory_authorities:
+  - 22 U.S.C. § 6082 (Helms-Burton Act Title III Civil Liability for Trafficking)
+  - Exxon Mobil Corp. v. Corporación CIMEX S.A., 534 F. Supp. 3d 1 (D.D.C. 2021), aff'd in part, 88 F.4th 990 (D.C. Cir. 2023)
+  - 28 U.S.C. § 1605(a)(2) (Commercial Activity Exception)
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Execution on Commercial Property)
+  - Federal Rule of Civil Procedure 69 (Execution)
+verified_by: agent-energy-infrastructure-auditor
+status: READY

@@ -182,3 +182,12 @@ skills:
 - id: biocubafarma-veil-piercing-and-disgorgement
   file: biocubafarma-veil-piercing-and-disgorgement.yaml
   status: READY
+- id: refinery-expropriation-title-iii-execution
+  file: refinery-expropriation-title-iii-execution.yaml
+  status: READY
+- id: power-barge-and-grid-settlement-garnishment
+  file: power-barge-and-grid-settlement-garnishment.yaml
+  status: READY
+- id: cupet-une-sovereign-energy-veil-piercing
+  file: cupet-une-sovereign-energy-veil-piercing.yaml
+  status: READY

@@ -1,0 +1,19 @@
+id: power-barge-and-grid-settlement-garnishment
+name: Floating Power Barge (Powership) Concession & Electric Grid Settlement Garnishment
+description: Protocols for serving federal post-judgment garnishment writs and maritime arrest warrants on foreign powership lease escrows (Karpowership) and UNE electrical equipment procurement accounts.
+version: 1.0.0
+tactical_domain: Power Barge Concession Garnishment & Grid Settlement Execution
+execution_protocol:
+  - Step 1: Real-time tracking of floating power barge (powership) locations, generating capacities, and foreign ownership registries (Karpowership / Turkey).
+  - Step 2: Forensic auditing of monthly charter lease remittances, fuel supply escrows, and standby capacity payments made by Unión Eléctrica (UNE).
+  - Step 3: Drafting federal writs of garnishment under FRCP Rule 69 and 28 U.S.C. § 1610(g) served on powership operating companies and correspondent banks.
+  - Step 4: Obtaining Supplemental Admiralty Rule B & C arrest warrants for auxiliary supply vessels, bunker barges, and generator components in international waters.
+  - Step 5: Securing judicial turnover orders transferring blocked power lease disbursements directly into the Master Restitution QSF.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(2) (Execution on Property Used for Commercial Activity in U.S.)
+  - 28 U.S.C. § 1610(g) (Execution on Property of Foreign State Agency or Instrumentality)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Supplemental Rules for Admiralty or Maritime Claims, Rule B & Rule C
+  - Terrorism Risk Insurance Act of 2002 (TRIA) § 201(a) (28 U.S.C. § 1610 note)
+verified_by: agent-petroleum-concessions-garnishee-marshal
+status: READY

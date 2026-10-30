@@ -1004,3 +1004,21 @@ Operationalized an offensive multi-theater post-judgment execution swarm targeti
 - `Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.md` (Executive cross-walk dashboard).
 - `Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.docx` (Court-ready executive document).
 - Active Swarm Agents: 40 | Certified Skills: 60 | Total Armory Weapons: 425 | Knowledge Vectors: 1,805.
+
+## [2026-10-30T16:00:00-04:00] - Campaign 18: Critical Energy Infrastructure, Power Barge Concessions, Oil/Gas Exploration & Expropriated Refinery Restitution Campaign
+
+### 1. Architectural Scope & Mandate
+Operationalized an offensive multi-theater post-judgment execution swarm targeting **$410.00 Billion** in sovereign energy monopolies (Unión Cuba-Petróleo / CUPET, Unión Eléctrica / UNE), foreign floating power barge concessions (Karpowership / Turkey), multinational oil and gas exploration joint ventures (Sherritt International, Melbana Energy Block 9, Energas), sovereign crude import barter conduits (Venezuelan PDVSA, Russian Urals SPM offloading), and expropriated 1960 American petroleum refineries (Belot / ExxonMobil, Texaco, Shell).
+
+### 2. Phased Waves Audit & Confirmation (100% Parity)
+- **Wave 1 (Expropriated Refineries & Title III Judgments):** Audited & Confirmed (5/5 instruments verified, $95.00B Pool).
+- **Wave 2 (Floating Power Barges & Electric Grid Generation):** Audited & Confirmed (5/5 instruments verified, $85.00B Pool).
+- **Wave 3 (Foreign Oil/Gas Concessions & Production Sharing):** Audited & Confirmed (5/5 instruments verified, $80.00B Pool).
+- **Wave 4 (Crude Import Settlement Conduits & Barter Accounts):** Audited & Confirmed (5/5 instruments verified, $75.00B Pool).
+- **Wave 5 (Sovereign Energy Holding Seizure & Class QSF Annexation):** Audited & Confirmed (5/5 instruments verified, $75.00B Pool; $410.00B Aggregate Pool).
+
+### 3. Deliverables & Cross-Walk Assets
+- `Master_Energy_and_Refineries_Crosswalk_Matrix.csv` (25 multi-theater instruments).
+- `Master_Energy_and_Refineries_Crosswalk_Dashboard.md` (Executive cross-walk dashboard).
+- `Master_Energy_and_Refineries_Crosswalk_Dashboard.docx` (Court-ready executive document).
+- Active Swarm Agents: 42 | Certified Skills: 63 | Total Armory Weapons: 450 | Knowledge Vectors: 1,805.

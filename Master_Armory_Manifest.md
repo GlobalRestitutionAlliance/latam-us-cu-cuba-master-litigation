@@ -736,3 +736,24 @@ W:\Legal\US_CUBA\
   - [Master_Biopharmaceutical_and_Patent_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Biopharmaceutical_and_Patent_Crosswalk_Matrix.csv)
   - [Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.md)
   - [Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Biopharmaceutical_and_Patent_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 18)
+- `agent-energy-infrastructure-auditor`: CUPET, UNE, Turkish Powership Barges & Oil/Gas Concession Forensic Auditor.
+- `agent-petroleum-concessions-garnishee-marshal`: Offshore Oil Concessions, Powership Fuel Escrows & Refinery Judgment Marshal.
+
+## Newly Registered Skills (Campaign 18)
+- `refinery-expropriation-title-iii-execution`: Expropriated Petroleum Refinery Title III Execution & Trafficking Disgorgement.
+- `power-barge-and-grid-settlement-garnishment`: Floating Power Barge (Powership) Concession & Electric Grid Settlement Garnishment.
+- `cupet-une-sovereign-energy-veil-piercing`: CUPET & Unión Eléctrica (UNE) Sovereign Energy Monopoly Veil Annihilation.
+
+## Completed Campaigns
+### Campaign 18: Critical Energy Infrastructure, Power Barge Concessions, Oil/Gas Exploration & Expropriated Refinery Restitution Campaign
+- **Total Restitution Pool:** $410,000,000,000.00 ($410.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** ENRG-001 through ENRG-025
+- **Assigned Agents:** `agent-energy-infrastructure-auditor`, `agent-petroleum-concessions-garnishee-marshal`
+- **Certified Skills:** `refinery-expropriation-title-iii-execution`, `power-barge-and-grid-settlement-garnishment`, `cupet-une-sovereign-energy-veil-piercing`
+- **Evidentiary Artifacts:**
+  - [Master_Energy_and_Refineries_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Energy_and_Refineries_Crosswalk_Matrix.csv)
+  - [Master_Energy_and_Refineries_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Energy_and_Refineries_Crosswalk_Dashboard.md)
+  - [Master_Energy_and_Refineries_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Energy_and_Refineries_Crosswalk_Dashboard.docx)

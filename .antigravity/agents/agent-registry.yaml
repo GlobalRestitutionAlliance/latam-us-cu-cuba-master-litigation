@@ -162,3 +162,11 @@ agents:
   file: agent-clinical-licensing-garnishee-marshal.yaml
   status: ACTIVE
   role: U.S. Clinical Trial Escrows, Foreign Biotech JV Dividends & Patent Execution Marshal
+- id: agent-energy-infrastructure-auditor
+  file: agent-energy-infrastructure-auditor.yaml
+  status: ACTIVE
+  role: CUPET, UNE, Turkish Powership Barges & Oil/Gas Concession Forensic Auditor
+- id: agent-petroleum-concessions-garnishee-marshal
+  file: agent-petroleum-concessions-garnishee-marshal.yaml
+  status: ACTIVE
+  role: Offshore Oil Concessions, Powership Fuel Escrows & Refinery Judgment Marshal
