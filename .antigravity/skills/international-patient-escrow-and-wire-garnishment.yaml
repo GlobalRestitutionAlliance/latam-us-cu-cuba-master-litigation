@@ -1,0 +1,10 @@
+id: international-patient-escrow-and-wire-garnishment
+name: International Patient Escrow & Wire Transfer Garnishment
+description: Multi-jurisdictional garnishment and third-party debt order protocols targeting upfront patient wire transfers, international health travel agency deposit accounts, and commercial credit card payments processed across Spain, Canada, and Latin America.
+version: 1.0.0
+tactical_domain: Patient Wire Interception, Health Escrow Attachment & Merchant Settlement Levies
+execution_protocol:
+  - Step 1: Subpoenaing patient wire transfer routing instructions, SWIFT beneficiary accounts, and foreign correspondent banking lines.
+  - Step 2: Serving English High Court third-party debt orders, Spanish LEC Art. 592 embargos, and Canadian garnishment notices on intermediary banks.
+  - Step 3: Freezing upfront procedure retainers and surgical package payments prior to settlement with Cuban state bank accounts.
+  - Step 4: Transferring intercepted patient funds directly into the Master Qualified Settlement Fund.

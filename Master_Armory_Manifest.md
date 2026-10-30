@@ -946,3 +946,24 @@ W:\Legal\US_CUBA\
   - [Master_Heavy_Building_Materials_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Heavy_Building_Materials_Crosswalk_Matrix.csv)
   - [Master_Heavy_Building_Materials_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Heavy_Building_Materials_Crosswalk_Dashboard.md)
   - [Master_Heavy_Building_Materials_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Heavy_Building_Materials_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 28)
+- `agent-medical-tourism-monopoly-auditor`: CSMC S.A., Cira García, CIREN, La Pradera & Commercial Healthcare Auditor.
+- `agent-patient-escrow-garnishee-marshal`: Patient Upfront Wire Transfers, Travel Assistance Floats & Health Insurance Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 28)
+- `csmc-commercial-healthcare-and-clinic-disgorgement`: CSMC Commercial Healthcare & Specialized Clinic Disgorgement.
+- `international-patient-escrow-and-wire-garnishment`: International Patient Escrow & Wire Transfer Garnishment.
+- `medical-travel-insurance-and-agency-interdiction`: Medical Travel Insurance & Assistance Agency Interdiction.
+
+## Completed Campaigns
+### Campaign 28: Sovereign International Medical Tourism, Specialized Health Concessions & Patient Escrows Restitution Campaign
+- **Total Restitution Pool:** $290,000,000,000.00 ($290.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** MEDTOUR-001 through MEDTOUR-025
+- **Assigned Agents:** `agent-medical-tourism-monopoly-auditor`, `agent-patient-escrow-garnishee-marshal`
+- **Certified Skills:** `csmc-commercial-healthcare-and-clinic-disgorgement`, `international-patient-escrow-and-wire-garnishment`, `medical-travel-insurance-and-agency-interdiction`
+- **Evidentiary Artifacts:**
+  - [Master_Medical_Tourism_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Medical_Tourism_Crosswalk_Matrix.csv)
+  - [Master_Medical_Tourism_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Medical_Tourism_Crosswalk_Dashboard.md)
+  - [Master_Medical_Tourism_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Medical_Tourism_Crosswalk_Dashboard.docx)

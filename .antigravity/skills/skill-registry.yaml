@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 90
+total_skills: 93
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -284,3 +284,15 @@ skills:
   name: Building Materials Export Receivables & Letters of Credit Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/building-materials-export-receivables-garnishment.yaml
+- id: csmc-commercial-healthcare-and-clinic-disgorgement
+  name: CSMC Commercial Healthcare & Specialized Clinic Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/csmc-commercial-healthcare-and-clinic-disgorgement.yaml
+- id: international-patient-escrow-and-wire-garnishment
+  name: International Patient Escrow & Wire Transfer Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/international-patient-escrow-and-wire-garnishment.yaml
+- id: medical-travel-insurance-and-agency-interdiction
+  name: Medical Travel Insurance & Assistance Agency Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/medical-travel-insurance-and-agency-interdiction.yaml

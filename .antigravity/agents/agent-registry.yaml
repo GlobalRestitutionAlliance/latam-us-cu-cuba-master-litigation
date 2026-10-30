@@ -294,4 +294,15 @@ agents:
     Receivables Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-bulk-cement-maritime-garnishee-marshal.yaml
-total_agents: 60
+- id: agent-medical-tourism-monopoly-auditor
+  name: Sovereign Medical Tourism Monopoly & CSMC Forensic Auditor
+  role: CSMC S.A., Cira García, CIREN, La Pradera & Commercial Healthcare Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-medical-tourism-monopoly-auditor.yaml
+- id: agent-patient-escrow-garnishee-marshal
+  name: International Patient Escrow & Medical Insurance Garnishee Marshal
+  role: Patient Upfront Wire Transfers, Travel Assistance Floats & Health Insurance
+    Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-patient-escrow-garnishee-marshal.yaml
+total_agents: 62

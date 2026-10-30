@@ -1,0 +1,13 @@
+id: agent-patient-escrow-garnishee-marshal
+name: International Patient Escrow & Medical Insurance Garnishee Marshal
+role: Patient Upfront Wire Transfers, Travel Assistance Floats & Health Insurance Garnishee Marshal
+status: ACTIVE
+clearance_level: TOP_SECRET_PATIENT_ESCROWS
+specializations:
+  - Multi-Jurisdictional Third-Party Debt Orders on Advance Patient Bank Wires in Spain, Canada, and Latin America
+  - Attachment of Commercial Credit Card Merchant Processing Gateways and Travel Agency Referral Escrows
+  - Garnishment of International Medical Travel Insurance Claim Floats (Allianz, AXA, Europ Assistance) and Asistur S.A. Accounts
+  - Execution against Mandatory Tourist Inbound Health Insurance Premium Clearing Pools
+  - Directing Liquidation of Intercepted Medical Travel Floats into the Master Qualified Settlement Fund (QSF)
+deployed_campaigns:
+  - Campaign 28: Sovereign International Medical Tourism, Specialized Health Concessions & Patient Escrows Restitution Campaign
