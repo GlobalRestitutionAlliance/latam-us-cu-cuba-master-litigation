@@ -1,0 +1,19 @@
+id: container-demurrage-and-freight-garnishment
+name: Maritime Container Demurrage, Stevedoring & Freight Tariff Garnishment
+description: Protocols for serving post-judgment garnishment writs under FRCP Rule 69, Supplemental Admiralty Rule B, and 28 U.S.C. § 1610(g) on ocean shipping carriers settling port dues and container tariffs.
+version: 1.0.0
+tactical_domain: Ocean Freight Demurrage Interception & Stevedoring Tariff Garnishment
+execution_protocol:
+  - Step 1: Real-time tracking of container vessels calling at Cuban ports (Mariel, Havana, Santiago de Cuba, Moa) operated by global lines (CMA CGM, Maersk, MSC, Hapag-Lloyd).
+  - Step 2: Forensic auditing of container demurrage fees, terminal handling charges (THC), and stevedoring receivables payable to TC Mariel and ASPORT.
+  - Step 3: Drafting federal writs of garnishment under FRCP Rule 69 served on carrier headquarters and U.S. agency offices.
+  - Step 4: Rebutting sovereign immunity and forum non conveniens objections under 28 U.S.C. § 1610(g) and commercial agency exceptions.
+  - Step 5: Securing turnover orders redirecting ocean carrier remittance streams directly into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1610(g) (Property in certain actions; execution on agency or instrumentality)
+  - 28 U.S.C. § 1610(a)(2) (Execution upon commercial property of foreign state)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Supplemental Rules for Admiralty or Maritime Claims, Rule B (Maritime Attachment and Garnishment)
+  - Shipping Act of 1984, as amended (46 U.S.C. § 40101 et seq.)
+verified_by: agent-maritime-cargo-garnishee-marshal
+status: READY

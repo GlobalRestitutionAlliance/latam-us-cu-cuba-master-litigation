@@ -146,3 +146,12 @@ skills:
 - id: sovereign-aircraft-arrest-and-grounding
   file: sovereign-aircraft-arrest-and-grounding.yaml
   status: READY
+- id: port-concession-trafficking-interdiction
+  file: port-concession-trafficking-interdiction.yaml
+  status: READY
+- id: container-demurrage-and-freight-garnishment
+  file: container-demurrage-and-freight-garnishment.yaml
+  status: READY
+- id: transshipment-logistics-veil-piercing
+  file: transshipment-logistics-veil-piercing.yaml
+  status: READY

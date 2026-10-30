@@ -1,0 +1,19 @@
+id: port-concession-trafficking-interdiction
+name: Helms-Burton Title III Port Terminal Trafficking & Concession Disgorgement
+description: Protocols for prosecuting Helms-Burton Title III actions and executing judgments against foreign port concessionaires and ocean shipping lines utilizing confiscated maritime terminals and docks.
+version: 1.0.0
+tactical_domain: Maritime Port Terminal Trafficking & Concession Disgorgement
+execution_protocol:
+  - Step 1: Mapping chain of title for expropriated port facilities, docks, container yards, and logistics zones across Mariel, Havana, and Santiago de Cuba.
+  - Step 2: Identification of commercial shipping lines, terminal concessionaires (PSA International), and cruise operators commercializing confiscated berths.
+  - Step 3: Drafting statutory 30-day notice of intent letters and federal complaints under Helms-Burton Act Title III (22 U.S.C. § 6082).
+  - Step 4: Applying Havana Docks Corp. v. Carnival Corp. and De Fernandez v. Crowley Holdings binding precedents to establish trafficking liability and treble damages.
+  - Step 5: Securing prejudgment attachment orders and post-judgment execution decrees upon domestic and international assets of defendant shipping conglomerates.
+statutory_authorities:
+  - 22 U.S.C. § 6082 (Helms-Burton Act Title III Civil Liability for Trafficking)
+  - Havana Docks Corp. v. Carnival Corp., 592 F. Supp. 3d 1088 (S.D. Fla. 2022)
+  - De Fernandez v. Crowley Holdings Inc., No. 21-cv-21876 (S.D. Fla.)
+  - 28 U.S.C. § 1331 (Federal Question Jurisdiction)
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Execution on Commercial Property)
+verified_by: agent-port-concessions-auditor
+status: READY

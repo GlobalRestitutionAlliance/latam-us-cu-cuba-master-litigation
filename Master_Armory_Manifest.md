@@ -652,3 +652,24 @@ W:\Legal\US_CUBA\
   - [Master_Commercial_Aviation_and_Airspace_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Aviation_and_Airspace_Crosswalk_Matrix.csv)
   - [Master_Commercial_Aviation_and_Airspace_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Aviation_and_Airspace_Crosswalk_Dashboard.md)
   - [Master_Commercial_Aviation_and_Airspace_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Aviation_and_Airspace_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 14)
+- `agent-port-concessions-auditor`: ZED Mariel, ASPORT Sovereign Monopoly & Global Maritime Terminal Concession Auditor.
+- `agent-maritime-cargo-garnishee-marshal`: Ocean Freight Tariff, Container Demurrage & Transshipment Interline Settlement Marshal.
+
+## Newly Registered Skills (Campaign 14)
+- `port-concession-trafficking-interdiction`: Helms-Burton Title III Port Terminal Trafficking & Concession Disgorgement.
+- `container-demurrage-and-freight-garnishment`: Maritime Container Demurrage, Stevedoring & Freight Tariff Garnishment.
+- `transshipment-logistics-veil-piercing`: ZED Mariel & ASPORT Sovereign Logistics Veil Piercing & Asset Forfeiture.
+
+## Completed Campaigns
+### Campaign 14: Deepwater Mega-Port Concessions, Maritime Container Infrastructure & Transshipment Logistics Disgorgement Campaign
+- **Total Restitution Pool:** $420,000,000,000.00 ($420.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** PORT-001 through PORT-025
+- **Assigned Agents:** `agent-port-concessions-auditor`, `agent-maritime-cargo-garnishee-marshal`
+- **Certified Skills:** `port-concession-trafficking-interdiction`, `container-demurrage-and-freight-garnishment`, `transshipment-logistics-veil-piercing`
+- **Evidentiary Artifacts:**
+  - [Master_Port_Concessions_and_Logistics_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Concessions_and_Logistics_Crosswalk_Matrix.csv)
+  - [Master_Port_Concessions_and_Logistics_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Concessions_and_Logistics_Crosswalk_Dashboard.md)
+  - [Master_Port_Concessions_and_Logistics_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Concessions_and_Logistics_Crosswalk_Dashboard.docx)

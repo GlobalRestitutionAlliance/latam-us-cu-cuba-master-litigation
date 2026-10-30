@@ -130,3 +130,11 @@ agents:
   file: agent-airspace-transit-garnishee-counsel.yaml
   status: ACTIVE
   role: Havana FIR Overflight Royalties, IATA Clearinghouse Settlement & Air Navigation Garnishment Architect
+- id: agent-port-concessions-auditor
+  file: agent-port-concessions-auditor.yaml
+  status: ACTIVE
+  role: ZED Mariel, ASPORT Sovereign Monopoly & Global Maritime Terminal Concession Auditor
+- id: agent-maritime-cargo-garnishee-marshal
+  file: agent-maritime-cargo-garnishee-marshal.yaml
+  status: ACTIVE
+  role: Ocean Freight Tariff, Container Demurrage & Transshipment Interline Settlement Marshal
