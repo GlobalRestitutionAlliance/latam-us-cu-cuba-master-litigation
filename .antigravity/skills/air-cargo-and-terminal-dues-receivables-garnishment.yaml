@@ -1,0 +1,12 @@
+id: air-cargo-and-terminal-dues-receivables-garnishment
+name: Air Cargo & Postal Terminal Dues Receivables Garnishment
+description: Litigation framework for third-party debt attachment under Fed. R. Civ. P. 69 and 28 U.S.C. § 1610(a)(2) targeting air cargo freight receivables payable to Aerovaradero S.A. and international postal terminal dues settlements administered by the Universal Postal Union (UPU).
+version: 1.0.0
+tactical_domain: Air Freight Receivables Garnishment, UPU Terminal Dues Interdiction & Cargo Warehouse Attachment
+execution_protocol:
+  - Step 1: Auditing scheduled air freight agreements between international airlines (Iberia Cargo, Air Canada Cargo, Copa Cargo, Aeroméxico Cargo) and Aerovaradero S.A.
+  - Step 2: Subpoenaing multilateral settlement accounts and terminal dues accounting records maintained through the Universal Postal Union (UPU) in Berne, Switzerland.
+  - Step 3: Serving post-judgment writs of garnishment on airline cargo divisions, freight forwarders, and Swiss correspondent bank rails handling UPU clearing.
+  - Step 4: Overcoming sovereign immunity defenses by establishing that air freight handling and cargo storage constitute purely commercial activities under 28 U.S.C. § 1605(a)(2).
+  - Step 5: Diverting commercial cargo fees and international postal exchange balances into the Master Restitution Trust.
+operational_mandate: Attach and impound all air freight revenues and international postal clearing receivables in European and North American financial centers.

@@ -319,4 +319,16 @@ skills:
   name: Sovereign Marine & Aviation Bunkering Fuel Contract Interdiction
   status: ACTIVE
   manifest_file: .antigravity/skills/marine-and-aviation-bunkering-contract-interdiction.yaml
-total_skills: 99
+- id: postal-monopoly-and-parcel-clearance-disgorgement
+  name: Sovereign Postal Monopoly & Parcel Clearance Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/postal-monopoly-and-parcel-clearance-disgorgement.yaml
+- id: air-cargo-and-terminal-dues-receivables-garnishment
+  name: Air Cargo & Postal Terminal Dues Receivables Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/air-cargo-and-terminal-dues-receivables-garnishment.yaml
+- id: transnational-ecommerce-parcel-conduit-interdiction
+  name: Transnational Ecommerce Parcel Conduit & Remittance-in-Kind Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-ecommerce-parcel-conduit-interdiction.yaml
+total_skills: 102

@@ -326,4 +326,14 @@ agents:
   role: Ibeca Airline Catering JV, Airport Ground Handling & Marine/Aviation Bunkering Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-aviation-catering-and-bunkering-marshal.yaml
-total_agents: 66
+- id: agent-postal-and-courier-logistics-auditor
+  name: Sovereign Postal, Express Courier & Cargo Logistics Auditor
+  role: Correos de Cuba, EMCI, Aerovaradero & International Courier Concessions Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-postal-and-courier-logistics-auditor.yaml
+- id: agent-terminal-dues-and-freight-garnishee-marshal
+  name: Postal Terminal Dues & International Freight Receivables Garnishee Marshal
+  role: UPU Clearing Settlement Rails, Foreign Airline Cargo Fees & Transnational Courier Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-terminal-dues-and-freight-garnishee-marshal.yaml
+total_agents: 68

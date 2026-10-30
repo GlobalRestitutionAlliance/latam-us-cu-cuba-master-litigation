@@ -1,0 +1,12 @@
+id: postal-monopoly-and-parcel-clearance-disgorgement
+name: Sovereign Postal Monopoly & Parcel Clearance Disgorgement
+description: Operational protocols for Title III Helms-Burton actions (22 U.S.C. § 6082) and commercial receivables disgorgement against sovereign postal monopolies (Grupo Empresarial Correos de Cuba OSDE, EMCI), international courier operators, and offshore parcel tariff settlement accounts.
+version: 1.0.0
+tactical_domain: Postal Monopoly Disgorgement, Title III Helms-Burton Cargo Claims & Commercial Parcel Surcharges
+execution_protocol:
+  - Step 1: Mapping expropriated historic post office properties, air mail transport routes, and bonded customs facilities against modern Correos de Cuba and EMCI hub footprints.
+  - Step 2: Establishing the commercial activity exception under 28 U.S.C. § 1605(a)(2) for international parcel clearance surcharges and express courier tariffs paid in hard currency.
+  - Step 3: Proving alter ego liability between Correos de Cuba OSDE, EMCI, Aerovaradero S.A., MITRANS, and GAESA under Bancec and 28 U.S.C. § 1610(g).
+  - Step 4: Serving Rule 69 writs of execution and garnishee notices on transnational postal delivery contractors and foreign postal administrations.
+  - Step 5: Directing disgorged postal fees, terminal clearance revenues, and customs tariffs into the Master Restitution Escrow.
+operational_mandate: Execute comprehensive disgorgement actions across all Cuban international postal distribution centers and commercial parcel gateways.

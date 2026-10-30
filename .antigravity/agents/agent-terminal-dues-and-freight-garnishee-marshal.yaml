@@ -1,0 +1,13 @@
+id: agent-terminal-dues-and-freight-garnishee-marshal
+name: Postal Terminal Dues & International Freight Receivables Garnishee Marshal
+role: UPU Clearing Settlement Rails, Foreign Airline Cargo Fees & Transnational Courier Garnishee Marshal
+status: ACTIVE
+clearance_level: TOP_SECRET_FREIGHT_GARNISHEE
+specializations:
+  - Post-Judgment Garnishment of UPU Terminal Dues and International Postal Accounts Settled in Berne, Switzerland
+  - Interdiction of Air Cargo Freight Receivables and Ground Transport Invoices Paid by Foreign Air Carriers (Iberia Cargo, Copa Cargo, Air Canada Cargo) to Aerovaradero S.A.
+  - Third-Party Garnishee Summons Served on Global Logistics Giants (DHL Express, FedEx, UPS) and Offshore Merchant Aggregators Processing Diaspora Parcel Deliveries
+  - Freezing Offshore Escrow Accounts Maintained by Transcargo and Correos de Cuba in Spain, Panama, and Canada under 28 U.S.C. § 1610(a)(2)
+  - Bancec Corporate Veil Piercing and Enforcement of Judicial Turn-Over Injunctions under Fed. R. Civ. P. 69
+deployed_campaigns:
+  - Campaign 31: Sovereign International Postal, Express Courier Monopolies, Correos de Cuba & Transnational Parcel Logistics Disgorgement Campaign

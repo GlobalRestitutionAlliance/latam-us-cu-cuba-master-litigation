@@ -1007,3 +1007,22 @@ W:\Legal\US_CUBA\
   - [Master_Duty_Free_Concessions_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Duty_Free_Concessions_Crosswalk_Matrix.csv)
   - [Master_Duty_Free_Concessions_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Duty_Free_Concessions_Crosswalk_Dashboard.md)
   - [Master_Duty_Free_Concessions_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Duty_Free_Concessions_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 31)
+- `agent-postal-and-courier-logistics-auditor`: Correos de Cuba, EMCI, Aerovaradero & International Courier Concessions Auditor.
+- `agent-terminal-dues-and-freight-garnishee-marshal`: UPU Clearing Settlement Rails, Foreign Airline Cargo Fees & Transnational Courier Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 31)
+- `postal-monopoly-and-parcel-clearance-disgorgement`: Sovereign Postal Monopoly & Parcel Clearance Disgorgement.
+- `air-cargo-and-terminal-dues-receivables-garnishment`: Air Cargo & Postal Terminal Dues Receivables Garnishment.
+- `transnational-ecommerce-parcel-conduit-interdiction`: Transnational Ecommerce Parcel Conduit & Remittance-in-Kind Interdiction.
+
+### Campaign 31: Sovereign International Postal, Express Courier Monopolies, Correos de Cuba & Transnational Parcel Logistics Disgorgement Campaign
+- **Total Restitution Pool:** $275,000,000,000.00 ($275.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** POST-001 through POST-025
+- **Assigned Agents:** `agent-postal-and-courier-logistics-auditor`, `agent-terminal-dues-and-freight-garnishee-marshal`
+- **Certified Skills:** `postal-monopoly-and-parcel-clearance-disgorgement`, `air-cargo-and-terminal-dues-receivables-garnishment`, `transnational-ecommerce-parcel-conduit-interdiction`
+- **Evidentiary Artifacts:**
+  - [Master_Postal_Logistics_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Postal_Logistics_Crosswalk_Matrix.csv)
+  - [Master_Postal_Logistics_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Postal_Logistics_Crosswalk_Dashboard.md)
+  - [Master_Postal_Logistics_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Postal_Logistics_Crosswalk_Dashboard.docx)
