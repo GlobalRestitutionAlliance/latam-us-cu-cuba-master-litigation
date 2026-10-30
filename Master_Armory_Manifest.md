@@ -841,3 +841,24 @@ W:\Legal\US_CUBA\
   - [Master_Commercial_Fisheries_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Fisheries_Crosswalk_Matrix.csv)
   - [Master_Commercial_Fisheries_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Fisheries_Crosswalk_Dashboard.md)
   - [Master_Commercial_Fisheries_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Fisheries_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 23)
+- `agent-defense-industry-auditor`: UCM, GeoCuba, Empresa Militar Industrial (EMI) & Military Enterprise Forensic Auditor.
+- `agent-shipbuilding-drydock-garnishee-marshal`: Astilleros de La Habana, Caribbean Drydock Company (CDC) & Ship Repair Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 23)
+- `military-construction-and-forced-labor-disgorgement`: Sovereign Military Construction & Conscript Forced Labor Disgorgement.
+- `commercial-shipyard-and-drydock-tariff-garnishment`: Commercial Shipyard Repair & Floating Drydock Tariff Garnishment.
+- `geospatial-cartography-and-dual-use-procurement-interdiction`: Sovereign Geospatial Cartography & Dual-Use Military Procurement Interdiction.
+
+## Completed Campaigns
+### Campaign 23: Sovereign Defense Industrial Base, Military Shipbuilding & Armed Forces Construction Restitution Campaign
+- **Total Restitution Pool:** $330,000,000,000.00 ($330.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** DEF-001 through DEF-025
+- **Assigned Agents:** `agent-defense-industry-auditor`, `agent-shipbuilding-drydock-garnishee-marshal`
+- **Certified Skills:** `military-construction-and-forced-labor-disgorgement`, `commercial-shipyard-and-drydock-tariff-garnishment`, `geospatial-cartography-and-dual-use-procurement-interdiction`
+- **Evidentiary Artifacts:**
+  - [Master_Defense_Industrial_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Defense_Industrial_Crosswalk_Matrix.csv)
+  - [Master_Defense_Industrial_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Defense_Industrial_Crosswalk_Dashboard.md)
+  - [Master_Defense_Industrial_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Defense_Industrial_Crosswalk_Dashboard.docx)

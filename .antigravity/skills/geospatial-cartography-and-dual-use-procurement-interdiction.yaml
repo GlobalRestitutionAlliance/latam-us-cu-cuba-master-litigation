@@ -1,0 +1,19 @@
+id: geospatial-cartography-and-dual-use-procurement-interdiction
+name: Sovereign Geospatial Cartography & Dual-Use Military Procurement Interdiction
+description: Tactical protocols for freezing international nautical chart sales royalties (GeoCuba), bathymetric survey license fees, and dual-use aerospace/electronic procurement escrows in international correspondent banks.
+version: 1.0.0
+tactical_domain: Geospatial Data Licensing Interdiction & Dual-Use Military Procurement Freezes
+execution_protocol:
+  - Step 1: Auditing international distribution agreements for GeoCuba navigational charts and hydrographic data sold through the UK Hydrographic Office (UKHO) and international chart agents.
+  - Step 2: Serving federal post-judgment turnover orders under FRCP 69 and TRIA § 201(a) freezing chart sales royalties and electronic navigational chart (ENC) licensing fees.
+  - Step 3: Tracking dual-use defense and aerospace procurement financing remitted by Empresa Militar Industrial (EMI) through European and Asian banking conduits.
+  - Step 4: Intercepting letters of credit and advance equipment deposits financing imported radar components, aircraft spare parts, and telecommunications interception hardware.
+  - Step 5: Directing all seized geospatial royalties, survey fees, and procurement escrow balances into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1610(g) (Property of Agency or Instrumentality of State Sponsor of Terrorism)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Terrorism Risk Insurance Act (TRIA) § 201(a)
+  - Export Control Reform Act (ECRA), 50 U.S.C. § 4801 et seq.
+  - Uniform Commercial Code (UCC) § 5-116 (Assignment of Letter of Credit Proceeds)
+verified_by: agent-defense-industry-auditor
+status: READY

@@ -1,0 +1,19 @@
+id: military-construction-and-forced-labor-disgorgement
+name: Sovereign Military Construction & Conscript Forced Labor Disgorgement
+description: Operational protocols for investigating, quantifying, and disgorging commercial revenues from UCM-built luxury tourism and port infrastructure projects utilizing conscript military labor (EJT) under TVPRA and Section 1307.
+version: 1.0.0
+tactical_domain: Military Construction Disgorgement, Forced Conscript Labor Interdiction & TVPRA Enforcement
+execution_protocol:
+  - Step 1: Mapping commercial resort hotels, port terminals, and industrial facilities constructed by Unión de Construcciones Militares (UCM) using conscript labor from the Youth Labor Army (EJT).
+  - Step 2: Formulating human trafficking and forced labor claims under the Trafficking Victims Protection Reauthorization Act (TVPRA, 18 U.S.C. §§ 1589, 1595) and Tariff Act (19 U.S.C. § 1307).
+  - Step 3: Serving statutory notices and garnishment writs on foreign hotel joint-venture partners (Meliá, Kempinski, Blue Diamond) paying construction management fees to UCM.
+  - Step 4: Levying execution liens on UCM heavy machinery fleets, imported construction vehicles, and cement batching plants.
+  - Step 5: Directing all disgorged construction profits, contractor escrows, and restitution surcharges into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - Trafficking Victims Protection Reauthorization Act (TVPRA), 18 U.S.C. §§ 1589 & 1595
+  - Tariff Act of 1930, 19 U.S.C. § 1307 (Prohibition on Goods Produced by Forced Labor)
+  - 28 U.S.C. § 1610(g) (FSIA Execution on Agencies & Instrumentalities)
+  - Helms-Burton Act Title III, 22 U.S.C. § 6082 (Trafficking in Confiscated Property)
+  - Restatement (Third) of Restitution and Unjust Enrichment § 51
+verified_by: agent-defense-industry-auditor
+status: READY

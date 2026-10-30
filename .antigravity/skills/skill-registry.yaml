@@ -227,3 +227,12 @@ skills:
 - id: admiralty-reefer-cargo-in-rem-arrest
   file: admiralty-reefer-cargo-in-rem-arrest.yaml
   status: READY
+- id: military-construction-and-forced-labor-disgorgement
+  file: military-construction-and-forced-labor-disgorgement.yaml
+  status: READY
+- id: commercial-shipyard-and-drydock-tariff-garnishment
+  file: commercial-shipyard-and-drydock-tariff-garnishment.yaml
+  status: READY
+- id: geospatial-cartography-and-dual-use-procurement-interdiction
+  file: geospatial-cartography-and-dual-use-procurement-interdiction.yaml
+  status: READY

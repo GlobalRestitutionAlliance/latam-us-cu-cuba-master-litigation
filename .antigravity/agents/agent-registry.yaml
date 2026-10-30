@@ -202,3 +202,11 @@ agents:
   file: agent-seafood-cargo-garnishee-marshal.yaml
   status: ACTIVE
   role: Reefer Cargo Interdiction, European Seafood Distributor Garnishment & Admiralty Marshal
+- id: agent-defense-industry-auditor
+  file: agent-defense-industry-auditor.yaml
+  status: ACTIVE
+  role: UCM, GeoCuba, Empresa Militar Industrial (EMI) & Military Enterprise Forensic Auditor
+- id: agent-shipbuilding-drydock-garnishee-marshal
+  file: agent-shipbuilding-drydock-garnishee-marshal.yaml
+  status: ACTIVE
+  role: Astilleros de La Habana, Caribbean Drydock Company (CDC) & Ship Repair Garnishee Marshal

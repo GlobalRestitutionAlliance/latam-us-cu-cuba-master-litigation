@@ -1,0 +1,19 @@
+id: commercial-shipyard-and-drydock-tariff-garnishment
+name: Commercial Shipyard Repair & Floating Drydock Tariff Garnishment
+description: Protocols for post-judgment garnishment, turnover, and statutory execution on international ship repair invoices, floating drydock tariffs, and marine engineering fees payable to Astilleros de La Habana / Caribbean Drydock Company (CDC).
+version: 1.0.0
+tactical_domain: Commercial Shipyard Garnishment, Drydock Tariff Interception & Admiralty In Rem Arrest
+execution_protocol:
+  - Step 1: Monitoring commercial vessels, tankers, and bulk carriers drydocked or repaired at Astilleros de La Habana and Caribbean Drydock Company facilities.
+  - Step 2: Serving post-judgment writs of garnishment under FRCP 69 and 28 U.S.C. § 1610(g) on foreign shipowners, charterers, and P&I marine insurance clubs settling repair invoices.
+  - Step 3: Executing Supplemental Admiralty Rule B and C in rem arrest complaints against commercial vessels berthed in or departing from shipyard repair wharves.
+  - Step 4: Registering execution liens on drydock infrastructure, including the 22,000-ton Chinese-built floating drydock and gantry crane installations in Havana Bay.
+  - Step 5: Directing all seized ship repair fees, drydocking tariffs, and marine salvage escrow balances into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Execution on Commercial Property)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Supplemental Admiralty Rule B & C (Maritime Attachment and In Rem Arrest)
+  - 28 U.S.C. § 1333 (Admiralty, Maritime and Prize Jurisdiction)
+  - Helms-Burton Act Title III, 22 U.S.C. § 6082 (Trafficking in Expropriated Waterfront Facilities)
+verified_by: agent-shipbuilding-drydock-garnishee-marshal
+status: READY
