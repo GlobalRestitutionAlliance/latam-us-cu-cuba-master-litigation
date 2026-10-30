@@ -1,0 +1,18 @@
+id: usvsst-fund-allocation-mastery
+name: USVSST Fund Allocation & Congressional Oversight Mastery
+description: Protocols for filing claims with the Special Master of the United States Victims of State Sponsored Terrorism Fund (34 U.S.C. § 20144) and coordinating Congressional oversight mandates under LIBERTAD Act Title II.
+version: 1.0.0
+tactical_domain: Legislative Restitution Claims & Sovereign Transition Mandates
+execution_protocol:
+  - Step 1: Preparation of formal claim applications to the USVSST Fund Special Master pursuant to 34 U.S.C. § 20144.
+  - Step 2: Calculation of eligible compensatory damages awards, pro-rata tranche payouts, and individual claimant allocations.
+  - Step 3: Monitoring federal criminal and civil corporate sanctions settlements (DOJ/OFAC) for statutory deposit into the USVSST Fund.
+  - Step 4: Drafting Congressional oversight inquiry packages for transmission to the Senate Foreign Relations and House Judiciary Committees.
+  - Step 5: Structuring statutory conditions under 22 U.S.C. §§ 6061–6067 requiring complete settlement of certified claims prior to diplomatic normalization.
+statutory_authorities:
+  - 34 U.S.C. § 20144 (Justice for United States Victims of State Sponsored Terrorism Act)
+  - 22 U.S.C. §§ 6061–6067 (Helms-Burton Act Title II: Assistance to a Free and Independent Cuba)
+  - 28 U.S.C. § 1746 (Unsworn declarations under penalty of perjury)
+  - 18 U.S.C. § 981(e)(6) (Remission of forfeited property to victims)
+verified_by: agent-congressional-statutory-liaison
+status: READY

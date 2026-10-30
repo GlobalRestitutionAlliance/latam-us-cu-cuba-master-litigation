@@ -92,3 +92,12 @@ skills:
 - id: title-iv-executive-exclusion
   file: title-iv-executive-exclusion.yaml
   status: READY
+- id: fsia-1605a-terrorism-litigation
+  file: fsia-1605a-terrorism-litigation.yaml
+  status: READY
+- id: tria-blocked-asset-execution
+  file: tria-blocked-asset-execution.yaml
+  status: READY
+- id: usvsst-fund-allocation-mastery
+  file: usvsst-fund-allocation-mastery.yaml
+  status: READY

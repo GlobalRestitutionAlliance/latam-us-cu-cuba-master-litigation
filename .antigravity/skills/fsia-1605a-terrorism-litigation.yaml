@@ -1,0 +1,19 @@
+id: fsia-1605a-terrorism-litigation
+name: FSIA § 1605A Terrorism Exception & Punitive Damages Litigation Mastery
+description: Protocols for pleading the Foreign Sovereign Immunities Act (FSIA) terrorism exception under 28 U.S.C. § 1605A, establishing State Sponsor of Terrorism (SSOT) liability, and formulating § 1605A(c) punitive damages multipliers.
+version: 1.0.0
+tactical_domain: Sovereign Terrorism Litigation & Exemplary Damages Formulation
+execution_protocol:
+  - Step 1: Verification of U.S. State Department State Sponsor of Terrorism (SSOT) designation in effect or causally linked to expropriation and covert acts.
+  - Step 2: Drafting 28 U.S.C. § 1605A complaint establishing subject matter jurisdiction via torture, extrajudicial killing, aircraft sabotage, or material support.
+  - Step 3: Evidentiary compilation of sovereign mens rea, intentional physical coercion, and state-sponsored terror.
+  - Step 4: Formulation of statutory punitive damages under 28 U.S.C. § 1605A(c) applying Flatow/Alejandre D.C. Circuit 3x to 5x multipliers.
+  - Step 5: Obtaining default or trial judgments and certification for immediate execution under 28 U.S.C. § 1610(g).
+statutory_authorities:
+  - 28 U.S.C. § 1605A (Terrorism exception to the jurisdictional immunity of a foreign state)
+  - 28 U.S.C. § 1605A(c) (Private right of action and punitive damages)
+  - 28 U.S.C. § 1610(g) (Property in certain actions; statutory piercing of separate juridical entities)
+  - 18 U.S.C. §§ 2339A, 2339B (Providing material support to terrorists)
+  - Pub. L. 117-46 (HAVANA Act of 2021)
+verified_by: agent-terrorism-sanctions-counsel
+status: READY

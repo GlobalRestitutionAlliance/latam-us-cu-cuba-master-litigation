@@ -1,0 +1,19 @@
+id: tria-blocked-asset-execution
+name: TRIA § 201(a) Blocked Asset Execution & § 1610(g) Statutory Piercing Mastery
+description: Protocols for executing on OFAC-blocked assets of a terrorist state under TRIA § 201(a) and enforcing 28 U.S.C. § 1610(g) statutory corporate veil annihilation against state agencies and instrumentalities.
+version: 1.0.0
+tactical_domain: Blocked Sovereign Asset Seizure & Statutory Instrumentality Piercing
+execution_protocol:
+  - Step 1: Cross-referencing OFAC blocked asset records under 31 C.F.R. Part 515 (Cuban Assets Control Regulations).
+  - Step 2: Drafting emergency writs of execution under Section 201(a) of the Terrorism Risk Insurance Act of 2002 (TRIA, 28 U.S.C. § 1610 note).
+  - Step 3: Invoking 28 U.S.C. § 1610(g) to attach property of separate state juridical entities without the burden of proving Bancec alter-ego factors.
+  - Step 4: Serving turnover petitions and levies on New York correspondent banks (JPMorgan, Citibank, BNY Mellon) holding frozen sovereign balances.
+  - Step 5: Coordinating inter-pleader defense and distribution orders into the Court-Appointed Qualified Settlement Fund.
+statutory_authorities:
+  - Terrorism Risk Insurance Act of 2002 (TRIA), Pub. L. 107-297, § 201(a), 116 Stat. 2322, 2337 (28 U.S.C. § 1610 note)
+  - 28 U.S.C. § 1610(g) (Execution on property of foreign state, agency, or instrumentality)
+  - 28 U.S.C. § 1610(a)(7) (Execution upon judgment relating to claim under § 1605A)
+  - 31 C.F.R. Part 515 (Cuban Assets Control Regulations)
+  - Fed. R. Civ. P. 69 (Execution)
+verified_by: agent-terrorism-sanctions-counsel
+status: READY

@@ -82,3 +82,11 @@ agents:
   file: agent-maritime-interdictor.yaml
   status: ACTIVE
   role: Dark Fleet Tracking, AIS Spoofing Forensics, Admiralty Prize Capture & Flag-State Deregistration Commander
+- id: agent-terrorism-sanctions-counsel
+  file: agent-terrorism-sanctions-counsel.yaml
+  status: ACTIVE
+  role: FSIA § 1605A Terrorism Exception, TRIA § 201(a) Blocked Asset Execution & § 1610(g) Statutory Piercing Architect
+- id: agent-congressional-statutory-liaison
+  file: agent-congressional-statutory-liaison.yaml
+  status: ACTIVE
+  role: Congressional Oversight Subpoenas, USVSST Fund Allocations (34 U.S.C. § 20144) & Title II Transition Statutory Architect

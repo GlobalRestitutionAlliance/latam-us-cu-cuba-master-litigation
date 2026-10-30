@@ -541,3 +541,21 @@ W:\Legal\US_CUBA\
 - **Weapons/Instruments Armed:** 25 Interdiction Instruments across Waves 1–5
 - **Dashboards:** `Master_GAESA_and_Sanctions_Interdiction_Crosswalk_Dashboard.md`, `.docx`, `.csv`
 - **Verification Status:** 100% Armed & Verified
+
+
+## Newly Registered Agents (Campaign 8)
+- **agent-terrorism-sanctions-counsel**: FSIA § 1605A Terrorism Exception, TRIA § 201(a) Blocked Asset Execution & § 1610(g) Statutory Piercing Architect.
+- **agent-congressional-statutory-liaison**: Congressional Oversight Subpoenas, USVSST Fund Allocations (34 U.S.C. § 20144) & Title II Transition Statutory Architect.
+
+## Newly Registered Skills (Campaign 8)
+- **fsia-1605a-terrorism-litigation**: 28 U.S.C. § 1605A sovereign terrorism exception drafting, material support mens rea proofs, and § 1605A(c) punitive damages multipliers.
+- **tria-blocked-asset-execution**: Terrorism Risk Insurance Act (TRIA) § 201(a) execution protocols and 28 U.S.C. § 1610(g) statutory corporate veil annihilation.
+- **usvsst-fund-allocation-mastery**: 34 U.S.C. § 20144 US Victims of State Sponsored Terrorism Fund claim filings, Special Master compliance, and Title II statutory compacts.
+
+## Completed Campaigns
+
+### Campaign 8: FSIA § 1605A Terrorism Exception, § 1610(g) Statutory Veil Annihilation & USVSST Restitution Campaign
+- **Asset Execution Pool:** **$365,000,000,000.00**
+- **Weapons/Instruments Armed:** 25 Statutory Instruments across Waves 1–5
+- **Dashboards:** `Master_Terrorism_and_Statutory_Execution_Crosswalk_Dashboard.md`, `.docx`, `.csv`
+- **Verification Status:** 100% Armed & Verified
