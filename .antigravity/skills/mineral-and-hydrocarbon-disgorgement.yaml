@@ -1,0 +1,18 @@
+id: mineral-and-hydrocarbon-disgorgement
+name: Mineral & Hydrocarbon Disgorgement Mastery
+description: Protocols for forensic mineral reserve modeling, offshore Exclusive Economic Zone (EEZ) lease auditing, petroleum refinery throughput accounting, and downstream commodity lien execution.
+version: 1.0.0
+tactical_domain: Natural Resources Exploitation & Mineral Disgorgement
+execution_protocol:
+  - Step 1: Ingestion of satellite multi-spectral geological survey data to quantify open-pit mining volumes at Moa Bay, Nicaro, and Matahambre.
+  - Step 2: Historical title and concession audit establishing original American and private ownership (Freeport Sulphur, Texaco, Esso).
+  - Step 3: Forensic accounting of cumulative 60-year mineral extraction, uncompensated refining margins, and joint venture dividends paid to foreign partners (Sherritt, Trafigura).
+  - Step 4: Formulation of constructive trust complaints under 22 U.S.C. § 6082 and common law equity served on global mineral trading desks.
+  - Step 5: Service of maritime attachment writs and in rem liens on mineral freighters and refined petroleum tankers in international transit.
+statutory_authorities:
+  - 22 U.S.C. § 6082 (LIBERTAD Act Title III: Liability for trafficking in confiscated property)
+  - 28 U.S.C. § 1605(a)(3) (FSIA commercial takings exception)
+  - 43 U.S.C. §§ 1331–1356b (Outer Continental Shelf Lands Act principles applied to EEZ boundaries)
+  - Restatement (Third) of Restitution and Unjust Enrichment § 40 (Trespass and Conversion of Mineral Rights)
+verified_by: agent-natural-resources-auditor
+status: READY

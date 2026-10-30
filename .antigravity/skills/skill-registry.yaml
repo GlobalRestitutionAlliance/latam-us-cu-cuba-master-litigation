@@ -101,3 +101,12 @@ skills:
 - id: usvsst-fund-allocation-mastery
   file: usvsst-fund-allocation-mastery.yaml
   status: READY
+- id: mineral-and-hydrocarbon-disgorgement
+  file: mineral-and-hydrocarbon-disgorgement.yaml
+  status: READY
+- id: agrarian-title-quieting-and-restitution
+  file: agrarian-title-quieting-and-restitution.yaml
+  status: READY
+- id: forced-labor-trade-interdiction
+  file: forced-labor-trade-interdiction.yaml
+  status: READY

@@ -90,3 +90,11 @@ agents:
   file: agent-congressional-statutory-liaison.yaml
   status: ACTIVE
   role: Congressional Oversight Subpoenas, USVSST Fund Allocations (34 U.S.C. § 20144) & Title II Transition Statutory Architect
+- id: agent-natural-resources-auditor
+  file: agent-natural-resources-auditor.yaml
+  status: ACTIVE
+  role: Mining Concessions, Offshore Hydrocarbon Blocks & Geological Reserve Forensic Auditor
+- id: agent-agrarian-latifundia-marshal
+  file: agent-agrarian-latifundia-marshal.yaml
+  status: ACTIVE
+  role: Agrarian Latifundia Title Quieting, Sugar Centrales Restitution & 19 U.S.C. § 1307 Forced Labor Interdictor

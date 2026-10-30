@@ -559,3 +559,21 @@ W:\Legal\US_CUBA\
 - **Weapons/Instruments Armed:** 25 Statutory Instruments across Waves 1–5
 - **Dashboards:** `Master_Terrorism_and_Statutory_Execution_Crosswalk_Dashboard.md`, `.docx`, `.csv`
 - **Verification Status:** 100% Armed & Verified
+
+
+## Newly Registered Agents (Campaign 9)
+- **agent-natural-resources-auditor**: Mining Concessions, Offshore Hydrocarbon Blocks & Geological Reserve Forensic Auditor.
+- **agent-agrarian-latifundia-marshal**: Agrarian Latifundia Title Quieting, Sugar Centrales Restitution & 19 U.S.C. § 1307 Forced Labor Interdictor.
+
+## Newly Registered Skills (Campaign 9)
+- **mineral-and-hydrocarbon-disgorgement**: Forensic mineral reserve modeling, offshore EEZ lease auditing, and downstream commodity lien execution.
+- **agrarian-title-quieting-and-restitution**: Cadastral registry reconstruction, 28 U.S.C. § 1655 quiet title, and in rem ejectment proceedings.
+- **forced-labor-trade-interdiction**: 19 U.S.C. § 1307 Tariff Act petitions, CBP Withhold Release Orders, and USMCA forced labor exclusions.
+
+## Completed Campaigns
+
+### Campaign 9: Strategic Minerals, Agro-Industrial Latifundia & Offshore Natural Resources Disgorgement Campaign
+- **Asset Recovery Pool:** **$450,000,000,000.00**
+- **Weapons/Instruments Armed:** 25 Resource Instruments across Waves 1–5
+- **Dashboards:** `Master_Natural_Resources_and_Latifundia_Crosswalk_Dashboard.md`, `.docx`, `.csv`
+- **Verification Status:** 100% Armed & Verified

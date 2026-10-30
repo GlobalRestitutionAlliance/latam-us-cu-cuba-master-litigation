@@ -1,0 +1,18 @@
+id: forced-labor-trade-interdiction
+name: 19 U.S.C. § 1307 Forced Labor Trade Interdiction Mastery
+description: Protocols under the Tariff Act of 1930 (19 U.S.C. § 1307) and USMCA Article 23.6 for compiling CBP Withhold Release Order petitions targeting Cuban commodities produced by military conscripts (EJT) and prison laborers.
+version: 1.0.0
+tactical_domain: International Trade Sanctions, Forced Labor Interdiction & Supply Chain Severance
+execution_protocol:
+  - Step 1: Evidentiary documentation of coerced labor practices by the Military Agricultural Work Army (Ejército Juvenil del Trabajo - EJT) in sugarcane and tobacco cultivation.
+  - Step 2: Compiling witness testimonies, military directives, and penal facility labor registries under FRE 803(8) public record standards.
+  - Step 3: Drafting formal 19 U.S.C. § 1307 Petitions to the Commissioner of U.S. Customs and Border Protection (CBP) seeking nationwide Withhold Release Orders (WROs).
+  - Step 4: Transmitting supply chain advisories to European and Canadian importers warning of secondary civil and criminal liability for importing goods tainted by forced labor.
+  - Step 5: Coordinating concurrent Title III civil actions with CBP border detentions to force global commodities buyers to terminate Cuban regime contracts.
+statutory_authorities:
+  - 19 U.S.C. § 1307 (Prohibition on importation of goods produced by convict, forced, or indentured labor)
+  - 19 C.F.R. §§ 12.42–12.44 (Customs regulations on forced labor determinations and Withhold Release Orders)
+  - USMCA Chapter 23, Article 23.6 (Prohibition of the Importation of Goods Produced by Forced Labor)
+  - International Labour Organization (ILO) Convention No. 29 (Forced Labour Convention) and Convention No. 105 (Abolition of Forced Labour)
+verified_by: agent-agrarian-latifundia-marshal
+status: READY

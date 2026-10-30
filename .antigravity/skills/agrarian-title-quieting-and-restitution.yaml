@@ -1,0 +1,18 @@
+id: agrarian-title-quieting-and-restitution
+name: Agrarian Latifundia Title Quieting & Restitution Mastery
+description: Protocols for reconstructing historical cadastral property registries, quieting title to 3+ million acres of expropriated sugar estates, cattle ranches, and distilleries, and enforcing in rem ejectment against unauthorized occupiers.
+version: 1.0.0
+tactical_domain: Real Property Law, Cadastral Reconstruction & In Rem Restitution
+execution_protocol:
+  - Step 1: Deep archival retrieval of pre-1959 Registro de la Propiedad (Property Registry) ledgers and notarial deeds from NARA and Havana Municipal Archives.
+  - Step 2: Spatial mapping and GIS boundary demarcation of historical latifundia (United Fruit, CASCO, Hershey, King Ranch, Bacardi).
+  - Step 3: Preparation of federal court in rem quiet title actions under diversity and admiralty jurisdiction establishing unextinguished fee simple title.
+  - Step 4: Formulation of accounting claims for six decades of uncompensated agrarian rents, sugar quota siphons, and timber/cattle harvesting.
+  - Step 5: Obtaining declaratory and injunctive decrees voiding all subsequent state agrarian reform transfers and foreign commercial leases.
+statutory_authorities:
+  - 28 U.S.C. § 1655 (Lien enforcement; absent defendants; quiet title actions)
+  - 22 U.S.C. § 6082 (LIBERTAD Act Title III: Money damages for trafficking in confiscated real property)
+  - Restatement (Third) of Property (Servitudes & Mortgages) § 7.1
+  - Federal Rule of Civil Procedure 70 (Enforcing a Judgment for a Specific Act; Divesting Title)
+verified_by: agent-agrarian-latifundia-marshal
+status: READY

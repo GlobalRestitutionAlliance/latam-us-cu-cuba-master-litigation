@@ -822,3 +822,26 @@ All 1,805 vectors spanning the 221-year continuum (1805–2026) have been system
 - Dashboard (MD): `00_Master_Knowledge_Base/Master_Terrorism_and_Statutory_Execution_Crosswalk_Dashboard.md`.
 - Dashboard (DOCX): `00_Master_Knowledge_Base/Master_Terrorism_and_Statutory_Execution_Crosswalk_Dashboard.docx`.
 - Status: **100% ARMED, CROSS-WALKED & AUDITED**.
+
+---
+
+## [2026-10-30T14:20:00-04:00] - Campaign 9: Strategic Minerals, Agro-Industrial Latifundia & Offshore Natural Resources Disgorgement Campaign
+
+### 1. Architectural Scope & Mandate
+- **Campaign ID:** EV-CUSTODY-HIGH-REWARD-CAMPAIGN-009
+- **Mission:** Execute in rem quiet title actions, cadastral property reconstruction, 19 U.S.C. § 1307 forced labor trade interdictions, and downstream commodity constructive trusts over expropriated strategic minerals (Moa Bay, Nicaro, Matahambre), 3+ million acres of sugar latifundia (United Fruit, CASCO, Hershey, King Ranch), offshore EEZ oil blocks, coastal refineries (Texaco, Esso), and historic rum/tobacco monopolies (Arechabala, Bacardi, Vuelta Abajo).
+- **Total Cumulative Tangible Asset Restitution Pool:** **$450,000,000,000.00**
+- **Swarm Force Modernization:** Deployed 2 new active agents (`agent-natural-resources-auditor`, `agent-agrarian-latifundia-marshal`) and 3 new tactical skills (`mineral-and-hydrocarbon-disgorgement`, `agrarian-title-quieting-and-restitution`, `forced-labor-trade-interdiction`). Total active armory: **24 agents, 36 skills**.
+
+### 2. Phased Waves Audit & Confirmation (100% Parity)
+- **Wave 1 (Strategic Minerals & Nickel-Cobalt Concessions):** 5/5 Targets armed ($125.00B). Moa Bay Sherritt JV Title III constructive trust, Nicaro U.S. defense plant conversion claim, Matahambre copper vein accounting, Trafigura lead-zinc joint venture interdiction, and Isle of Pines marble/rare earths quiet title.
+- **Wave 2 (Sugar Latifundia, Centrales & Agro-Industrial Estates):** 5/5 Targets armed ($130.00B). 28 U.S.C. § 1655 quiet title and FRCP Rule 70 title vesting across 300k+ acres of United Fruit Company estates, CASCO Chaparra/Delicias mega-centrales, Hershey electric railway complex, WISCO bulk sugar shipping ports, and King Ranch 500k-acre cattle latifundia.
+- **Wave 3 (Offshore EEZ Hydrocarbon Blocks & Petroleum Infrastructure):** 5/5 Targets armed ($85.00B). Law of the sea invalidation of 59 deepwater Gulf of Mexico oil blocks, Matanzas supertanker terminal maritime attachment, Nico López (Esso) refinery disgorgement, Hermanos Díaz (Texaco) refinery attachment, and coastal crude well royalty tracing.
+- **Wave 4 (Tobacco Vegas, Rum Distilleries & Export Monopolies):** 5/5 Targets armed ($60.00B). Vuelta Abajo wrapper tobacco quiet title, Arechabala / original Havana Club Title III disgorgement, Bacardi Santiago de Cuba maturation cellars restitution, Tabacuba commercial monopoly execution under § 1610(g), and Cuba Ron / Pernod Ricard European dividend garnishments.
+- **Wave 5 (Forced Labor Interdiction & Class Restitution Remission):** 5/5 Targets armed ($50.00B discrete / $450.00B aggregate). 19 U.S.C. § 1307 CBP Withhold Release Order petitions banning commodities produced by military (EJT) forced labor, USMCA supply chain exclusions, Rotterdam/Antwerp maritime cargo liens, federal in rem ejectment decrees, and unified restitution decree remitting proceeds to the certified QSF.
+
+### 3. Deliverables & Cross-Walk Assets
+- Matrix: `00_Master_Knowledge_Base/Master_Natural_Resources_and_Latifundia_Crosswalk_Matrix.csv` (25 resource instruments).
+- Dashboard (MD): `00_Master_Knowledge_Base/Master_Natural_Resources_and_Latifundia_Crosswalk_Dashboard.md`.
+- Dashboard (DOCX): `00_Master_Knowledge_Base/Master_Natural_Resources_and_Latifundia_Crosswalk_Dashboard.docx`.
+- Status: **100% ARMED, CROSS-WALKED & AUDITED**.
