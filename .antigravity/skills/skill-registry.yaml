@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 93
+total_skills: 96
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -296,3 +296,15 @@ skills:
   name: Medical Travel Insurance & Assistance Agency Interdiction
   status: ACTIVE
   manifest_file: .antigravity/skills/medical-travel-insurance-and-agency-interdiction.yaml
+- id: water-utility-and-aqueduct-joint-venture-disgorgement
+  name: Water Utility & Municipal Aqueduct Joint-Venture Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/water-utility-and-aqueduct-joint-venture-disgorgement.yaml
+- id: resort-hotel-utility-tariff-garnishment
+  name: Resort Hotel Commercial Utility Tariff Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/resort-hotel-utility-tariff-garnishment.yaml
+- id: hydroelectric-and-desalination-concession-interdiction
+  name: Hydroelectric & Desalination Concession Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/hydroelectric-and-desalination-concession-interdiction.yaml

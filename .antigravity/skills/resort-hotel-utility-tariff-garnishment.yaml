@@ -1,0 +1,10 @@
+id: resort-hotel-utility-tariff-garnishment
+name: Resort Hotel Commercial Utility Tariff Garnishment
+description: Multi-jurisdictional garnishment and third-party debt order protocols targeting hard-currency water and wastewater utility payments made by foreign resort hotel operators (Meliá, Iberostar, Blue Diamond, Kempinski) in Varadero and Havana to state water concessions.
+version: 1.0.0
+tactical_domain: Commercial Utility Garnishment, Hotel Operating Account Attachment & Municipal Receivable Levies
+execution_protocol:
+  - Step 1: Subpoenaing water and sewage utility supply contracts, billing ledgers, and payment accounts of foreign hotel conglomerates.
+  - Step 2: Serving third-party debt orders under NY CPLR § 5227 and Spanish LEC Art. 592 on hotel operating escrow accounts.
+  - Step 3: Freezing monthly hard-currency utility disbursements prior to transfer to Aguas de Varadero and Aguas de La Habana bank accounts.
+  - Step 4: Compelling turnover of garnished utility proceeds directly into the Master Qualified Settlement Fund.

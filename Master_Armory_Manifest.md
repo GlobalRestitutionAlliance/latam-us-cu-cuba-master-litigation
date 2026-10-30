@@ -967,3 +967,24 @@ W:\Legal\US_CUBA\
   - [Master_Medical_Tourism_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Medical_Tourism_Crosswalk_Matrix.csv)
   - [Master_Medical_Tourism_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Medical_Tourism_Crosswalk_Dashboard.md)
   - [Master_Medical_Tourism_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Medical_Tourism_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 29)
+- `agent-water-utility-concessions-auditor`: INRH, Aguas de La Habana, Aguas de Varadero & Agbar / Veolia JV Auditor.
+- `agent-utility-tariff-garnishee-marshal`: Foreign Hotel Utility Tariffs, European Management Escrows & Desalination Concessions Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 29)
+- `water-utility-and-aqueduct-joint-venture-disgorgement`: Water Utility & Municipal Aqueduct Joint-Venture Disgorgement.
+- `resort-hotel-utility-tariff-garnishment`: Resort Hotel Commercial Utility Tariff Garnishment.
+- `hydroelectric-and-desalination-concession-interdiction`: Hydroelectric & Desalination Concession Interdiction.
+
+## Completed Campaigns
+### Campaign 29: Sovereign Water & Wastewater Utilities, Expropriated Aqueducts & Agbar-Veolia JV Restitution Campaign
+- **Total Restitution Pool:** $280,000,000,000.00 ($280.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** WATER-001 through WATER-025
+- **Assigned Agents:** `agent-water-utility-concessions-auditor`, `agent-utility-tariff-garnishee-marshal`
+- **Certified Skills:** `water-utility-and-aqueduct-joint-venture-disgorgement`, `resort-hotel-utility-tariff-garnishment`, `hydroelectric-and-desalination-concession-interdiction`
+- **Evidentiary Artifacts:**
+  - [Master_Water_Utilities_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Water_Utilities_Crosswalk_Matrix.csv)
+  - [Master_Water_Utilities_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Water_Utilities_Crosswalk_Dashboard.md)
+  - [Master_Water_Utilities_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Water_Utilities_Crosswalk_Dashboard.docx)

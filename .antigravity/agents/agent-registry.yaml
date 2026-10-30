@@ -305,4 +305,15 @@ agents:
     Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-patient-escrow-garnishee-marshal.yaml
-total_agents: 62
+- id: agent-water-utility-concessions-auditor
+  name: Sovereign Water & Wastewater Utilities Concessions Auditor
+  role: INRH, Aguas de La Habana, Aguas de Varadero & Agbar / Veolia JV Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-water-utility-concessions-auditor.yaml
+- id: agent-utility-tariff-garnishee-marshal
+  name: Commercial Utility Tariff & Water Infrastructure Garnishee Marshal
+  role: Foreign Hotel Utility Tariffs, European Management Escrows & Desalination
+    Concessions Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-utility-tariff-garnishee-marshal.yaml
+total_agents: 64
