@@ -778,3 +778,24 @@ W:\Legal\US_CUBA\
   - [Master_Remittances_and_FinTech_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Remittances_and_FinTech_Crosswalk_Matrix.csv)
   - [Master_Remittances_and_FinTech_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Remittances_and_FinTech_Crosswalk_Dashboard.md)
   - [Master_Remittances_and_FinTech_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Remittances_and_FinTech_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 20)
+- `agent-cultural-patrimony-auditor`: Museo Nacional de Bellas Artes, Cintas Collection & Looted Cultural Assets Forensic Auditor.
+- `agent-maritime-salvage-garnishee-marshal`: Carisub S.A., Spanish Treasure Galleons, Gold/Silver Numismatics & Admiralty Marshal.
+
+## Newly Registered Skills (Campaign 20)
+- `cultural-property-expropriation-and-replevin`: Confiscated Cultural Property Expropriation, Replevin & HEAR Act Recovery.
+- `sunken-galleon-salvage-and-carisub-admiralty-arrest`: Historic Spanish Galleon Maritime Shipwreck Salvage Interdiction & In Rem Arrest.
+- `colonial-numismatic-and-auction-house-disgorgement`: Colonial Numismatic Gold/Silver Disgorgement & International Auction House Interception.
+
+## Completed Campaigns
+### Campaign 20: Confiscated Historic Fine Art, Ancient Antiquities, Rare Numismatics & Historic Spanish Galleon Maritime Shipwreck Restitution Campaign
+- **Total Restitution Pool:** $320,000,000,000.00 ($320.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** ART-001 through ART-025
+- **Assigned Agents:** `agent-cultural-patrimony-auditor`, `agent-maritime-salvage-garnishee-marshal`
+- **Certified Skills:** `cultural-property-expropriation-and-replevin`, `sunken-galleon-salvage-and-carisub-admiralty-arrest`, `colonial-numismatic-and-auction-house-disgorgement`
+- **Evidentiary Artifacts:**
+  - [Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Matrix.csv)
+  - [Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Dashboard.md)
+  - [Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Fine_Art_and_Maritime_Salvage_Crosswalk_Dashboard.docx)

@@ -1,0 +1,19 @@
+id: cultural-property-expropriation-and-replevin
+name: Confiscated Cultural Property Expropriation, Replevin & HEAR Act Recovery
+description: Comprehensive litigation and enforcement protocols for asserting common law replevin, constructive trusts, and FSIA § 1605(a)(3) expropriation claims against confiscated European Old Masters, modern Cuban master paintings, and ancient antiquities.
+version: 1.0.0
+tactical_domain: Cultural Patrimony Expropriation, Replevin & Museum Loan Interdiction
+execution_protocol:
+  - Step 1: Mapping chain of title and proving unlawful confiscation without compensation for private art collections seized in 1959-1961 (Oscar B. Cintas, Count of Lagunillas, Fructuoso Gelabert).
+  - Step 2: Correlating expropriated masterworks with international museum inventories, catalogues raisonnés, and active foreign exhibition loan requests.
+  - Step 3: Invoking the expropriation exception of the Foreign Sovereign Immunities Act (28 U.S.C. § 1605(a)(3)) establishing commercial activity nexus in the United States.
+  - Step 4: Applying choice-of-law principles established in Cassirer v. Thyssen-Bornemisza (596 U.S. 107) and Republic of Austria v. Altmann (541 U.S. 677) to defeat foreign sovereign defenses.
+  - Step 5: Securing prejudgment attachments, replevin orders, and final judicial turnover decrees transferring legal title and custody to the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)
+  - Holocaust Expropriated Art Recovery (HEAR) Act of 2016, Pub. L. 114-308, 130 Stat. 1524
+  - Cassirer v. Thyssen-Bornemisza Collection Foundation, 596 U.S. 107 (2022)
+  - Republic of Austria v. Altmann, 541 U.S. 677 (2004)
+  - Restatement (Third) of Restitution and Unjust Enrichment § 42 & § 55
+verified_by: agent-cultural-patrimony-auditor
+status: READY

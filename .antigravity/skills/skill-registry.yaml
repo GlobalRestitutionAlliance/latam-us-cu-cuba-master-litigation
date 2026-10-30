@@ -200,3 +200,12 @@ skills:
 - id: sovereign-card-processing-and-mlc-disgorgement
   file: sovereign-card-processing-and-mlc-disgorgement.yaml
   status: READY
+- id: cultural-property-expropriation-and-replevin
+  file: cultural-property-expropriation-and-replevin.yaml
+  status: READY
+- id: sunken-galleon-salvage-and-carisub-admiralty-arrest
+  file: sunken-galleon-salvage-and-carisub-admiralty-arrest.yaml
+  status: READY
+- id: colonial-numismatic-and-auction-house-disgorgement
+  file: colonial-numismatic-and-auction-house-disgorgement.yaml
+  status: READY

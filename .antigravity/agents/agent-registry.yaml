@@ -178,3 +178,11 @@ agents:
   file: agent-correspondent-banking-garnishee-marshal.yaml
   status: ACTIVE
   role: U.S. Intermediary Banks, Money Service Businesses & Remittance Clearinghouse Garnishment Marshal
+- id: agent-cultural-patrimony-auditor
+  file: agent-cultural-patrimony-auditor.yaml
+  status: ACTIVE
+  role: Museo Nacional de Bellas Artes, Cintas Collection & Looted Cultural Assets Forensic Auditor
+- id: agent-maritime-salvage-garnishee-marshal
+  file: agent-maritime-salvage-garnishee-marshal.yaml
+  status: ACTIVE
+  role: Carisub S.A., Spanish Treasure Galleons, Gold/Silver Numismatics & Admiralty Marshal

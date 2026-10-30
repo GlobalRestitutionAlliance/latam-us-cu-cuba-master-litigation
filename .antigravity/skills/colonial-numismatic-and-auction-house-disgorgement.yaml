@@ -1,0 +1,19 @@
+id: colonial-numismatic-and-auction-house-disgorgement
+name: Colonial Numismatic Gold/Silver Disgorgement & International Auction House Interception
+description: Operational framework for auditing, freezing, and disgorging revenues from international auction houses, coin dealers, and consignment galleries marketing expropriated Cuban colonial numismatics, gold escudos, and historic paper scrip.
+version: 1.0.0
+tactical_domain: Numismatic Market Interdiction, Auction House Garnishment & Cultural Stolen Property Enforcement
+execution_protocol:
+  - Step 1: Monitoring worldwide numismatic auctions (New York, London, Madrid, Zurich) for lots containing rare Cuban colonial gold/silver coinage originating from state museum deaccessions or Carisub salvages.
+  - Step 2: Serving National Stolen Property Act (18 U.S.C. §§ 2314-2315) notices and UNESCO 1970 Convention alerts on auction houses (Sotheby's, Christie's, Tauler & Fau, Cayón).
+  - Step 3: Obtaining federal post-judgment turnover orders under FRCP 69 freezing consignor settlement escrows and unpaid buyer premiums.
+  - Step 4: Piercing commercial veils of cultural export intermediaries operated by the Oficina del Historiador de la Ciudad de La Habana (OHCH).
+  - Step 5: Transferring confiscated rare coins, historic banknotes, and accrued sale proceeds into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - National Stolen Property Act (NSPA), 18 U.S.C. §§ 2314-2315
+  - UNESCO 1970 Convention on Cultural Property (19 U.S.C. § 2601 et seq., CPIA)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - 28 U.S.C. § 1610(a)(3) & § 1610(g) (Execution on Confiscated Property)
+  - United States v. Schultz, 333 F.3d 393 (2d Cir. 2003)
+verified_by: agent-maritime-salvage-garnishee-marshal
+status: READY

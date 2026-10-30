@@ -1,0 +1,19 @@
+id: sunken-galleon-salvage-and-carisub-admiralty-arrest
+name: Historic Spanish Galleon Maritime Shipwreck Salvage Interdiction & In Rem Arrest
+description: Protocols for auditing sovereign underwater salvage concessions granted to Carisub S.A., asserting maritime liens under Supplemental Admiralty Rule C, and executing in rem arrest warrants on recovered Spanish treasure galleon cargo.
+version: 1.0.0
+tactical_domain: Maritime Shipwreck Salvage Interdiction, In Rem Arrest & Sovereign Concession Disgorgement
+execution_protocol:
+  - Step 1: Auditing concession agreements between the Council of State / MININT, Carisub S.A., and international commercial underwater salvage syndicates.
+  - Step 2: Mapping historical wreck sites of the 1622 Tierra Firme, 1715 Plate Fleet, and 1733 Nueva España flotillas along the Cuban coast and Old Bahama Channel.
+  - Step 3: Filing in rem admiralty arrest complaints under Supplemental Admiralty Rule C against salvaged historical artifacts (bronze ordnance, bullion, silver ingots) touching U.S. or foreign partner ports.
+  - Step 4: Applying the Abandoned Shipwreck Act (43 U.S.C. §§ 2101-2106) and law of maritime finds to negate sovereign immunity claims over commercial salvage operations.
+  - Step 5: Directing seized treasure artifacts and foreign consortium concession royalty streams into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - Supplemental Admiralty Rule C (In Rem Actions: Special Provisions)
+  - Abandoned Shipwreck Act of 1987 (ASA), 43 U.S.C. §§ 2101-2106
+  - 28 U.S.C. § 1605(b) (Admiralty Maritime Lien Exception to Sovereign Immunity)
+  - 28 U.S.C. § 1610(g) & 28 U.S.C. § 1333 (Admiralty and Maritime Jurisdiction)
+  - International Salvage Convention 1989
+verified_by: agent-maritime-salvage-garnishee-marshal
+status: READY
