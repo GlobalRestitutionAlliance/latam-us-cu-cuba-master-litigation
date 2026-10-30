@@ -1,0 +1,19 @@
+id: sovereign-aircraft-arrest-and-grounding
+name: CACSA Sovereign Airframe In Rem Arrest, Grounding & Wet-Lease Disgorgement
+description: Admiralty and international aviation in rem arrest procedures targeting CACSA/Cubana de Aviación registered airframes, turbine engines, avionics components, and charter escrow deposits.
+version: 1.0.0
+tactical_domain: International Aviation In Rem Arrest & Sovereign Aircraft Attachment
+execution_protocol:
+  - Step 1: Tracking tail numbers, ICAO 24-bit transponder addresses, and maintenance schedules of state-owned and chartered airframes operating international routes.
+  - Step 2: Identification of sovereign jet engines (CFM56, Pratt & Whitney, Aviadvigatel) undergoing scheduled maintenance at foreign MRO hubs.
+  - Step 3: Registration of international interests and priority liens with the Cape Town International Registry of Mobile Assets under the Cape Town Convention.
+  - Step 4: Obtaining judicial arrest warrants and grounding orders from competent admiralty and commercial courts upon landing in receptive jurisdictions.
+  - Step 5: Subpoenaing third-party ACMI (Aircraft, Crew, Maintenance, Insurance) wet-lease providers and annexing advance lease deposits and escrow balances.
+statutory_authorities:
+  - Convention on International Interests in Mobile Equipment (Cape Town Convention), Nov. 16, 2001
+  - Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment (Aircraft Protocol)
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Execution on Commercial Property)
+  - Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions, Rule B & Rule C
+  - FAA Aircraft Registry Priority Lien Regulations (14 C.F.R. Part 49)
+verified_by: agent-aviation-fleet-marshal
+status: READY

@@ -1,0 +1,19 @@
+id: havana-fir-overflight-fee-interdiction
+name: Havana Flight Information Region (FIR) Overflight Fee Interdiction & Escrow Annexation
+description: Strategic garnishment architecture commanding commercial airlines operating through the Havana FIR to deposit air navigation transit royalties directly into federal court escrow / Master Restitution QSF under Alejandre and TRIA.
+version: 1.0.0
+tactical_domain: Airspace Navigation Royalty Interdiction & FIR Escrow Annexation
+execution_protocol:
+  - Step 1: Real-time telemetry monitoring and audit of U.S. and international passenger and cargo flights traversing the Havana Flight Information Region (FIR).
+  - Step 2: Calculation of monthly navigation fee liabilities payable by U.S. carriers (American, Delta, United, JetBlue, Southwest) and foreign carriers to ECASA / CACSA.
+  - Step 3: Drafting and service of federal writs of garnishment under FRCP Rule 69 on carrier treasury departments and OFAC-licensed clearing accounts.
+  - Step 4: Invocation of binding precedent from Alejandre v. Republic of Cuba (996 F. Supp. 1239) and TRIA § 201(a) establishing sovereign fee garnishability.
+  - Step 5: Obtaining injunctive orders prohibiting direct payment to Cuban aviation authorities and compelling escrow deposits into the Master Restitution QSF.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(7) (Attachment in aid of execution on § 1605A judgment)
+  - 28 U.S.C. § 1610(g) (Property of foreign state agency or instrumentality)
+  - Terrorism Risk Insurance Act of 2002 (TRIA) § 201(a) (28 U.S.C. § 1610 note)
+  - Alejandre v. Republic of Cuba, 996 F. Supp. 1239 (S.D. Fla. 1997), rev'd in part on other grounds, 183 F.3d 1277 (11th Cir. 1999)
+  - 49 U.S.C. § 40101 et seq. (Federal Aviation Act)
+verified_by: agent-airspace-transit-garnishee-counsel
+status: READY

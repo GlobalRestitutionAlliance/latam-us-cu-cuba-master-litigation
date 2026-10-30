@@ -122,3 +122,11 @@ agents:
   file: agent-labor-export-interdictor.yaml
   status: ACTIVE
   role: CSMC S.A. State Monopoly Auditing, Bilateral Host Government Contract Interception & 8-Year Rule Sanctions Marshal
+- id: agent-aviation-fleet-marshal
+  file: agent-aviation-fleet-marshal.yaml
+  status: ACTIVE
+  role: CACSA Sovereign Holding, Cubana de Aviación Airframe Attachment & Wet Lease Interdiction Commander
+- id: agent-airspace-transit-garnishee-counsel
+  file: agent-airspace-transit-garnishee-counsel.yaml
+  status: ACTIVE
+  role: Havana FIR Overflight Royalties, IATA Clearinghouse Settlement & Air Navigation Garnishment Architect

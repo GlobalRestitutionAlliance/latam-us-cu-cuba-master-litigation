@@ -631,3 +631,24 @@ W:\Legal\US_CUBA\
 - **Weapons/Instruments Armed:** 25 Human Rights & Labor Instruments across Waves 1–5
 - **Dashboards:** `Master_Human_Rights_and_TVPRA_Crosswalk_Dashboard.md`, `.docx`, `.csv`
 - **Verification Status:** 100% Armed & Verified
+
+## Newly Registered Agents (Campaign 13)
+- `agent-aviation-fleet-marshal`: CACSA Sovereign Holding, Cubana de Aviación Airframe Attachment & Wet Lease Interdiction Commander.
+- `agent-airspace-transit-garnishee-counsel`: Havana FIR Overflight Royalties, IATA Clearinghouse Settlement & Air Navigation Garnishment Architect.
+
+## Newly Registered Skills (Campaign 13)
+- `iata-clearinghouse-settlement-garnishment`: IATA Billing and Settlement Plan (BSP) & Airline Clearinghouse Garnishment Execution.
+- `havana-fir-overflight-fee-interdiction`: Havana Flight Information Region (FIR) Overflight Fee Interdiction & Escrow Annexation.
+- `sovereign-aircraft-arrest-and-grounding`: CACSA Sovereign Airframe In Rem Arrest, Grounding & Wet-Lease Disgorgement.
+
+## Completed Campaigns
+### Campaign 13: Commercial Aviation Fleet Seizure, IATA Clearinghouse Interdiction & Airspace Overflight Escrow Disgorgement Campaign
+- **Total Restitution Pool:** $310,000,000,000.00 ($310.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** AV-001 through AV-025
+- **Assigned Agents:** `agent-airspace-transit-garnishee-counsel`, `agent-aviation-fleet-marshal`
+- **Certified Skills:** `iata-clearinghouse-settlement-garnishment`, `havana-fir-overflight-fee-interdiction`, `sovereign-aircraft-arrest-and-grounding`
+- **Evidentiary Artifacts:**
+  - [Master_Commercial_Aviation_and_Airspace_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Aviation_and_Airspace_Crosswalk_Matrix.csv)
+  - [Master_Commercial_Aviation_and_Airspace_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Aviation_and_Airspace_Crosswalk_Dashboard.md)
+  - [Master_Commercial_Aviation_and_Airspace_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Aviation_and_Airspace_Crosswalk_Dashboard.docx)

@@ -137,3 +137,12 @@ skills:
 - id: sovereign-labor-contract-garnishment
   file: sovereign-labor-contract-garnishment.yaml
   status: READY
+- id: iata-clearinghouse-settlement-garnishment
+  file: iata-clearinghouse-settlement-garnishment.yaml
+  status: READY
+- id: havana-fir-overflight-fee-interdiction
+  file: havana-fir-overflight-fee-interdiction.yaml
+  status: READY
+- id: sovereign-aircraft-arrest-and-grounding
+  file: sovereign-aircraft-arrest-and-grounding.yaml
+  status: READY

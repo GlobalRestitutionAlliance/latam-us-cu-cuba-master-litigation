@@ -1,0 +1,19 @@
+id: iata-clearinghouse-settlement-garnishment
+name: IATA Billing and Settlement Plan (BSP) & Multilateral Clearinghouse Garnishment Execution
+description: Protocols for serving post-judgment garnishment writs and turnover orders under 28 U.S.C. § 1610(a)(2), § 1610(g), and TRIA § 201(a) upon IATA Clearing House (ICH) and bank settlement accounts.
+version: 1.0.0
+tactical_domain: International Airline Settlement Clearinghouse Garnishment
+execution_protocol:
+  - Step 1: Identification of IATA Clearing House (ICH) multi-currency netting cycles and Billing and Settlement Plan (BSP) banks in the U.S., Switzerland, Canada, and Spain.
+  - Step 2: Forensic auditing of monthly inter-airline ticket reconciliations, cargo airway bill clearings, and passenger processing floats.
+  - Step 3: Drafting federal writs of garnishment under FRCP Rule 69 and 28 U.S.C. § 1610(g) served on IATA clearing institutions and financial depository conduits.
+  - Step 4: Overcoming international organization immunity defenses by establishing commercial exception applicability under IOIA and 28 U.S.C. § 1605(a)(2).
+  - Step 5: Securing judicial turnover orders transferring blocked IATA clearing receivables into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(2) (Execution upon property used for commercial activity in the U.S.)
+  - 28 U.S.C. § 1610(g) (Execution on property of foreign state agency or instrumentality)
+  - Terrorism Risk Insurance Act of 2002 (TRIA) § 201(a) (28 U.S.C. § 1610 note)
+  - Convention on International Civil Aviation (Chicago Convention), Dec. 7, 1944, 61 Stat. 1180
+  - Federal Rule of Civil Procedure 69 (Execution)
+verified_by: agent-airspace-transit-garnishee-counsel
+status: READY
