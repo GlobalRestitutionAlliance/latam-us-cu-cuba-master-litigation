@@ -128,3 +128,12 @@ skills:
 - id: itu-orbital-spectrum-interdiction
   file: itu-orbital-spectrum-interdiction.yaml
   status: READY
+- id: tvpra-forced-labor-litigation
+  file: tvpra-forced-labor-litigation.yaml
+  status: READY
+- id: paho-intermediary-liability-execution
+  file: paho-intermediary-liability-execution.yaml
+  status: READY
+- id: sovereign-labor-contract-garnishment
+  file: sovereign-labor-contract-garnishment.yaml
+  status: READY

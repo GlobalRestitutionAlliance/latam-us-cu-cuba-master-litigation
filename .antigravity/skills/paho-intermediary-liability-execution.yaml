@@ -1,0 +1,19 @@
+id: paho-intermediary-liability-execution
+name: PAHO Intermediary Liability & International Organization Execution Mastery
+description: Protocols for overcoming international organization immunity under JAM v. IFC and Rodriguez v. PAHO, attaching intermediary brokerage accounts, and serving third-party turnover orders.
+version: 1.0.0
+tactical_domain: International Organization Immunity Demolition & Intermediary Execution
+execution_protocol:
+  - Step 1: Pleading the commercial activity exception to International Organizations Immunities Act (IOIA) immunity pursuant to Jam v. International Finance Corp. (139 S. Ct. 759).
+  - Step 2: Applying the binding D.C. Circuit precedent in Rodriguez v. Pan American Health Organization (29 F.4th 706) establishing PAHO subject-matter jurisdiction.
+  - Step 3: Serving discovery and third-party attachment writs on PAHO commercial accounts in Washington, D.C. (Citibank, BNY Mellon).
+  - Step 4: Disgorging 5% administrative brokerage fees pocketed by PAHO for processing Mais Médicos and regional payroll transfers.
+  - Step 5: Enforcing turnover orders directing recovered funds into the Court-Appointed Qualified Settlement Fund.
+statutory_authorities:
+  - 22 U.S.C. § 288a (International Organizations Immunities Act - IOIA)
+  - 28 U.S.C. § 1605(a)(2) (FSIA commercial activity exception applied to international organizations)
+  - Jam v. International Finance Corp., 139 S. Ct. 759 (2019)
+  - Rodriguez v. Pan American Health Organization, 29 F.4th 706 (D.C. Cir. 2022)
+  - Federal Rule of Civil Procedure 69 (Execution)
+verified_by: agent-human-rights-tvpra-counsel
+status: READY

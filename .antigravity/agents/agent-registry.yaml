@@ -114,3 +114,11 @@ agents:
   file: agent-subsea-spectrum-marshal.yaml
   status: ACTIVE
   role: Subsea Fiber-Optic Cable Landing Stations, ITU Orbital Spectrum & SIGINT Facility Interdiction Commander
+- id: agent-human-rights-tvpra-counsel
+  file: agent-human-rights-tvpra-counsel.yaml
+  status: ACTIVE
+  role: TVPRA § 1589/§ 1595 Forced Labor Litigation, Civil RICO & Humanitarian Restitution Architect
+- id: agent-labor-export-interdictor
+  file: agent-labor-export-interdictor.yaml
+  status: ACTIVE
+  role: CSMC S.A. State Monopoly Auditing, Bilateral Host Government Contract Interception & 8-Year Rule Sanctions Marshal

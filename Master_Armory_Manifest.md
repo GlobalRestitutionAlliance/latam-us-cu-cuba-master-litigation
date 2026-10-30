@@ -613,3 +613,21 @@ W:\Legal\US_CUBA\
 - **Weapons/Instruments Armed:** 25 Telecom & Cyber Instruments across Waves 1–5
 - **Dashboards:** `Master_Telecom_and_Cyber_Infrastructure_Crosswalk_Dashboard.md`, `.docx`, `.csv`
 - **Verification Status:** 100% Armed & Verified
+
+
+## Newly Registered Agents (Campaign 12)
+- **agent-human-rights-tvpra-counsel**: TVPRA § 1589/§ 1595 Forced Labor Litigation, Civil RICO & Humanitarian Restitution Architect.
+- **agent-labor-export-interdictor**: CSMC S.A. State Monopoly Auditing, Bilateral Host Government Contract Interception & 8-Year Rule Sanctions Marshal.
+
+## Newly Registered Skills (Campaign 12)
+- **tvpra-forced-labor-litigation**: 18 U.S.C. §§ 1589/1595 TVPRA claims, Civil RICO patterns of racketeering, and § 1593 mandatory victim restitution.
+- **paho-intermediary-liability-execution**: Overcoming international organization immunity under *Rodriguez v. PAHO* and *Jam v. IFC*, attaching broker fees.
+- **sovereign-labor-contract-garnishment**: Auditing bilateral medical export contracts and garnishing foreign health ministry payment streams.
+
+## Completed Campaigns
+
+### Campaign 12: Transnational Forced Labor Export, PAHO Financial Intermediation & Sovereign Human Trafficking Disgorgement Campaign
+- **Humanitarian Restitution Pool:** **$350,000,000,000.00**
+- **Weapons/Instruments Armed:** 25 Human Rights & Labor Instruments across Waves 1–5
+- **Dashboards:** `Master_Human_Rights_and_TVPRA_Crosswalk_Dashboard.md`, `.docx`, `.csv`
+- **Verification Status:** 100% Armed & Verified

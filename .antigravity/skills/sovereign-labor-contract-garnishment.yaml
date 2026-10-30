@@ -1,0 +1,18 @@
+id: sovereign-labor-contract-garnishment
+name: Sovereign Labor Contract Garnishment & CSMC S.A. Interdiction Mastery
+description: Protocols for auditing bilateral labor export contracts, executing post-judgment garnishments on foreign health ministry payment streams, and freezing CSMC S.A. offshore accounts.
+version: 1.0.0
+tactical_domain: Sovereign Commercial Export Garnishment & Bilateral Contract Severance
+execution_protocol:
+  - Step 1: Forensic auditing of bilateral contracts between Comercializadora de Servicios Médicos Cubanos (CSMC S.A.) and foreign health ministries (Mexico, Brazil, Italy, Qatar).
+  - Step 2: Isolating unconstitutional salary withholding percentages (75% to 90%) and foreign currency clearing conduits.
+  - Step 3: Serving post-judgment garnishment orders on host health ministries (e.g. Mexico's IMSS-Bienestar, Italy's Regione Calabria).
+  - Step 4: Obtaining European freezing orders on CSMC S.A. commercial accounts held in Spanish and Italian commercial banks.
+  - Step 5: Enforcing 18 U.S.C. § 1593 mandatory restitution liens over all intercepted contract payments for direct distribution to class claimants.
+statutory_authorities:
+  - 28 U.S.C. § 1610(g) (Universal execution on property of state agencies and instrumentalities)
+  - 18 U.S.C. § 1593 (Mandatory restitution for human trafficking offenses)
+  - Federal Rule of Civil Procedure 64 (Seizing a Person or Property)
+  - Restatement (Third) of Foreign Relations Law § 453 (Commercial Activities of Foreign State Entities)
+verified_by: agent-labor-export-interdictor
+status: READY
