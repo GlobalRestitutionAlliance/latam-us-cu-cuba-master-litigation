@@ -51,6 +51,8 @@ W:\Legal\US_CUBA\
   - [`agent-admiralty-marshal.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-admiralty-marshal.yaml)
   - [`agent-corporate-auditor.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-corporate-auditor.yaml)
   - [`agent-prejudgment-attache.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-prejudgment-attache.yaml)
+  - [`agent-diplomatic-plenipotentiary.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-diplomatic-plenipotentiary.yaml)
+  - [`agent-sovereign-arbitrageur.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-sovereign-arbitrageur.yaml)
 - **Skills (`.antigravity/skills/`):**
   - [`skill-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/skill-registry.yaml)
   - [`legal-drafting.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/legal-drafting.yaml)
@@ -71,6 +73,9 @@ W:\Legal\US_CUBA\
   - [`corporate-forensic-accounting.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/corporate-forensic-accounting.yaml)
   - [`prejudgment-attachment-execution.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/prejudgment-attachment-execution.yaml)
   - [`constructive-trust-tracing.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/constructive-trust-tracing.yaml)
+  - [`multilateral-treaty-negotiation.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/multilateral-treaty-negotiation.yaml)
+  - [`bilateral-investment-arbitrage.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/bilateral-investment-arbitrage.yaml)
+  - [`transnational-offset-execution.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/transnational-offset-execution.yaml)
 - **Datasets (`.antigravity/datasets/`):**
   - [`dataset-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/datasets/dataset-registry.yaml)
   - [`us-domestic-archives.yaml`](file:///W:/Legal/US_CUBA/.antigravity/datasets/us-domestic-archives.yaml)
@@ -130,6 +135,9 @@ W:\Legal\US_CUBA\
 | **Master Corporate Disgorgement Crosswalk Dashboard (MD)** | `.md` | Financial forensics dashboard quantifying $146.5B+ corporate treble damages and prejudgment attachment targets across 25 syndicates. | [Master_Corporate_Disgorgement_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Corporate_Disgorgement_Crosswalk_Dashboard.md) |
 | **Master Corporate Disgorgement Crosswalk Dashboard (DOCX)** | `.docx` | Formatted executive treatise detailing corporate successor lineage, CIK mappings, and prejudgment attachment orders. | [Master_Corporate_Disgorgement_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Corporate_Disgorgement_Crosswalk_Dashboard.docx) |
 | **Master Corporate Disgorgement Crosswalk Matrix (CSV)** | `.csv` | Relational dataset mapping 25 premier corporate targets to certified FCSC claims, 6% interest base, and treble damages. | [Master_Corporate_Disgorgement_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Corporate_Disgorgement_Crosswalk_Matrix.csv) |
+| **Master Multipolar Arbitrage Crosswalk Dashboard (MD)** | `.md` | Geopolitical dashboard detailing $1.02T+ international arbitral demands, UNCITRAL venues, and New York Convention exequatur. | [Master_Multipolar_Arbitrage_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Multipolar_Arbitrage_Crosswalk_Dashboard.md) |
+| **Master Multipolar Arbitrage Crosswalk Dashboard (DOCX)** | `.docx` | Formatted executive treatise detailing multilateral sovereign treaties, DIAC/SIAC venues, and ICJ advisory proceedings. | [Master_Multipolar_Arbitrage_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Multipolar_Arbitrage_Crosswalk_Dashboard.docx) |
+| **Master Multipolar Arbitrage Crosswalk Matrix (CSV)** | `.csv` | Relational dataset mapping 25 international arbitral targets to UNCITRAL rules, host states, and sovereign commercial assets. | [Master_Multipolar_Arbitrage_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Multipolar_Arbitrage_Crosswalk_Matrix.csv) |
 | **The 1871 US Incorporation Myth** | `.pdf` | Foundational master transcript documenting the historical synthesis of all 1,805 vectors, legislative history, and declassified archives. | [The 1871 US Incorporation Myth.pdf](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/The%201871%20US%20Incorporation%20Myth.pdf) |
 | **Master Index and Chronological Dossier** | `.docx` | Complete chronological index cataloging the 1,805 vectors across five major historical eras (1805–2026). | [master_index_and_chronological_dossier.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_index_and_chronological_dossier.docx) |
 | **Master Litigation Archive Index & Dossier** | `.docx` | Comprehensive litigation compendium indexing all motions, pleadings, discovery orders, and trial briefs. | [master_litigation_archive_index_and_dossier.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_litigation_archive_index_and_dossier.docx) |

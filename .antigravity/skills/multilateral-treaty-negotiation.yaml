@@ -1,0 +1,20 @@
+skill:
+  id: "multilateral-treaty-negotiation"
+  name: "Multilateral Treaty Negotiation & Sovereign Accession"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft sovereign diplomatic demarches and bilateral mutual legal assistance pacts"
+    - "Formulate draft resolutions for the United Nations General Assembly and CELAC Summits"
+    - "Integrate historical decolonization jurisprudence into African Union and CARICOM treaties"
+    - "Coordinate multi-state sovereign amicus curiae briefs before international tribunals"
+    - "Structure sovereign proxy diplomatic safe harbors for decentralized litigation nodes"
+    
+  triggers:
+    - "Convening of BRICS+ ministerial summits or Non-Aligned Movement conferences"
+    - "Filing of international petitions before the IACHR, ICJ, or UN Human Rights Council"
+    - "Hostile administrative interference or diplomatic sanctions by Western states"
+    
+  output_requirements:
+    - "Diplomatic instruments must adhere to Vienna Convention on Diplomatic Relations protocols"
+    - "Resolutions must cite binding UNGA precedents (Res. 1514, 1803, 2625)"

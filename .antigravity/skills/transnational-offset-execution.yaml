@@ -1,0 +1,20 @@
+skill:
+  id: "transnational-offset-execution"
+  name: "Transnational Offset Execution & Sovereign Debt Set-Off"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Structure Deeds of Assignment transferring certified claims to sovereign wealth funds"
+    - "Identify sovereign trade surplus balances and central bank reserves eligible for legal set-off"
+    - "Draft exequatur enforcement applications across 172 New York Convention signatory jurisdictions"
+    - "Pierce sovereign immunity under UNCSI Articles 10, 12, and 19 for commercial property"
+    - "Coordinate multi-jurisdictional garnishment of state-owned enterprise (SOE) receivables"
+    
+  triggers:
+    - "Issuance of final arbitral awards or default judgments against sovereign defendants"
+    - "Discovery of overseas commercial cargo, mineral export shipments, or bank clearing lines"
+    - "Execution of debt-for-restitution swap agreements with friendly sovereign intermediaries"
+    
+  output_requirements:
+    - "Enforcement filings must include certified arbitral awards and sworn affidavits of non-immunity"
+    - "Offset calculations must account for cross-currency exchange rates and sovereign debt discounts"

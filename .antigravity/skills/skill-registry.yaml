@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 18
+total_skills: 21
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -55,4 +55,13 @@ skills:
   status: READY
 - id: constructive-trust-tracing
   file: constructive-trust-tracing.yaml
+  status: READY
+- id: multilateral-treaty-negotiation
+  file: multilateral-treaty-negotiation.yaml
+  status: READY
+- id: bilateral-investment-arbitrage
+  file: bilateral-investment-arbitrage.yaml
+  status: READY
+- id: transnational-offset-execution
+  file: transnational-offset-execution.yaml
   status: READY

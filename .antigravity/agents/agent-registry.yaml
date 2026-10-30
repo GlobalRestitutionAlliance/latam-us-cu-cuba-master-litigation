@@ -50,3 +50,11 @@ agents:
   file: agent-prejudgment-attache.yaml
   status: ACTIVE
   role: FRCP Rule 64, D.C. Code § 16-501, 28 U.S.C. § 1610 & Transnational Ex Parte Freeze Architect
+- id: agent-diplomatic-plenipotentiary
+  file: agent-diplomatic-plenipotentiary.yaml
+  status: ACTIVE
+  role: Sovereign Coalition Warfare, UNGA Resolutions, Bilateral Investment Treaties & BRICS+ Diplomatic Accession Architect
+- id: agent-sovereign-arbitrageur
+  file: agent-sovereign-arbitrageur.yaml
+  status: ACTIVE
+  role: UNCITRAL, ICSID, New York Convention Art. V Defense Demolition & Commercial Property Exequatur

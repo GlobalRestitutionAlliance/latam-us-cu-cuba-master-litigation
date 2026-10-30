@@ -1,0 +1,20 @@
+skill:
+  id: "bilateral-investment-arbitrage"
+  name: "Bilateral Investment Arbitrage & Expropriation Claims"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft notices of arbitration and statements of claim under UNCITRAL Arbitration Rules (2021)"
+    - "Establish investor-state dispute settlement (ISDS) standing through neutral intermediary entities"
+    - "Formulate claims for direct and indirect expropriation under customary international law"
+    - "Quantify lost profits (lucrum cessans) and compounding interest under the Chorzów Factory standard"
+    - "Neutralize state defenses based on essential security interests or political question doctrines"
+    
+  triggers:
+    - "Expropriation or continuous administrative blocking of private property rights without compensation"
+    - "Refusal of domestic courts to provide effective judicial remedy due to sovereign immunity"
+    - "Initiation of concurrent arbitral proceedings in DIAC, SIAC, or Swiss Arbitration Centre"
+    
+  output_requirements:
+    - "Arbitration notices must specify the exact treaty basis, arbitration clause, and relief sought"
+    - "Damages models must be audited by forensic accountants and conform to international standards"
