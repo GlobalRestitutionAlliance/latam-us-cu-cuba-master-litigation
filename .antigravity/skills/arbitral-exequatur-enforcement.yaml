@@ -1,0 +1,20 @@
+skill:
+  id: "arbitral-exequatur-enforcement"
+  name: "Arbitral Exequatur Enforcement & Commercial Asset Execution"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft expedited exequatur petitions under Articles III and IV of the 1958 New York Convention"
+    - "Pierce sovereign immunity under FSIA 28 U.S.C. § 1605(a)(2) commercial activity exceptions"
+    - "Locate and encumber non-immune state-owned enterprise (SOE) trade receivables and central bank deposits"
+    - "Structure proxy sovereign enforcement agreements and deeds of assignment in neutral arbitral forums (DIAC, SIAC)"
+    - "Coordinate simultaneous multi-jurisdictional enforcement actions to prevent capital flight"
+    
+  triggers:
+    - "Issuance of UNCITRAL or PCA arbitral awards against sovereign or state-instrumentality defendants"
+    - "Discovery of active commercial trade flows and sovereign escrow balances in foreign jurisdictions"
+    - "Execution of treaty-based restitution demands across BRICS+ and Global South financial clearinghouses"
+    
+  output_requirements:
+    - "Enforcement petitions must include certified arbitral awards and verified translations"
+    - "Jurisdictional briefs must overcome Article V New York Convention defense challenges"

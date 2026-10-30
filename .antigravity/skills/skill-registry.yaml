@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 12
+total_skills: 15
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -37,4 +37,13 @@ skills:
   status: READY
 - id: opsec-evasion
   file: opsec-evasion.yaml
+  status: READY
+- id: damages-quantum-modeling
+  file: damages-quantum-modeling.yaml
+  status: READY
+- id: maritime-in-rem-execution
+  file: maritime-in-rem-execution.yaml
+  status: READY
+- id: arbitral-exequatur-enforcement
+  file: arbitral-exequatur-enforcement.yaml
   status: READY

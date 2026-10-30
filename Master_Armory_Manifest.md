@@ -46,6 +46,9 @@ W:\Legal\US_CUBA\
   - [`global-tribunals-envoy.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/global-tribunals-envoy.yaml)
   - [`sun-tzu-strategist.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/sun-tzu-strategist.yaml)
   - [`agent-omega-harvester.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-omega-harvester.yaml)
+  - [`agent-hydra-warden.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-hydra-warden.yaml)
+  - [`agent-fiduciary-liquidator.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-fiduciary-liquidator.yaml)
+  - [`agent-admiralty-marshal.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-admiralty-marshal.yaml)
 - **Skills (`.antigravity/skills/`):**
   - [`skill-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/skill-registry.yaml)
   - [`legal-drafting.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/legal-drafting.yaml)
@@ -57,6 +60,12 @@ W:\Legal\US_CUBA\
   - [`sun-tzu-entrapment.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/sun-tzu-entrapment.yaml)
   - [`cryptographic-hashing.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/cryptographic-hashing.yaml)
   - [`autonomous-expansion.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/autonomous-expansion.yaml)
+  - [`coalition-mobilization.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/coalition-mobilization.yaml)
+  - [`hydra-mirroring.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/hydra-mirroring.yaml)
+  - [`opsec-evasion.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/opsec-evasion.yaml)
+  - [`damages-quantum-modeling.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/damages-quantum-modeling.yaml)
+  - [`maritime-in-rem-execution.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/maritime-in-rem-execution.yaml)
+  - [`arbitral-exequatur-enforcement.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/arbitral-exequatur-enforcement.yaml)
 - **Datasets (`.antigravity/datasets/`):**
   - [`dataset-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/datasets/dataset-registry.yaml)
   - [`us-domestic-archives.yaml`](file:///W:/Legal/US_CUBA/.antigravity/datasets/us-domestic-archives.yaml)
@@ -107,6 +116,12 @@ W:\Legal\US_CUBA\
 
 | Artifact Name | Format | Procedural & Substantive Role | Direct Access Link |
 | :--- | :---: | :--- | :--- |
+| **Master 1,805-Vector Crosswalk Dashboard (MD)** | `.md` | Executive evidentiary dashboard tracking 100% verification parity across all 5 chronological waves (1805–2026). | [Master_1805_Vector_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_1805_Vector_Crosswalk_Dashboard.md) |
+| **Master 1,805-Vector Crosswalk Dashboard (DOCX)** | `.docx` | Formal typography and styled presentation of the 1,805-vector evidentiary verification dashboard. | [Master_1805_Vector_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_1805_Vector_Crosswalk_Dashboard.docx) |
+| **Master 1,805-Vector Crosswalk Matrix (CSV)** | `.csv` | Full relational dataset (1,805 rows) detailing every vector's status, era, category, NARA/LOC citations, and Bluebook references. | [Master_1805_Vector_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_1805_Vector_Crosswalk_Matrix.csv) |
+| **Master Pleadings & Evidentiary Crosswalk Dashboard (MD)** | `.md` | Strategic deployment dashboard cross-walking all 25 litigation weapons across 5 Theaters to vector spans and statutory hooks. | [Master_Pleadings_Evidentiary_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pleadings_Evidentiary_Crosswalk_Dashboard.md) |
+| **Master Pleadings & Evidentiary Crosswalk Dashboard (DOCX)** | `.docx` | Formatted executive treatise detailing weapon readiness, 10-agent command structure, and 15 operational skills. | [Master_Pleadings_Evidentiary_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pleadings_Evidentiary_Crosswalk_Dashboard.docx) |
+| **Master Pleadings & Evidentiary Crosswalk Matrix (CSV)** | `.csv` | Relational matrix mapping 25 core weapons across 5 Theaters to verified vector spans, statutory hooks, and archival proofs. | [Master_Pleadings_Evidentiary_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pleadings_Evidentiary_Crosswalk_Matrix.csv) |
 | **The 1871 US Incorporation Myth** | `.pdf` | Foundational master transcript documenting the historical synthesis of all 1,805 vectors, legislative history, and declassified archives. | [The 1871 US Incorporation Myth.pdf](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/The%201871%20US%20Incorporation%20Myth.pdf) |
 | **Master Index and Chronological Dossier** | `.docx` | Complete chronological index cataloging the 1,805 vectors across five major historical eras (1805–2026). | [master_index_and_chronological_dossier.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_index_and_chronological_dossier.docx) |
 | **Master Litigation Archive Index & Dossier** | `.docx` | Comprehensive litigation compendium indexing all motions, pleadings, discovery orders, and trial briefs. | [master_litigation_archive_index_and_dossier.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_litigation_archive_index_and_dossier.docx) |

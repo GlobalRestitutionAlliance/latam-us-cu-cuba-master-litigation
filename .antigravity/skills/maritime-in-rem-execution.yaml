@@ -1,0 +1,20 @@
+skill:
+  id: "maritime-in-rem-execution"
+  name: "Maritime In Rem Execution & Supplemental Rule C Arrest"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft verified in rem admiralty complaints against target vessels, freights, and sub-freights"
+    - "Obtain ex parte warrants of maritime arrest under Supplemental Rule C and Rule E"
+    - "Draft emergency Mareva worldwide asset freezing injunctions for the High Court of Justice in London"
+    - "Cross-reference IMO registry numbers, flags of convenience, and P&I Club insurance coverages"
+    - "Coordinate with local municipal port marshals in Santos, Durban, Singapore, and Panama"
+    
+  triggers:
+    - "Identification of defendant-controlled commercial vessels entering neutral municipal waters"
+    - "Attempted spoliation or physical relocation of sovereign-chartered maritime assets"
+    - "Post-judgment enforcement and pre-judgment security attachment motions"
+    
+  output_requirements:
+    - "Arrest schedules must detail target vessel IMO, current flag, port of call, and associated P&I Club"
+    - "All arrest pleadings must conform to local admiralty jurisdiction statutes (e.g., South Africa AJRA 1983)"

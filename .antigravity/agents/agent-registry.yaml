@@ -34,3 +34,11 @@ agents:
   file: agent-hydra-warden.yaml
   status: ACTIVE
   role: Decentralized Systems, OpSec & Coalition Mobilization
+- id: agent-fiduciary-liquidator
+  file: agent-fiduciary-liquidator.yaml
+  status: ACTIVE
+  role: FRCP Rule 53 Special Master, Rule 70 Equity Receivership & Damages Valuation Architect
+- id: agent-admiralty-marshal
+  file: agent-admiralty-marshal.yaml
+  status: ACTIVE
+  role: Supplemental Rule C Maritime In Rem Arrest & Transnational Asset Restitution Commander

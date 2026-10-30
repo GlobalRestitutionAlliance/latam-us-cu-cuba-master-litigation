@@ -1,0 +1,20 @@
+skill:
+  id: "damages-quantum-modeling"
+  name: "Damages Quantum Modeling & Restitution Accounting"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Model historical land and property valuations based on 19th and 20th century cadastral registries"
+    - "Calculate statutory 9% compound prejudgment interest under New York and federal common law"
+    - "Quantify unjust enrichment profits and modern successor corporate market capitalization correlations"
+    - "Model statutory treble damages under Helms-Burton Title III (22 U.S.C. § 6082(a)(1)(A)(i))"
+    - "Structure Class Distribution Allocations and sub-fund percentages across Subclasses I through V"
+    
+  triggers:
+    - "Execution of Rule 53 Special Master accounting proceedings"
+    - "Preparation of Local Rule 56.1 Statement of Undisputed Material Facts on damages"
+    - "Drafting of final judgment orders, constructive trust schedules, and restitution decrees"
+    
+  output_requirements:
+    - "Damages models must be reproducible via verified Python scripts and deterministic formula tables"
+    - "Valuations must cite historical primary sources (FCSC decisions, Treasury ledgers, Havana municipal registries)"
