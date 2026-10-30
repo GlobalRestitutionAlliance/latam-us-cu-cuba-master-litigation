@@ -1,0 +1,31 @@
+registry: Operational Skill Registry
+version: 1.0.0
+total_skills: 9
+skills:
+- id: legal-drafting
+  file: legal-drafting.yaml
+  status: READY
+- id: archival-retrieval
+  file: archival-retrieval.yaml
+  status: READY
+- id: osint-harvesting
+  file: osint-harvesting.yaml
+  status: READY
+- id: red-team-stress-test
+  file: red-team-stress-test.yaml
+  status: READY
+- id: international-law
+  file: international-law.yaml
+  status: READY
+- id: evidentiary-chain-mapping
+  file: evidentiary-chain-mapping.yaml
+  status: READY
+- id: sun-tzu-entrapment
+  file: sun-tzu-entrapment.yaml
+  status: READY
+- id: cryptographic-hashing
+  file: cryptographic-hashing.yaml
+  status: READY
+- id: autonomous-expansion
+  file: autonomous-expansion.yaml
+  status: READY

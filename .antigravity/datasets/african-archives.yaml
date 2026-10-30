@@ -1,0 +1,12 @@
+dataset:
+  id: african-archives
+  name: Transatlantic Slave Trade & Diaspora Repositories
+  holdings:
+  - repository: 'Voyages: The Trans-Atlantic Slave Trade Database'
+    records:
+    - Vessel Registries with Havana/Matanzas Disembarkation (1805-1865)
+    - American-Flagged & Underwritten Slavers
+  - repository: West African Coastal Trade Registries
+    records:
+    - Cape Coast / Whydah Factor Invoices
+    - Contraband Enslaved Transport Manifests

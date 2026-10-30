@@ -1,0 +1,9 @@
+skill:
+  id: legal-drafting
+  name: Precision Legal Drafting & Pleading Generation
+  description: Drafts court-ready complaints, motions, briefs, and orders formatted
+    under Local Rules and FRCP standards.
+  standards:
+  - FRCP 8, 9, 10, 11, 12, 23, 56, 65
+  - Bluebook Citation Standards
+  - Federal Circuit & D.C. Circuit Local Rules

@@ -1,0 +1,12 @@
+dataset:
+  id: geospatial-economic
+  name: Geospatial Cadastral Maps & Sugar Latifundia GIS Models
+  holdings:
+  - source: 1899 Census of Cuba (War Department Topographical Surveys)
+    data:
+    - Cadastral boundaries of 17 Major Sugar Trusts
+    - Agrarian smallholder partition surveys
+  - source: Cuba Company & United Fruit GIS Coordinate Registries
+    data:
+    - Preston and Banes latifundia boundaries (200,000+ acres)
+    - Central railway right-of-way condemnation tracts

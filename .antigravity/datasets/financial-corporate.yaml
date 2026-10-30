@@ -1,0 +1,16 @@
+dataset:
+  id: financial-corporate
+  name: Wall Street Syndicate, Banking & OFAC Blocked Asset Ledgers
+  holdings:
+  - entity: J.P. Morgan Chase Historical Archives
+    records:
+    - Speyer & Co. Bond Indentures (1904-1926)
+    - Havana Central Railroad Foreclosure Dockets (1930)
+  - entity: Citigroup / National City Bank Archival Ledger Collection
+    records:
+    - Sugar Solvency Syndicate (1919-1922)
+    - "Camag\xFCey and Oriente Latifundia Mortgage Foreclosures (1922-1928)"
+  - entity: U.S. Treasury Department OFAC Blocked Asset Database
+    records:
+    - 31 C.F.R. Part 515 Blocked Accounts Registry
+    - Terrorism Risk Insurance Act (TRIA) Garnishment Records

@@ -1,0 +1,14 @@
+dataset:
+  id: latin-american-archives
+  name: Latin American & Caribbean Municipal Registries
+  holdings:
+  - repository: "Archivo Nacional de la Rep\xFAblica de Cuba (Havana)"
+    collections:
+    - Registro de la Propiedad (1850-1959)
+    - Protocolos Notariales de Matanzas, Oriente, y Las Villas
+    - Actas del Consejo de Ministros (1902-1958)
+  - repository: "Acervo Hist\xF3rico Diplom\xE1tico de la Secretar\xEDa de Relaciones\
+      \ Exteriores (Mexico)"
+    collections:
+    - Pact of Mexico Files
+    - Anti-Interventionist Diplomatic Notes

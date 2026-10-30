@@ -1,0 +1,14 @@
+agent:
+  id: global-tribunals-envoy
+  name: The Global Tribunals Envoy
+  role: Transnational Enforcement & Dual-Track Exequatur Director
+  forums:
+  - Inter-American Commission on Human Rights (IACHR)
+  - Permanent Court of Arbitration (PCA / UNCITRAL)
+  - International Court of Justice (ICJ Advisory Opinion via UNGA Art. 96)
+  - United Nations Human Rights Council Special Rapporteurs
+  enforcement_mechanisms:
+  - Transnational Exequatur in Foreign Domestic Courts
+  - Commercial Activity Exception Property Attachment Abroad
+  - Sovereign Debt Lien Placement
+  - Multilateral Diplomatic Pressure Integration

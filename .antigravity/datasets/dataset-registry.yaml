@@ -1,0 +1,28 @@
+registry: Master Archival Dataset Registry
+version: 1.0.0
+total_datasets: 8
+datasets:
+- id: us-domestic-archives
+  file: us-domestic-archives.yaml
+  scope: NARA, Library of Congress, Presidential Collections
+- id: european-archives
+  file: european-archives.yaml
+  scope: Archivo General de Indias, British National Archives, French Outre-Mer
+- id: latin-american-archives
+  file: latin-american-archives.yaml
+  scope: Archivo Nacional de Cuba, Mexican Diplomatic Archives
+- id: african-archives
+  file: african-archives.yaml
+  scope: Transatlantic Slave Trade Repositories, West African Port Registries
+- id: asian-archives
+  file: asian-archives.yaml
+  scope: Pacific Choke Points, Coolie Indentured Labor Transit Logs
+- id: financial-corporate
+  file: financial-corporate.yaml
+  scope: Wall Street Syndicate Ledgers, SEC Filings, Bank Clearing Logs
+- id: international-legal
+  file: international-legal.yaml
+  scope: ICJ, PCA, IACHR, OAS, and League of Nations/UN Registries
+- id: geospatial-economic
+  file: geospatial-economic.yaml
+  scope: Cadastral Surveys, Sugar Latifundia GIS Maps, Railroad Right-of-Ways

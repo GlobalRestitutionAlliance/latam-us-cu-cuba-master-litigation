@@ -1,0 +1,14 @@
+template:
+  id: expert-affidavit
+  title: Rule 26(a)(2) Expert Witness Affidavit & Report Template
+  daubert_criteria:
+  - Peer-reviewed historical methodology
+  - Primary archival triangulation
+  - Standard econometric valuation models
+  structural_sections:
+  - I. Qualifications and Curriculum Vitae
+  - II. Assignment & Scope of Historical/Economic Investigation
+  - III. Methodology & Repositories Examined (NARA, LOC, FCSC)
+  - IV. Substantive Historical Findings across the 1,805 Vectors
+  - V. Forensic Economic Valuation and 6% Pre-Judgment Compounding
+  - "VI. Formal Expert Opinion & Sworn Declaration under 28 U.S.C. \xA7 1746"

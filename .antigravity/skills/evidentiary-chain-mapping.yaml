@@ -1,0 +1,9 @@
+skill:
+  id: evidentiary-chain-mapping
+  name: Evidentiary Chain of Custody & Title Mapping
+  description: Traces continuous 221-year unbroken chains of title from antebellum
+    sugar estates to modern corporate successors and blocked funds.
+  mechanisms:
+  - FCSC Claim Cross-Referencing
+  - Spanish Cadastral Matching
+  - Special Master Accounting Modules

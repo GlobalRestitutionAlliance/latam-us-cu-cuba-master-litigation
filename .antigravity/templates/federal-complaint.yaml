@@ -1,0 +1,16 @@
+template:
+  id: federal-complaint
+  title: Master Class Action Federal Complaint Template
+  jurisdictional_predicates:
+  - "Tucker Act (28 U.S.C. \xA7 1491)"
+  - Fifth Amendment Takings Clause & State-Created Danger Due Process
+  - "Foreign Sovereign Immunities Act Expropriation Exception (28 U.S.C. \xA7 1605(a)(3))"
+  structural_sections:
+  - I. Caption & Class Designation
+  - II. Nature of the Action & Foundational Axioms
+  - "III. Jurisdiction and Venue (28 U.S.C. \xA7\xA7 1331, 1350, 1491)"
+  - IV. The Parties (Class Representatives & Defendant Agencies)
+  - V. Class Action Allegations (Fed. R. Civ. P. 23(a), (b)(2), (b)(3))
+  - 'VI. Factual Background: The 221-Year Continuum (1805-Present)'
+  - VII. Causes of Action (Counts I-IV)
+  - VIII. Prayer for Relief (Constructive Trust, Accounting, Restitution, Disgorgement)

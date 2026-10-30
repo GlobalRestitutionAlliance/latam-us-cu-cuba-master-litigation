@@ -1,0 +1,16 @@
+dataset:
+  id: international-legal
+  name: International Court Jurisprudence & Treaty Registries
+  holdings:
+  - tribunal: Permanent Court of Arbitration (PCA)
+    jurisprudence:
+    - Island of Palmas (1928)
+    - Bilateral Investment Arbitrations under UNCITRAL Rules
+  - tribunal: International Court of Justice (ICJ)
+    jurisprudence:
+    - Military and Paramilitary Activities (Nicaragua v. U.S., 1986)
+    - Advisory Opinions on Decolonization (Chagos, Namibia)
+  - tribunal: Inter-American Commission & Court of Human Rights
+    jurisprudence:
+    - American Declaration Country Reports
+    - "Precedents on Da\xF1o Moral & Proyecto de Vida"

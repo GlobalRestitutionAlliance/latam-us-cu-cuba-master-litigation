@@ -1,0 +1,22 @@
+registry: Master Legal Pleading & Template Registry
+version: 1.0.0
+total_templates: 6
+templates:
+- id: federal-complaint
+  file: federal-complaint.yaml
+  type: Civil Pleading / Complaint
+- id: motion-template
+  file: motion-template.yaml
+  type: Federal Motion under FRCP
+- id: memorandum-of-law
+  file: memorandum-of-law.yaml
+  type: Supporting Legal Brief
+- id: discovery-matrix
+  file: discovery-matrix.yaml
+  type: Rule 34 / Rule 45 Discovery Matrix
+- id: international-petition
+  file: international-petition.yaml
+  type: IACHR / PCA / ICJ Petition
+- id: expert-affidavit
+  file: expert-affidavit.yaml
+  type: Rule 26(a)(2) Expert Disclosure / Affidavit

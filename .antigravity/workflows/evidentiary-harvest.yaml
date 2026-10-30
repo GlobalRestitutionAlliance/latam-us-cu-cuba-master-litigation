@@ -1,0 +1,19 @@
+workflow:
+  id: evidentiary-harvest
+  name: Archival & Vector Evidentiary Harvest Workflow
+  stages:
+  - stage: 1
+    name: Repository Query
+    agent: agent-omega-harvester
+    action: Target unclassified and declassified holdings across NARA, LOC, and international
+      archives.
+  - stage: 2
+    name: Self-Authentication Sealing
+    agent: archival-sentinel
+    action: Certify public record status under FRE 803(8) and ancient document rule
+      FRE 803(16).
+  - stage: 3
+    name: Chain of Title Linking
+    agent: procedural-blacksmith
+    action: Connect historical entity to modern successor and current OFAC blocked
+      accounts.

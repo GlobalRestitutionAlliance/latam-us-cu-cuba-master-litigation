@@ -1,0 +1,12 @@
+# Require approval from designated maintainers for core architecture
+/.antigravity/                          @GlobalRestitutionAlliance/maintainer-council
+/00_Master_Knowledge_Base/              @GlobalRestitutionAlliance/archival-sentinel @GlobalRestitutionAlliance/maintainer-council
+/01_Pleadings_and_Complaints/           @GlobalRestitutionAlliance/procedural-blacksmith @GlobalRestitutionAlliance/maintainer-council
+/02_Discovery_and_Evidentiary/          @GlobalRestitutionAlliance/agent-omega @GlobalRestitutionAlliance/maintainer-council
+/03_Motions_and_Briefs/                 @GlobalRestitutionAlliance/procedural-blacksmith @GlobalRestitutionAlliance/maintainer-council
+/04_International_Tribunals/            @GlobalRestitutionAlliance/global-tribunals-envoy @GlobalRestitutionAlliance/maintainer-council
+/05_Strategic_Doctrines_and_Red_Team/   @GlobalRestitutionAlliance/sun-tzu-strategist @GlobalRestitutionAlliance/maintainer-council
+/06_Trial_and_Appellate_Prep/           @GlobalRestitutionAlliance/procedural-blacksmith @GlobalRestitutionAlliance/maintainer-council
+/07_Enforcement_and_Restitution/        @GlobalRestitutionAlliance/global-tribunals-envoy @GlobalRestitutionAlliance/maintainer-council
+VERIFICATION_KEYS/                      @GlobalRestitutionAlliance/maintainer-council
+GOVERNANCE.md                           @GlobalRestitutionAlliance/maintainer-council

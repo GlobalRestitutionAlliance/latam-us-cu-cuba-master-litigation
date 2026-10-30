@@ -1,0 +1,18 @@
+workflow:
+  id: red-team-audit
+  name: Adversarial Defense Stress-Test Workflow
+  stages:
+  - stage: 1
+    name: Simulate Opposition Strike
+    agent: red-team-adversary
+    action: "Draft anticipated DOJ Motion to Dismiss asserting sovereign immunity\
+      \ and 28 U.S.C. \xA7 2501."
+  - stage: 2
+    name: Evaluate Weak Links
+    agent: omni-counsel-architect
+    action: Assess vulnerabilities against Centurion 100-Point matrix.
+  - stage: 3
+    name: Deploy Counter-Measure
+    agent: sun-tzu-strategist
+    action: Lock in Mitchell fiduciary trust exception, continuing violation reset,
+      and anti-retroactivity shield.

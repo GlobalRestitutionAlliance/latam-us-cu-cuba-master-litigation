@@ -1,0 +1,19 @@
+registry: Operational Workflow Pipeline Registry
+version: 1.0.0
+total_workflows: 5
+workflows:
+- id: deep-forge-pipeline
+  file: deep-forge-pipeline.yaml
+  purpose: 4-Step Hardening Protocol for drafting and brief weaponization
+- id: evidentiary-harvest
+  file: evidentiary-harvest.yaml
+  purpose: Multi-tier archival discovery, extraction, and verification
+- id: red-team-audit
+  file: red-team-audit.yaml
+  purpose: Hostile DOJ/OLC adversarial simulation and vulnerability remediation
+- id: autonomous-expansion
+  file: autonomous-expansion.yaml
+  purpose: Automated discovery of new evidentiary vectors beyond 1,805
+- id: international-dual-track
+  file: international-dual-track.yaml
+  purpose: Dual-Track domestic exhaustion and transnational exequatur execution

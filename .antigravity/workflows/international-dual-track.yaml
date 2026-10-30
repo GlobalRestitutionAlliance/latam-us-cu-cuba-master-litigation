@@ -1,0 +1,18 @@
+workflow:
+  id: international-dual-track
+  name: Transnational Dual-Track Exequatur Workflow
+  stages:
+  - stage: 1
+    name: Domestic Exhaustion Record
+    agent: procedural-blacksmith
+    action: Preserve appellate record and establish domestic remedy exhaustion.
+  - stage: 2
+    name: Multilateral Filing
+    agent: global-tribunals-envoy
+    action: Activate petitions before IACHR, PCA under UNCITRAL, and ICJ Advisory
+      Opinion requests.
+  - stage: 3
+    name: Transnational Asset Attachment
+    agent: global-tribunals-envoy
+    action: Enforce awards in foreign domestic courts targeting U.S. commercial assets
+      abroad.

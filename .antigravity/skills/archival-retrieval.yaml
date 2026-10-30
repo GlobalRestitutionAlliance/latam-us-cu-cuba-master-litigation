@@ -1,0 +1,9 @@
+skill:
+  id: archival-retrieval
+  name: Archival Forensics & Repository Extraction
+  description: Extracts, indexes, and authenticates primary-source documents from
+    NARA, Library of Congress, and presidential papers.
+  targeted_repositories:
+  - NARA RG 59, 94, 140, 234, 263
+  - FRUS Diplomatic Volumes
+  - Congressional Globe / Record 1805-2026

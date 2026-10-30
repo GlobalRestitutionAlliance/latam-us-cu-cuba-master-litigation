@@ -1,0 +1,16 @@
+dataset:
+  id: european-archives
+  name: European Colonial & Diplomatic Archival Repositories
+  holdings:
+  - repository: Archivo General de Indias (Seville, Spain)
+    series:
+    - Ultramar / Cuba Colonial Administration
+    - "Royal Decrees (Reales C\xE9dulas) 1805-1898"
+    - Ex-Confederate Settler Tax Immunities
+  - repository: The National Archives (Kew, United Kingdom)
+    series:
+    - Foreign Office FO 72 / FO 84 (Slave Trade Suppression & Spanish Antilles)
+    - British Consular Dispatches from Havana
+  - repository: Archives Nationales d Outre-Mer (Aix-en-Provence, France)
+    series:
+    - Caribbean Naval Intelligence & Antillean Transit Protocols

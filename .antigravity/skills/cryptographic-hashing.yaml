@@ -1,0 +1,9 @@
+skill:
+  id: cryptographic-hashing
+  name: Cryptographic Hashing & Chain-of-Custody Sealing
+  description: Computes SHA-256 hashes of all digital exhibits, pleadings, and declassified
+    files to ensure tamper-proof evidentiary integrity.
+  algorithms:
+  - SHA-256
+  - Merkle Tree Ledger Integration
+  - Immutable Docket Sealing

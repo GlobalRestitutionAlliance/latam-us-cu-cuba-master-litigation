@@ -1,0 +1,9 @@
+skill:
+  id: red-team-stress-test
+  name: Adversarial Red Team Stress-Testing
+  description: Simulates government motions to dismiss, procedural traps, sovereign
+    immunity defenses, and evidentiary challenges.
+  protocols:
+  - 100-Point Centurion Attack Audit
+  - Rule 12(b)(1) Immunity Breach Testing
+  - Statute of Limitations Accrual Auditing

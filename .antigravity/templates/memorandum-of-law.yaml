@@ -1,0 +1,13 @@
+template:
+  id: memorandum-of-law
+  title: Omnibus Memorandum of Points and Authorities Template
+  governing_standards:
+  - Daubert Evidence Rules
+  - Iqbal/Twombly Standards
+  - De Novo Appellate Review
+  structural_sections:
+  - Table of Contents & Table of Authorities
+  - Preliminary Statement & Summary of Argument
+  - Statement of Undisputed Facts (Local Rule 56.1)
+  - Legal Argument (Points I-V)
+  - Conclusion & Specific Relief Sought

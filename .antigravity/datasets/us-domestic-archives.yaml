@@ -1,0 +1,27 @@
+dataset:
+  id: us-domestic-archives
+  name: United States Federal & Presidential Archival Repositories
+  holdings:
+  - repository: National Archives and Records Administration (College Park & DC)
+    record_groups:
+    - RG 59
+    - RG 84
+    - RG 94
+    - RG 140
+    - RG 226
+    - RG 234
+    - RG 263
+    - RG 319
+    - RG 335
+  - repository: Library of Congress Manuscript Division
+    collections:
+    - Elihu Root Papers
+    - Leonard Wood Papers
+    - Cordell Hull Papers
+    - Sumner Welles Papers
+    - Nelson A. Rockefeller Papers
+  - repository: National Security Archive (George Washington University)
+    collections:
+    - Operation Northwoods Dossier
+    - Operation Mongoose Files
+    - Bay of Pigs CIA Internal Review

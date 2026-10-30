@@ -1,0 +1,41 @@
+name: Decentralized Mirror Synchronization
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */6 * * *'  # Sync every 6 hours
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to GitLab Mirror
+        if: env.GITLAB_TOKEN != ''
+        run: |
+          git remote add gitlab https://oauth2:${{ secrets.GITLAB_MIRROR_TOKEN }}@gitlab.com/GlobalRestitutionAlliance/us-cuba-master-litigation.git || true
+          git push gitlab main --tags --force
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_MIRROR_TOKEN }}
+
+      - name: Push to Codeberg Mirror
+        if: env.CODEBERG_TOKEN != ''
+        run: |
+          git remote add codeberg https://${{ secrets.CODEBERG_MIRROR_TOKEN }}@codeberg.org/GlobalRestitutionAlliance/us-cuba-master-litigation.git || true
+          git push codeberg main --tags --force
+        env:
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_MIRROR_TOKEN }}
+
+      - name: Archive to IPFS via Pinning Service
+        if: env.PINATA_JWT != ''
+        run: |
+          tar -czf repo_snapshot.tar.gz --exclude='.git' .
+          curl -X POST -F "file=@repo_snapshot.tar.gz" https://api.pinata.cloud/pinning/pinFileToIPFS             -H "Authorization: Bearer ${{ secrets.PINATA_JWT }}"
+        env:
+          PINATA_JWT: ${{ secrets.PINATA_JWT }}

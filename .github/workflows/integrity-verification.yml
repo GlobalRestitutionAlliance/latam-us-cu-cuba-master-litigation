@@ -1,0 +1,44 @@
+name: Evidentiary Integrity Verification
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  verify-hashes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Verify SHA-256 Manifest
+        run: |
+          echo "Verifying evidentiary payload integrity..."
+          sha256sum -c VERIFICATION_KEYS/sha256_manifest.txt --strict
+          if [ $? -ne 0 ]; then
+            echo "INTEGRITY BREACH DETECTED. Evidentiary files have been altered without manifest authorization."
+            exit 1
+          fi
+          echo "All hashes verified. Chain of custody intact."
+
+      - name: Verify 1,805 Vector Count
+        run: |
+          VECTOR_COUNT=$(grep -c "vector_id:" .antigravity/knowledge/vector-index/*.yaml | awk -F: '{sum += $2} END {print sum}')
+          if [ "$VECTOR_COUNT" -ne 1805 ]; then
+            echo "VECTOR COUNT MISMATCH. Expected 1805, found $VECTOR_COUNT."
+            exit 1
+          fi
+          echo "1,805 vectors confirmed."
+
+      - name: Check for Prohibited Alterations
+        run: |
+          # Prevent modification of locked historical timeline and legal precedents
+          if [ "$(git rev-parse --verify HEAD~1 2>/dev/null)" ]; then
+            git diff --name-only HEAD~1 HEAD | grep -E "(historical-timeline|legal-precedents|Master_Chain_of_Custody_Log)" &&             echo "ALERT: Attempted modification of locked foundational records." && exit 1 ||             echo "Foundational records untouched."
+          else
+            echo "Initial commit or single commit range; skipping diff check."
+          fi

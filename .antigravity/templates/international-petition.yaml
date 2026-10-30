@@ -1,0 +1,14 @@
+template:
+  id: international-petition
+  title: Transnational Tribunal Petition Template
+  forums:
+  - IACHR
+  - PCA (UNCITRAL)
+  - ICJ (Advisory)
+  structural_sections:
+  - I. Identification of Petitioners & Victim Subclasses
+  - II. Respondent State (United States of America)
+  - III. Exhaustion of Domestic Remedies Exception (Inordinate Delay & Captured Judiciary)
+  - IV. Statement of Facts (The 221-Year Continuous Wrong)
+  - V. Violations of International Law (Jus Cogens, ARSIWA, American Declaration)
+  - VI. Requests for Restitution, Accounting, and Guarantees of Non-Recurrence

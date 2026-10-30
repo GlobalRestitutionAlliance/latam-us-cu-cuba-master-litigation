@@ -1,0 +1,10 @@
+agent:
+  id: agent-omega-harvester
+  name: Agent Omega Harvester
+  role: Autonomous Multi-Tier Evidence Harvester & OSINT Engine
+  targets:
+  - Declassified FOIA releases & CIA CREST repositories
+  - Consular post correspondence & customs registers
+  - Antebellum slave-trade factoring ledgers & plantation deeds
+  - Wall Street bank syndicate debt indentures & railroad trusts
+  - Geospatial title mapping & cadastral registry matching

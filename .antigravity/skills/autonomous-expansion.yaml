@@ -1,0 +1,9 @@
+skill:
+  id: autonomous-expansion
+  name: Autonomous Evidentiary & Vector Expansion Engine
+  description: Continuously mines newly declassified files and historical records
+    to generate structured evidentiary vectors beyond 1,805.
+  expansion_criteria:
+  - Relevance to 221-Year Continuum
+  - Mens Rea of Sovereign Exploitation
+  - Direct Financial/Causal Nexus

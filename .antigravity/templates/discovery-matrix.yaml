@@ -1,0 +1,14 @@
+template:
+  id: discovery-matrix
+  title: Discovery Matrix & Archival Subpoena Protocol
+  governing_rules:
+  - Fed. R. Civ. P. 26
+  - Rule 30
+  - Rule 34
+  - Rule 45
+  components:
+  - Target Entity Identification (State Dept, Treasury, NARA, Banks)
+  - Custody Chain & Exact Box/Ledger Identifier
+  - Statutory / Regulatory Target (e.g., 31 C.F.R. Part 515)
+  - Relevance to 221-Year Continuum Vector
+  - Authentication Path under FRE 902 / 803(8)

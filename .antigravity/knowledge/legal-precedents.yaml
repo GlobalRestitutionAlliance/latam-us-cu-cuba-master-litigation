@@ -1,0 +1,40 @@
+legal_precedents:
+  title: Master Jurisprudential Precedents & Controlling Authorities
+  fiduciary_trust:
+  - case: United States v. Mitchell, 463 U.S. 206 (1983)
+    holding: Sovereign assumes fiduciary trust duties when exercising comprehensive
+      administrative control over property; sovereign immunity waived for breach.
+  - case: Seminole Nation v. United States, 316 U.S. 286 (1942)
+    holding: Government held to strictest fiduciary standards of equity when managing
+      resources under statutory or treaty protectorates.
+  - case: Cobell v. Salazar, 573 F.3d 808 (D.C. Cir. 2009)
+    holding: Statute of limitations does not run against trust beneficiaries seeking
+      equitable accounting while trust remains un-repudiated.
+  fifth_amendment_takings:
+  - case: Turney v. United States, 115 F. Supp. 457 (Ct. Cl. 1953)
+    holding: United States liable under Fifth Amendment Takings Clause for foreign
+      property confiscation engineered by U.S. diplomatic coercion.
+  - case: Langenegger v. United States, 756 F.2d 1565 (Fed. Cir. 1985)
+    holding: Tucker Act liability attaches where U.S. displays direct and substantial
+      involvement in foreign expropriation framework.
+  justiciability_and_separation_of_powers:
+  - case: Baker v. Carr, 369 U.S. 186 (1962)
+    holding: Claims touching foreign affairs are justiciable when grounded in constitutional
+      individual rights and property protections.
+  - case: Zivotofsky v. Clinton, 566 U.S. 189 (2012)
+    holding: Courts have a virtuous duty to adjudicate statutory and constitutional
+      claims, even where foreign relations are implicated.
+  - case: Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952)
+    holding: Executive authority over property reaches its lowest ebb absent express
+      constitutional or congressional authorization.
+  anti_retroactivity_and_attainder:
+  - case: Landgraf v. USI Film Products, 511 U.S. 244 (1994)
+    holding: Presumption against statutory retroactivity protects settled property
+      expectations and accrued judicial claims.
+  - case: United States v. Brown, 381 U.S. 437 (1965)
+    holding: Legislative actions designed to inflict disability on specific individuals
+      or classes without judicial trial violate Bill of Attainder Clause.
+  act_of_state_limits:
+  - case: Banco Nacional de Cuba v. Sabbatino, 376 U.S. 398 (1964)
+    holding: Act of State Doctrine bars review of foreign sovereign acts within their
+      own territory, but does NOT immunize domestic U.S. executive agencies.

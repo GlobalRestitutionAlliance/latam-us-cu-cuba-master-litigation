@@ -1,0 +1,14 @@
+template:
+  id: motion-template
+  title: Standard Federal Motion Template
+  governing_rules:
+  - Fed. R. Civ. P. 7(b)
+  - Local Civil Rules for Notice of Motion
+  structural_sections:
+  - Caption
+  - Notice of Motion & Relief Requested
+  - Statement of the Case & Procedural Posture
+  - Statement of Issues to be Determined
+  - Argument & Citations to Controlling Authorities
+  - Conclusion & Precise Prayer for Relief
+  - Certificate of Service & Proposed Order

@@ -1,0 +1,39 @@
+historical_timeline:
+  title: The 221-Year Continuum (1805-Present)
+  eras:
+  - era: 1805-1859
+    name: Foundational Imperial Intent & Antebellum Slave Expansion
+    key_milestones:
+    - 1805 Jefferson Annexation Cabinet Notes
+    - 1823 Monroe Doctrine & Adams Ripe Fruit Despatch
+    - 1854 Ostend Manifesto
+    - 1859 Slidell Thirty Million Dollar Bill
+  - era: 1861-1886
+    name: Civil War Diplomacy, Confederate Diaspora & Latifundia Consolidation
+    key_milestones:
+    - 1861 Confederate Havana Agency
+    - 1865 Confederate Planter Defection to Cuba
+    - 1871 Spanish-American Claims Commission
+    - 1886 Abolition & Corporate Wage Peonage Conversion
+  - era: 1898-1934
+    name: Military Occupation, Platt Amendment & Wall Street Receiverships
+    key_milestones:
+    - 1898 USS Maine & Treaty of Paris Art. XVI Fiduciary Pledge
+    - 1899-1902 Leonard Wood Land Title Decrees
+    - 1901 Platt Amendment Coercion
+    - 1920 Dance of the Millions Bank Foreclosures
+  - era: 1934-1959
+    name: Reciprocal Trade Dependence & Batista Dictatorship Backing
+    key_milestones:
+    - 1934 Jones-Costigan Act Quotas
+    - 1952 Batista Coup Recognition
+    - 1957-1958 Multi-Faction Arms Subsidies
+  - era: 1960-Present
+    name: Economic Blockade, Covert Operations & Modern OFAC Regulatory Freezes
+    key_milestones:
+    - 1960 Mallory Economic Starvation Memorandum
+    - 1962 Proclamation 3447 Total Embargo
+    - 1962 Operation Northwoods Declassified Plans
+    - 1963 31 C.F.R. Part 515 Asset Freezes
+    - 1996 Helms-Burton Act Title III
+    - 2026 Active Continuous Tort Accrual

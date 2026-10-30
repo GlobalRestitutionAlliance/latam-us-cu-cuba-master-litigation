@@ -1,0 +1,11 @@
+dataset:
+  id: asian-archives
+  name: Trans-Pacific Indentured Labor & Choke Point Repositories
+  holdings:
+  - repository: Maritime Customs Service Archives (Hong Kong & Macau)
+    records:
+    - "Chinese Indentured Labor (Cul\xEDes) Shipment Charters to Cuba (1847-1886)"
+    - Factoring Contracts tied to U.S. Sugar Consortia
+  - repository: National Archives of the Philippines
+    records:
+    - Spanish Colonial Inter-Island Maritime Codes & U.S. Insular Administrative Parallels

@@ -1,0 +1,24 @@
+workflow:
+  id: deep-forge-pipeline
+  name: The 4-Step Deep Forge Pleading Hardening Pipeline
+  stages:
+  - stage: 1
+    name: Vulnerability Audit
+    agent: red-team-adversary
+    action: Expose procedural traps, statute of limitations bars, and 12(b) dismissal
+      hazards.
+  - stage: 2
+    name: Evidentiary Fortification
+    agent: archival-sentinel
+    action: Inject binding Supreme Court precedent, NARA RG archives, and international
+      law.
+  - stage: 3
+    name: Asymmetric Entrapment Integration
+    agent: sun-tzu-strategist
+    action: Embed procedural baits compelling government admissions to trigger FRE
+      801(d)(2) checkmates.
+  - stage: 4
+    name: Final Weaponized Output
+    agent: omni-counsel-architect
+    action: Generate finalized, court-ready text accompanied by strategic execution
+      memorandum.

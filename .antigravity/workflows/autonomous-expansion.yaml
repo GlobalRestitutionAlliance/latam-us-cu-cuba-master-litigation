@@ -1,0 +1,17 @@
+workflow:
+  id: autonomous-expansion
+  name: Autonomous Vector Index Expansion Workflow
+  stages:
+  - stage: 1
+    name: Gap Identification
+    agent: omni-counsel-architect
+    action: Scan chronological timeline for under-documented historical intervals.
+  - stage: 2
+    name: Discovery Ingestion
+    agent: agent-omega-harvester
+    action: Extract executive directives, banking ledgers, and diplomatic correspondence.
+  - stage: 3
+    name: Codification
+    agent: procedural-blacksmith
+    action: Structure findings into standardized vector format and append to master
+      knowledge base.

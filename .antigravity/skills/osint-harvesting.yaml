@@ -1,0 +1,10 @@
+skill:
+  id: osint-harvesting
+  name: Open-Source Intelligence & Public Record Mining
+  description: Monitors modern sanctions notices, OFAC licensing actions, corporate
+    filings, SEC disclosures, and foreign municipal court dockets.
+  data_sources:
+  - Federal Register
+  - OFAC SDN Updates
+  - EDGAR SEC Filings
+  - WTO Dispute Panels

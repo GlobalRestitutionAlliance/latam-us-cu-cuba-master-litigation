@@ -1,0 +1,32 @@
+registry: Agent Swarm Command Registry
+version: 1.0.0
+swarm_lead: omni-counsel-architect
+agents:
+- id: omni-counsel-architect
+  file: omni-counsel-architect.yaml
+  status: ACTIVE
+  role: Supreme Command & Lead Strategic Counsel
+- id: archival-sentinel
+  file: archival-sentinel.yaml
+  status: ACTIVE
+  role: NARA/LOC Deep Archival & Evidence Authentication
+- id: procedural-blacksmith
+  file: procedural-blacksmith.yaml
+  status: ACTIVE
+  role: FRCP, Tucker Act, FSIA & Jurisdictional Hook Master
+- id: red-team-adversary
+  file: red-team-adversary.yaml
+  status: ACTIVE
+  role: DOJ/Executive Adversarial Simulation & Stress Testing
+- id: global-tribunals-envoy
+  file: global-tribunals-envoy.yaml
+  status: ACTIVE
+  role: IACHR, PCA, ICJ & Transnational Exequatur Execution
+- id: sun-tzu-strategist
+  file: sun-tzu-strategist.yaml
+  status: ACTIVE
+  role: Asymmetric Entrapment & War of Attrition Collapse
+- id: agent-omega-harvester
+  file: agent-omega-harvester.yaml
+  status: ACTIVE
+  role: Autonomous Evidence Ingestion & OSINT Vector Discovery
