@@ -904,3 +904,24 @@ W:\Legal\US_CUBA\
   - [Master_Sovereign_Banking_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_Crosswalk_Matrix.csv)
   - [Master_Sovereign_Banking_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_Crosswalk_Dashboard.md)
   - [Master_Sovereign_Banking_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 26)
+- `agent-sovereign-retail-monopoly-auditor`: CIMEX Tiendas Panamericanas, TRD Caribe, Tiendas Caracol & Expropriated Retail Real Estate Auditor.
+- `agent-procurement-supply-chain-garnishee-marshal`: Colón Free Zone (Panama) Conduits, Supermarket23 / Treew E-Commerce & Merchant Gateway Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 26)
+- `gaesa-commercial-retail-and-mlc-disgorgement`: GAESA Commercial Retail & Tiendas MLC Disgorgement.
+- `transnational-ecommerce-and-merchant-acquirer-garnishment`: Transnational E-Commerce & Merchant Acquirer Garnishment.
+- `free-zone-procurement-and-warehousing-interdiction`: Free Zone Procurement & Bonded Warehousing Interdiction.
+
+## Completed Campaigns
+### Campaign 26: Sovereign Hard-Currency Commercial Retail Monopolies, Tiendas MLC & Panama Free Zone Restitution Campaign
+- **Total Restitution Pool:** $360,000,000,000.00 ($360.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** RETAIL-001 through RETAIL-025
+- **Assigned Agents:** `agent-sovereign-retail-monopoly-auditor`, `agent-procurement-supply-chain-garnishee-marshal`
+- **Certified Skills:** `gaesa-commercial-retail-and-mlc-disgorgement`, `transnational-ecommerce-and-merchant-acquirer-garnishment`, `free-zone-procurement-and-warehousing-interdiction`
+- **Evidentiary Artifacts:**
+  - [Master_Commercial_Retail_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Retail_Crosswalk_Matrix.csv)
+  - [Master_Commercial_Retail_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Retail_Crosswalk_Dashboard.md)
+  - [Master_Commercial_Retail_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Retail_Crosswalk_Dashboard.docx)

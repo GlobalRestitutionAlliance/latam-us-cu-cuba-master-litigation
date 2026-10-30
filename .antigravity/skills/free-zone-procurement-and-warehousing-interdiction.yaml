@@ -1,0 +1,10 @@
+id: free-zone-procurement-and-warehousing-interdiction
+name: Free Zone Procurement & Bonded Warehousing Interdiction
+description: Operational protocols for identifying, attaching, and liquidating GAESA procurement inventories, bonded warehouse leases, freight forwarder escrows, and re-export financing accounts located in the Colón Free Zone (Panama) and Mexican transit hubs.
+version: 1.0.0
+tactical_domain: Free Trade Zone Seizure, Bonded Warehouse Attachment & Supply Chain Disruption
+execution_protocol:
+  - Step 1: Tracing bill of lading manifests and customs declarations for containerized consumer goods shipped from Panama and Mexico to Cuban ports.
+  - Step 2: Filing precautionary attachment orders (medidas cautelares) in Panamanian and Mexican commercial courts on bonded warehouse contents.
+  - Step 3: Freezing trade finance letters of credit and open account credit facilities extended by local trading merchants.
+  - Step 4: Compelling public auction of seized wholesale merchandise with proceeds deposited into the Master Restitution Trust.

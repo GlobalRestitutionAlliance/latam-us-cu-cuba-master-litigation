@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 84
+total_skills: 87
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -260,3 +260,15 @@ skills:
   name: TRIA § 201(a) & Blocked Correspondent Wire Transfer Turnover
   status: ACTIVE
   manifest_file: .antigravity/skills/tria-and-blocked-correspondent-wire-turnover.yaml
+- id: gaesa-commercial-retail-and-mlc-disgorgement
+  name: GAESA Commercial Retail & Tiendas MLC Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/gaesa-commercial-retail-and-mlc-disgorgement.yaml
+- id: transnational-ecommerce-and-merchant-acquirer-garnishment
+  name: Transnational E-Commerce & Merchant Acquirer Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-ecommerce-and-merchant-acquirer-garnishment.yaml
+- id: free-zone-procurement-and-warehousing-interdiction
+  name: Free Zone Procurement & Bonded Warehousing Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/free-zone-procurement-and-warehousing-interdiction.yaml

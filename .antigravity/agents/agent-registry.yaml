@@ -270,4 +270,16 @@ agents:
     Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-interbank-clearing-garnishee-marshal.yaml
-total_agents: 56
+- id: agent-sovereign-retail-monopoly-auditor
+  name: Sovereign Commercial Retail Monopoly & Tiendas MLC Forensic Auditor
+  role: CIMEX Tiendas Panamericanas, TRD Caribe, Tiendas Caracol & Expropriated Retail
+    Real Estate Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-sovereign-retail-monopoly-auditor.yaml
+- id: agent-procurement-supply-chain-garnishee-marshal
+  name: Transnational E-Commerce & Free Zone Procurement Garnishee Marshal
+  role: Colón Free Zone (Panama) Conduits, Supermarket23 / Treew E-Commerce & Merchant
+    Gateway Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-procurement-supply-chain-garnishee-marshal.yaml
+total_agents: 58

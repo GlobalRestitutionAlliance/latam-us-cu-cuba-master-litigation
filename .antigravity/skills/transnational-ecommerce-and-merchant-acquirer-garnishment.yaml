@@ -1,0 +1,10 @@
+id: transnational-ecommerce-and-merchant-acquirer-garnishment
+name: Transnational E-Commerce & Merchant Acquirer Garnishment
+description: Multi-jurisdictional garnishment and third-party debt order protocols targeting overseas e-commerce front companies (Supermarket23, Treew, EnviosCuba, MallHabana) and their merchant acquiring payment processing lines across Spain, Canada, Mexico, and the United Kingdom.
+version: 1.0.0
+tactical_domain: E-Commerce Gateway Interdiction, Merchant Settlement Garnishment & Payment Processor Levies
+execution_protocol:
+  - Step 1: Subpoenaing merchant account identifiers (MIDs), payment gateway rails (Stripe, Redsys, Moneris), and acquiring bank relationships.
+  - Step 2: Serving third-party debt orders and CPLR § 5227 turnover petitions on card acquiring institutions prior to daily batch settlement.
+  - Step 3: Freezing chargeback reserve funds, rolling liquidity margins, and e-commerce clearing accounts.
+  - Step 4: Transferring intercepted settlement balances into the Master Qualified Settlement Fund.
