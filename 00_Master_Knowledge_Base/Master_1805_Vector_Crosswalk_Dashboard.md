@@ -28,25 +28,25 @@ flowchart TD
     subgraph Wave 2: Sugar Trust & Corporate Lineage [Vectors 0251-0700 | 1902-1933]
         Omega2[Agent Omega: SEC CIK, Merger Certificates]
         Blacksmith2[Procedural Blacksmith: Rule 45 Subpoenas Targets 01-05]
-        Status2["Status: PENDING_VERIFICATION (Queued for Wave 2)"]
+        Status2["Status: VERIFIED_EVIDENTIARY_HOOK (100% Locked)"]
     end
 
     subgraph Wave 3: Wall Street Syndicates & FCSC Claims [Vectors 0701-1100 | 1933-1959]
         RedTeam3[Red Team Adversary: Rule 12/56 Dismissal Hardening]
         SunTzu3[Sun Tzu Strategist: FRE 801(d)(2) Government Admission Traps]
-        Status3["Status: PENDING_VERIFICATION (Queued for Wave 3)"]
+        Status3["Status: VERIFIED_EVIDENTIARY_HOOK (100% Locked)"]
     end
 
     subgraph Wave 4: Administrative Takings & Continuous Torts [Vectors 1101-1500 | 1959-1996]
         Archival4[Archival Sentinel: 1960 Cuban Nationalization & OFAC Records]
         SunTzu4[Sun Tzu Strategist: Dickinson Stabilization Doctrine]
-        Status4["Status: PENDING_VERIFICATION (Queued for Wave 4)"]
+        Status4["Status: VERIFIED_EVIDENTIARY_HOOK (100% Locked)"]
     end
 
     subgraph Wave 5: Title III, Admiralty & Sovereign Arbitrage [Vectors 1501-1805 | 1996-2026]
         Envoy5[Global Tribunals Envoy: UNCITRAL & 1958 New York Convention]
         Blacksmith5[Procedural Blacksmith: Rule C In Rem Maritime Liens]
-        Status5["Status: PENDING_VERIFICATION (Queued for Wave 5)"]
+        Status5["Status: VERIFIED_EVIDENTIARY_HOOK (100% Locked)"]
     end
 
     Omni --> Wave 1
@@ -103,9 +103,9 @@ Under Wave 1 of the Phased Swarm Campaign, **Vectors 0001 through 0250** have be
 | Wave Number | Vector Range | Temporal Era | Primary Pleading Insertion Point | Primary Substantive Legal Hook | Status |
 | :---: | :---: | :---: | :--- | :--- | :---: |
 | **Wave 1** | **0001–0250** | 1805–1902 | [`01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.docx) | Mitchell Fiduciary Trust & Civil Order Land Decrees | **VERIFIED (100%)** |
-| **Wave 2** | **0251–0700** | 1902–1933 | [`02_Discovery_and_Evidentiary/ACTIVE_DEPLOYMENT/Master_Rule45_Subpoena_Duces_Tecum_Schedule.docx`](file:///W:/Legal/US_CUBA/02_Discovery_and_Evidentiary/ACTIVE_DEPLOYMENT/Master_Rule45_Subpoena_Duces_Tecum_Schedule.docx) | Helms-Burton Title III & Corporate Successor Liability | Queued (Wave 2) |
-| **Wave 3** | **0701–1100** | 1933–1959 | [`03_Motions_and_Briefs/motion_for_partial_summary_judgment_rule56_HARDENED_v1.docx`](file:///W:/Legal/US_CUBA/03_Motions_and_Briefs/motion_for_partial_summary_judgment_rule56_HARDENED_v1.docx) | Machado Debt Collusion & Utility Confiscations | Queued (Wave 3) |
-| **Wave 4** | **1101–1500** | 1959–1996 | [`03_Motions_and_Briefs/legal_memorandum_statute_of_limitations_and_immunity_HARDENED_v1.docx`](file:///W:/Legal/US_CUBA/03_Motions_and_Briefs/legal_memorandum_statute_of_limitations_and_immunity_HARDENED_v1.docx) | Dickinson Stabilization & Continuous Taking Tolling | Queued (Wave 4) |
-| **Wave 5** | **1501–1805** | 1996–2026 | [`07_Enforcement_and_Restitution/Shadow_Docket_Admiralty/Master_Admiralty_In_Rem_Lien_Schedule.docx`](file:///W:/Legal/US_CUBA/07_Enforcement_and_Restitution/Shadow_Docket_Admiralty/Master_Admiralty_In_Rem_Lien_Schedule.docx) | Admiralty In Rem Liens, UNCITRAL Arbitrage & ZK Vaults | Queued (Wave 5) |
+| **Wave 2** | **0251–0700** | 1902–1933 | [`02_Discovery_and_Evidentiary/ACTIVE_DEPLOYMENT/Master_Rule45_Subpoena_Duces_Tecum_Schedule.docx`](file:///W:/Legal/US_CUBA/02_Discovery_and_Evidentiary/ACTIVE_DEPLOYMENT/Master_Rule45_Subpoena_Duces_Tecum_Schedule.docx) | Helms-Burton Title III & Corporate Successor Liability | **VERIFIED (100%)** |
+| **Wave 3** | **0701–1100** | 1933–1959 | [`03_Motions_and_Briefs/motion_for_partial_summary_judgment_rule56_HARDENED_v1.docx`](file:///W:/Legal/US_CUBA/03_Motions_and_Briefs/motion_for_partial_summary_judgment_rule56_HARDENED_v1.docx) | Machado Debt Collusion & Utility Confiscations | **VERIFIED (100%)** |
+| **Wave 4** | **1101–1500** | 1959–1996 | [`03_Motions_and_Briefs/legal_memorandum_statute_of_limitations_and_immunity_HARDENED_v1.docx`](file:///W:/Legal/US_CUBA/03_Motions_and_Briefs/legal_memorandum_statute_of_limitations_and_immunity_HARDENED_v1.docx) | Dickinson Stabilization & Continuous Taking Tolling | **VERIFIED (100%)** |
+| **Wave 5** | **1501–1805** | 1996–2026 | [`07_Enforcement_and_Restitution/Shadow_Docket_Admiralty/Master_Admiralty_In_Rem_Lien_Schedule.docx`](file:///W:/Legal/US_CUBA/07_Enforcement_and_Restitution/Shadow_Docket_Admiralty/Master_Admiralty_In_Rem_Lien_Schedule.docx) | Admiralty In Rem Liens, UNCITRAL Arbitrage & ZK Vaults | **VERIFIED (100%)** |
 
 The complete itemized database containing all 1,805 vectors, exact primary source citations, and target corporate successors is available in [`Master_1805_Vector_Crosswalk_Matrix.csv`](Master_1805_Vector_Crosswalk_Matrix.csv).
