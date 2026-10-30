@@ -1,0 +1,20 @@
+skill:
+  id: "prejudgment-attachment-execution"
+  name: "Prejudgment Attachment Execution & Bank Account Encumbrance"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft emergency ex parte applications for Writs of Prejudgment Attachment under FRCP Rule 64"
+    - "Execute prejudgment garnishment notices against Fedwire and CHIPS commercial clearinghouses"
+    - "Levy attachment liens against commercial real estate, deepwater refinery berths, and shipping terminals"
+    - "Structure attachment undertaking bonds and motion for waiver of security under equity jurisdiction"
+    - "Coordinate simultaneous domestic and transnational freeze orders to preempt capital flight"
+    
+  triggers:
+    - "Service of summons and complaint upon out-of-state corporate successors and foreign sovereigns"
+    - "Detection of attempted asset repatriation, corporate reorganization, or offshore liquidation"
+    - "Filing of Class Action complaints demanding restitution and constructive trust remedies"
+    
+  output_requirements:
+    - "Writs of attachment must identify specific bank routing numbers, account titles, and asset locations"
+    - "Supporting affidavits must establish high probability of success on the merits and irreparable harm"

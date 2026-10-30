@@ -1,0 +1,20 @@
+skill:
+  id: "corporate-forensic-accounting"
+  name: "Corporate Forensic Accounting & Lineage De-Anonymization"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Trace corporate asset transfers and de facto mergers across 1898–2026 enterprise histories"
+    - "Map modern SEC EDGAR Central Index Keys (CIK) to pre-1959 confiscation liabilities"
+    - "De-anonymize offshore holding chains in Cayman Islands, Bermuda, Panama, and Switzerland"
+    - "Extract historical acquisition schedules and goodwill impairments from SEC 10-K and 8-K filings"
+    - "Compute statutory prejudgment interest allocations and net corporate restitution liabilities"
+    
+  triggers:
+    - "Drafting Rule 45 corporate subpoena schedules"
+    - "Serving 30-day statutory notice letters under 22 U.S.C. § 6082(a)(3)"
+    - "Submitting Local Rule 56.1 Statements of Undisputed Material Facts on corporate liability"
+    
+  output_requirements:
+    - "Corporate lineage charts must include SEC CIK numbers, state of incorporation, and merger dates"
+    - "All valuations must reconcile certified FCSC principal with modern compounded interest"

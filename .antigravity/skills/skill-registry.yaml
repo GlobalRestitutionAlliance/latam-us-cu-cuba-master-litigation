@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 15
+total_skills: 18
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -46,4 +46,13 @@ skills:
   status: READY
 - id: arbitral-exequatur-enforcement
   file: arbitral-exequatur-enforcement.yaml
+  status: READY
+- id: corporate-forensic-accounting
+  file: corporate-forensic-accounting.yaml
+  status: READY
+- id: prejudgment-attachment-execution
+  file: prejudgment-attachment-execution.yaml
+  status: READY
+- id: constructive-trust-tracing
+  file: constructive-trust-tracing.yaml
   status: READY

@@ -1,0 +1,20 @@
+skill:
+  id: "constructive-trust-tracing"
+  name: "Constructive Trust Tracing & Commingled Fund Disgorgement"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Apply the Lowest Intermediate Balance Rule (LIBR) to commingled corporate and sovereign funds"
+    - "Trace confiscated real property improvements and reinvested plantation revenues into modern assets"
+    - "Draft judicial decrees establishing constructive trusts over corporate stock and dividend reserves"
+    - "Impose equitable liens on commercial shipping freights, mineral royalties, and airline ticket sales"
+    - "Establish joint and several disgorgement liability across consolidated corporate parents and subsidiaries"
+    
+  triggers:
+    - "Filing of claims under the Restatement (Third) of Restitution and Unjust Enrichment §§ 1, 44, 55"
+    - "Motion for preliminary injunction freezing specific accounts under Grupo Mexicano exceptions"
+    - "Post-verdict accounting and special master distribution hearings under FRCP Rule 53"
+    
+  output_requirements:
+    - "Tracing ledgers must show exact chronological asset pathways from taking to modern balance sheet"
+    - "Equitable lien decrees must describe subject property with cadastral and municipal precision"

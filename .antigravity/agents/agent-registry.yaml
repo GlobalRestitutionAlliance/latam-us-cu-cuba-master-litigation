@@ -42,3 +42,11 @@ agents:
   file: agent-admiralty-marshal.yaml
   status: ACTIVE
   role: Supplemental Rule C Maritime In Rem Arrest & Transnational Asset Restitution Commander
+- id: agent-corporate-auditor
+  file: agent-corporate-auditor.yaml
+  status: ACTIVE
+  role: Corporate Successor Forensic Accounting, CIK Mappings, Balance Sheet Disgorgement & Offshore Tax Haven Tracing
+- id: agent-prejudgment-attache
+  file: agent-prejudgment-attache.yaml
+  status: ACTIVE
+  role: FRCP Rule 64, D.C. Code § 16-501, 28 U.S.C. § 1610 & Transnational Ex Parte Freeze Architect

@@ -49,6 +49,8 @@ W:\Legal\US_CUBA\
   - [`agent-hydra-warden.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-hydra-warden.yaml)
   - [`agent-fiduciary-liquidator.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-fiduciary-liquidator.yaml)
   - [`agent-admiralty-marshal.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-admiralty-marshal.yaml)
+  - [`agent-corporate-auditor.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-corporate-auditor.yaml)
+  - [`agent-prejudgment-attache.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-prejudgment-attache.yaml)
 - **Skills (`.antigravity/skills/`):**
   - [`skill-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/skill-registry.yaml)
   - [`legal-drafting.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/legal-drafting.yaml)
@@ -66,6 +68,9 @@ W:\Legal\US_CUBA\
   - [`damages-quantum-modeling.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/damages-quantum-modeling.yaml)
   - [`maritime-in-rem-execution.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/maritime-in-rem-execution.yaml)
   - [`arbitral-exequatur-enforcement.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/arbitral-exequatur-enforcement.yaml)
+  - [`corporate-forensic-accounting.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/corporate-forensic-accounting.yaml)
+  - [`prejudgment-attachment-execution.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/prejudgment-attachment-execution.yaml)
+  - [`constructive-trust-tracing.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/constructive-trust-tracing.yaml)
 - **Datasets (`.antigravity/datasets/`):**
   - [`dataset-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/datasets/dataset-registry.yaml)
   - [`us-domestic-archives.yaml`](file:///W:/Legal/US_CUBA/.antigravity/datasets/us-domestic-archives.yaml)
@@ -122,6 +127,9 @@ W:\Legal\US_CUBA\
 | **Master Pleadings & Evidentiary Crosswalk Dashboard (MD)** | `.md` | Strategic deployment dashboard cross-walking all 25 litigation weapons across 5 Theaters to vector spans and statutory hooks. | [Master_Pleadings_Evidentiary_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pleadings_Evidentiary_Crosswalk_Dashboard.md) |
 | **Master Pleadings & Evidentiary Crosswalk Dashboard (DOCX)** | `.docx` | Formatted executive treatise detailing weapon readiness, 10-agent command structure, and 15 operational skills. | [Master_Pleadings_Evidentiary_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pleadings_Evidentiary_Crosswalk_Dashboard.docx) |
 | **Master Pleadings & Evidentiary Crosswalk Matrix (CSV)** | `.csv` | Relational matrix mapping 25 core weapons across 5 Theaters to verified vector spans, statutory hooks, and archival proofs. | [Master_Pleadings_Evidentiary_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pleadings_Evidentiary_Crosswalk_Matrix.csv) |
+| **Master Corporate Disgorgement Crosswalk Dashboard (MD)** | `.md` | Financial forensics dashboard quantifying $146.5B+ corporate treble damages and prejudgment attachment targets across 25 syndicates. | [Master_Corporate_Disgorgement_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Corporate_Disgorgement_Crosswalk_Dashboard.md) |
+| **Master Corporate Disgorgement Crosswalk Dashboard (DOCX)** | `.docx` | Formatted executive treatise detailing corporate successor lineage, CIK mappings, and prejudgment attachment orders. | [Master_Corporate_Disgorgement_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Corporate_Disgorgement_Crosswalk_Dashboard.docx) |
+| **Master Corporate Disgorgement Crosswalk Matrix (CSV)** | `.csv` | Relational dataset mapping 25 premier corporate targets to certified FCSC claims, 6% interest base, and treble damages. | [Master_Corporate_Disgorgement_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Corporate_Disgorgement_Crosswalk_Matrix.csv) |
 | **The 1871 US Incorporation Myth** | `.pdf` | Foundational master transcript documenting the historical synthesis of all 1,805 vectors, legislative history, and declassified archives. | [The 1871 US Incorporation Myth.pdf](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/The%201871%20US%20Incorporation%20Myth.pdf) |
 | **Master Index and Chronological Dossier** | `.docx` | Complete chronological index cataloging the 1,805 vectors across five major historical eras (1805–2026). | [master_index_and_chronological_dossier.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_index_and_chronological_dossier.docx) |
 | **Master Litigation Archive Index & Dossier** | `.docx` | Comprehensive litigation compendium indexing all motions, pleadings, discovery orders, and trial briefs. | [master_litigation_archive_index_and_dossier.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_litigation_archive_index_and_dossier.docx) |
