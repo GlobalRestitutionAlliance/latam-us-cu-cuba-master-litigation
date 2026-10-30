@@ -146,3 +146,11 @@ agents:
   file: agent-joint-venture-royalty-marshal.yaml
   status: ACTIVE
   role: Luxembourg Holding Conduits, Dividend Garnishment & Global Brand Royalty Marshal
+- id: agent-hospitality-concessions-auditor
+  file: agent-hospitality-concessions-auditor.yaml
+  status: ACTIVE
+  role: Gaviota, Gran Caribe, Meliá & European Resort Management Contract Auditor
+- id: agent-tourism-revenue-garnishee-marshal
+  file: agent-tourism-revenue-garnishee-marshal.yaml
+  status: ACTIVE
+  role: Global Travel Reservation Clearing, Merchant Settlement & Resort Royalty Marshal

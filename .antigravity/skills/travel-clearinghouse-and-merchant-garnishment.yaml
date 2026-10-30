@@ -1,0 +1,19 @@
+id: travel-clearinghouse-and-merchant-garnishment
+name: Global Travel Reservation System & Merchant Acquirer Garnishment
+description: Protocols for serving federal post-judgment turnover writs on Global Distribution Systems (GDS: Amadeus, Sabre), booking engines, and credit card merchant acquirers settling Cuban resort bookings.
+version: 1.0.0
+tactical_domain: Travel Reservation System Interception & Merchant Acquirer Garnishment
+execution_protocol:
+  - Step 1: Identifying global distribution systems (Amadeus, Sabre) and online booking portals routing reservations to Cuban state hotels.
+  - Step 2: Auditing credit card merchant settlement flows processed through European banks (Santander, BBVA, CaixaBank).
+  - Step 3: Drafting federal writs of garnishment under FRCP Rule 69 and 28 U.S.C. § 1610(g) served on clearing intermediaries.
+  - Step 4: Rebutting EU Blocking Statute defenses by enforcing direct U.S. jurisdictional nexus and commercial activity exceptions.
+  - Step 5: Securing judicial turnover orders transferring blocked booking settlement funds directly into the Master Restitution QSF.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(2) (Commercial Property Used for Commercial Activity in U.S.)
+  - 28 U.S.C. § 1610(g) (Property of Foreign State Agency or Instrumentality)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Spanish Ley de Enjuiciamiento Civil (LEC Art. 584 et seq. - Embargo de Cuentas)
+  - Council Regulation (EC) No 2271/96 (EU Blocking Statute Analysis & Preemption)
+verified_by: agent-tourism-revenue-garnishee-marshal
+status: READY

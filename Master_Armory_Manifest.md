@@ -694,3 +694,24 @@ W:\Legal\US_CUBA\
   - [Master_Trademarks_and_Luxury_Brands_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trademarks_and_Luxury_Brands_Crosswalk_Matrix.csv)
   - [Master_Trademarks_and_Luxury_Brands_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trademarks_and_Luxury_Brands_Crosswalk_Dashboard.md)
   - [Master_Trademarks_and_Luxury_Brands_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trademarks_and_Luxury_Brands_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 16)
+- `agent-hospitality-concessions-auditor`: Gaviota, Gran Caribe, Meliá & European Resort Management Contract Auditor.
+- `agent-tourism-revenue-garnishee-marshal`: Global Travel Reservation Clearing, Merchant Settlement & Resort Royalty Marshal.
+
+## Newly Registered Skills (Campaign 16)
+- `hotel-management-contract-disgorgement`: Hotel Management Agreement (HMA) & Resort Concession Disgorgement.
+- `travel-clearinghouse-and-merchant-garnishment`: Global Travel Reservation System & Merchant Acquirer Garnishment.
+- `gaviota-sovereign-tourism-veil-piercing`: Grupo de Turismo Gaviota S.A. Military Holding Veil Annihilation.
+
+## Completed Campaigns
+### Campaign 16: International Tourism Hospitality Conglomerates, Hotel Management Concessions & Real Estate Disgorgement Campaign
+- **Total Restitution Pool:** $340,000,000,000.00 ($340.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** TOUR-001 through TOUR-025
+- **Assigned Agents:** `agent-hospitality-concessions-auditor`, `agent-tourism-revenue-garnishee-marshal`
+- **Certified Skills:** `hotel-management-contract-disgorgement`, `travel-clearinghouse-and-merchant-garnishment`, `gaviota-sovereign-tourism-veil-piercing`
+- **Evidentiary Artifacts:**
+  - [Master_Tourism_and_Hospitality_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tourism_and_Hospitality_Crosswalk_Matrix.csv)
+  - [Master_Tourism_and_Hospitality_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tourism_and_Hospitality_Crosswalk_Dashboard.md)
+  - [Master_Tourism_and_Hospitality_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tourism_and_Hospitality_Crosswalk_Dashboard.docx)

@@ -164,3 +164,12 @@ skills:
 - id: luxury-brand-title-iii-disgorgement
   file: luxury-brand-title-iii-disgorgement.yaml
   status: READY
+- id: hotel-management-contract-disgorgement
+  file: hotel-management-contract-disgorgement.yaml
+  status: READY
+- id: travel-clearinghouse-and-merchant-garnishment
+  file: travel-clearinghouse-and-merchant-garnishment.yaml
+  status: READY
+- id: gaviota-sovereign-tourism-veil-piercing
+  file: gaviota-sovereign-tourism-veil-piercing.yaml
+  status: READY

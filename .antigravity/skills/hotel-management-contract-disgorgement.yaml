@@ -1,0 +1,19 @@
+id: hotel-management-contract-disgorgement
+name: Hotel Management Agreement (HMA) & Resort Concession Disgorgement
+description: Protocols for formulating Title III civil actions and post-judgment garnishments against multinational hotel operators (Meliá, Iberostar, Blue Diamond) commercializing confiscated resort properties.
+version: 1.0.0
+tactical_domain: Hospitality Concession Disgorgement & Hotel Management Agreement Execution
+execution_protocol:
+  - Step 1: Mapping physical hotel properties built upon expropriated land parcels (Varadero, Havana, Guardalavaca, Cayos).
+  - Step 2: Correlating expropriated parcels with certified FCSC claims and Title III standing doctrines (Mata v. Meliá).
+  - Step 3: Serving statutory 30-day notice of intent letters demanding cessation of trafficking or payment of full certified value.
+  - Step 4: Filing Title III complaints in federal court alleging intentional trafficking under 22 U.S.C. § 6082.
+  - Step 5: Securing prejudgment attachment orders and post-judgment execution decrees upon defendant hotel chain assets.
+statutory_authorities:
+  - 22 U.S.C. § 6082 (Helms-Burton Act Title III Civil Liability for Trafficking)
+  - Mata v. Meliá Hotels International, S.A., No. 19-cv-22529 (S.D. Fla.)
+  - Sucesores de Don Eutimio Falla-Bonet v. Meliá Hotels International, S.A., No. 20-cv-24400 (S.D. Fla.)
+  - 28 U.S.C. § 1331 (Federal Question Jurisdiction)
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Commercial Property Execution)
+verified_by: agent-hospitality-concessions-auditor
+status: READY
