@@ -1,0 +1,11 @@
+# Normalize line endings to LF across Windows, Linux, and macOS
+* text=auto eol=lf
+
+# Explicit binary files that must not undergo line-ending conversion
+*.docx binary
+*.pdf binary
+*.zip binary
+*.mp4 binary
+*.xlsx binary
+*.png binary
+*.jpg binary
