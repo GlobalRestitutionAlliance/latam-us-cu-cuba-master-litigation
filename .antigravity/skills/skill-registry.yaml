@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 81
+total_skills: 84
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -248,3 +248,15 @@ skills:
   name: International Commodity Escrow & Trade Receivables Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/international-commodity-escrow-and-receivables-garnishment.yaml
+- id: sovereign-banking-nationalization-and-fcsc-disgorgement
+  name: Sovereign Commercial Banking Nationalization & FCSC Certified Claims Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-banking-nationalization-and-fcsc-disgorgement.yaml
+- id: havin-bank-and-offshore-clearing-garnishment
+  name: Havana International Bank & Offshore Interbank Clearing Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/havin-bank-and-offshore-clearing-garnishment.yaml
+- id: tria-and-blocked-correspondent-wire-turnover
+  name: TRIA § 201(a) & Blocked Correspondent Wire Transfer Turnover
+  status: ACTIVE
+  manifest_file: .antigravity/skills/tria-and-blocked-correspondent-wire-turnover.yaml

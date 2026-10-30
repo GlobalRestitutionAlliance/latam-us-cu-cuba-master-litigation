@@ -1,0 +1,10 @@
+id: havin-bank-and-offshore-clearing-garnishment
+name: Havana International Bank & Offshore Interbank Clearing Garnishment
+description: Enforcement protocols targeting Havana International Bank Ltd (London) equity, UK FCA/PRA capital reserves, and BICSA foreign trade clearing float via English High Court Charging Orders and Third-Party Debt Orders under CPR Parts 72 and 73.
+version: 1.0.0
+tactical_domain: Offshore Banking Enforcement, Havin Bank London Attachment & European Clearing Garnishment
+execution_protocol:
+  - Step 1: Serving English High Court charging orders on Banco Central de Cuba's 100% shareholding in Havana International Bank Ltd (London).
+  - Step 2: Levying CPR Part 72 Third-Party Debt Orders against Havin Bank's correspondent clearing accounts and settlement balances in the City of London.
+  - Step 3: Intercepting BICSA and BEC documentary letters of credit and foreign exchange settlement lines across Spanish, French, and Swiss commercial banks.
+  - Step 4: Compelling repatriation of seized offshore banking assets into the court-supervised Master Restitution Trust.

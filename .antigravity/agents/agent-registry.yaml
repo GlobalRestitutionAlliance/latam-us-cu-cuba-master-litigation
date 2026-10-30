@@ -258,4 +258,16 @@ agents:
     Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-bulk-commodity-garnishee-marshal.yaml
-total_agents: 54
+- id: agent-banking-nationalization-auditor
+  name: Sovereign Commercial Banking Nationalization & FCSC Forensic Auditor
+  role: 1960 Law 891 Nationalized Banks, BNC/BCC Central Bank Restructuring & FCSC
+    Certified Claims Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-banking-nationalization-auditor.yaml
+- id: agent-interbank-clearing-garnishee-marshal
+  name: Havana International Bank & Global Interbank Clearinghouse Garnishee Marshal
+  role: Havin Bank London, BICSA Offshore Trade Float & TRIA Blocked Wire Transfers
+    Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-interbank-clearing-garnishee-marshal.yaml
+total_agents: 56

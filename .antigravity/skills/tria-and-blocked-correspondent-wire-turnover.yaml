@@ -1,0 +1,10 @@
+id: tria-and-blocked-correspondent-wire-turnover
+name: TRIA § 201(a) & Blocked Correspondent Wire Transfer Turnover
+description: Multi-jurisdictional execution protocols under Section 201(a) of the Terrorism Risk Insurance Act (TRIA), 28 U.S.C. § 1610(g), and NY CPLR § 5225/5227 compelling turnover of blocked sovereign interbank wire transfers and correspondent balances held at Tier-1 global clearing banks.
+version: 1.0.0
+tactical_domain: TRIA Asset Turnover, Blocked Wire Transfer Levies & Correspondent Bank Garnishment
+execution_protocol:
+  - Step 1: Identifying OFAC-blocked Cuban state wires and correspondent balances held at New York Fed member institutions (JPMorgan, BNY Mellon, Citibank).
+  - Step 2: Filing motions for turnover under TRIA § 201(a) and 28 U.S.C. § 1610(g), establishing agency and instrumentality status of BNC, BCC, and BFI.
+  - Step 3: Serving CPLR § 5222 restraining notices and CPLR § 5227 turnover petitions on New York clearinghouses.
+  - Step 4: Directing immediate wire distribution of blocked funds into the Master Qualified Settlement Fund pursuant to federal district court execution orders.

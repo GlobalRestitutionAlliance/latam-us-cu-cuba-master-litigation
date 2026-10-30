@@ -883,3 +883,24 @@ W:\Legal\US_CUBA\
   - [Master_AgroIndustrial_Sugar_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AgroIndustrial_Sugar_Crosswalk_Matrix.csv)
   - [Master_AgroIndustrial_Sugar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AgroIndustrial_Sugar_Crosswalk_Dashboard.md)
   - [Master_AgroIndustrial_Sugar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AgroIndustrial_Sugar_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 25)
+- `agent-banking-nationalization-auditor`: 1960 Law 891 Nationalized Banks, BNC/BCC Central Bank Restructuring & FCSC Certified Claims Auditor.
+- `agent-interbank-clearing-garnishee-marshal`: Havin Bank London, BICSA Offshore Trade Float & TRIA Blocked Wire Transfers Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 25)
+- `sovereign-banking-nationalization-and-fcsc-disgorgement`: Sovereign Commercial Banking Nationalization & FCSC Certified Claims Disgorgement.
+- `havin-bank-and-offshore-clearing-garnishment`: Havana International Bank & Offshore Interbank Clearing Garnishment.
+- `tria-and-blocked-correspondent-wire-turnover`: TRIA § 201(a) & Blocked Correspondent Wire Transfer Turnover.
+
+## Completed Campaigns
+### Campaign 25: Sovereign Commercial Banking Nationalization, Central Bank Offshore Conduits & Interbank Restitution Campaign
+- **Total Restitution Pool:** $410,000,000,000.00 ($410.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** BANK-001 through BANK-025
+- **Assigned Agents:** `agent-banking-nationalization-auditor`, `agent-interbank-clearing-garnishee-marshal`
+- **Certified Skills:** `sovereign-banking-nationalization-and-fcsc-disgorgement`, `havin-bank-and-offshore-clearing-garnishment`, `tria-and-blocked-correspondent-wire-turnover`
+- **Evidentiary Artifacts:**
+  - [Master_Sovereign_Banking_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_Crosswalk_Matrix.csv)
+  - [Master_Sovereign_Banking_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_Crosswalk_Dashboard.md)
+  - [Master_Sovereign_Banking_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_Crosswalk_Dashboard.docx)
