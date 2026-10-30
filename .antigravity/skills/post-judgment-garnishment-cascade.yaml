@@ -1,0 +1,20 @@
+skill:
+  id: "post-judgment-garnishment-cascade"
+  name: "Post-Judgment Garnishment Cascade & Receivership Enforcement"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Draft Writs of Execution and Garnishment under FRCP Rule 69 and state practice (D.C. / NY CPLR)"
+    - "Serve post-judgment garnishment notices on Federal Reserve Bank of New York clearing accounts"
+    - "Register federal judgments in foreign districts under 28 U.S.C. § 1963 for nationwide execution"
+    - "Enforce FRCP Rule 70 divestiture orders compelling corporate directors to convey legal titles"
+    - "Structure equity receivership orders under 28 U.S.C. § 754 to seize multinational corporate revenues"
+    
+  triggers:
+    - "Entry of final monetary judgment or constructive trust restitution decree"
+    - "Defendant refusal or failure to satisfy judgment within 30-day automatic stay window"
+    - "Discovery of active corporate dividend disbursements or intercompany transfers during enforcement"
+    
+  output_requirements:
+    - "Garnishment writs must include certified judgment exemplifications under 28 U.S.C. § 1738"
+    - "Receivership orders must establish explicit custodial powers over defendant commercial accounts"

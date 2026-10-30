@@ -66,3 +66,11 @@ agents:
   file: agent-scotus-advocate.yaml
   status: ACTIVE
   role: SCOTUS Rules 10, 14, 23, 28 U.S.C. § 1254(1) Certiorari, En Banc Petitions & Amicus Mobilization
+- id: agent-claims-administrator
+  file: agent-claims-administrator.yaml
+  status: ACTIVE
+  role: FRCP Rule 23(e) Notice, Class Claims Validation, Probate Succession Tracing & Pro-Rata Point Allocation Architect
+- id: agent-zk-custodian
+  file: agent-zk-custodian.yaml
+  status: ACTIVE
+  role: Shamir Secret Sharing (k-of-n), Groth16 ZK-SNARK Proof of Entitlement, Multi-Sig Fiduciary Vault & DAO Governance Commander

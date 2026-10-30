@@ -55,6 +55,8 @@ W:\Legal\US_CUBA\
   - [`agent-sovereign-arbitrageur.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-sovereign-arbitrageur.yaml)
   - [`agent-trial-strategist.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-trial-strategist.yaml)
   - [`agent-scotus-advocate.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-scotus-advocate.yaml)
+  - [`agent-claims-administrator.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-claims-administrator.yaml)
+  - [`agent-zk-custodian.yaml`](file:///W:/Legal/US_CUBA/.antigravity/agents/agent-zk-custodian.yaml)
 - **Skills (`.antigravity/skills/`):**
   - [`skill-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/skill-registry.yaml)
   - [`legal-drafting.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/legal-drafting.yaml)
@@ -81,6 +83,9 @@ W:\Legal\US_CUBA\
   - [`trial-adjudication-mastery.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/trial-adjudication-mastery.yaml)
   - [`jury-charge-formulation.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/jury-charge-formulation.yaml)
   - [`certiorari-jurisprudence.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/certiorari-jurisprudence.yaml)
+  - [`class-claims-administration.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/class-claims-administration.yaml)
+  - [`zero-knowledge-fiduciary-execution.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/zero-knowledge-fiduciary-execution.yaml)
+  - [`post-judgment-garnishment-cascade.yaml`](file:///W:/Legal/US_CUBA/.antigravity/skills/post-judgment-garnishment-cascade.yaml)
 - **Datasets (`.antigravity/datasets/`):**
   - [`dataset-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/datasets/dataset-registry.yaml)
   - [`us-domestic-archives.yaml`](file:///W:/Legal/US_CUBA/.antigravity/datasets/us-domestic-archives.yaml)
@@ -146,6 +151,9 @@ W:\Legal\US_CUBA\
 | **Master Trial & Appellate Crosswalk Dashboard (MD)** | `.md` | Article III adjudicative dashboard detailing FRCP 16 orders, FRE 803/902 proofs, jury trials, and SCOTUS certiorari. | [Master_Trial_and_Appellate_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trial_and_Appellate_Crosswalk_Dashboard.md) |
 | **Master Trial & Appellate Crosswalk Dashboard (DOCX)** | `.docx` | Formatted executive treatise detailing Rule 49 special verdicts, D.C. Circuit en banc petitions, and Rule 10 questions. | [Master_Trial_and_Appellate_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trial_and_Appellate_Crosswalk_Dashboard.docx) |
 | **Master Trial & Appellate Crosswalk Matrix (CSV)** | `.csv` | Relational dataset mapping 25 trial instruments to smoking gun exhibits, evidentiary rules, and appellate functions. | [Master_Trial_and_Appellate_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trial_and_Appellate_Crosswalk_Matrix.csv) |
+| **Master Restitution & Trust Crosswalk Dashboard (MD)** | `.md` | Final restitution dashboard organizing $1.805T QSF trust distribution, subclass allocations, and ZK Shamir vaults. | [Master_Restitution_and_Trust_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Restitution_and_Trust_Crosswalk_Dashboard.md) |
+| **Master Restitution & Trust Crosswalk Dashboard (DOCX)** | `.docx` | Formatted executive treatise detailing 26 U.S.C. § 468B protocols, Special Master accounting, and generational endowments. | [Master_Restitution_and_Trust_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Restitution_and_Trust_Crosswalk_Dashboard.docx) |
+| **Master Restitution & Trust Crosswalk Matrix (CSV)** | `.csv` | Relational dataset mapping 25 restitution instruments across 5 subclasses, QSF rules, execution writs, and smart vaults. | [Master_Restitution_and_Trust_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Restitution_and_Trust_Crosswalk_Matrix.csv) |
 | **The 1871 US Incorporation Myth** | `.pdf` | Foundational master transcript documenting the historical synthesis of all 1,805 vectors, legislative history, and declassified archives. | [The 1871 US Incorporation Myth.pdf](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/The%201871%20US%20Incorporation%20Myth.pdf) |
 | **Master Index and Chronological Dossier** | `.docx` | Complete chronological index cataloging the 1,805 vectors across five major historical eras (1805–2026). | [master_index_and_chronological_dossier.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_index_and_chronological_dossier.docx) |
 | **Master Litigation Archive Index & Dossier** | `.docx` | Comprehensive litigation compendium indexing all motions, pleadings, discovery orders, and trial briefs. | [master_litigation_archive_index_and_dossier.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_litigation_archive_index_and_dossier.docx) |

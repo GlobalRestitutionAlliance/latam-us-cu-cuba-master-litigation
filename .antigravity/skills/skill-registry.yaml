@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 24
+total_skills: 27
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -73,4 +73,13 @@ skills:
   status: READY
 - id: certiorari-jurisprudence
   file: certiorari-jurisprudence.yaml
+  status: READY
+- id: class-claims-administration
+  file: class-claims-administration.yaml
+  status: READY
+- id: zero-knowledge-fiduciary-execution
+  file: zero-knowledge-fiduciary-execution.yaml
+  status: READY
+- id: post-judgment-garnishment-cascade
+  file: post-judgment-garnishment-cascade.yaml
   status: READY

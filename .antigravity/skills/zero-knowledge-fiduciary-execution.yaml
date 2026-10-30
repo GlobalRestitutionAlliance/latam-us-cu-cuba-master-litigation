@@ -1,0 +1,20 @@
+skill:
+  id: "zero-knowledge-fiduciary-execution"
+  name: "Zero-Knowledge Fiduciary Execution & Shamir Vaults"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Compile Circom circuits and Groth16 proving keys for anonymous class membership verification"
+    - "Generate 256-bit Galois Field GF(2^8) Shamir polynomial key shards with threshold recovery"
+    - "Deploy multi-signature, time-locked smart contracts on decentralized EVM blockchains"
+    - "Automate stable-asset (USDC, USDT, tokenized bullion) distribution pipelines"
+    - "Pin fiduciary merkle tree proofs and disbursement ledgers to IPFS and Filecoin"
+    
+  triggers:
+    - "Deposit of judgment funds or settlement disgorgements into fiduciary escrow"
+    - "Receipt of cryptographic claim submission accompanied by valid ZK-SNARK proof"
+    - "Execution of multi-sig authorization ceremonies by designated class trustees"
+    
+  output_requirements:
+    - "Smart contracts must have zero critical vulnerabilities and pass Slither and Mythril audits"
+    - "Shamir shards must be encrypted with PGP keys and stored in isolated air-gapped hardware"

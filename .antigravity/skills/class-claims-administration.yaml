@@ -1,0 +1,20 @@
+skill:
+  id: "class-claims-administration"
+  name: "Class Claims Administration & QSF Management"
+  version: "1.0.0"
+  
+  capabilities:
+    - "Design comprehensive Rule 23(e) class settlement notice plans and global publication schedules"
+    - "Structure tax-exempt Qualified Settlement Funds (QSF) under Treasury Regulation § 1.468B-1"
+    - "Formulate points-based claims valuation algorithms adjusting for land loss, inflation, and compounding"
+    - "Authenticate probate succession orders, death certificates, and heir status under FRE 803(13)/(19)"
+    - "Audit third-party claims administrators and establish anti-fraud verification filters"
+    
+  triggers:
+    - "Approval of preliminary or final class settlement under Federal Rule of Civil Procedure 23(e)"
+    - "Entry of judgment establishing constructive trust or common fund recovery"
+    - "Convening of Special Master claims allocation hearings under FRCP Rule 53"
+    
+  output_requirements:
+    - "Notice plans must reach at least 85% of identifiable class members across the diaspora"
+    - "Distribution algorithms must be fully documented in reproducible mathematical specifications"
