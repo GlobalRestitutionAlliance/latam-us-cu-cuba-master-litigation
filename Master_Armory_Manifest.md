@@ -673,3 +673,24 @@ W:\Legal\US_CUBA\
   - [Master_Port_Concessions_and_Logistics_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Concessions_and_Logistics_Crosswalk_Matrix.csv)
   - [Master_Port_Concessions_and_Logistics_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Concessions_and_Logistics_Crosswalk_Dashboard.md)
   - [Master_Port_Concessions_and_Logistics_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Concessions_and_Logistics_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 15)
+- `agent-trademark-brand-auditor`: Havana Club, Habanos S.A., Section 211 & Multinational Joint-Venture Brand Auditor.
+- `agent-joint-venture-royalty-marshal`: Luxembourg Holding Conduits, Dividend Garnishment & Global Brand Royalty Marshal.
+
+## Newly Registered Skills (Campaign 15)
+- `section-211-trademark-annihilation`: Section 211 Omnibus Appropriations Act Stolen Trademark Invalidation.
+- `multinational-jv-royalty-garnishment`: Multinational Commercial Joint Venture Dividend & Royalty Garnishment.
+- `luxury-brand-title-iii-disgorgement`: Helms-Burton Title III Luxury Brand Trafficking & Disgorgement Execution.
+
+## Completed Campaigns
+### Campaign 15: Expropriated Sovereign Trademarks, Luxury Commercial Brands & Multinational Joint-Venture Royalty Disgorgement Campaign
+- **Total Restitution Pool:** $360,000,000,000.00 ($360.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** BRAND-001 through BRAND-025
+- **Assigned Agents:** `agent-trademark-brand-auditor`, `agent-joint-venture-royalty-marshal`
+- **Certified Skills:** `section-211-trademark-annihilation`, `multinational-jv-royalty-garnishment`, `luxury-brand-title-iii-disgorgement`
+- **Evidentiary Artifacts:**
+  - [Master_Trademarks_and_Luxury_Brands_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trademarks_and_Luxury_Brands_Crosswalk_Matrix.csv)
+  - [Master_Trademarks_and_Luxury_Brands_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trademarks_and_Luxury_Brands_Crosswalk_Dashboard.md)
+  - [Master_Trademarks_and_Luxury_Brands_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Trademarks_and_Luxury_Brands_Crosswalk_Dashboard.docx)

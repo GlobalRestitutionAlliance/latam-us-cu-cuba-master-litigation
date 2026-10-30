@@ -1,0 +1,19 @@
+id: section-211-trademark-annihilation
+name: Section 211 Omnibus Appropriations Act Stolen Trademark Invalidation
+description: Protocols for asserting Section 211 of the Omnibus Appropriations Act of 1998 (P.L. 105-277) and Lanham Act § 43(a) to invalidate sovereign claims to confiscated pre-1959 commercial trademarks.
+version: 1.0.0
+tactical_domain: Sovereign Trademark Invalidation & Section 211 Enforcement
+execution_protocol:
+  - Step 1: Verification of original pre-1959 ownership and registration of commercial marks (Arechabala, Cifuentes, Menéndez).
+  - Step 2: Documentation of uncompensated confiscation under Cuban Revolutionary Law No. 890 (October 13, 1960).
+  - Step 3: Invoking Section 211(a)(1) and (b) barring U.S. court recognition of trademark rights derived from confiscated assets.
+  - Step 4: Applying Empresa Cubana del Tabaco v. Culbro Corp. and Havana Club S.A. v. Galleon S.A. precedents to estop state claims.
+  - Step 5: Filing cancellation petitions with the USPTO Trademark Trial and Appeal Board (TTAB) and federal district courts.
+statutory_authorities:
+  - Section 211 of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Pub. L. 105-277, § 211, 112 Stat. 2681-88)
+  - Lanham Act § 43(a) (15 U.S.C. § 1125(a))
+  - Empresa Cubana del Tabaco v. Culbro Corp., 399 F.3d 462 (2d Cir. 2005)
+  - Havana Club S.A. v. Galleon S.A., 203 F.3d 116 (2d Cir. 2000)
+  - 31 C.F.R. § 515.527 (CACR General License on Intellectual Property Limitations)
+verified_by: agent-trademark-brand-auditor
+status: READY

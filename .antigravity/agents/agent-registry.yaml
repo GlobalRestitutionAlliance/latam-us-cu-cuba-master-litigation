@@ -138,3 +138,11 @@ agents:
   file: agent-maritime-cargo-garnishee-marshal.yaml
   status: ACTIVE
   role: Ocean Freight Tariff, Container Demurrage & Transshipment Interline Settlement Marshal
+- id: agent-trademark-brand-auditor
+  file: agent-trademark-brand-auditor.yaml
+  status: ACTIVE
+  role: Havana Club, Habanos S.A., Section 211 & Multinational Joint-Venture Brand Auditor
+- id: agent-joint-venture-royalty-marshal
+  file: agent-joint-venture-royalty-marshal.yaml
+  status: ACTIVE
+  role: Luxembourg Holding Conduits, Dividend Garnishment & Global Brand Royalty Marshal

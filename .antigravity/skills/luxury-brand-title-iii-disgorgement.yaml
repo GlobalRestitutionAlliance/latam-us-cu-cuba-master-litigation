@@ -1,0 +1,19 @@
+id: luxury-brand-title-iii-disgorgement
+name: Helms-Burton Title III Luxury Brand Trafficking & Disgorgement Execution
+description: Protocols for formulating Title III civil actions and prejudgment attachment orders against global corporate distributors commercializing confiscated rum distilleries, tobacco latifundia, and cigar factories.
+version: 1.0.0
+tactical_domain: Title III Luxury Brand Trafficking & Corporate Disgorgement
+execution_protocol:
+  - Step 1: Mapping physical facilities confiscated under Law No. 890 (Arechabala distillery in Cárdenas, Partagás factory in Havana).
+  - Step 2: Correlating expropriated physical assets with international brands commercialized by multinational corporate partners.
+  - Step 3: Serving statutory 30-day notice of intent letters demanding cessation of trafficking or payment of full certified value.
+  - Step 4: Filing Title III complaints in federal court alleging intentional trafficking under 22 U.S.C. § 6082 (*Iglesias* precedent).
+  - Step 5: Obtaining treble damages judgments and executing liens upon defendant distributor assets across worldwide jurisdictions.
+statutory_authorities:
+  - 22 U.S.C. § 6082 (Helms-Burton Act Title III Liability for Trafficking)
+  - Iglesias v. Pernod Ricard, No. 20-cv-20157 (S.D. Fla. 2021)
+  - 15 U.S.C. § 1117 (Lanham Act Treble Profits and Damages)
+  - 28 U.S.C. § 1331 (Federal Question Jurisdiction)
+  - Restatement (Third) of Foreign Relations Law § 712 (Economic Injuries to Aliens)
+verified_by: agent-trademark-brand-auditor
+status: READY

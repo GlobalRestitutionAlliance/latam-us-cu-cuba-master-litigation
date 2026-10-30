@@ -155,3 +155,12 @@ skills:
 - id: transshipment-logistics-veil-piercing
   file: transshipment-logistics-veil-piercing.yaml
   status: READY
+- id: section-211-trademark-annihilation
+  file: section-211-trademark-annihilation.yaml
+  status: READY
+- id: multinational-jv-royalty-garnishment
+  file: multinational-jv-royalty-garnishment.yaml
+  status: READY
+- id: luxury-brand-title-iii-disgorgement
+  file: luxury-brand-title-iii-disgorgement.yaml
+  status: READY

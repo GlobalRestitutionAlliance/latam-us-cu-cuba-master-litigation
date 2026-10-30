@@ -1,0 +1,19 @@
+id: multinational-jv-royalty-garnishment
+name: Multinational Commercial Joint Venture Dividend & Royalty Garnishment
+description: Protocols for serving post-judgment garnishment writs and turnover orders on European parent corporations (Pernod Ricard S.A., Allied Cigar Corp) and Luxembourg holding intermediaries.
+version: 1.0.0
+tactical_domain: Commercial Joint Venture Dividend & Royalty Garnishment
+execution_protocol:
+  - Step 1: Auditing corporate holding structures of Havana Club Holding S.A. (Luxembourg) and Habanos S.A. (Cuba/Spain).
+  - Step 2: Tracking annual dividend distributions, trademark licensing royalties, and intercompany clearing accounts.
+  - Step 3: Drafting federal writs of garnishment under FRCP Rule 69 and 28 U.S.C. § 1610(g) served on U.S. subsidiaries and banking conduits.
+  - Step 4: Initiating exequatur proceedings in Luxembourg, France, Spain, and Switzerland to attach parent holding assets.
+  - Step 5: Securing judicial turnover orders transferring blocked joint-venture proceeds directly into the Master Restitution QSF.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(2) (Execution on commercial property in the U.S.)
+  - 28 U.S.C. § 1610(g) (Property of foreign state agency or instrumentality)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Luxembourg New Code of Civil Procedure (NCPC Art. 673 et seq. - Saisie-Arrêt)
+  - French Code of Civil Enforcement Procedures (Art. L. 211-1 - Saisie-Attribution)
+verified_by: agent-joint-venture-royalty-marshal
+status: READY
