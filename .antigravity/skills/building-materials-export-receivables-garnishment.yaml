@@ -1,0 +1,10 @@
+id: building-materials-export-receivables-garnishment
+name: Building Materials Export Receivables & Letters of Credit Garnishment
+description: Multi-jurisdictional garnishment and third-party debt order protocols targeting documentary letters of credit, export trade receivables, and escrow accounts held by Caribbean and Latin American distributors importing Cuban grey and white Portland cement, clinker, and aggregates.
+version: 1.0.0
+tactical_domain: Trade Finance Garnishment, Cement Export Receivables Levy & Interbank Debt Orders
+execution_protocol:
+  - Step 1: Subpoenaing open trade contracts, supply schedules, and import letters of credit from regional cement distributors.
+  - Step 2: Serving third-party debt orders under NY CPLR § 5227 and English CPR Part 72 on confirming commercial banks.
+  - Step 3: Freezing irrevocable documentary credits and open account collections prior to payment release to Cuban financial conduits.
+  - Step 4: Compelling turnover of garnished trade proceeds directly into the Master Qualified Settlement Fund.

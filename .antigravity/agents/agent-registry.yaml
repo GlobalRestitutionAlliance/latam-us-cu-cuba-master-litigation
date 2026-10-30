@@ -282,4 +282,16 @@ agents:
     Gateway Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-procurement-supply-chain-garnishee-marshal.yaml
-total_agents: 58
+- id: agent-cement-building-materials-auditor
+  name: Sovereign Cement & Building Materials Industrial Complex Auditor
+  role: GEICON, Cementos Cienfuegos, LafargeHolcim JV & Expropriated Cement Plants
+    Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cement-building-materials-auditor.yaml
+- id: agent-bulk-cement-maritime-garnishee-marshal
+  name: Bulk Cement Marine Terminal & Carrier Fleet Garnishee Marshal
+  role: Cienfuegos & Mariel Bulk Cement Terminals, Pneumatic Carrier Vessels & Export
+    Receivables Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-bulk-cement-maritime-garnishee-marshal.yaml
+total_agents: 60

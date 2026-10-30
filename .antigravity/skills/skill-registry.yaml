@@ -1,6 +1,6 @@
 registry: Operational Skill Registry
 version: 1.0.0
-total_skills: 87
+total_skills: 90
 skills:
 - id: legal-drafting
   file: legal-drafting.yaml
@@ -272,3 +272,15 @@ skills:
   name: Free Zone Procurement & Bonded Warehousing Interdiction
   status: ACTIVE
   manifest_file: .antigravity/skills/free-zone-procurement-and-warehousing-interdiction.yaml
+- id: cement-industrial-complex-and-jv-disgorgement
+  name: Cement Industrial Complex & Multinational JV Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/cement-industrial-complex-and-jv-disgorgement.yaml
+- id: bulk-cement-freighter-and-terminal-in-rem-arrest
+  name: Bulk Cement Freighter & Marine Terminal In Rem Arrest
+  status: ACTIVE
+  manifest_file: .antigravity/skills/bulk-cement-freighter-and-terminal-in-rem-arrest.yaml
+- id: building-materials-export-receivables-garnishment
+  name: Building Materials Export Receivables & Letters of Credit Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/building-materials-export-receivables-garnishment.yaml

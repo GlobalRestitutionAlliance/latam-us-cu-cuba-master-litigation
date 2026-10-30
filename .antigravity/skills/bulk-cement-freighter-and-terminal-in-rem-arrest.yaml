@@ -1,0 +1,10 @@
+id: bulk-cement-freighter-and-terminal-in-rem-arrest
+name: Bulk Cement Freighter & Marine Terminal In Rem Arrest
+description: Operational protocols for tracking pneumatic self-discharging bulk cement freighters and clinker barges berthed at Cuban export terminals (Cienfuegos, Mariel), filing Supplemental Admiralty Rule C in rem arrest warrants upon arrival in foreign maritime jurisdictions, and attaching port loading tariffs.
+version: 1.0.0
+tactical_domain: Admiralty In Rem Arrest, Bulk Industrial Commodity Interdiction & Marine Port Liens
+execution_protocol:
+  - Step 1: Real-time AIS surveillance of pneumatic bulk cement carriers loading at Cienfuegos Tricontinental and Mariel cement berths.
+  - Step 2: Cross-referencing maritime bills of lading with confiscated cement manufacturing facilities.
+  - Step 3: Executing Supplemental Admiralty Rule C and Rule B attachments in Caribbean and Atlantic transit and destination ports.
+  - Step 4: Intercepting port stevedoring tariffs, conveyor loading charges, and pilotage fees payable to state port enterprises.

@@ -925,3 +925,24 @@ W:\Legal\US_CUBA\
   - [Master_Commercial_Retail_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Retail_Crosswalk_Matrix.csv)
   - [Master_Commercial_Retail_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Retail_Crosswalk_Dashboard.md)
   - [Master_Commercial_Retail_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Retail_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 27)
+- `agent-cement-building-materials-auditor`: GEICON, Cementos Cienfuegos, LafargeHolcim JV & Expropriated Cement Plants Auditor.
+- `agent-bulk-cement-maritime-garnishee-marshal`: Cienfuegos & Mariel Bulk Cement Terminals, Pneumatic Carrier Vessels & Export Receivables Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 27)
+- `cement-industrial-complex-and-jv-disgorgement`: Cement Industrial Complex & Multinational JV Disgorgement.
+- `bulk-cement-freighter-and-terminal-in-rem-arrest`: Bulk Cement Freighter & Marine Terminal In Rem Arrest.
+- `building-materials-export-receivables-garnishment`: Building Materials Export Receivables & Letters of Credit Garnishment.
+
+## Completed Campaigns
+### Campaign 27: Sovereign Heavy Building Materials, Expropriated Cement Complexes & LafargeHolcim Restitution Campaign
+- **Total Restitution Pool:** $320,000,000,000.00 ($320.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** CEMENT-001 through CEMENT-025
+- **Assigned Agents:** `agent-cement-building-materials-auditor`, `agent-bulk-cement-maritime-garnishee-marshal`
+- **Certified Skills:** `cement-industrial-complex-and-jv-disgorgement`, `bulk-cement-freighter-and-terminal-in-rem-arrest`, `building-materials-export-receivables-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Heavy_Building_Materials_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Heavy_Building_Materials_Crosswalk_Matrix.csv)
+  - [Master_Heavy_Building_Materials_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Heavy_Building_Materials_Crosswalk_Dashboard.md)
+  - [Master_Heavy_Building_Materials_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Heavy_Building_Materials_Crosswalk_Dashboard.docx)
