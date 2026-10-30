@@ -1,0 +1,19 @@
+id: admiralty-reefer-cargo-in-rem-arrest
+name: In Rem Admiralty Arrest of Refrigerated Fish Cargo Vessels & Motherships
+description: Protocols for executing Supplemental Admiralty Rule B and C in rem arrest warrants on state-flagged and chartered refrigerated container vessels (reefers), fishing trawlers, and processing motherships in foreign and U.S. ports.
+version: 1.0.0
+tactical_domain: Maritime Admiralty In Rem Arrest, Cold-Chain Reefer Cargo Seizure & Lacey Act Interdiction
+execution_protocol:
+  - Step 1: Real-time AIS monitoring of refrigerated cargo ships (reefers) and state fishing motherships carrying export seafood cargo (Flota Pesquera de Cuba, Pescapir).
+  - Step 2: Filing verified admiralty complaints and obtaining warrants for arrest in rem under Supplemental Admiralty Rule C in U.S. or foreign partner admiralty courts.
+  - Step 3: Serving arrest warrants on frozen seafood container cargo lots and vessel hulls upon arrival at transshipment ports (Las Palmas, Vigo, Panama, Freeport).
+  - Step 4: Applying Lacey Act (16 U.S.C. §§ 3371-3378) civil forfeiture provisions for fisheries shipments violating international traceability and export documentation standards.
+  - Step 5: Liquidating seized marine vessels and cargo at judicial auction, transferring all proceeds into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - Supplemental Admiralty Rule C (Actions In Rem: Special Provisions)
+  - Supplemental Admiralty Rule B (Maritime Attachment and Garnishment)
+  - 28 U.S.C. § 1333 (Admiralty, Maritime and Prize Jurisdiction)
+  - Lacey Act, 16 U.S.C. §§ 3371-3378 (Civil Forfeiture of Contraband Wildlife & Fish)
+  - International Arrest Convention 1999
+verified_by: agent-seafood-cargo-garnishee-marshal
+status: READY

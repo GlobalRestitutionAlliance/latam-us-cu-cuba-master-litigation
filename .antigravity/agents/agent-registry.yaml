@@ -194,3 +194,11 @@ agents:
   file: agent-rail-logistics-garnishee-marshal.yaml
   status: ACTIVE
   role: UFC International Clearing, Foreign Equipment Escrows & Rail Asset Garnishee Marshal
+- id: agent-fisheries-maritime-auditor
+  file: agent-fisheries-maritime-auditor.yaml
+  status: ACTIVE
+  role: Caribex S.A., Pescapir, EEZ Offshore Licensing & Seafood Export Forensic Auditor
+- id: agent-seafood-cargo-garnishee-marshal
+  file: agent-seafood-cargo-garnishee-marshal.yaml
+  status: ACTIVE
+  role: Reefer Cargo Interdiction, European Seafood Distributor Garnishment & Admiralty Marshal

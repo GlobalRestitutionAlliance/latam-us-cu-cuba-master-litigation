@@ -218,3 +218,12 @@ skills:
 - id: intermodal-rail-freight-tariff-interdiction
   file: intermodal-rail-freight-tariff-interdiction.yaml
   status: READY
+- id: seafood-export-monopoly-disgorgement
+  file: seafood-export-monopoly-disgorgement.yaml
+  status: READY
+- id: eez-foreign-fishing-license-garnishment
+  file: eez-foreign-fishing-license-garnishment.yaml
+  status: READY
+- id: admiralty-reefer-cargo-in-rem-arrest
+  file: admiralty-reefer-cargo-in-rem-arrest.yaml
+  status: READY

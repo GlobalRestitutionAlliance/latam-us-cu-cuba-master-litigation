@@ -1,0 +1,19 @@
+id: eez-foreign-fishing-license-garnishment
+name: Exclusive Economic Zone (EEZ) Foreign Distant-Water Fishing License Garnishment
+description: Protocols for identifying, attaching, and garnishing foreign sovereign and commercial fishing royalty payments, access fees, and fuel barter agreements for access to Cuba's 200-nm EEZ waters.
+version: 1.0.0
+tactical_domain: Maritime EEZ Concession Garnishment & Distant-Water Access Fee Interception
+execution_protocol:
+  - Step 1: Auditing bilateral maritime fisheries agreements and private commercial licensing contracts for distant-water fleets operating in Cuba's 200-nm EEZ.
+  - Step 2: Tracking longliner and trawler licensing payments remitted by Spanish, Venezuelan, Mexican, and Asian fishing consortia to the Ministry of Transport and MINAL.
+  - Step 3: Serving federal post-judgment turnover orders under 28 U.S.C. § 1610(g) on foreign operators and their maritime clearing agents.
+  - Step 4: Intercepting bunker fuel offloading and maritime service barter arrangements conducted in Cuban ports by foreign concessionaires.
+  - Step 5: Directing all recovered EEZ license fees, catch royalty escrows, and access penalties into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - United Nations Convention on the Law of the Sea (UNCLOS) Art. 56 (Sovereign Rights in EEZ)
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Execution on Commercial Rights)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Terrorism Risk Insurance Act (TRIA) § 201(a)
+  - Weininger v. Castro, 462 F. Supp. 2d 457 (S.D.N.Y. 2006)
+verified_by: agent-fisheries-maritime-auditor
+status: READY

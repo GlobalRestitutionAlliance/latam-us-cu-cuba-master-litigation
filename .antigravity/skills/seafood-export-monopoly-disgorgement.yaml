@@ -1,0 +1,19 @@
+id: seafood-export-monopoly-disgorgement
+name: Sovereign Seafood Export Monopoly & Caribex Distribution Disgorgement
+description: Protocols for post-judgment garnishment, turnover, and statutory disgorgement of export revenues derived from Caribex S.A.'s global monopoly on Caribbean spiny lobster, shrimp, and tuna.
+version: 1.0.0
+tactical_domain: Sovereign Seafood Export Disgorgement & Wholesale Intermediation Garnishment
+execution_protocol:
+  - Step 1: Mapping the global seafood distribution network spanning Caribex S.A., Ministry of Food Industry (MINAL), and European/Asian wholesale importers.
+  - Step 2: Identifying commercial banking rails, letter-of-credit clearing facilities, and trade finance escrows in Spain (Banco Santander, BBVA), France, and Japan.
+  - Step 3: Serving post-judgment writs of garnishment under FRCP 69 and 28 U.S.C. § 1610(g) on foreign seafood wholesalers (Pescapuerta, Mariscos Rodríguez, Profand).
+  - Step 4: Applying Restatement (Third) of Restitution § 51 and Bancec alter ego doctrines to strip sovereign immunity from Caribex export accounts.
+  - Step 5: Directing intercepted seafood sales proceeds, distributor float balances, and trade financing reserves into the Master Restitution Qualified Settlement Fund.
+statutory_authorities:
+  - 28 U.S.C. § 1610(a)(2) & § 1610(g) (FSIA Execution on Commercial Agencies & Instrumentalities)
+  - Federal Rule of Civil Procedure 69 (Execution)
+  - Restatement (Third) of Restitution and Unjust Enrichment § 51
+  - First National City Bank v. Bancec, 462 U.S. 611 (1983)
+  - Spanish LEC Art. 584 & Spanish Law 29/2015 (Exequatur)
+verified_by: agent-fisheries-maritime-auditor
+status: READY

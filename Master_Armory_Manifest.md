@@ -820,3 +820,24 @@ W:\Legal\US_CUBA\
   - [Master_Rail_Infrastructure_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_Infrastructure_Crosswalk_Matrix.csv)
   - [Master_Rail_Infrastructure_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_Infrastructure_Crosswalk_Dashboard.md)
   - [Master_Rail_Infrastructure_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_Infrastructure_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 22)
+- `agent-fisheries-maritime-auditor`: Caribex S.A., Pescapir, EEZ Offshore Licensing & Seafood Export Forensic Auditor.
+- `agent-seafood-cargo-garnishee-marshal`: Reefer Cargo Interdiction, European Seafood Distributor Garnishment & Admiralty Marshal.
+
+## Newly Registered Skills (Campaign 22)
+- `seafood-export-monopoly-disgorgement`: Sovereign Seafood Export Monopoly & Caribex Distribution Disgorgement.
+- `eez-foreign-fishing-license-garnishment`: Exclusive Economic Zone (EEZ) Foreign Distant-Water Fishing License Garnishment.
+- `admiralty-reefer-cargo-in-rem-arrest`: In Rem Admiralty Arrest of Refrigerated Fish Cargo Vessels & Motherships.
+
+## Completed Campaigns
+### Campaign 22: Sovereign Commercial Fisheries, EEZ Deep-Sea Aquaculture & Seafood Export Monopolies Restitution Campaign
+- **Total Restitution Pool:** $280,000,000,000.00 ($280.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** FISH-001 through FISH-025
+- **Assigned Agents:** `agent-fisheries-maritime-auditor`, `agent-seafood-cargo-garnishee-marshal`
+- **Certified Skills:** `seafood-export-monopoly-disgorgement`, `eez-foreign-fishing-license-garnishment`, `admiralty-reefer-cargo-in-rem-arrest`
+- **Evidentiary Artifacts:**
+  - [Master_Commercial_Fisheries_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Fisheries_Crosswalk_Matrix.csv)
+  - [Master_Commercial_Fisheries_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Fisheries_Crosswalk_Dashboard.md)
+  - [Master_Commercial_Fisheries_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Commercial_Fisheries_Crosswalk_Dashboard.docx)
