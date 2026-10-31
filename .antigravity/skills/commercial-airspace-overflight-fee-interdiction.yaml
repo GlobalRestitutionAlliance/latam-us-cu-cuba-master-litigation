@@ -1,0 +1,12 @@
+skill:
+  id: "commercial-airspace-overflight-fee-interdiction"
+  name: "Commercial Airspace Overflight Navigation Fee Interdiction & Havana FIR Disgorgement"
+  description: "Enforcement and asset recovery methodology targeting en-route air navigation service charges levied by Empresa Cubana de Navegación Aérea (ECNA) on commercial aircraft traversing the Havana Flight Information Region (FIR Habana) under 28 U.S.C. §§ 1605(a)(2), 1610(a)(2), and Chicago Convention Art. 15 principles."
+  category: "airspace-navigation-recovery"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Quantify monthly and annual en-route air navigation charges payable by major international commercial air carriers (American Airlines, Delta, United, Air Canada, Iberia, Air France, Copa) navigating FIR Habana."
+    - "Verify the purely commercial nature of en-route navigation fees under the Foreign Sovereign Immunities Act commercial activity exception (28 U.S.C. § 1605(a)(2)) and Weltover precedent."
+    - "Serve restraining notices and garnishment summonses on commercial airline treasury departments and disbursement centers paying overflight invoices under OFAC general licenses."
+    - "Attach en-route navigation service fees in transit prior to crediting state sovereign foreign currency accounts at Banco Central de Cuba or Banco Financiero Internacional."

@@ -1,0 +1,12 @@
+skill:
+  id: "iata-clearinghouse-and-airline-settlement-garnishment"
+  name: "IATA Clearinghouse Interdiction & Multilateral Airline Settlement Garnishment"
+  description: "Cross-border post-judgment garnishment and turnover protocol targeting the International Air Transport Association (IATA) Clearing House (Geneva / Montreal), Billing and Settlement Plan (BSP) accounts, and interline overflight settlement balances under Fed. R. Civ. P. 69, N.Y. C.P.L.R. § 5225, Swiss SchKG, and Canadian enforcement rules."
+  category: "clearinghouse-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Identify IATA Clearing House settlement cycles, net clearance balances, and creditor/debtor accounts maintained for ECASA, ECNA, and Cubana de Aviación in Geneva, Montreal, and London."
+    - "Serve restraining notices and freezing orders on IATA depository clearing banks and correspondent institutions handling airline overflight and interline payables."
+    - "Execute multi-jurisdictional third-party debt attachment orders against IATA clearinghouse floats and BSP passenger ticket settlement accounts prior to fund release."
+    - "Coordinate simultaneous cross-border enforcement across the Southern District of New York, the Superior Court of Quebec, and the Civil Court of Geneva."

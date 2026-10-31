@@ -727,4 +727,16 @@ skills:
   name: Panama Colon Free Zone Procurement, POS Clearing & Commercial Float Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/colon-free-zone-procurement-and-pos-clearing-garnishment.yaml
-total_skills: 201
+- id: sovereign-airport-monopoly-and-ecasa-disgorgement
+  name: Sovereign Commercial Airport Monopolies, ECASA Infrastructure & Concession Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-airport-monopoly-and-ecasa-disgorgement.yaml
+- id: commercial-airspace-overflight-fee-interdiction
+  name: Commercial Airspace Overflight Navigation Fee Interdiction & Havana FIR Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/commercial-airspace-overflight-fee-interdiction.yaml
+- id: iata-clearinghouse-and-airline-settlement-garnishment
+  name: IATA Clearinghouse Interdiction & Multilateral Airline Settlement Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/iata-clearinghouse-and-airline-settlement-garnishment.yaml
+total_skills: 204

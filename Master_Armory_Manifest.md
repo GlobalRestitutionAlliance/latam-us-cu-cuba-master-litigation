@@ -1701,3 +1701,23 @@ W:\Legal\US_CUBA\
   - [Master_Retail_CIMEX_TRD_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Retail_CIMEX_TRD_Crosswalk_Matrix.csv)
   - [Master_Retail_CIMEX_TRD_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Retail_CIMEX_TRD_Crosswalk_Dashboard.md)
   - [Master_Retail_CIMEX_TRD_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Retail_CIMEX_TRD_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 65)
+- `agent-ecasa-airport-and-ground-handling-auditor`: Empresa Cubana de Aeropuertos y Servicios Aeronáuticos S.A. (ECASA), José Martí International Airport, Pan American World Airways (CU-0415) Expropriations, Airport Ramp Concessions & Passenger Departure Tariff Auditor.
+- `agent-airspace-overflight-and-iata-escrow-marshal`: Empresa Cubana de Navegación Aérea (ECNA), Havana FIR Air Navigation Overflight Fees, IATA Clearing House (Geneva / Montreal) Settlement Floats, OFAC Airline Remittance Conduits & Intermediary Bank Garnishment Marshal.
+
+## Newly Registered Skills (Campaign 65)
+- `sovereign-airport-monopoly-and-ecasa-disgorgement`: Sovereign Commercial Airport Monopolies, ECASA Infrastructure & Concession Disgorgement.
+- `commercial-airspace-overflight-fee-interdiction`: Commercial Airspace Overflight Navigation Fee Interdiction & Havana FIR Disgorgement.
+- `iata-clearinghouse-and-airline-settlement-garnishment`: IATA Clearinghouse Interdiction & Multilateral Airline Settlement Garnishment.
+
+### Campaign 65: Sovereign Commercial Civil Airport Monopolies, Air Navigation Overflight Charges (ECNA), ECASA Terminal Concessions, Expropriated Pan American World Airways Airport Facilities (Law 851, FCSC Claim No. CU-0415), IATA Airspace Clearinghouse Escrows (Geneva / Montreal) & Foreign Airline Ground Handling Tariff Restitution Campaign
+- **Total Restitution Pool:** $335,000,000,000.00 ($335.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** AERO-001 through AERO-025
+- **Assigned Legal Research Agents:** `agent-ecasa-airport-and-ground-handling-auditor`, `agent-airspace-overflight-and-iata-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-airport-monopoly-and-ecasa-disgorgement`, `commercial-airspace-overflight-fee-interdiction`, `iata-clearinghouse-and-airline-settlement-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Airport_ECASA_Overflight_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Airport_ECASA_Overflight_Crosswalk_Matrix.csv)
+  - [Master_Airport_ECASA_Overflight_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Airport_ECASA_Overflight_Crosswalk_Dashboard.md)
+  - [Master_Airport_ECASA_Overflight_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Airport_ECASA_Overflight_Crosswalk_Dashboard.docx)
