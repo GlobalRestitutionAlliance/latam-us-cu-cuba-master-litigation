@@ -79,7 +79,7 @@ The Multipolar Arbitrage Protocol operates in total synergy with the domestic an
                  Corporate Successors Forced into Global Restitution
 ```
 
-1. **Domestic Entrapment (Prong 1):** The DOJ is pinned down in the D.C. Circuit ([`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.docx)), unable to deny NARA historical records without activating judicial estoppel.
+1. **Domestic Entrapment (Prong 1):** The DOJ is pinned down in the D.C. Circuit ([`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.docx)), unable to deny NARA historical records without activating judicial estoppel.
 2. **Maritime Choke Point (Prong 2):** Physical cargo vessels are arrested in municipal ports ([`Master_Admiralty_In_Rem_Lien_Schedule.docx`](file:///W:/Legal/US_CUBA/07_Enforcement_and_Restitution/Shadow_Docket_Admiralty/Master_Admiralty_In_Rem_Lien_Schedule.docx)), inflicting daily demurrage losses of $30k–$85k.
 3. **Multipolar Execution (Prong 3):** Proxy sovereign arbitrations in Singapore, Geneva, and Dubai secure multi-billion dollar enforceable New York Convention awards, seizing overseas corporate assets before Western courts can intervene.
 

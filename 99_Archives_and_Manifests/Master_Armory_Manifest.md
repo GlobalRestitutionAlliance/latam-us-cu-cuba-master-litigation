@@ -169,12 +169,12 @@ W:\Legal\US_CUBA\
 *Target Location: Root Directory `W:\Legal\US_CUBA\`*  
 *Emergency D.C. Circuit Mandamus Action & Sun Tzu Trap Activation Framework isolating NARA RG 140 and RG 234.*
 
-- **Vanguard Beachhead Mandamus Petition (DOCX):** [`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.docx)
-- **Vanguard Beachhead Mandamus Petition (MD):** [`Vanguard_Beachhead_Filing_01_FINAL.md`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.md)
+- **Vanguard Beachhead Mandamus Petition (DOCX):** [`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.docx)
+- **Vanguard Beachhead Mandamus Petition (MD):** [`Vanguard_Beachhead_Filing_01_FINAL.md`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.md)
   - Filed in the D.C. Circuit under 28 U.S.C. § 1651, Fed. R. App. P. 21, and 5 U.S.C. § 706(1).
   - Isolates NARA Record Group 140 (1898–1902 Military Government Land Title Auctions) and NARA Record Group 234 (FCSC Certified Claims Ledgers).
   - Embeds the Sun Tzu "Standing Entrapment" and "OFAC Continuous Tort Entrapment" arcs.
-- **Sun Tzu Trap Activation Memorandum:** [`Sun_Tzu_Trap_Activation_Memo.md`](file:///W:/Legal/US_CUBA/Sun_Tzu_Trap_Activation_Memo.md)
+- **Sun Tzu Trap Activation Memorandum:** [`Sun_Tzu_Trap_Activation_Memo.md`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Sun_Tzu_Trap_Activation_Memo.md)
   - Detailed tactical blueprint explaining how DOJ's anticipated Rule 12(b)(1) response in the D.C. Circuit will legally estop them under *New Hampshire v. Maine* from denying the *Mitchell* Fiduciary Trust exception and ARSIWA Continuing Wrongs in the Main Action.
 
 ## TIER 01: PLEADINGS & COMPLAINTS
@@ -410,9 +410,9 @@ W:\Legal\US_CUBA\
 | **Master Campaign Complete Archive** | `.zip` | Complete zip package of the entire campaign workspace. | [master_litigation_campaign_archive_complete.zip](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/master_litigation_campaign_archive_complete.zip) |
 
 ### Directive Alpha: Vanguard Beachhead Weapons (Command Alpha Executed)
-- [`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.docx) — Emergency Petition for Archival Disclosure and Mandatory Judicial Notice under 28 U.S.C. § 1651, Fed. R. App. P. 21, and Fed. R. Evid. 201. Focus: NARA RG 140, NARA RG 94, and Library of Congress Leonard Wood Papers. SHA-256: `17c1320f8959dcd74a5f33209fb74d067e0c2a08092a304d9acd3b8259f2e804`.
-- [`Vanguard_Beachhead_Filing_01_FINAL.md`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.md) — Comprehensive Markdown master treatise of Vanguard Beachhead filing. SHA-256: `f97b49151d3bbbc77a4bd522a66f2547654b8b732a3437a714ef5a2312da72b0`.
-- [`Sun_Tzu_Trap_Activation_Memo.md`](file:///W:/Legal/US_CUBA/Sun_Tzu_Trap_Activation_Memo.md) — Strategic Blueprint detailing judicial estoppel mechanics under *New Hampshire v. Maine* springing from DOJ's Rule 12(b)(1) response (*Mitchell* fiduciary trust & ARSIWA continuous tort). SHA-256: `115b1f64cb9e2012adcb527d6cb75f250f9b582fd559dbfbb40207b353856b08`.
+- [`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.docx) — Emergency Petition for Archival Disclosure and Mandatory Judicial Notice under 28 U.S.C. § 1651, Fed. R. App. P. 21, and Fed. R. Evid. 201. Focus: NARA RG 140, NARA RG 94, and Library of Congress Leonard Wood Papers. SHA-256: `17c1320f8959dcd74a5f33209fb74d067e0c2a08092a304d9acd3b8259f2e804`.
+- [`Vanguard_Beachhead_Filing_01_FINAL.md`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.md) — Comprehensive Markdown master treatise of Vanguard Beachhead filing. SHA-256: `f97b49151d3bbbc77a4bd522a66f2547654b8b732a3437a714ef5a2312da72b0`.
+- [`Sun_Tzu_Trap_Activation_Memo.md`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Sun_Tzu_Trap_Activation_Memo.md) — Strategic Blueprint detailing judicial estoppel mechanics under *New Hampshire v. Maine* springing from DOJ's Rule 12(b)(1) response (*Mitchell* fiduciary trust & ARSIWA continuous tort). SHA-256: `115b1f64cb9e2012adcb527d6cb75f250f9b582fd559dbfbb40207b353856b08`.
 
 ### Directive Beta: Agent Omega Corporate Dragnet & Title III Targeting
 - [`Corporate_Successors_Matrix.csv`](file:///W:/Legal/US_CUBA/03_Evidentiary_Exhibits/Global_Dragnet/Corporate_Successors_Matrix.csv) — Master corporate lineage mapping of 13 multinational conglomerates from 1865 Antebellum/Confederate and 1898-1920 latifundia syndicates (Vectors 1001-1200) to modern ticker, CIK, board executives, and offshore holdings. SHA-256: `57b08c5ef0a2f27fe3a838435925c64e47d8419ef0ae63a89f57cd4cad15b243`.

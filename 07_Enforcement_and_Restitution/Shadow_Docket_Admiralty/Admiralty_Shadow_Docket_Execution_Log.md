@@ -9,7 +9,7 @@
 ---
 
 ### I. STRATEGIC PIVOT: FROM PUBLIC TRIBUNALS TO PRIVATE MARITIME EXECUTION
-While the domestic vanguard beachhead ([`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.docx)) entraps the Department of Justice in the D.C. Circuit, and the diplomatic shadow docket ([`Shadow_Docket_Execution_Log.md`](file:///W:/Legal/US_CUBA/04_International_Tribunals/ACTIVE_DEPLOYMENT/Shadow_Docket_Execution_Log.md)) encircles the United States at the United Nations General Assembly, **COMMAND OMEGA-1** executes an asymmetric commercial flank.
+While the domestic vanguard beachhead ([`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.docx)) entraps the Department of Justice in the D.C. Circuit, and the diplomatic shadow docket ([`Shadow_Docket_Execution_Log.md`](file:///W:/Legal/US_CUBA/04_International_Tribunals/ACTIVE_DEPLOYMENT/Shadow_Docket_Execution_Log.md)) encircles the United States at the United Nations General Assembly, **COMMAND OMEGA-1** executes an asymmetric commercial flank.
 
 By pivoting into international admiralty and maritime law, Plaintiffs entirely bypass sovereign immunity, act of state doctrines, and domestic court delays:
 1. **The Res as Debtor:** Under ancient admiralty law (*The Brig Ann*, 13 U.S. 289 (1815); *The China*, 74 U.S. 53 (1868)), the vessel itself is personified as the defendant. A commercial cargo ship possesses zero sovereign immunity under 28 U.S.C. § 1605(a)(2) or UNCLOS Article 27.

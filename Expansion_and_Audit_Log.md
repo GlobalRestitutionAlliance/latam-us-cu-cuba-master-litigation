@@ -209,13 +209,13 @@ Date: October 30, 2026
 **Operational Objective:** Strip `motion_for_judicial_notice_rule201.docx` down to a Vanguard Subset focusing exclusively on NARA RG 140 (1898–1902 Military Government Land Auctions) and NARA RG 234 (FCSC Certified Claims Ledgers), format as an Emergency D.C. Circuit Mandamus Petition, embed Sun Tzu Standing and OFAC Continuous Tort entrapment arcs, and author the tactical Trap Activation Memorandum.
 
 ### Key Tactical Deliverables:
-1. **Vanguard Beachhead Mandamus Petition (D.C. Circuit):** [`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.docx) ([`.md`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.md))
+1. **Vanguard Beachhead Mandamus Petition (D.C. Circuit):** [`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.docx) ([`.md`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.md))
    - Filed under 28 U.S.C. § 1651(a) (All Writs Act), Fed. R. App. P. 21, and 5 U.S.C. § 706(1) (APA).
    - Isolates NARA Record Group 140 (Civil Orders 62, 89, 139) and NARA Record Group 234 (5,911 certified claims totaling $1.85B).
    - Embeds the **Sun Tzu Standing Entrapment Arc**: Compels DOJ to explain *why* Petitioners lost title; citing military orders proves sovereign control under *Mitchell*; denying duty proves *ultra vires* illegal exaction under *Aerolineas Argentinas*.
    - Embeds the **Sun Tzu OFAC Continuous Tort Entrapment Arc**: Compels Treasury to admit reliance on FCSC/military title ledgers for active 2026 asset blocking (proving active continuous tort under ARSIWA Art. 14 and nullifying § 2501), or deny reliance (admitting arbitrary blocking in violation of APA § 706(2)(A)).
 
-2. **Sun Tzu Trap Activation Memorandum:** [`Sun_Tzu_Trap_Activation_Memo.md`](file:///W:/Legal/US_CUBA/Sun_Tzu_Trap_Activation_Memo.md)
+2. **Sun Tzu Trap Activation Memorandum:** [`Sun_Tzu_Trap_Activation_Memo.md`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Sun_Tzu_Trap_Activation_Memo.md)
    - Lays out the complete strategic roadmap demonstrating how DOJ's anticipated Rule 12(b)(1) response in the D.C. Circuit establishes **Judicial Estoppel** under *New Hampshire v. Maine*, 532 U.S. 742 (2001) and binding admissions under Fed. R. Evid. 801(d)(2).
    - Pre-programs the spring of the trap in the District Court Main Action ([`master_federal_court_complaint_1805_vectors_HARDENED_v1.docx`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/master_federal_court_complaint_1805_vectors_HARDENED_v1.docx)) by attaching the DOJ's Mandamus response as Exhibit A and moving for immediate Partial Summary Judgment under Rule 56.
 

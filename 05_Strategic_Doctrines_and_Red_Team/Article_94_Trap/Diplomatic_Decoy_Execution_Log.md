@@ -81,7 +81,7 @@ The **Article 94 Diplomatic Decoy** reverses the geometry of the battlefield:
 
 With the completion of **COMMAND OMEGA-3**, the litigation architecture achieves total operational encirclement:
 
-1. **Front 1: Domestic Beachhead (Washington D.C.):** [`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/Vanguard_Beachhead_Filing_01_FINAL.docx) pins down the DOJ in the D.C. Circuit.
+1. **Front 1: Domestic Beachhead (Washington D.C.):** [`Vanguard_Beachhead_Filing_01_FINAL.docx`](file:///W:/Legal/US_CUBA/01_Pleadings_and_Complaints/ACTIVE_DEPLOYMENT/Vanguard_Beachhead_Filing_01_FINAL.docx) pins down the DOJ in the D.C. Circuit.
 2. **Front 2: Corporate Ambush (Wall Street):** Rule 45 Subpoenas ([`Master_Rule45_Subpoena_Duces_Tecum_Schedule.docx`](file:///W:/Legal/US_CUBA/02_Discovery_and_Evidentiary/ACTIVE_DEPLOYMENT/Master_Rule45_Subpoena_Duces_Tecum_Schedule.docx)) impose $1M fee-traps on Havemeyer, Citigroup, Chase, Chiquita, and Exxon.
 3. **Front 3: Private Admiralty Interdiction (Global Ports):** Rule C Arrest Warrants ([`Master_Admiralty_In_Rem_Lien_Schedule.docx`](file:///W:/Legal/US_CUBA/07_Enforcement_and_Restitution/Shadow_Docket_Admiralty/Master_Admiralty_In_Rem_Lien_Schedule.docx)) seize commercial merchant vessels in Santos, Balboa, Durban, and Singapore.
 4. **Front 4: The Article 94 Decoy & Immunity Stripping (120+ Nations):** The ICJ decoy induces a U.S. veto under Article 94(2), stripping foreign sovereign immunity and unlocking $10B+ in U.S. commercial state assets abroad.
