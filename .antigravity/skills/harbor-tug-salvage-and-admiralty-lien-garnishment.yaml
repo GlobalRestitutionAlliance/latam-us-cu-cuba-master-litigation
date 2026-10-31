@@ -1,0 +1,24 @@
+skill:
+  id: "harbor-tug-salvage-and-admiralty-lien-garnishment"
+  name: "Harbor Tug Salvage & Admiralty Lien Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Maritime Salvage Garnishment & Tugboat Fleet In Rem Arrest"
+
+description: >
+  Procedure for enforcing maritime liens, arresting sovereign tugboats and workboats under Supplemental Admiralty Rule C,
+  and garnishing emergency salvage awards, Lloyd's Open Form (LOF) arbitration funds, and marine towage fees
+  payable to state salvage monopoly Antillana de Salvamento.
+
+execution_protocol:
+  step_1: "Monitor vessel repair contracts, drydock bookings, and delivery voyages of Antillana de Salvamento ocean rescue tugs, harbor tugboats, and crane barges entering international foreign waters."
+  step_2: "File verified in rem admiralty complaints under Supplemental Rule C asserting statutory maritime liens and executing emergency warrants of maritime arrest upon arrival at foreign berths."
+  step_3: "Intercept salvage claims and arbitration proceedings administered under Lloyd's Standard Form of Salvage Agreement (LOF) in London involving Antillana de Salvamento."
+  step_4: "Serve English CPR Part 71 and Part 72 third-party debt orders on London salvage arbitrators, P&I Clubs, and hull underwriters to freeze salvage compensation and security deposits."
+
+authorities:
+  - "Supplemental Rule C for Certain Admiralty and Maritime Claims"
+  - "Senior Courts Act 1981 § 20, 21 (UK Admiralty Jurisdiction)"
+  - "International Convention on Salvage 1989 Art. 12, 13"
+  - "English CPR Part 72 (Third Party Debt Orders)"
+  - "The Playa Larga and Marble Islands [1983] 2 Lloyd's Rep. 171"

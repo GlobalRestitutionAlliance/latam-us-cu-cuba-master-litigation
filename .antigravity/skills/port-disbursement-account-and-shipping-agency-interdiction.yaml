@@ -1,0 +1,24 @@
+skill:
+  id: "port-disbursement-account-and-shipping-agency-interdiction"
+  name: "Port Disbursement Account & Shipping Agency Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Admiralty Attachment & Shipping Line Port Disbursement Garnishment"
+
+description: >
+  Operational and procedural protocol for serving Supplemental Admiralty Rule B maritime attachment orders
+  and third-party garnishment writs upon global ocean container lines, bulk charterers, and port agents holding
+  advance Port Disbursement Accounts (PDAs) and freight agency payables owed to Empresa Consignataria Mambisa.
+
+execution_protocol:
+  step_1: "Track global vessel calls at Cuban commercial ports (Mariel, Havana, Cienfuegos, Moa, Santiago de Cuba) utilizing Lloyd's List Intelligence and MarineTraffic satellite AIS tracking."
+  step_2: "Identify the global shipping operators, charterers, and protective agency desks responsible for funding advance Port Disbursement Accounts (PDAs) for pilotage, towage, and agency services."
+  step_3: "Serve verified Supplemental Rule B maritime attachment processes and CPLR § 5222 restraining notices on the U.S. and European headquarters of carrier lines (MSC, CMA CGM, Cosco, Maersk, bulk grain operators)."
+  step_4: "Interdict advance PDA escrow wires and redirect freight disbursements into the Master Qualified Settlement Fund registry."
+
+authorities:
+  - "Supplemental Rule B for Certain Admiralty and Maritime Claims"
+  - "Fed. R. Civ. P. 69 (Execution & Discovery in Aid of Enforcement)"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third Parties)"
+  - "Winter Storm Shipping, Ltd. v. TPI, 310 F.3d 263 (2d Cir. 2002)"
+  - "Shipping Corp. of India v. Jaldhi Overseas Pte Ltd., 585 F.3d 58 (2d Cir. 2009)"

@@ -559,4 +559,16 @@ skills:
   name: Urban Latifundia Receivership & Rent Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/urban-latifundia-receivership-and-rent-garnishment.yaml
-total_skills: 159
+- id: sovereign-port-agency-and-pilotage-disgorgement
+  name: Sovereign Port Agency & Pilotage Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-port-agency-and-pilotage-disgorgement.yaml
+- id: port-disbursement-account-and-shipping-agency-interdiction
+  name: Port Disbursement Account & Shipping Agency Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/port-disbursement-account-and-shipping-agency-interdiction.yaml
+- id: harbor-tug-salvage-and-admiralty-lien-garnishment
+  name: Harbor Tug Salvage & Admiralty Lien Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/harbor-tug-salvage-and-admiralty-lien-garnishment.yaml
+total_skills: 162

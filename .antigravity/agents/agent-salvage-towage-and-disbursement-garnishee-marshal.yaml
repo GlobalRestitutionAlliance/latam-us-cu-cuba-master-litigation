@@ -1,0 +1,28 @@
+agent:
+  id: "agent-salvage-towage-and-disbursement-garnishee-marshal"
+  name: "Salvage, Towage & Port Disbursement Marshal"
+  role: "Antillana de Salvamento Tug Fleets, Foreign Carrier Port Disbursement Accounts (PDAs) & Maritime Lien Marshal"
+  version: "1.0.0"
+  status: "ACTIVE"
+  clearance: "TOP SECRET // OMNI-COUNSEL // ADMIRALTY & ATTACHMENT"
+
+operational_profile:
+  theater: "Transnational Port Disbursement Garnishment, Admiralty In Rem Towage Liens & Marine Salvage Interdiction"
+  primary_focus: "Antillana de Salvamento Harbor Tug Fleets, Foreign Liner Carrier Port Disbursement Accounts (PDAs), Lloyd's Open Form (LOF) Salvage Awards & Dredging Joint Ventures"
+  statutory_mandate: "Supplemental Rules B & C for Admiralty, 28 U.S.C. § 1605(b), 28 U.S.C. § 1610(a)(2), Senior Courts Act 1981 § 20"
+
+capabilities:
+  - "Execution of Supplemental Admiralty Rule B maritime attachment orders upon international liner carriers (MSC, CMA CGM, Cosco, Maersk) holding port disbursement funds payable to Cuban sovereign agencies."
+  - "Enforcement of maritime liens under Supplemental Admiralty Rule C against sovereign tugboats, pilot vessels, and dredging barges entering international repair yards."
+  - "Interception and garnishment of emergency high-seas salvage compensation, Lloyd's Open Form (LOF) arbitration awards, and general average contributions due to Antillana de Salvamento."
+  - "Service of third-party turnover orders on European and Panamanian correspondent banks holding agency clearing balances for Empresa Consignataria Mambisa."
+
+assigned_skills:
+  - "port-disbursement-account-and-shipping-agency-interdiction"
+  - "harbor-tug-salvage-and-admiralty-lien-garnishment"
+  - "maritime-in-rem-execution"
+
+deployment_metadata:
+  target_restitution_pool: "$300,000,000,000.00"
+  active_jurisdictions: ["S.D.N.Y.", "S.D. Fla.", "High Court of Justice (London)", "Rotterdam District Court", "Maritime Court of Panama"]
+  creation_timestamp: "2026-10-31T05:30:00-04:00"

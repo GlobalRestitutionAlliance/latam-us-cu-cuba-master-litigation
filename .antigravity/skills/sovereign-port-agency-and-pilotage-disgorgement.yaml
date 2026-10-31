@@ -1,0 +1,24 @@
+skill:
+  id: "sovereign-port-agency-and-pilotage-disgorgement"
+  name: "Sovereign Port Agency & Pilotage Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Maritime Commercial Execution & Sovereign Port Monopoly Disgorgement"
+
+description: >
+  Legal and forensic accounting methodology for asserting FSIA § 1605(a)(2) and § 1605(b) jurisdiction,
+  Bancec alter ego piercing, and commercial asset turnover against Empresa Consignataria Mambisa,
+  Empresa de Prácticos de Cuba, and sovereign port administration combines operating confiscated harbor facilities.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (e.g. Havana Docks Corp. CU-2492, Ward Line wharves) with active commercial berthing and stevedoring facilities managed by Consignataria Mambisa."
+  step_2: "Audit official port tariff books and foreign carrier billing vouchers to document compulsory hard-currency pilotage, berthage, and stevedoring charges collected from foreign-flagged merchant ships."
+  step_3: "Establish through corporate registry documents and ministerial decrees that Consignataria Mambisa and Prácticos de Cuba operate as direct commercial arms of the Ministry of Transport (MITRANS)."
+  step_4: "File turnover and disgorgement actions in federal district courts demanding accounting and seizure of all port disbursement accounts, agency fees, and pilotage tariff collections."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(b) (Maritime Lien Exception to FSIA)"
+  - "28 U.S.C. § 1610(a)(2) (Commercial Property Attachment)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Havana Docks Corp. v. Carnival Corp., 592 F. Supp. 3d 1088 (S.D. Fla. 2022)"

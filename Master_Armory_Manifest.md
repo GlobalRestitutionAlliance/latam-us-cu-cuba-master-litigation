@@ -1390,3 +1390,23 @@ W:\Legal\US_CUBA\
   - [Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Dashboard.md)
   - [Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 51)
+- `agent-mambisa-and-port-agency-auditor`: Empresa Consignataria Mambisa, Empresa de Prácticos de Cuba, Expropriated Pre-1959 American Stevedoring Docks & Port Agency Tariff Auditor.
+- `agent-salvage-towage-and-disbursement-garnishee-marshal`: Antillana de Salvamento Tug Fleets, Foreign Carrier Port Disbursement Accounts (PDAs), Maritime Salvage Awards & Freight Agency Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 51)
+- `sovereign-port-agency-and-pilotage-disgorgement`: Sovereign Port Agency, Prácticos de Cuba Pilotage & Consignataria Mambisa Disgorgement.
+- `port-disbursement-account-and-shipping-agency-interdiction`: Port Disbursement Account (PDA) & Foreign Carrier Agency Fee Interdiction.
+- `harbor-tug-salvage-and-admiralty-lien-garnishment`: Harbor Towage, High-Seas Salvage Claims & Admiralty Maritime Lien Garnishment.
+
+### Campaign 51: Sovereign Commercial Maritime Port Towage, Pilotage, Salvage, Dredging Monopolies & Transnational Ship Agency (Empresa Consignataria Mambisa / Empresa de Prácticos de Cuba / Antillana de Salvamento) Disgorgement Campaign
+- **Total Restitution Pool:** $300,000,000,000.00 ($300.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** PORT-001 through PORT-025
+- **Assigned Agents:** `agent-mambisa-and-port-agency-auditor`, `agent-salvage-towage-and-disbursement-garnishee-marshal`
+- **Certified Skills:** `sovereign-port-agency-and-pilotage-disgorgement`, `port-disbursement-account-and-shipping-agency-interdiction`, `harbor-tug-salvage-and-admiralty-lien-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Port_Agency_Mambisa_Practicos_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Agency_Mambisa_Practicos_Crosswalk_Matrix.csv)
+  - [Master_Port_Agency_Mambisa_Practicos_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Agency_Mambisa_Practicos_Crosswalk_Dashboard.md)
+  - [Master_Port_Agency_Mambisa_Practicos_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Agency_Mambisa_Practicos_Crosswalk_Dashboard.docx)
+

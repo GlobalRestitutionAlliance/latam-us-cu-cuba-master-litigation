@@ -526,4 +526,14 @@ agents:
   role: Miramar Trade Center Tenant Leases, Offshore Rent Wire Escrows, Habaguanex Commercial Holdings & Title III Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-miramar-trade-center-and-lease-garnishee-marshal.yaml
-total_agents: 106
+- id: agent-mambisa-and-port-agency-auditor
+  name: Mambisa Port Agency & Pilotage Auditor
+  role: Empresa Consignataria Mambisa, Empresa de Prácticos de Cuba, Expropriated American Docks & Port Agency Tariff Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-mambisa-and-port-agency-auditor.yaml
+- id: agent-salvage-towage-and-disbursement-garnishee-marshal
+  name: Salvage, Towage & Port Disbursement Marshal
+  role: Antillana de Salvamento Tug Fleets, Foreign Carrier Port Disbursement Accounts (PDAs) & Maritime Lien Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-salvage-towage-and-disbursement-garnishee-marshal.yaml
+total_agents: 108
