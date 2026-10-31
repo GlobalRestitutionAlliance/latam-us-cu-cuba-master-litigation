@@ -486,4 +486,14 @@ agents:
   role: GSMA Roaming Balances, Hard-Currency Top-Up Gateways (Ding, Recharge), Carrier Transit Payables & Telecom Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-roaming-clearing-and-telecom-garnishee-marshal.yaml
-total_agents: 98
+- id: agent-geicon-and-cement-monopoly-auditor
+  name: Sovereign Cement Monopoly, GEICON & Construction Material Auditor
+  role: GEICON State Monopoly, Lone Star Cement "El Morro" Confiscations, Cementos Cienfuegos & Quarry Concessions Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-geicon-and-cement-monopoly-auditor.yaml
+- id: agent-cement-cargo-and-clinker-trade-garnishee-marshal
+  name: Bulk Cement Cargo, Clinker Offtake & JV Escrow Garnishee Marshal
+  role: LafargeHolcim Dividends, Specialized Cement Carrier Arrests, Clinker Export Letters of Credit & Trade Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cement-cargo-and-clinker-trade-garnishee-marshal.yaml
+total_agents: 100

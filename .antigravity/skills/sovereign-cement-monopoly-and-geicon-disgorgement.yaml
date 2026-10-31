@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-cement-monopoly-and-geicon-disgorgement
+  name: Sovereign Cement Monopoly & GEICON Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge GEICON sovereign cement monopolies, expropriated pre-1959 Lone Star Cement "El Morro" assets, and national cement production plants.
+  procedures:
+    - Forensic mapping of the statutory monopoly granted to GEICON over national cement production, clinker roasting, and distribution.
+    - Title reconstruction of nationalized Lone Star Cement plants, rotary kilns, limestone quarries, and maritime port facilities at Mariel under FCSC Title V awards.
+    - Encumbrance of state-owned cement manufacturing facilities (Cementos Cienfuegos, René Arcay, José Mercerón) under FSIA § 1610(a)(2).
+    - Service of charging orders on foreign equipment and refractory brick suppliers holding state equipment financing or debt collateral.
+    - Enforcement of restitution liens over national quarry real estate and commercial cement sales revenues.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Expropriated Cement Properties
+    - Constructive Trust & Restitution under Restatement (Third) § 55
+  operational_status: ACTIVE

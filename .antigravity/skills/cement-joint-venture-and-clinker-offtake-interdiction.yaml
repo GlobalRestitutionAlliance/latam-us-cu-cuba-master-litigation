@@ -1,0 +1,16 @@
+skill:
+  id: cement-joint-venture-and-clinker-offtake-interdiction
+  name: Cement Joint Venture & Clinker Offtake Interdiction
+  version: 1.0.0
+  description: Interdiction, charging orders, and post-judgment encumbrance targeting transnational cement joint ventures (Cementos Cienfuegos S.A. / LafargeHolcim), clinker off-take agreements, and offshore export escrows.
+  procedures:
+    - Identification and forensic tracing of equity ownership, dividend remittances, and management fees in Cementos Cienfuegos S.A. flowing to foreign joint venture partners.
+    - Encumbrance of foreign partner equity shares and contractual rights held through Spanish and Dutch holding companies.
+    - Service of third-party garnishment subpoenas on international cement traders purchasing Cuban clinker and cement for Caribbean distribution.
+    - Freezing of offshore trade financing escrow accounts and export letters of credit clearing through European banking institutions.
+    - Attachment of technical licensing royalties and operational management fees paid to foreign engineering consultants.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(a)(2) Commercial Joint Venture Execution
+    - Brussels I Recast Regulation & Swiss Debt Collection Law (DEBA)
+    - Fed. R. Civ. P. 69 Foreign Interline Turnover Precedents
+  operational_status: ACTIVE

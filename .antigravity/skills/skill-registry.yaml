@@ -511,4 +511,16 @@ skills:
   name: International Roaming & Mobile Top-Up Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/international-roaming-and-mobile-topup-garnishment.yaml
-total_skills: 147
+- id: sovereign-cement-monopoly-and-geicon-disgorgement
+  name: Sovereign Cement Monopoly & GEICON Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-cement-monopoly-and-geicon-disgorgement.yaml
+- id: cement-joint-venture-and-clinker-offtake-interdiction
+  name: Cement Joint Venture & Clinker Offtake Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/cement-joint-venture-and-clinker-offtake-interdiction.yaml
+- id: bulk-cement-carrier-and-quarry-concession-garnishment
+  name: Bulk Cement Carrier & Quarry Concession Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/bulk-cement-carrier-and-quarry-concession-garnishment.yaml
+total_skills: 150

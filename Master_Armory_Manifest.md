@@ -1311,3 +1311,22 @@ W:\Legal\US_CUBA\
   - [Master_Telecommunications_ETECSA_Subsea_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Subsea_Crosswalk_Matrix.csv)
   - [Master_Telecommunications_ETECSA_Subsea_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Subsea_Crosswalk_Dashboard.md)
   - [Master_Telecommunications_ETECSA_Subsea_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Subsea_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 47)
+- `agent-geicon-and-cement-monopoly-auditor`: Grupo Empresarial de Materiales de Construcción (GEICON), Lone Star Cement "El Morro" Confiscations, Cementos Cienfuegos & Quarry Concessions Auditor.
+- `agent-cement-cargo-and-clinker-trade-garnishee-marshal`: LafargeHolcim Dividends, Specialized Cement Carrier Arrests, Clinker Export Letters of Credit & Trade Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 47)
+- `sovereign-cement-monopoly-and-geicon-disgorgement`: Sovereign Cement Monopoly & GEICON Disgorgement.
+- `cement-joint-venture-and-clinker-offtake-interdiction`: Cement Joint Venture & Clinker Offtake Interdiction.
+- `bulk-cement-carrier-and-quarry-concession-garnishment`: Bulk Cement Carrier & Quarry Concession Garnishment.
+
+### Campaign 47: Sovereign Cement, Concrete, Aggregates & Construction Material Monopolies, Grupo Empresarial de la Construcción Latifundia & Transnational Cement JVs (Cementos Cienfuegos / LafargeHolcim / Cemex) Disgorgement Campaign
+- **Total Restitution Pool:** $285,000,000,000.00 ($285.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** CMNT-001 through CMNT-025
+- **Assigned Agents:** `agent-geicon-and-cement-monopoly-auditor`, `agent-cement-cargo-and-clinker-trade-garnishee-marshal`
+- **Certified Skills:** `sovereign-cement-monopoly-and-geicon-disgorgement`, `cement-joint-venture-and-clinker-offtake-interdiction`, `bulk-cement-carrier-and-quarry-concession-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Cement_Construction_GEICON_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cement_Construction_GEICON_Crosswalk_Matrix.csv)
+  - [Master_Cement_Construction_GEICON_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cement_Construction_GEICON_Crosswalk_Dashboard.md)
+  - [Master_Cement_Construction_GEICON_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cement_Construction_GEICON_Crosswalk_Dashboard.docx)

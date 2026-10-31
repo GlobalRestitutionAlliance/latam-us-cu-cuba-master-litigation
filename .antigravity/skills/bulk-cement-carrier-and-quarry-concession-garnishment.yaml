@@ -1,0 +1,16 @@
+skill:
+  id: bulk-cement-carrier-and-quarry-concession-garnishment
+  name: Bulk Cement Carrier & Quarry Concession Garnishment
+  version: 1.0.0
+  description: Maritime arrest of specialized bulk cement carriers under Supplemental Admiralty Rules B & C, encumbrance of port loading terminals, and garnishment of limestone and gypsum quarry concessions.
+  procedures:
+    - Real-time AIS tracking of specialized pneumatic cement carrier vessels and bulk clinker ships calling at Mariel, Cienfuegos, and Santiago de Cuba.
+    - Execution of Supplemental Admiralty Rule B maritime attachments and Rule C in rem arrests against sovereign cement cargoes on the high seas and at bunkering ports.
+    - Encumbrance of deepwater bulk loading wharves, conveyor galleries, and silos at port terminals.
+    - Post-judgment attachment of raw limestone, gypsum, and aggregate quarry concession rights supplying national construction combines.
+    - Sweep of commercial export sale proceeds into court-supervised Qualified Settlement Funds (QSF) under 26 U.S.C. § 468B.
+  enforcement_framework:
+    - Supplemental Admiralty Rules B & C
+    - 28 U.S.C. § 1605(a)(2) Commercial Maritime Exception
+    - 28 U.S.C. § 1610(g) & 26 U.S.C. § 468B Master QSF Receivership
+  operational_status: ACTIVE
