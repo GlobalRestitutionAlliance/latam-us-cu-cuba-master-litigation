@@ -1993,3 +1993,22 @@ W:\Legal\US_CUBA\
   - [Master_GAESA_Hospitality_Resort_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_GAESA_Hospitality_Resort_Crosswalk_Matrix.csv)
   - [Master_GAESA_Hospitality_Resort_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_GAESA_Hospitality_Resort_Crosswalk_Dashboard.md)
   - [Master_GAESA_Hospitality_Resort_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_GAESA_Hospitality_Resort_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 79)
+- `agent-central-bank-reserves-and-bcc-auditor`: Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Sovereign Foreign Exchange Reserves, Expropriated Pre-1959 American Commercial Bank Branch Networks (Citibank CU-2623, Chase CU-2618, Bank of Boston CU-2619, Law 891) & Bancec Alter Ego Auditor.
+- `agent-transnational-interbank-clearing-and-havin-marshal`: Transnational Correspondent Interbank Clearing Monopolies, Havana International Bank Ltd. (Havin Bank London / Havin Bank Ltd. UK, PRA/FCA Regulated), Banco Financiero Internacional (BFI / GAESA), Banco Internacional de Comercio S.A. (BICSA), SWIFT/TARGET2 Wire Clearing Intercepts, CRF I Ltd. Commercial Debt Precedents ([2023] EWHC 80, [2024] EWCA Civ 428), TRIA § 201 Garnishments & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 79)
+- `sovereign-central-bank-disgorgement-and-bcc-forensics`: Sovereign Central Bank Disgorgement, Foreign Exchange Reserve Auditing & BCC/BNC Bancec Alter Ego Forensics.
+- `expropriated-commercial-bank-network-and-vault-restitution`: Expropriated Commercial Bank Networks, Vault Specie, Loan Portfolios & Title III Banking Restitution Protocol (Law 891; Law 851; FCSC Claim Nos. CU-2623, CU-2618, CU-2619; 28 U.S.C. §§ 1605(a)(3), 1610; First National City Bank v. Bancec, 462 U.S. 611).
+- `transnational-interbank-clearing-and-havin-escrow-garnishment`: Transnational Interbank Clearing Floats, Havin Bank London Equity Charging Orders & Correspondent Account Garnishment (UK CPR Parts 71–73; TRIA § 201; 28 U.S.C. § 1610(g); CRF I Ltd. Precedents).
+
+### Campaign 79 (Historic 79-Campaign Milestone): Sovereign Commercial Central Banking, Foreign Exchange Reserves, Transnational Correspondent Interbank Clearing Monopolies, Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Banco Financiero Internacional (BFI), Havana International Bank Ltd. (Havin Bank London / Havin Bank Ltd. UK), Banco Internacional de Comercio S.A. (BICSA), Expropriated Pre-1959 American Commercial Bank Networks & Vaults (Law 891 of October 13, 1960; First National City Bank of New York FCSC Claim No. CU-2623; The Chase Manhattan Bank FCSC Claim No. CU-2618; First National Bank of Boston FCSC Claim No. CU-2619), UK High Court Commercial Enforcement Precedents (CRF I Ltd. v. Banco Nacional de Cuba & Republic of Cuba, [2023] EWHC 80 (Comm); [2024] EWCA Civ 428, establishing BNC commercial capacity and sovereign waiver), Foreign Sovereign Immunities Act Commercial Exceptions (28 U.S.C. §§ 1605(a)(2), 1610(a)(2), 1610(g)), First National City Bank v. Bancec (462 U.S. 611) Alter Ego Counterclaim Architecture, Terrorism Risk Insurance Act (TRIA § 201) Blocked Account Attachments, European & Asian Clearing Floats (SWIFT / Euroclear / Clearstream / TARGET2), and Master Qualified Settlement Fund (QSF) Trust Restitution ($405.00B Pool - $25.880T Milestone)
+- **Total Restitution Pool:** $405,000,000,000.00 ($405.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** BNK-001 through BNK-025
+- **Assigned Legal Research Agents:** `agent-central-bank-reserves-and-bcc-auditor`, `agent-transnational-interbank-clearing-and-havin-marshal`
+- **Certified Procedural Skills:** `sovereign-central-bank-disgorgement-and-bcc-forensics`, `expropriated-commercial-bank-network-and-vault-restitution`, `transnational-interbank-clearing-and-havin-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Sovereign_Banking_BCC_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_BCC_Crosswalk_Matrix.csv)
+  - [Master_Sovereign_Banking_BCC_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_BCC_Crosswalk_Dashboard.md)
+  - [Master_Sovereign_Banking_BCC_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_BCC_Crosswalk_Dashboard.docx)

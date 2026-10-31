@@ -1,0 +1,12 @@
+skill:
+  id: "expropriated-commercial-bank-network-and-vault-restitution"
+  name: "Expropriated Commercial Bank Networks, Vault Specie & Law 891 Restitution Protocol"
+  description: "Procedural protocol for asserting certified property claims under Law 891 (October 13, 1960), FCSC Claim Nos. CU-2623 (First National City Bank), CU-2618 (Chase Manhattan Bank), and CU-2619 (First National Bank of Boston), establishing unassailable baseline capital valuations and 6% statutory interest."
+  category: "commercial-bank-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Trace chain of title and certified confiscation records under Law 891 for landmark Havana banking palaces (Aguiar 310, Calle Obispo) and national branch networks."
+    - "Synthesize certified awards from FCSC Claim Nos. CU-2623, CU-2618, and CU-2619 with 6% annual statutory simple interest into enforceable federal judgments."
+    - "Apply the alter ego counterclaim doctrine under First National City Bank v. Bancec (462 U.S. 611) to offset sovereign liabilities against foreign assets."
+    - "Draft post-judgment turnover petitions and charging orders against Cuban state commercial bank assets located outside Cuban sovereign territory."

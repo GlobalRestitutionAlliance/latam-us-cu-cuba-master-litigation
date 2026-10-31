@@ -895,4 +895,16 @@ skills:
   name: Transnational Hotel Management Fees, GDS Clearinghouses & Tour Operator Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-hotel-management-and-gds-escrow-garnishment.yaml
-total_skills: 243
+- id: sovereign-central-bank-disgorgement-and-bcc-forensics
+  name: Banco Central de Cuba Sovereign Disgorgement, Reserve Auditing & Bancec Alter Ego Forensics
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-central-bank-disgorgement-and-bcc-forensics.yaml
+- id: expropriated-commercial-bank-network-and-vault-restitution
+  name: Expropriated Commercial Bank Networks, Vault Specie & Law 891 Restitution Protocol
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-commercial-bank-network-and-vault-restitution.yaml
+- id: transnational-interbank-clearing-and-havin-escrow-garnishment
+  name: Transnational Interbank Clearing, Havin Bank London & SWIFT Settlement Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-interbank-clearing-and-havin-escrow-garnishment.yaml
+total_skills: 246

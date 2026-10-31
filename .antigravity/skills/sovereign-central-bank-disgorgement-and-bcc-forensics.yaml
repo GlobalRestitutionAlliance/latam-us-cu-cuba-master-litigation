@@ -1,0 +1,12 @@
+skill:
+  id: "sovereign-central-bank-disgorgement-and-bcc-forensics"
+  name: "Banco Central de Cuba Sovereign Disgorgement, Reserve Auditing & Bancec Alter Ego Forensics"
+  description: "Forensic audit and asset disgorgement protocol targeting state central banking institutions (Banco Central de Cuba - BCC, Banco Nacional de Cuba - BNC), foreign exchange reserves, and sovereign debt assets under FSIA § 1605(a)(2), § 1610(a)(2), and Bancec alter ego doctrines."
+  category: "central-bank-disgorgement"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Establish alter ego unity between the Council of Ministers, MINCEX, BCC, and BNC under First National City Bank v. Bancec (462 U.S. 611)."
+    - "Forensically audit sovereign foreign exchange reserves, gold depository receipts (BIS Basel), and bilateral central bank clearing balances."
+    - "Synthesize UK High Court commercial debt precedent (CRF I Ltd. v. BNC & Cuba) to enforce valid assignment and waive sovereign immunity in foreign commercial forums."
+    - "Draft motions for turnover orders and third-party citations under Fed. R. Civ. P. 69 and 28 U.S.C. § 1610(g) targeting foreign banking clearing floats of BCC."

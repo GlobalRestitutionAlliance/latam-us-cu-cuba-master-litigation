@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-interbank-clearing-and-havin-escrow-garnishment"
+  name: "Transnational Interbank Clearing, Havin Bank London & SWIFT Settlement Garnishment"
+  description: "Transnational post-judgment execution protocol targeting Cuban-owned overseas banking subsidiaries (Havana International Bank Ltd. London), Banco Financiero Internacional (BFI / GAESA) correspondent clearing accounts, SWIFT settlement floats, and TRIA § 201 blocked asset garnishments."
+  category: "interbank-clearing-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Serve post-judgment Third-Party Debt Orders and charging orders in the English High Court of Justice against Havin Bank Ltd. equity and Bank of England balances."
+    - "Garnish commercial correspondent accounts and wire clearing floats of Banco Financiero Internacional (BFI) and BICSA in European commercial banks."
+    - "Intercept SWIFT and TARGET2 settlement streams servicing Cuban sovereign commercial exports under TRIA § 201 and 28 U.S.C. § 1610(g)."
+    - "Marshal all recovered funds and liquidated bank assets into the court-supervised Master Qualified Settlement Fund (QSF) Trust under 26 U.S.C. § 468B."

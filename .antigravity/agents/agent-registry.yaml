@@ -806,4 +806,14 @@ agents:
   role: Transnational Hotel Management Chains (Meliá, Iberostar, Blue Diamond, Kempinski, Accor), Global Distribution Systems (Amadeus, Sabre), Online Booking Engines (Expedia, Booking.com), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), Title IV Sanctions & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-hotel-chain-and-gds-escrow-marshal.yaml
-total_agents: 162
+- id: agent-central-bank-reserves-and-bcc-auditor
+  name: Central Bank Reserves & BCC Auditor
+  role: Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Expropriated American Commercial Banks (Law 891, First National City Bank CU-2623, Chase Manhattan CU-2618, First National Bank of Boston CU-2619), Bancec Alter Ego Unity & UK Commercial Court Debt Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-central-bank-reserves-and-bcc-auditor.yaml
+- id: agent-transnational-interbank-clearing-and-havin-marshal
+  name: Transnational Interbank Clearing & Havin Bank Marshal
+  role: Havana International Bank Ltd. (Havin Bank London / UK FCA/PRA Regulated), Banco Financiero Internacional (BFI / GAESA), SWIFT / TARGET2 Settlement Rails, European Correspondent Accounts, TRIA § 201 Garnishments & Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-interbank-clearing-and-havin-marshal.yaml
+total_agents: 164
