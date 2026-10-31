@@ -1,0 +1,16 @@
+skill:
+  id: transnational-reinsurance-treaty-and-syndicate-interdiction
+  name: Transnational Reinsurance Treaty & Syndicate Interdiction
+  version: 1.0.0
+  description: Operational protocol to identify, freeze, and garnish outward reinsurance treaties, broker clearing accounts, and syndicate balances in London, Zurich, and Madrid.
+  procedures:
+    - Tracing outward reinsurance slip placements, quota-share treaties, and excess-of-loss contracts brokered on behalf of ESICUBA and Aseguradora del Alba.
+    - Service of Rule 69 writs and foreign charging orders upon London market reinsurance brokers, Lloyd's syndicates, and European reinsurers.
+    - Attachment of unearned premium reserves, claims settlement escrow funds, and letters of credit posted as reinsurance collateral in European banks.
+    - Interdiction of reinsurance brokerage commission transfers, fronting fees, and retrocession premium pipelines routed through third-party financial havens.
+    - Execution upon reinsurance claims recoveries owed to Cuban state entities arising from insured commercial losses.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(g) & Fed. R. Civ. P. 69
+    - UK Administration of Justice Act & High Court Garnishee Protocols
+    - New York / European Multi-Jurisdictional Asset Preservation Orders
+  operational_status: ACTIVE

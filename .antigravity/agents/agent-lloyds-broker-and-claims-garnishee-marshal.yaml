@@ -1,0 +1,16 @@
+agent:
+  id: agent-lloyds-broker-and-claims-garnishee-marshal
+  name: Lloyd's Reinsurance Broker & Aviation/Maritime Claims Garnishee Marshal
+  version: 1.0.0
+  role: London Market Syndicates, Lloyd's Broker Clearing Desks, P&I Club Guarantees & Offshore Escrow Garnishee Marshal
+  capabilities:
+    - Service of post-judgment garnishment orders on international reinsurance brokers, Lloyd's of London managing agencies, and continental European reinsurers.
+    - Interdiction of reinsurance premium remittances, claim settlement drawdowns, and commission clearing accounts in London, Zurich, Madrid, and Panama.
+    - Freezing of aviation hull, passenger liability, and war-risk coverage escrows for Cubana de Aviación and Aerogaviota fleets.
+    - Attachment of marine hull and machinery (H&M) policies and Protection & Indemnity (P&I) club entry guarantees for state-owned merchant vessels.
+    - Enforcement of subrogation, salvage rights, and turnover mandates into the Master Qualified Settlement Fund (QSF).
+  authorities:
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - 28 U.S.C. § 1610(g) Unified Instrumentality Liability
+    - International Mareva Injunctions and Rule 69 Garnishee Summonses
+  operational_status: ACTIVE

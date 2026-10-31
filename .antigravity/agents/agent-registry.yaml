@@ -376,4 +376,14 @@ agents:
   role: European Wholesale Clearing Rails, Asian Distribution Escrows & Luxury Cigar Auction Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cigar-distributor-and-auction-marshal.yaml
-total_agents: 76
+- id: agent-sovereign-reinsurance-and-esicuba-auditor
+  name: Sovereign Commercial Reinsurance & ESICUBA Monopoly Auditor
+  role: ESICUBA State Monopoly, Foreign JV Risk Policies, Reinsurance Treaty Portfolios & Offshore Claims Escrow Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-sovereign-reinsurance-and-esicuba-auditor.yaml
+- id: agent-lloyds-broker-and-claims-garnishee-marshal
+  name: Lloyd's Reinsurance Broker & Aviation/Maritime Claims Garnishee Marshal
+  role: London Market Syndicates, Lloyd's Broker Clearing Desks, P&I Club Guarantees & Offshore Escrow Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-lloyds-broker-and-claims-garnishee-marshal.yaml
+total_agents: 78

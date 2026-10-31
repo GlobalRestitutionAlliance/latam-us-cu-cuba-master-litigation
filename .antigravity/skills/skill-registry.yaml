@@ -379,4 +379,16 @@ skills:
   name: Luxury Cigar Auction & Franchise Royalty Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/luxury-cigar-auction-and-franchise-royalty-garnishment.yaml
-total_skills: 114
+- id: sovereign-insurance-monopoly-and-esicuba-disgorgement
+  name: Sovereign Insurance Monopoly & ESICUBA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-insurance-monopoly-and-esicuba-disgorgement.yaml
+- id: transnational-reinsurance-treaty-and-syndicate-interdiction
+  name: Transnational Reinsurance Treaty & Syndicate Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-reinsurance-treaty-and-syndicate-interdiction.yaml
+- id: maritime-aviation-hull-escrow-and-claims-garnishment
+  name: Maritime & Aviation Hull Escrow & Claims Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/maritime-aviation-hull-escrow-and-claims-garnishment.yaml
+total_skills: 117

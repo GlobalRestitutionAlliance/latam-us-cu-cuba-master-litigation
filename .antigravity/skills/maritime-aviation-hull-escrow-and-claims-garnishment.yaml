@@ -1,0 +1,16 @@
+skill:
+  id: maritime-aviation-hull-escrow-and-claims-garnishment
+  name: Maritime & Aviation Hull Escrow & Claims Garnishment
+  version: 1.0.0
+  description: Enforcement protocol to attach aviation hull/war-risk escrows, merchant marine hull policies, P&I club guarantee deposits, and salvage rights.
+  procedures:
+    - Forensic mapping of aviation hull, passenger liability, and third-party war-risk insurance policies covering Cubana de Aviación and Aerogaviota aircraft.
+    - Identification of marine hull and machinery (H&M) coverage and Protection & Indemnity (P&I) club entries for Mambisa and Navegación Caribe vessels.
+    - Garnishment of unexpired premium balances, claims escrow funds, and security bonds deposited with international maritime and aviation insurers.
+    - Attachment of insurance settlement proceeds arising from aircraft hull total losses, vessel groundings, and cargo liability recoveries.
+    - Enforcing turnover of subrogation rights, salvage proceeds, and wreck disposal indemnities directly into certified restitution trust accounts.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - Supplemental Admiralty Rule B & C Maritime Attachment Protocols
+    - New York State Insurance Law / UK Marine Insurance Act Garnishment Precedents
+  operational_status: ACTIVE

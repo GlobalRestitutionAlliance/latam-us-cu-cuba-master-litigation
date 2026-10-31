@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-insurance-monopoly-and-esicuba-disgorgement
+  name: Sovereign Insurance Monopoly & ESICUBA Disgorgement
+  version: 1.0.0
+  description: Tactical execution protocol to audit, encumber, and disgorge state insurance reserves, expropriated insurer holdings, and commercial JV premiums held by ESICUBA and ESEN.
+  procedures:
+    - Audit of the statutory monopoly granted to ESICUBA under Decree-Law and Ministry of Finance and Prices regulations over all foreign-currency insurance underwriting.
+    - Forensic accounting of seized historical assets of pre-1959 American and Cuban insurance corporations, establishing unbroken chain of unjust enrichment.
+    - Identification of all commercial coverage binders issued for foreign joint-venture hotel complexes, nickel extraction plants, and offshore energy infrastructure.
+    - Encumbrance of premium receivables and policyholder reserve accounts held in Banco Financiero Internacional (BFI) and offshore correspondent institutions.
+    - Issuance of formal notices of post-judgment levy to foreign JV partners requiring diversion of premium disbursements to the Master QSF.
+  enforcement_framework:
+    - FSIA 28 U.S.C. § 1605(a)(2) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Property
+    - Equitable Restitution & Constructive Trust Imposition
+  operational_status: ACTIVE

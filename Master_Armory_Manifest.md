@@ -1102,3 +1102,22 @@ W:\Legal\US_CUBA\
   - [Master_Tobacco_Cigar_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_Cigar_Crosswalk_Matrix.csv)
   - [Master_Tobacco_Cigar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_Cigar_Crosswalk_Dashboard.md)
   - [Master_Tobacco_Cigar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_Cigar_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 36)
+- `agent-sovereign-reinsurance-and-esicuba-auditor`: ESICUBA State Monopoly, Foreign JV Risk Policies, Reinsurance Treaty Portfolios & Offshore Claims Escrow Auditor.
+- `agent-lloyds-broker-and-claims-garnishee-marshal`: London Market Syndicates, Lloyd's Broker Clearing Desks, P&I Club Guarantees & Offshore Escrow Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 36)
+- `sovereign-insurance-monopoly-and-esicuba-disgorgement`: Sovereign Insurance Monopoly & ESICUBA Disgorgement.
+- `transnational-reinsurance-treaty-and-syndicate-interdiction`: Transnational Reinsurance Treaty & Syndicate Interdiction.
+- `maritime-aviation-hull-escrow-and-claims-garnishment`: Maritime & Aviation Hull Escrow & Claims Garnishment.
+
+### Campaign 36: Sovereign Commercial Insurance & Reinsurance Monopolies, Transnational Risk Pools, ESICUBA Escrows & Lloyd's Broker Clearing Disgorgement Campaign
+- **Total Restitution Pool:** $275,000,000,000.00 ($275.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** INSUR-001 through INSUR-025
+- **Assigned Agents:** `agent-sovereign-reinsurance-and-esicuba-auditor`, `agent-lloyds-broker-and-claims-garnishee-marshal`
+- **Certified Skills:** `sovereign-insurance-monopoly-and-esicuba-disgorgement`, `transnational-reinsurance-treaty-and-syndicate-interdiction`, `maritime-aviation-hull-escrow-and-claims-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Insurance_Reinsurance_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Insurance_Reinsurance_Crosswalk_Matrix.csv)
+  - [Master_Insurance_Reinsurance_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Insurance_Reinsurance_Crosswalk_Dashboard.md)
+  - [Master_Insurance_Reinsurance_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Insurance_Reinsurance_Crosswalk_Dashboard.docx)
