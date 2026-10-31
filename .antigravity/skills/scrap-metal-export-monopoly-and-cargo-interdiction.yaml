@@ -1,0 +1,16 @@
+skill:
+  id: scrap-metal-export-monopoly-and-cargo-interdiction
+  name: Scrap Metal Export Monopoly & Cargo Interdiction
+  version: 1.0.0
+  description: Maritime and trade execution protocol to seize bulk scrap metal shipments, non-ferrous export containers, and port collection terminals.
+  procedures:
+    - Real-time tracking of bulk cargo vessels loading ferrous scrap, shredded steel, and heavy melting scrap (HMS 1/2) at Cuban ports.
+    - Identification of containerized high-value non-ferrous scrap exports (copper cathodes, wire, aluminum ingots, stainless steel turnings).
+    - Issuance of Admiralty Rule B process to maritime marshals at transit and destination ports (Spain, Italy, Turkey, Caribbean).
+    - Service of arrest warrants and maritime liens on export cargoes before discharge and title passage to foreign buyers.
+    - Encumbrance of sovereign ship-breaking yards, hydraulic shears, and scrap collection depots across all 15 provinces.
+  enforcement_framework:
+    - Supplemental Admiralty Rules B & C
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - Brussels Convention on Maritime Liens & Mortgages
+  operational_status: ACTIVE

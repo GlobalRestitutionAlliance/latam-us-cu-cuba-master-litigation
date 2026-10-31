@@ -1,0 +1,16 @@
+skill:
+  id: transnational-metallurgy-trade-finance-and-credit-garnishment
+  name: Transnational Metallurgy Trade Finance & Credit Garnishment
+  version: 1.0.0
+  description: Financial execution protocol to attach export letters of credit, buyer accounts payable, and ACINOX offshore clearing rails.
+  procedures:
+    - Tracing of documentary letters of credit (LCs) opened by European and Asian banks in favor of ACINOX Comercial S.A.
+    - Service of Rule 69 third-party debtor garnishment orders upon international steel trading conglomerates and scrap import brokers.
+    - Interdiction of SWIFT MT700/MT710 trade finance messages and reimbursement authorizations routed through correspondent institutions.
+    - Attachment of accounts receivable, advance payment escrows, and bill of lading documents held in escrow by trade finance banks.
+    - Turnover of captured trade proceeds, settlement balances, and arbitration receivables directly into the Master QSF.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(a)(2) & § 1610(g)
+    - Uniform Customs and Practice for Documentary Credits (UCP 600)
+    - Fed. R. Civ. P. 69 Post-Judgment Turnover Writs
+  operational_status: ACTIVE

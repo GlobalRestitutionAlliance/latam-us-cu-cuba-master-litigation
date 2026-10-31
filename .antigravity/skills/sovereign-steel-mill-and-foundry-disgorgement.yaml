@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-steel-mill-and-foundry-disgorgement
+  name: Sovereign Steel Mill & Foundry Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge nationalized steel mills, heavy foundries, and industrial metal complexes.
+  procedures:
+    - Audit of the statutory monopoly granted to GESIME over national metallurgical production and industrial fabrication.
+    - Forensic mapping of expropriated pre-1959 steel rolling mills, structural steel plants, and foundries (Compañía Antillana de Acero S.A., Fundición Habana).
+    - Encumbrance of newly modernized electric arc furnaces, continuous casting machines, and rolling lines at the José Martí complex.
+    - Service of post-judgment charging orders against foreign engineering contractors and equipment suppliers holding state equity or debt collateral.
+    - Enforcement of restitution liens over industrial real property, heavy machine tooling, and sovereign metal processing assets.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Industrial Property
+    - Equitable Restitution & Constructive Trust Imposition under Restatement (Third) § 55
+  operational_status: ACTIVE

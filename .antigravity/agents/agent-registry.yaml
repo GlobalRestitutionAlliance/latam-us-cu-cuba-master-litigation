@@ -386,4 +386,14 @@ agents:
   role: London Market Syndicates, Lloyd's Broker Clearing Desks, P&I Club Guarantees & Offshore Escrow Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-lloyds-broker-and-claims-garnishee-marshal.yaml
-total_agents: 78
+- id: agent-metallurgy-and-foundry-latifundia-auditor
+  name: Sovereign Heavy Metallurgy, Steel Foundries & Industrial Scrap Auditor
+  role: GESIME, Antillana de Acero, ACINOX Las Tunas, ERMP Scrap Monopolies & Modernization Export Credit Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-metallurgy-and-foundry-latifundia-auditor.yaml
+- id: agent-scrap-metal-cargo-and-trade-garnishee-marshal
+  name: Global Scrap Metal Cargo, Billets & Metallurgy Trade Garnishee Marshal
+  role: European Steel Trader Escrows, Mediterranean Scrap Shipments, Letters of Credit & Port Cargo Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-scrap-metal-cargo-and-trade-garnishee-marshal.yaml
+total_agents: 80

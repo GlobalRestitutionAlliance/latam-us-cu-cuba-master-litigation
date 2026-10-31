@@ -391,4 +391,16 @@ skills:
   name: Maritime & Aviation Hull Escrow & Claims Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/maritime-aviation-hull-escrow-and-claims-garnishment.yaml
-total_skills: 117
+- id: sovereign-steel-mill-and-foundry-disgorgement
+  name: Sovereign Steel Mill & Foundry Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-steel-mill-and-foundry-disgorgement.yaml
+- id: scrap-metal-export-monopoly-and-cargo-interdiction
+  name: Scrap Metal Export Monopoly & Cargo Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/scrap-metal-export-monopoly-and-cargo-interdiction.yaml
+- id: transnational-metallurgy-trade-finance-and-credit-garnishment
+  name: Transnational Metallurgy Trade Finance & Credit Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-metallurgy-trade-finance-and-credit-garnishment.yaml
+total_skills: 120

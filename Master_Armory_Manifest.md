@@ -1121,3 +1121,22 @@ W:\Legal\US_CUBA\
   - [Master_Insurance_Reinsurance_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Insurance_Reinsurance_Crosswalk_Matrix.csv)
   - [Master_Insurance_Reinsurance_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Insurance_Reinsurance_Crosswalk_Dashboard.md)
   - [Master_Insurance_Reinsurance_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Insurance_Reinsurance_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 37)
+- `agent-metallurgy-and-foundry-latifundia-auditor`: GESIME, Antillana de Acero, ACINOX Las Tunas, ERMP Scrap Monopolies & Modernization Export Credit Auditor.
+- `agent-scrap-metal-cargo-and-trade-garnishee-marshal`: European Steel Trader Escrows, Mediterranean Scrap Shipments, Letters of Credit & Port Cargo Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 37)
+- `sovereign-steel-mill-and-foundry-disgorgement`: Sovereign Steel Mill & Foundry Disgorgement.
+- `scrap-metal-export-monopoly-and-cargo-interdiction`: Scrap Metal Export Monopoly & Cargo Interdiction.
+- `transnational-metallurgy-trade-finance-and-credit-garnishment`: Transnational Metallurgy Trade Finance & Credit Garnishment.
+
+### Campaign 37: Sovereign Ferrous & Non-Ferrous Metallurgy, Expropriated Steel Foundries, Industrial Scrap Metal Export Monopolies & ACINOX Transnational Cartels Campaign
+- **Total Restitution Pool:** $280,000,000,000.00 ($280.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** STEEL-001 through STEEL-025
+- **Assigned Agents:** `agent-metallurgy-and-foundry-latifundia-auditor`, `agent-scrap-metal-cargo-and-trade-garnishee-marshal`
+- **Certified Skills:** `sovereign-steel-mill-and-foundry-disgorgement`, `scrap-metal-export-monopoly-and-cargo-interdiction`, `transnational-metallurgy-trade-finance-and-credit-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Metallurgy_Steel_Scrap_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Metallurgy_Steel_Scrap_Crosswalk_Matrix.csv)
+  - [Master_Metallurgy_Steel_Scrap_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Metallurgy_Steel_Scrap_Crosswalk_Dashboard.md)
+  - [Master_Metallurgy_Steel_Scrap_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Metallurgy_Steel_Scrap_Crosswalk_Dashboard.docx)
