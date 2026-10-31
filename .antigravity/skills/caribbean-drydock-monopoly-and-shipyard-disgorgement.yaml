@@ -1,0 +1,25 @@
+skill:
+  id: "caribbean-drydock-monopoly-and-shipyard-disgorgement"
+  name: "Caribbean Drydock Monopoly & Shipyard Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Maritime Shipyard Monopoly Disgorgement & Sovereign Commercial Execution"
+
+description: >
+  Comprehensive forensic auditing and procedural methodology for asserting FSIA § 1605(a)(2) commercial activity
+  jurisdiction, § 1605(a)(3) expropriation exceptions, and Bancec alter ego liability against Caribbean Drydock
+  Company S.A. (CDC), Empresa Astilleros del Caribe (ASTICAR), and the Cuban Ministry of Transport (MITRANS).
+  The protocol structures equitable disgorgement of commercial drydocking tariffs, berthing dues, and repair revenues.
+
+execution_protocol:
+  step_1: "Correlate pre-1959 naval shipyard concession deeds and harbor maps with current CDC Drydocks Nos. 1 and 2 in Ensenada de Marimelena, Havana Bay."
+  step_2: "Document corporate veil-piercing evidence under First National City Bank v. Bancec (462 U.S. 611) proving that CDC and ASTICAR operate under the plenary control of MITRANS and military logistics arms."
+  step_3: "Trace foreign currency payments (EUR, USD, CHF) collected from international shipowners through Banco Financiero Internacional (BFI) and offshore maritime escrow accounts."
+  step_4: "File federal and international enforcement petitions demanding accounting and turnover of all commercial drydocking fees, slipway charges, and equipment leasing income."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)"
+  - "28 U.S.C. § 1610(a)(2), (g) (Attachment of Sovereign & Instrumentality Property)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "International Claims Settlement Act of 1949, Title V (22 U.S.C. §§ 1643 et seq.)"

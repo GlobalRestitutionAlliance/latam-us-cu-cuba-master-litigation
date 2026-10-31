@@ -919,4 +919,16 @@ skills:
   name: Transnational Construction Contract & Bouygues Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-construction-contract-and-bouygues-escrow-garnishment.yaml
-total_skills: 249
+- id: caribbean-drydock-monopoly-and-shipyard-disgorgement
+  name: Caribbean Drydock Monopoly & Shipyard Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/caribbean-drydock-monopoly-and-shipyard-disgorgement.yaml
+- id: expropriated-marine-railway-and-drydock-infrastructure-restitution
+  name: Expropriated Marine Railway & Drydock Infrastructure Restitution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-marine-railway-and-drydock-infrastructure-restitution.yaml
+- id: transnational-ship-repair-contract-and-damen-escrow-garnishment
+  name: Transnational Ship Repair Contract & DAMEN Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-ship-repair-contract-and-damen-escrow-garnishment.yaml
+total_skills: 252

@@ -1,0 +1,27 @@
+skill:
+  id: "transnational-ship-repair-contract-and-damen-escrow-garnishment"
+  name: "Transnational Ship Repair Contract & DAMEN Escrow Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Maritime In Rem Execution & Transnational Shipyard Garnishment"
+
+description: >
+  Multi-jurisdictional enforcement protocol governing the deployment of Supplemental Admiralty Rules B and C
+  for in rem vessel arrests and maritime attachments against commercial ships repaired at Caribbean Drydock Company,
+  the prosecution of Dutch tort liability under Burgerlijk Wetboek Book 6 Art. 162 against DAMEN Shipyards Group,
+  and the post-judgment garnishment of European shipyard receivables, bank accounts, letters of credit, and P&I Club
+  insurance floats held at Dutch and European financial institutions (ING Bank, ABN AMRO, Rabobank).
+
+execution_protocol:
+  step_1: "Track global AIS transponder data identifying international commercial vessels (tankers, container ships, bulkers) departing CDC Havana drydocks bound for U.S. or European ports."
+  step_2: "File verified admiralty complaints and emergency applications for Supplemental Admiralty Rule C Warrants of Arrest or Rule B Writs of Maritime Attachment in U.S. federal district courts (S.D. Fla., S.D. Tex., E.D. La., S.D.N.Y.)."
+  step_3: "Serve European Account Preservation Orders (Regulation (EU) No 655/2014) on Dutch commercial bank accounts maintained by DAMEN Shipyards Group holding ship repair revenues and joint venture escrows."
+  step_4: "Garnish maritime hull & machinery and P&I Club insurance proceeds (UK P&I, Gard, Skuld) payable in connection with casualties or repairs executed at CDC."
+  step_5: "Liquidate all attached maritime assets and channel recoveries into the Master Qualified Settlement Fund (QSF) Trust under 26 U.S.C. § 468B."
+
+authorities:
+  - "Federal Rules of Civil Procedure, Supplemental Admiralty Rules B and C"
+  - "46 U.S.C. §§ 31341–31343 (Maritime Commercial Liens)"
+  - "Dutch Civil Code (Burgerlijk Wetboek) Book 6 Art. 162 (Onrechtmatige daad)"
+  - "Regulation (EU) No 655/2014 (European Account Preservation Order)"
+  - "26 U.S.C. § 468B & Treas. Reg. § 1.468B-1 (Qualified Settlement Fund)"

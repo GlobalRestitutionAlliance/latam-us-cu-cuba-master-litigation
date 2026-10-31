@@ -2031,3 +2031,22 @@ W:\Legal\US_CUBA\
   - [Master_Almest_Bouygues_RealEstate_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Almest_Bouygues_RealEstate_Crosswalk_Matrix.csv)
   - [Master_Almest_Bouygues_RealEstate_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Almest_Bouygues_RealEstate_Crosswalk_Dashboard.md)
   - [Master_Almest_Bouygues_RealEstate_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Almest_Bouygues_RealEstate_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 81)
+- `agent-caribbean-drydock-and-asticar-shipyard-auditor`: Caribbean Drydock Company S.A. (CDC), Empresa Astilleros del Caribe (ASTICAR), Havana Bay Graving & Floating Docks, Expropriated Pre-1959 Marine Railways & Bancec Alter Ego Auditor.
+- `agent-transnational-shipbuilder-and-damen-escrow-marshal`: DAMEN Shipyards Group (Netherlands), Transnational Ship Repair Consortia, Helms-Burton Title III Drydock Trafficking (22 U.S.C. § 6082), Supplemental Admiralty Rule B/C Vessel Arrests & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 81)
+- `caribbean-drydock-monopoly-and-shipyard-disgorgement`: Caribbean Drydock Monopoly & Shipyard Disgorgement Protocol.
+- `expropriated-marine-railway-and-drydock-infrastructure-restitution`: Expropriated Marine Railway & Drydock Infrastructure Restitution Protocol.
+- `transnational-ship-repair-contract-and-damen-escrow-garnishment`: Transnational Ship Repair Contract & DAMEN Escrow Garnishment Protocol.
+
+### Campaign 81 (Historic 81-Campaign & $26.7T Milestone): Sovereign Commercial Deepwater Shipyards, Floating Drydocks, Marine Engineering Monopolies, Caribbean Drydock Company S.A. (CDC), Empresa Astilleros del Caribe (ASTICAR), Unión de Empresas Marítimo Portuarias (UEMP), Transnational Shipbuilding Consortia (DAMEN Shipyards Group - Netherlands / Gorinchem / Damen Shipyards Curaçao), Expropriated Pre-1959 Havana Bay Shipyards & Marine Railways (Law 851, Law 890, Havana Dry Dock & Co. FCSC Claims), Helms-Burton Title III Drydock Trafficking Actions (22 U.S.C. § 6082), Supplemental Admiralty Rules B and C In Rem Vessel Arrests, Dutch Civil Code (Burgerlijk Wetboek Book 6 Art. 162) Tort Liability, European Account Preservation Orders (Regulation (EU) No 655/2014) over Dutch Commercial Bank Accounts (ING Bank, ABN AMRO, Rabobank), P&I Insurance Escrows, and Master Qualified Settlement Fund (QSF) Trust Restitution ($415.00B Pool - $26.705T Milestone)
+- **Total Restitution Pool:** $415,000,000,000.00 ($415.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** DRY-001 through DRY-025
+- **Assigned Legal Research Agents:** `agent-caribbean-drydock-and-asticar-shipyard-auditor`, `agent-transnational-shipbuilder-and-damen-escrow-marshal`
+- **Certified Procedural Skills:** `caribbean-drydock-monopoly-and-shipyard-disgorgement`, `expropriated-marine-railway-and-drydock-infrastructure-restitution`, `transnational-ship-repair-contract-and-damen-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Caribbean_Drydock_Damen_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Caribbean_Drydock_Damen_Crosswalk_Matrix.csv)
+  - [Master_Caribbean_Drydock_Damen_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Caribbean_Drydock_Damen_Crosswalk_Dashboard.md)
+  - [Master_Caribbean_Drydock_Damen_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Caribbean_Drydock_Damen_Crosswalk_Dashboard.docx)

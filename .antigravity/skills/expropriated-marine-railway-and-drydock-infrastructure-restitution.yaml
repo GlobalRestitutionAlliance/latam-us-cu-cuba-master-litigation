@@ -1,0 +1,26 @@
+skill:
+  id: "expropriated-marine-railway-and-drydock-infrastructure-restitution"
+  name: "Expropriated Marine Railway & Drydock Infrastructure Restitution"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Maritime Infrastructure Expropriation & Title III Trafficking Restitution"
+
+description: >
+  Operational protocol for enforcing certified property claims under Title V of the International Claims Settlement
+  Act of 1949 and private rights of action under Title III of the Helms-Burton Act (22 U.S.C. § 6082) against
+  transnational shipyard operators, marine engineering consortia, and vessel owners trafficking in confiscated
+  Havana Bay shipyards, floating drydocks, marine railways, machine shops, and waterfront industrial acreage
+  confiscated under Law 851 of July 6, 1960 and Law 890 of October 13, 1960.
+
+execution_protocol:
+  step_1: "Reconcile certified FCSC claims and pre-1959 Havana Port authority registrations with the exact geographic coordinates of contemporary CDC drydock berths and slipways."
+  step_2: "Serve formal 30-day statutory pre-filing notices under 22 U.S.C. § 6082(a)(3) upon foreign shipyard joint-venture partners (e.g. DAMEN Shipyards Group) and commercial shipowners utilizing the facilities."
+  step_3: "Calculate mandatory treble damages based on certified FCSC valuation plus 66 years of 6.0% simple annual interest pursuant to 22 U.S.C. § 6082(a)(1)(A)(i) and § 6082(a)(3)(C)."
+  step_4: "Submit Title IV exclusion dossiers under 22 U.S.C. § 6091 to the U.S. Department of State demanding visa revocations and border entry bans against corporate officers and controlling directors."
+
+authorities:
+  - "22 U.S.C. § 6082 (Helms-Burton Act Title III Private Right of Action)"
+  - "22 U.S.C. § 6091 (Helms-Burton Act Title IV Executive Visa Inadmissibility)"
+  - "Havana Docks Corp. v. Carnival Corp., Royal Caribbean, Norwegian, MSC, 584 F. Supp. 3d 1315 (S.D. Fla. 2022)"
+  - "Law 851 of July 6, 1960 & Law 890 of October 13, 1960"
+  - "22 U.S.C. § 1643l (FCSC Statutory 6% Annual Simple Interest Mandate)"

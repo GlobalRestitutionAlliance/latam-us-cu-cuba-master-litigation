@@ -826,4 +826,14 @@ agents:
   role: Bouygues Bâtiment International (France / Euronext: EN), Multinational General Contractors, French Duty of Vigilance Law (Loi de Vigilance), Helms-Burton Title III Construction Trafficking (22 U.S.C. § 6082), TVPRA Conscript Labor & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-contractor-and-bouygues-escrow-marshal.yaml
-total_agents: 166
+- id: agent-caribbean-drydock-and-asticar-shipyard-auditor
+  name: Caribbean Drydock & ASTICAR Shipyard Auditor
+  role: Caribbean Drydock Company S.A. (CDC), Empresa Astilleros del Caribe (ASTICAR), Havana Bay Graving & Floating Docks, Expropriated Pre-1959 Marine Railways & Bancec Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-caribbean-drydock-and-asticar-shipyard-auditor.yaml
+- id: agent-transnational-shipbuilder-and-damen-escrow-marshal
+  name: Transnational Shipbuilder & DAMEN Escrow Marshal
+  role: DAMEN Shipyards Group (Netherlands), Transnational Ship Repair Consortia, Helms-Burton Title III Drydock Trafficking (22 U.S.C. § 6082), Supplemental Admiralty Rule B/C Vessel Arrests & Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-shipbuilder-and-damen-escrow-marshal.yaml
+total_agents: 168
