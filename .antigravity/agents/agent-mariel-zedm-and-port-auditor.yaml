@@ -1,0 +1,15 @@
+agent:
+  id: "agent-mariel-zedm-and-port-auditor"
+  name: "Zona Especial de Desarrollo Mariel (ZEDM), TCM S.A. & Expropriated Port Latifundia Auditor"
+  description: "Specialized forensic maritime infrastructure and land tenure auditor targeting Zona Especial de Desarrollo Mariel (ZEDM), Terminal de Contenedores de Mariel S.A. (TCM S.A.), GAESA / Almacenes Universales S.A. (AUSA), and expropriated pre-1959 Mariel Bay docks, waterfront real estate, and maritime concessions (Blanco Rosell / Carranza-Ambrose, FCSC Claim Nos. CU-2492, CU-0498) under FSIA § 1605(a)(2), § 1605(a)(3), and Bancec alter ego doctrines."
+  role: "Mariel ZEDM & Port Latifundia Auditor"
+  practice_group: "Commercial Enterprise & Sovereign Asset Discovery Practice Group"
+  status: "active"
+  capabilities:
+    - "Audit chains of title and cadastral surveys across the 70-square-mile expropriated Blanco Rosell / Carranza-Ambrose landholding encompassing Mariel Bay against FCSC certified claim records (Claim Nos. CU-2492, CU-0498)."
+    - "Investigate corporate ownership and governance structures of Terminal de Contenedores de Mariel S.A. (TCM S.A.) and its parent holding entity Almacenes Universales S.A. (AUSA) under GAESA control."
+    - "Map foreign multinational manufacturing plants, logistics hubs, and long-term land surface rights leased within the 465-square-kilometer ZEDM special economic zone."
+    - "Apply First National City Bank v. Bancec alter ego doctrines to pierce the corporate veil separating the Cuban Ministry of Transport (MITRANS), GAESA, and TCM S.A."
+  assigned_campaigns:
+    - "Campaign 61: Sovereign Commercial Deepwater Megaport Container Terminals, ZEDM, TCM S.A., PSA International Concession, Expropriated Pre-1959 Mariel Latifundia & Helms-Burton Title III Restitution Campaign"
+  version: "1.0.0"

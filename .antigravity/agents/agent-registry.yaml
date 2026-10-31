@@ -626,4 +626,14 @@ agents:
   role: Havana International Bank Ltd. (Havin Bank / London), BICSA, UK High Court Commercial Execution (CRF I Ltd. Precedents) & Correspondent Bank Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-havin-bank-and-correspondent-clearing-marshal.yaml
-total_agents: 126
+- id: agent-mariel-zedm-and-port-auditor
+  name: Mariel ZEDM & Port Latifundia Auditor
+  role: ZEDM, Terminal de Contenedores de Mariel S.A. (TCM S.A.), GAESA / AUSA, Expropriated Mariel Bay Real Estate & Docks (FCSC Claims CU-2492, CU-0498) & Deepwater Port Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-mariel-zedm-and-port-auditor.yaml
+- id: agent-psa-concession-and-maritime-trafficking-marshal
+  name: PSA Concession & Maritime Trafficking Marshal
+  role: PSA International (Singapore) Concession Royalties, Helms-Burton Title III Maritime Trafficking (Crowley, Seaboard, CMA CGM, Maersk), Container Handling & Transshipment Dues Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-psa-concession-and-maritime-trafficking-marshal.yaml
+total_agents: 128

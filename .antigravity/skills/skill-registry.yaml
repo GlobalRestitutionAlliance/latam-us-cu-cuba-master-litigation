@@ -679,4 +679,16 @@ skills:
   name: Havin Bank London & Correspondent Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/havin-bank-london-and-correspondent-garnishment.yaml
-total_skills: 189
+- id: sovereign-deepwater-port-monopoly-and-zedm-disgorgement
+  name: Sovereign Deepwater Port Monopoly & ZEDM Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-deepwater-port-monopoly-and-zedm-disgorgement.yaml
+- id: helms-burton-title-iii-maritime-port-trafficking-interdiction
+  name: Helms-Burton Title III Maritime Port Trafficking Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/helms-burton-title-iii-maritime-port-trafficking-interdiction.yaml
+- id: psa-terminal-concession-and-container-tariff-garnishment
+  name: PSA Terminal Concession & Container Tariff Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/psa-terminal-concession-and-container-tariff-garnishment.yaml
+total_skills: 192

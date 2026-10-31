@@ -1,0 +1,12 @@
+skill:
+  id: "helms-burton-title-iii-maritime-port-trafficking-interdiction"
+  name: "Helms-Burton Title III (22 U.S.C. § 6082) Maritime Port Trafficking Enforcement & Carrier Freight Interdiction"
+  description: "Enforcement framework for establishing statutory civil liability and post-judgment garnishment against international ocean common carriers (Crowley, Seaboard Marine, CMA CGM, Maersk) trafficking in uncompensated confiscated port real estate and docks at the Port of Mariel."
+  category: "civil-remedies-and-statutory-enforcement"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Audit maritime bills of lading, vessel port calls, and berth assignments at Terminal de Contenedores de Mariel to establish statutory 'trafficking' nexus under 22 U.S.C. § 6023(13) and § 6082."
+    - "Serve post-judgment third-party citations, notices of maritime lien, and garnishment summonses upon U.S. and foreign shipping carriers docking at confiscated Mariel piers."
+    - "Calculate treble damages valuations under 22 U.S.C. § 6082(a)(1)(A)(i) based on FCSC certified awards for Mariel Bay port real estate."
+    - "Obtain turnover orders directing ocean carriers to sequester and deposit container freight payments and slot charter fees into a court-supervised qualified settlement fund."

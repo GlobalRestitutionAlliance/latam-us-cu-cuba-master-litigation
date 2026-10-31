@@ -1,0 +1,12 @@
+skill:
+  id: "psa-terminal-concession-and-container-tariff-garnishment"
+  name: "PSA International Concession Royalty Garnishments, Container Handling Tariff Interception & Transshipment Dues Seizure"
+  description: "Asset recovery execution protocols targeting terminal management concession agreements executed with PSA International Pte Ltd (Singapore), maritime container handling tariffs, quay crane usage fees, and transshipment dues settled through international maritime clearinghouses."
+  category: "garnishment-and-interdiction"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Audit international terminal management concession agreements between PSA International Pte Ltd (Singapore), AUSA, and TCM S.A."
+    - "Serve Fed. R. Civ. P. 69 post-judgment garnishment writs on PSA International subsidiaries and maritime agents collecting terminal handling charges (THCs) and container demurrage."
+    - "Sequester international maritime container clearing funds and slot charter revenues processed through Singapore, Rotterdam, Panama, and Florida maritime exchanges."
+    - "Compel turnover of terminal gate logs, container movement EDI transmissions, and transshipment revenue ledgers under Fed. R. Civ. P. 45 subpoenas."

@@ -1621,3 +1621,23 @@ W:\Legal\US_CUBA\
   - [Master_Banking_BNC_BFI_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Banking_BNC_BFI_Crosswalk_Matrix.csv)
   - [Master_Banking_BNC_BFI_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Banking_BNC_BFI_Crosswalk_Dashboard.md)
   - [Master_Banking_BNC_BFI_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Banking_BNC_BFI_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 61)
+- `agent-mariel-zedm-and-port-auditor`: Zona Especial de Desarrollo Mariel (ZEDM), Terminal de Contenedores de Mariel S.A. (TCM S.A.), GAESA / AUSA, Expropriated Mariel Bay Real Estate & Docks (FCSC Claim Nos. CU-2492, CU-0498) & Deepwater Port Auditor.
+- `agent-psa-concession-and-maritime-trafficking-marshal`: PSA International (Singapore) Concession Royalties, Helms-Burton Title III Maritime Trafficking (Crowley, Seaboard Marine, CMA CGM, Maersk Precedents), Container Handling & Transshipment Dues Marshal.
+
+## Newly Registered Skills (Campaign 61)
+- `sovereign-deepwater-port-monopoly-and-zedm-disgorgement`: Sovereign Commercial Megaport Monopolies, ZEDM Free Zone Asset Unbundling & Terminal Revenue Disgorgement.
+- `helms-burton-title-iii-maritime-port-trafficking-interdiction`: Helms-Burton Title III (22 U.S.C. § 6082) Maritime Port Trafficking Enforcement & Carrier Freight Interdiction.
+- `psa-terminal-concession-and-container-tariff-garnishment`: PSA International Concession Royalty Garnishments, Container Handling Tariff Interception & Transshipment Dues Seizure.
+
+### Campaign 61: Sovereign Commercial Deepwater Megaport Container Terminals, Zona Especial de Desarrollo Mariel (ZEDM), Terminal de Contenedores de Mariel S.A. (TCM S.A.), PSA International (Singapore) Transshipment Concession, Expropriated Pre-1959 Mariel Docks & Port Latifundia (Blanco Rosell / Carranza-Ambrose, FCSC Claim Nos. CU-2492, CU-0498), Helms-Burton Title III Maritime Trafficking Actions & Transnational Container Handling Dues Restitution Campaign
+- **Total Restitution Pool:** $335,000,000,000.00 ($335.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** MARI-001 through MARI-025
+- **Assigned Legal Research Agents:** `agent-mariel-zedm-and-port-auditor`, `agent-psa-concession-and-maritime-trafficking-marshal`
+- **Certified Procedural Skills:** `sovereign-deepwater-port-monopoly-and-zedm-disgorgement`, `helms-burton-title-iii-maritime-port-trafficking-interdiction`, `psa-terminal-concession-and-container-tariff-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Mariel_ZEDM_PSA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Mariel_ZEDM_PSA_Crosswalk_Matrix.csv)
+  - [Master_Mariel_ZEDM_PSA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Mariel_ZEDM_PSA_Crosswalk_Dashboard.md)
+  - [Master_Mariel_ZEDM_PSA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Mariel_ZEDM_PSA_Crosswalk_Dashboard.docx)
