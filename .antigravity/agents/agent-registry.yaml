@@ -746,4 +746,14 @@ agents:
   role: Empresa Cubana Exportadora de Azúcar y sus Derivados (CUBAZÚCAR / TECUBA), Deepwater Bulk Sugar Maritime Terminals (Cienfuegos, Guayabal, Matanzas), Bilateral State Off-Take Quotas (China COFCO), ICE Sugar No. 11 Futures Clearing, Biomass Energy JVs (Biopower / Central Ciro Redondo) & Commodity Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cubazucar-and-commodity-escrow-marshal.yaml
-total_agents: 150
+- id: agent-arechabala-distillery-and-havana-club-title-auditor
+  name: Arechabala Distillery & Havana Club Title Auditor
+  role: José Arechabala S.A. (JASA), Cárdenas Distillery (Matanzas), Expropriated Havana Club Rum Brand (Law 890, FCSC Claim No. CU-2499), Corporación Cuba Ron S.A. Alter Ego Forensics, Section 211 Trademark Invalidation & Chain-of-Title Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-arechabala-distillery-and-havana-club-title-auditor.yaml
+- id: agent-pernod-ricard-offshore-royalty-and-distribution-escrow-marshal
+  name: Pernod Ricard Offshore Royalty & Distribution Escrow Marshal
+  role: Havana Club International S.A. (HCI S.A.), Havana Club Holding S.A. (Luxembourg), Pernod Ricard S.A. Global Distribution Conduits, Worldwide Trademark Royalties, D.D.C. Title III Trafficking Judgments (Arechabala v. Pernod Ricard) & Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-pernod-ricard-offshore-royalty-and-distribution-escrow-marshal.yaml
+total_agents: 152

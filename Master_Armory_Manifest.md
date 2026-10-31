@@ -1879,3 +1879,22 @@ W:\Legal\US_CUBA\
   - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Matrix.csv)
   - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.md)
   - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 73)
+- `agent-arechabala-distillery-and-havana-club-title-auditor`: José Arechabala S.A. (JASA), Cárdenas Distillery (Matanzas), Expropriated Havana Club Rum Brand (Law 890, FCSC Claim No. CU-2499), Corporación Cuba Ron S.A. Alter Ego Forensics, Section 211 Trademark Invalidation & Chain-of-Title Auditor.
+- `agent-pernod-ricard-offshore-royalty-and-distribution-escrow-marshal`: Havana Club International S.A. (HCI S.A.), Havana Club Holding S.A. (Luxembourg), Pernod Ricard S.A. Global Distribution Conduits, Worldwide Trademark Royalties, D.D.C. Title III Trafficking Judgments (Arechabala v. Pernod Ricard) & Escrow Marshal.
+
+## Newly Registered Skills (Campaign 73)
+- `cuba-ron-corporation-and-distillery-monopoly-disgorgement`: Cuba Ron Corporation, Distillery Monopoly Disgorgement, Aging Bodega Auditing & Bancec Alter Ego Liability.
+- `expropriated-arechabala-trademark-and-section-211-restitution`: Expropriated Arechabala Rum Distillery, Section 211 Statutory Invalidation & Helms-Burton Title III/IV Trafficking Actions (22 U.S.C. §§ 6082, 6091).
+- `transnational-spirits-royalty-and-pernod-ricard-dividend-garnishment`: Transnational Spirits Royalty Accounts Receivable Garnishment, Pernod Ricard Dividend Interdiction, Bonded Warehouse Inventory Attachment & Master QSF Distribution.
+
+### Campaign 73: Sovereign Commercial Rum, Spirits, Distilleries & Global Brand Monopolies, Corporación Cuba Ron S.A., Havana Club International S.A. (Pernod Ricard 50/50 Joint Venture), Expropriated José Arechabala S.A. (Ron Havana Club Cárdenas Distillery, FCSC Claim No. CU-2499) & Bacardi Corp. Assets, D.D.C. Helms-Burton Title III Trafficking Actions (Arechabala v. Pernod Ricard S.A. / Herederos de Roberto Gomez Cabrera v. Pernod Ricard), Section 211 Omnibus Appropriations Act Trademark Invalidity, Transnational Royalty Escrows & Master QSF Restitution Campaign
+- **Total Restitution Pool:** $375,000,000,000.00 ($375.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** RUM-001 through RUM-025
+- **Assigned Legal Research Agents:** `agent-arechabala-distillery-and-havana-club-title-auditor`, `agent-pernod-ricard-offshore-royalty-and-distribution-escrow-marshal`
+- **Certified Procedural Skills:** `cuba-ron-corporation-and-distillery-monopoly-disgorgement`, `expropriated-arechabala-trademark-and-section-211-restitution`, `transnational-spirits-royalty-and-pernod-ricard-dividend-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_CubaRon_PernodRicard_Spirits_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CubaRon_PernodRicard_Spirits_Crosswalk_Matrix.csv)
+  - [Master_CubaRon_PernodRicard_Spirits_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CubaRon_PernodRicard_Spirits_Crosswalk_Dashboard.md)
+  - [Master_CubaRon_PernodRicard_Spirits_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CubaRon_PernodRicard_Spirits_Crosswalk_Dashboard.docx)

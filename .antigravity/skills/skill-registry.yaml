@@ -823,4 +823,16 @@ skills:
   name: Transnational Sugar Offtake Garnishment, Commodity Clearing Interdiction & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-sugar-offtake-and-commodity-clearing-garnishment.yaml
-total_skills: 225
+- id: cuba-ron-corporation-and-distillery-monopoly-disgorgement
+  name: Cuba Ron Corporation, Distillery Monopoly Disgorgement & Alter Ego Auditing
+  status: ACTIVE
+  manifest_file: .antigravity/skills/cuba-ron-corporation-and-distillery-monopoly-disgorgement.yaml
+- id: expropriated-arechabala-trademark-and-section-211-restitution
+  name: Expropriated Arechabala Trademark, Section 211 Invalidation & Title III Trafficking Actions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-arechabala-trademark-and-section-211-restitution.yaml
+- id: transnational-spirits-royalty-and-pernod-ricard-dividend-garnishment
+  name: Transnational Spirits Royalty Garnishment, Pernod Ricard Dividend Interdiction & QSF Trust Marshalling
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-spirits-royalty-and-pernod-ricard-dividend-garnishment.yaml
+total_skills: 228

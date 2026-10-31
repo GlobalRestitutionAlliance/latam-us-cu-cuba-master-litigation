@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-spirits-royalty-and-pernod-ricard-dividend-garnishment"
+  name: "Transnational Spirits Royalty Garnishment, Pernod Ricard Dividend Interdiction & QSF Trust Marshalling"
+  description: "Cross-border post-judgment execution and escrow garnishment framework targeting Pernod Ricard dividend disbursements to Cuba Ron S.A., Havana Club Holding S.A. (Luxembourg) royalty escrows, European bonded spirits inventories, and global duty-free distributor receivables for deposit into a 26 U.S.C. § 468B Master QSF Trust."
+  category: "spirits-royalty-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Attach and garnish commercial dividend distributions, license fees, and debt service flows owed by Pernod Ricard S.A. and Havana Club International S.A. to Cuba Ron under FSIA § 1610(a)(2) and TRIA § 201."
+    - "Serve post-judgment charging orders and writs of garnishment on global duty-free travel retailers and European commercial banks clearing spirits trade receivables."
+    - "Execute prejudgment attachment and arrest orders on commercial spirits inventories stored in bonded customs warehouses across Antwerp, Rotterdam, and Le Havre."
+    - "Marshal seized commercial proceeds and settlement payments into a 26 U.S.C. § 468B Qualified Settlement Fund (QSF) Trust for pro-rata distribution to certified claimants."

@@ -1,0 +1,12 @@
+skill:
+  id: "expropriated-arechabala-trademark-and-section-211-restitution"
+  name: "Expropriated Arechabala Trademark, Section 211 Invalidation & Title III Trafficking Actions"
+  description: "Legal restitution and trademark-tracing protocol targeting uncompensated confiscations of pre-1959 American and Cuban rum corporations under Law 890 (José Arechabala S.A. / Havana Club, FCSC Claim No. CU-2499; Bacardi Corp.), enforcing Section 211 of the 1998 Omnibus Appropriations Act (Pub. L. 105-277), Helms-Burton Title III private rights of action (22 U.S.C. § 6082), and Title IV executive visa exclusions (22 U.S.C. § 6091)."
+  category: "trademark-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Authenticate FCSC Certified Claims (José Arechabala S.A. CU-2499; Bacardi certified takings) and document chain-of-title continuity from original brand owners to living successors."
+    - "Enforce statutory Section 211 restrictions prohibiting federal courts and the USPTO from recognizing or enforcing confiscated trademarks without consent of original owners."
+    - "Prepare Helms-Burton Title III civil complaints seeking treble damages against Pernod Ricard S.A. and global distributors for trafficking in confiscated Arechabala rum assets."
+    - "Submit Title IV evidentiary dossiers to the U.S. Department of State for mandatory visa revocation and executive exclusion of corporate officers of trafficking spirits combines."
