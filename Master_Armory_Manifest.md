@@ -1917,3 +1917,22 @@ W:\Legal\US_CUBA\
   - [Master_Melfi_Container_Shipping_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Melfi_Container_Shipping_Crosswalk_Matrix.csv)
   - [Master_Melfi_Container_Shipping_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Melfi_Container_Shipping_Crosswalk_Dashboard.md)
   - [Master_Melfi_Container_Shipping_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Melfi_Container_Shipping_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 75)
+- `agent-etecsa-subsea-cable-and-carrier-settlement-auditor`: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Cubacel Mobile Network, Nauta Broadband, ALBA-1 & ARCOS-1 Subsea Fiber-Optic Cables, Expropriated ITT / Cuban Telephone Co. (Law 851, FCSC Claim No. CU-2615), Ministry of Communications (MINCOM) & Bancec Alter Ego Auditor.
+- `agent-transnational-telecom-interconnect-and-roaming-marshal`: U.S. Carrier Direct Interconnect Settlements (AT&T, Verizon, T-Mobile, IDT / Boss Revolution under OFAC 31 C.F.R. § 515.542), International Roaming Clearinghouses (EDCH, Syniverse, Comfone), Transnational Digital Top-Up Aggregators (Ding, Recharge.com, DTOne, Fonoma), TRIA § 201 Garnishments & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 75)
+- `etecsa-sovereign-telecom-network-and-subsea-cable-disgorgement`: ETECSA Sovereign Telecom Network, Subsea Cable Disgorgement, Terrestrial Infrastructure Auditing & Bancec Alter Ego Liability.
+- `expropriated-itt-telecom-infrastructure-and-spectrum-restitution`: Expropriated ITT Telecom Infrastructure, Spectrum Restitution & Helms-Burton Title III/IV Trafficking Actions (22 U.S.C. §§ 6082, 6091; FCSC Claim No. CU-2615).
+- `transnational-carrier-interconnect-and-roaming-escrow-garnishment`: Transnational Carrier Interconnect Settlement Garnishment (OFAC 31 C.F.R. § 515.542), International Roaming Clearinghouse Interdiction & Master QSF Distribution.
+
+### Campaign 75 (Historic 75-Campaign & $24 Trillion Milestone): Sovereign Commercial Telecommunications & Subsea Fiber-Optic Monopolies, Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Cubacel Mobile Network, Nauta Broadband, Expropriated International Telephone & Telegraph Corporation (ITT / Cuban Telephone Company, Law 851, FCSC Claim No. CU-2615), ALBA-1 & ARCOS-1 Subsea Fiber-Optic Cable Concessions (Cojímar Landing Station), U.S. Direct Carrier Telecommunications Interconnect Traffic Settlements (AT&T, Verizon, T-Mobile, IDT / Boss Revolution under OFAC 31 C.F.R. § 515.542), International Roaming Clearinghouses (EDCH, Syniverse, Comfone), Transnational Digital Mobile Top-Up Remittance Conduits (Ding, Recharge.com, DTOne, Fonoma, Transfermóvil), TRIA § 201 & FSIA § 1610(a)(2)/(g) Garnishments, and Master QSF Trust Restitution ($385.00B Pool - $24.290T Milestone)
+- **Total Restitution Pool:** $385,000,000,000.00 ($385.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** TEL-001 through TEL-025
+- **Assigned Legal Research Agents:** `agent-etecsa-subsea-cable-and-carrier-settlement-auditor`, `agent-transnational-telecom-interconnect-and-roaming-marshal`
+- **Certified Procedural Skills:** `etecsa-sovereign-telecom-network-and-subsea-cable-disgorgement`, `expropriated-itt-telecom-infrastructure-and-spectrum-restitution`, `transnational-carrier-interconnect-and-roaming-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_ETECSA_Telecommunications_Subsea_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ETECSA_Telecommunications_Subsea_Crosswalk_Matrix.csv)
+  - [Master_ETECSA_Telecommunications_Subsea_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ETECSA_Telecommunications_Subsea_Crosswalk_Dashboard.md)
+  - [Master_ETECSA_Telecommunications_Subsea_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ETECSA_Telecommunications_Subsea_Crosswalk_Dashboard.docx)

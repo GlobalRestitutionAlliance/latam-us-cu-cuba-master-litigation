@@ -766,4 +766,14 @@ agents:
   role: Transnational Container Liner Feeder Charters (MSC, CMA CGM, Hapag-Lloyd), Supplemental Admiralty Rules B & C Vessel Arrests, Transshipment Freight Clearing Conduits, Marine Bunker Hedging Accounts & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-liner-alliance-and-container-escrow-marshal.yaml
-total_agents: 154
+- id: agent-etecsa-subsea-cable-and-carrier-settlement-auditor
+  name: ETECSA Subsea Cable & Carrier Settlement Auditor
+  role: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Cubacel Mobile Network, Nauta Broadband, ALBA-1 & ARCOS-1 Subsea Fiber-Optic Cables, Expropriated ITT / Cuban Telephone Co. (Law 851, FCSC Claim No. CU-2615), Ministry of Communications (MINCOM) & Bancec Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-etecsa-subsea-cable-and-carrier-settlement-auditor.yaml
+- id: agent-transnational-telecom-interconnect-and-roaming-marshal
+  name: Transnational Telecom Interconnect & Roaming Marshal
+  role: U.S. Carrier Direct Interconnect Settlements (AT&T, Verizon, T-Mobile, IDT / Boss Revolution under OFAC 31 C.F.R. § 515.542), International Roaming Clearinghouses (EDCH, Syniverse, Comfone), Transnational Digital Top-Up Aggregators (Ding, Recharge.com, DTOne, Fonoma), TRIA § 201 Garnishments & Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-telecom-interconnect-and-roaming-marshal.yaml
+total_agents: 156

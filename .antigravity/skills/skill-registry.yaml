@@ -847,4 +847,16 @@ skills:
   name: Transnational Liner Charterparty Garnishment, Container Clearing Interdiction & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-liner-charterparty-and-container-clearing-garnishment.yaml
-total_skills: 231
+- id: etecsa-sovereign-telecom-network-and-subsea-cable-disgorgement
+  name: ETECSA Sovereign Telecom Network, Subsea Cable Disgorgement & Alter Ego Auditing
+  status: ACTIVE
+  manifest_file: .antigravity/skills/etecsa-sovereign-telecom-network-and-subsea-cable-disgorgement.yaml
+- id: expropriated-itt-telecom-infrastructure-and-spectrum-restitution
+  name: Expropriated ITT Telecom Infrastructure, Spectrum Restitution & Title III Trafficking Actions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-itt-telecom-infrastructure-and-spectrum-restitution.yaml
+- id: transnational-carrier-interconnect-and-roaming-escrow-garnishment
+  name: Transnational Carrier Interconnect Garnishment, Roaming Clearing Interdiction & QSF Trust Marshalling
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-carrier-interconnect-and-roaming-escrow-garnishment.yaml
+total_skills: 234

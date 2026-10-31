@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-carrier-interconnect-and-roaming-escrow-garnishment"
+  name: "Transnational Carrier Interconnect Garnishment, Roaming Clearing Interdiction & QSF Trust Marshalling"
+  description: "Enforcement protocol executing writs of garnishment, TRIA § 201 executions, and turnover orders against direct carrier interconnect settlements (AT&T, Verizon, T-Mobile, IDT), roaming clearinghouse net balances (EDCH, Syniverse, Comfone), and digital airtime remittance aggregators (Ding, Recharge.com) for deposit into the Master QSF Trust."
+  category: "telecom-interconnect-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Serve third-party writs of garnishment under Fed. R. Civ. P. 69 and TRIA § 201 upon U.S. telecommunications carriers maintaining direct interconnect settlement balances payable to ETECSA under OFAC general license 31 C.F.R. § 515.542."
+    - "Interpose post-judgment charging liens on international mobile roaming clearinghouse accounts administered by EDCH, Syniverse, and Comfone in European and offshore jurisdictions."
+    - "Garnish merchant processor and correspondent banking settlement floats operated by global airtime recharge aggregators (Ding, Recharge.com, DTOne, Fonoma) capturing foreign currency mobile top-ups destined for Cuba."
+    - "Transfer all seized and garnished telecommunications settlements directly into the 26 U.S.C. § 468B Master Qualified Settlement Fund (QSF) Trust for fiduciary distribution to certified judgment creditors."
