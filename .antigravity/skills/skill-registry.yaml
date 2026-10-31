@@ -859,4 +859,16 @@ skills:
   name: Transnational Carrier Interconnect Garnishment, Roaming Clearing Interdiction & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-carrier-interconnect-and-roaming-escrow-garnishment.yaml
-total_skills: 234
+- id: une-sovereign-electric-monopoly-and-grid-disgorgement
+  name: Unión Eléctrica Sovereign Grid Disgorgement, Power Tariff Auditing & Bancec Alter Ego Forensics
+  status: ACTIVE
+  manifest_file: .antigravity/skills/une-sovereign-electric-monopoly-and-grid-disgorgement.yaml
+- id: expropriated-american-and-foreign-power-title-restitution
+  name: Expropriated American & Foreign Power Company Restitution, CCE Title Tracing & Title III Trafficking Actions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-american-and-foreign-power-title-restitution.yaml
+- id: transnational-powership-charter-and-bunker-escrow-garnishment
+  name: Transnational Powership Charter Hire Garnishment, Bunker Fuel Attachment & QSF Trust Marshalling
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-powership-charter-and-bunker-escrow-garnishment.yaml
+total_skills: 237

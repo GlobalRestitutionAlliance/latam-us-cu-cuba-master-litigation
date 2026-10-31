@@ -1936,3 +1936,22 @@ W:\Legal\US_CUBA\
   - [Master_ETECSA_Telecommunications_Subsea_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ETECSA_Telecommunications_Subsea_Crosswalk_Matrix.csv)
   - [Master_ETECSA_Telecommunications_Subsea_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ETECSA_Telecommunications_Subsea_Crosswalk_Dashboard.md)
   - [Master_ETECSA_Telecommunications_Subsea_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ETECSA_Telecommunications_Subsea_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 76)
+- `agent-cuban-electric-company-and-grid-infrastructure-auditor`: Unión Eléctrica (UNE), Ministry of Energy and Mines (MINEM), Expropriated American & Foreign Power Company / Cuban Electric Company (Law 851, FCSC Claim No. CU-2578 - #1 Largest Corporate Claim in FCSC History, $267.5M Principal Takings, now exceeding $40.0B with 6% interest), National High-Voltage Transmission Grid, Substation Networks & Bancec Alter Ego Auditor.
+- `agent-transnational-powership-and-fuel-escrow-marshal`: Karpower International B.V. (Turkey / Netherlands / Karadeniz Holding) Floating Powership Charters (Mariel, Havana Bay, Santiago de Cuba), Heavy Fuel Oil (HFO) Supply Settlement Rails, Supplemental Admiralty Rule B Maritime Bunkering Attachments, Helms-Burton Title III Energy Trafficking Actions (22 U.S.C. § 6082) & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 76)
+- `une-sovereign-electric-monopoly-and-grid-disgorgement`: Unión Eléctrica Sovereign Grid Disgorgement, Power Tariff Auditing & Bancec Alter Ego Forensics.
+- `expropriated-american-and-foreign-power-title-restitution`: Expropriated American & Foreign Power Company Restitution, CCE Title Tracing & Title III Trafficking Actions (22 U.S.C. §§ 6082, 6091; FCSC Claim No. CU-2578).
+- `transnational-powership-charter-and-bunker-escrow-garnishment`: Transnational Powership Charter Hire Garnishment, Bunker Fuel Attachment & QSF Trust Marshalling.
+
+### Campaign 76: Sovereign Commercial Electric Power Generation, National Grid Infrastructure, Unión Eléctrica (UNE), Offshore Floating Power Plant Charters (Karpowership / Karpower International B.V. / Karadeniz Holding), Heavy Fuel Oil (HFO) Clearing Escrows, Expropriated Pre-1959 American & Foreign Power Company / Cuban Electric Company (Law 851, FCSC Claim No. CU-2578 - #1 Largest Corporate Claim in FCSC History, $267.5M Principal Takings, now exceeding $40.0B with 6% interest), Supplemental Admiralty Rule B Maritime Bunkering Attachments, Helms-Burton Title III Energy Trafficking Actions (22 U.S.C. § 6082), Title IV Executive Exclusions, and Master QSF Trust Restitution ($390.00B Pool - $24.680T Milestone)
+- **Total Restitution Pool:** $390,000,000,000.00 ($390.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** POW-001 through POW-025
+- **Assigned Legal Research Agents:** `agent-cuban-electric-company-and-grid-infrastructure-auditor`, `agent-transnational-powership-and-fuel-escrow-marshal`
+- **Certified Procedural Skills:** `une-sovereign-electric-monopoly-and-grid-disgorgement`, `expropriated-american-and-foreign-power-title-restitution`, `transnational-powership-charter-and-bunker-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_UNE_Electric_Grid_Powership_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_UNE_Electric_Grid_Powership_Crosswalk_Matrix.csv)
+  - [Master_UNE_Electric_Grid_Powership_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_UNE_Electric_Grid_Powership_Crosswalk_Dashboard.md)
+  - [Master_UNE_Electric_Grid_Powership_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_UNE_Electric_Grid_Powership_Crosswalk_Dashboard.docx)

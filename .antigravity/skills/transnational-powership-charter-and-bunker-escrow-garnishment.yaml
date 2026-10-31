@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-powership-charter-and-bunker-escrow-garnishment"
+  name: "Transnational Powership Charter Hire Garnishment, Bunker Fuel Attachment & QSF Trust Marshalling"
+  description: "Cross-border post-judgment execution and escrow garnishment framework targeting transnational floating powership charterparty hire agreements (Karpower International B.V. / Karadeniz Holding), heavy fuel oil procurement accounts, Supplemental Admiralty Rule B maritime bunkering attachments, and European banking clearance floats for deposit into the 26 U.S.C. § 468B Master QSF Trust."
+  category: "powership-escrow-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Serve writs of attachment and garnishment under Fed. R. Civ. P. 69, TRIA § 201, and 28 U.S.C. § 1610(a)(2)/(g) upon charter hire and capacity availability payments owed to Karpower International B.V."
+    - "Execute Supplemental Admiralty Rule B maritime attachment filings against international heavy fuel oil (HFO) tankers and bunkering barges delivering feedstock to floating powerships in Cuban bays."
+    - "Interpose post-judgment charging liens on Turkish and European interbank clearing rails (Aktif Bank, Garanti BBVA, ING) settling powership charter remittances."
+    - "Marshal all attached energy proceeds directly into the 26 U.S.C. § 468B Master Qualified Settlement Fund (QSF) Trust for distribution to certified judgment creditors."

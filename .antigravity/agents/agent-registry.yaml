@@ -776,4 +776,14 @@ agents:
   role: U.S. Carrier Direct Interconnect Settlements (AT&T, Verizon, T-Mobile, IDT / Boss Revolution under OFAC 31 C.F.R. § 515.542), International Roaming Clearinghouses (EDCH, Syniverse, Comfone), Transnational Digital Top-Up Aggregators (Ding, Recharge.com, DTOne, Fonoma), TRIA § 201 Garnishments & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-telecom-interconnect-and-roaming-marshal.yaml
-total_agents: 156
+- id: agent-cuban-electric-company-and-grid-infrastructure-auditor
+  name: Cuban Electric Company & Grid Infrastructure Auditor
+  role: Unión Eléctrica (UNE), Ministry of Energy and Mines (MINEM), Expropriated American & Foreign Power Company / Cuban Electric Company (Law 851, FCSC Claim No. CU-2578 - #1 Largest Corporate Claim in FCSC History, $267.5M Principal Takings, now exceeding $40.0B with 6% interest), National High-Voltage Transmission Grid, Substation Networks & Bancec Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cuban-electric-company-and-grid-infrastructure-auditor.yaml
+- id: agent-transnational-powership-and-fuel-escrow-marshal
+  name: Transnational Powership & Fuel Escrow Marshal
+  role: Karpower International B.V. (Turkey / Netherlands / Karadeniz Holding) Floating Powership Charters (Mariel, Havana Bay, Santiago de Cuba), Heavy Fuel Oil (HFO) Supply Settlement Rails, Supplemental Admiralty Rule B Maritime Bunkering Attachments, Helms-Burton Title III Energy Trafficking Actions (22 U.S.C. § 6082) & Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-powership-and-fuel-escrow-marshal.yaml
+total_agents: 158
