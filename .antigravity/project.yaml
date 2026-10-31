@@ -1,6 +1,6 @@
 project:
   id: OMNI-COUNSEL-ARCHITECT-001
-  name: 'Omni-Counsel Architect: Jurisprudential Warfare Command'
+  name: 'Omni-Counsel Architect: Global Restitution Legal Framework'
   description: Multi-century, multi-jurisdictional class-action and restorative justice
     campaign dismantling sovereign immunity for historical and modern state-sponsored
     expropriation, colonial subjugation, and economic blockades.
@@ -10,9 +10,9 @@ project:
     capacity within the District of Columbia)
   temporal_scope: 1805 - Present (221-Year Continuum)
   core_doctrine: Mitchell Fiduciary Exception, ARSIWA Article 14 Continuing Wrongs,
-    Sun Tzu Asymmetric Entrapment
-  author: Lead Strategic Counsel & Jurisprudential Warfare Command
-  status: OPERATIONAL_ARMED
+    International Rule of Law & Equity
+  author: Lead Strategic Counsel & Global Restitution Alliance
+  status: OPERATIONAL_ACTIVE
   modules:
     agents: agents/agent-registry.yaml
     skills: skills/skill-registry.yaml
