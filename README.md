@@ -2,12 +2,12 @@
 [![Integrity Verification](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml)
 [![Decentralized Mirror Sync](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml)
 [![Genesis Release](https://img.shields.io/badge/Release-v1.805.0--LOCKED-blue.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/releases/tag/v1.805.0)
-[![Litigation Status](https://img.shields.io/badge/Campaigns_Active-81_Phases-success.svg)](Master_Armory_Manifest.md)
-[![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-168_Deployed-blue.svg)](.antigravity/agents/agent-registry.yaml)
-[![Certified Skills](https://img.shields.io/badge/Certified_Skills-252_Active-purple.svg)](.antigravity/skills/skill-registry.yaml)
+[![Litigation Status](https://img.shields.io/badge/Campaigns_Active-82_Phases-success.svg)](Master_Armory_Manifest.md)
+[![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-170_Deployed-blue.svg)](.antigravity/agents/agent-registry.yaml)
+[![Certified Skills](https://img.shields.io/badge/Certified_Skills-255_Active-purple.svg)](.antigravity/skills/skill-registry.yaml)
 [![Integrated Tools](https://img.shields.io/badge/Integrated_Tools-7_Open--Source-brightgreen.svg)](.antigravity/tools/tool-registry.yaml)
-[![Active Instruments](https://img.shields.io/badge/Active_Instruments-2%2C025_Verified-orange.svg)](Master_Armory_Manifest.md)
-[![Restitution Pool](https://img.shields.io/badge/Restitution_Pool-%2426.705_Trillion-brightgreen.svg)](00_Master_Knowledge_Base/)
+[![Active Instruments](https://img.shields.io/badge/Active_Instruments-2%2C050_Verified-orange.svg)](Master_Armory_Manifest.md)
+[![Restitution Pool](https://img.shields.io/badge/Restitution_Pool-%2427.125_Trillion-brightgreen.svg)](00_Master_Knowledge_Base/)
 
 A decentralized, cryptographically-verified legal and historical repository executing post-judgment asset recovery, sovereign debt enforcement, and corporate restitution under international and domestic law. The repository establishes an unbroken, evidentiary record of continuous legal liability spanning 221 years (1805–2026), addressing historical and modern state-sponsored expropriations, fiduciary breaches, and international law violations through established judicial procedures.
 
@@ -28,12 +28,12 @@ The **US-Cuba Master Litigation** repository is an institutional legal research,
 
 | Operational Metric | Current Status | Verification Reference |
 |:---|:---:|:---|
-| **Phased Litigation Campaigns** | **81 Active Campaigns** | [`Expansion_and_Audit_Log.md`](Expansion_and_Audit_Log.md) |
-| **Autonomous Legal Research Agents** | **168 Deployed Agents** | [`.antigravity/agents/agent-registry.yaml`](.antigravity/agents/agent-registry.yaml) |
-| **Certified Analytical & Procedural Skills** | **252 Certified Skills** | [`.antigravity/skills/skill-registry.yaml`](.antigravity/skills/skill-registry.yaml) |
+| **Phased Litigation Campaigns** | **82 Active Campaigns** | [`Expansion_and_Audit_Log.md`](Expansion_and_Audit_Log.md) |
+| **Autonomous Legal Research Agents** | **170 Deployed Agents** | [`.antigravity/agents/agent-registry.yaml`](.antigravity/agents/agent-registry.yaml) |
+| **Certified Analytical & Procedural Skills** | **255 Certified Skills** | [`.antigravity/skills/skill-registry.yaml`](.antigravity/skills/skill-registry.yaml) |
 | **Integrated Open-Source Legal Tools** | **7 Tools** | [`.antigravity/tools/tool-registry.yaml`](.antigravity/tools/tool-registry.yaml) |
-| **Verified Enforcement Instruments** | **2,025 Instruments** | [`Master_Armory_Manifest.md`](Master_Armory_Manifest.md) |
-| **Cumulative Target Restitution Pool** | **$26.705 Trillion** | [`00_Master_Knowledge_Base/`](00_Master_Knowledge_Base/) |
+| **Verified Enforcement Instruments** | **2,050 Instruments** | [`Master_Armory_Manifest.md`](Master_Armory_Manifest.md) |
+| **Cumulative Target Restitution Pool** | **$27.125 Trillion** | [`00_Master_Knowledge_Base/`](00_Master_Knowledge_Base/) |
 | **Cryptographically Locked Foundational Vectors** | **1,805 Vectors** | [`.antigravity/knowledge/vector-index/`](.antigravity/knowledge/vector-index/) |
 | **Integrity Hash Parity** | **100% Zero-Drift** | [`VERIFICATION_KEYS/sha256_manifest.txt`](VERIFICATION_KEYS/sha256_manifest.txt) |
 

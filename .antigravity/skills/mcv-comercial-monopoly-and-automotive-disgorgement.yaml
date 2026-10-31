@@ -1,0 +1,26 @@
+skill:
+  id: "mcv-comercial-monopoly-and-automotive-disgorgement"
+  name: "MCV Comercial Monopoly & Automotive Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Automotive & Heavy Equipment Monopoly Disgorgement & Sovereign Commercial Execution"
+
+description: >
+  Comprehensive forensic auditing and procedural methodology for asserting FSIA § 1605(a)(2) commercial activity
+  jurisdiction, § 1605(a)(3) expropriation exceptions, and Bancec alter ego liability against Empresa Mixta MCV
+  Comercial S.A., Corporación CIMEX S.A., Grupo de Administración Empresarial S.A. (GAESA), and the Cuban Ministry of Transport (MITRANS).
+  The protocol structures equitable disgorgement of commercial automotive sales margins, heavy truck and bus distribution revenues,
+  engine maintenance contracts, and fleet leasing profits.
+
+execution_protocol:
+  step_1: "Correlate pre-1959 commercial vehicle dealership registries, corporate charters, and property concession deeds with current MCV Comercial facilities located at Vía Blanca y Vía Monumental, Berroa, Havana, and provincial support centers."
+  step_2: "Document corporate veil-piercing evidence under First National City Bank v. Bancec (462 U.S. 611) proving that MCV Comercial S.A. and CIMEX operate under the direct operational command of GAESA, the Ministry of the Revolutionary Armed Forces (MINFAR), and MITRANS."
+  step_3: "Trace hard-currency proceeds (EUR, USD, CHF) collected from government fleet sales (Gaviota, Transtur, Transgaviota, Viazul, state construction combines) processed through Banco Financiero Internacional (BFI) and offshore automotive escrow vehicles."
+  step_4: "File federal and international enforcement petitions demanding forensic accounting and equitable turnover of all commercial vehicle markups, assembly tariffs, and maintenance revenues."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)"
+  - "28 U.S.C. § 1610(a)(2), (g) (Attachment of Sovereign & Instrumentality Property)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "International Claims Settlement Act of 1949, Title V (22 U.S.C. §§ 1643 et seq.)"

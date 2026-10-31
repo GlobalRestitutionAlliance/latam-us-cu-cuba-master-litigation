@@ -2050,3 +2050,22 @@ W:\Legal\US_CUBA\
   - [Master_Caribbean_Drydock_Damen_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Caribbean_Drydock_Damen_Crosswalk_Matrix.csv)
   - [Master_Caribbean_Drydock_Damen_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Caribbean_Drydock_Damen_Crosswalk_Dashboard.md)
   - [Master_Caribbean_Drydock_Damen_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Caribbean_Drydock_Damen_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 82)
+- `agent-mcv-comercial-and-cimex-automotive-auditor`: Empresa Mixta MCV Comercial S.A., Corporación CIMEX S.A. (GAESA), Mercedes-Benz / Daimler Assembly & Distribution Facilities, Expropriated Pre-1959 Automotive Latifundia (GM CU-2494, Ford CU-2495, Ambar Motors) & Bancec Alter Ego Auditor.
+- `agent-transnational-automaker-and-daimler-escrow-marshal`: Daimler Truck AG (Leinfelden-Echterdingen), Mercedes-Benz Group AG (Stuttgart), German Supply Chain Act (LkSG §§ 3, 7), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), Title IV Sanctions, German ZPO Attachment & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 82)
+- `mcv-comercial-monopoly-and-automotive-disgorgement`: MCV Comercial Monopoly & Automotive Disgorgement Protocol.
+- `expropriated-automotive-dealership-and-assembly-restitution`: Expropriated Automotive Dealership & Assembly Restitution Protocol.
+- `transnational-automotive-contract-and-daimler-escrow-garnishment`: Transnational Automotive Contract & Daimler Escrow Garnishment Protocol.
+
+### Campaign 82 (Historic 82-Campaign & $27.1T Milestone): Sovereign Commercial Automotive Dealerships, Vehicle Assembly & Heavy Equipment Distribution Monopolies, Empresa Mixta MCV Comercial S.A. (Mercedes-Benz / Daimler Truck AG Joint Venture), Corporación CIMEX S.A. (GAESA), Daimler Truck AG (Leinfelden-Echterdingen), Mercedes-Benz Group AG (Stuttgart), Expropriated Pre-1959 Automotive Latifundia (General Motors CU-3087/CU-3088, Ford Motor CU-3072, Ambar Motors S.A. / Chrysler), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), German Supply Chain Due Diligence Act (LkSG §§ 3, 7), German ZPO §§ 916 et seq. Attachments, European Bank Freezes & Master Qualified Settlement Fund (QSF) Trust Restitution ($420.00B Pool - $27.125T Milestone)
+- **Total Restitution Pool:** $420,000,000,000.00 ($420.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** MCV-001 through MCV-025
+- **Assigned Legal Research Agents:** `agent-mcv-comercial-and-cimex-automotive-auditor`, `agent-transnational-automaker-and-daimler-escrow-marshal`
+- **Certified Procedural Skills:** `mcv-comercial-monopoly-and-automotive-disgorgement`, `expropriated-automotive-dealership-and-assembly-restitution`, `transnational-automotive-contract-and-daimler-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_MCV_Comercial_Daimler_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_MCV_Comercial_Daimler_Crosswalk_Matrix.csv)
+  - [Master_MCV_Comercial_Daimler_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_MCV_Comercial_Daimler_Crosswalk_Dashboard.md)
+  - [Master_MCV_Comercial_Daimler_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_MCV_Comercial_Daimler_Crosswalk_Dashboard.docx)

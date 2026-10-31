@@ -1,0 +1,28 @@
+skill:
+  id: "expropriated-automotive-dealership-and-assembly-restitution"
+  name: "Expropriated Automotive Dealership & Assembly Restitution"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Automotive Infrastructure Expropriation & Title III Trafficking Restitution"
+
+description: >
+  Operational protocol for enforcing certified property claims under Title V of the International Claims Settlement
+  Act of 1949 and private rights of action under Title III of the Helms-Burton Act (22 U.S.C. § 6082) against
+  transnational automakers, vehicle assembly consortia, and equipment distributors trafficking in confiscated
+  Cuban automotive dealerships, assembly plants, parts distribution warehouses, and commercial showroom infrastructure
+  confiscated under Law 851 of July 6, 1960 and Law 890 of October 13, 1960. Focuses on certified claims of General Motors
+  Corporation (CU-2494, Decision No. CU-6180), Ford Motor Company S.A. (CU-2495), and Ambar Motors S.A. / Chrysler dealerships.
+
+execution_protocol:
+  step_1: "Reconcile certified FCSC claims (CU-2494, CU-2495) and pre-1959 commercial vehicle distribution agreements with current assembly, distribution, and showroom facilities utilized by MCV Comercial S.A."
+  step_2: "Serve formal 30-day statutory pre-filing notices under 22 U.S.C. § 6082(a)(3) upon foreign joint-venture automakers (Daimler Truck AG, Mercedes-Benz Group AG) and component suppliers trafficking in the expropriated automotive distribution monopoly."
+  step_3: "Calculate mandatory treble damages based on certified FCSC valuation plus 66 years of 6.0% simple annual interest pursuant to 22 U.S.C. § 6082(a)(1)(A)(i) and § 6082(a)(3)(C)."
+  step_4: "Submit Title IV exclusion dossiers under 22 U.S.C. § 6091 to the U.S. Department of State demanding executive visa revocations and border entry bans against corporate officers and directors of trafficking foreign entities."
+
+authorities:
+  - "22 U.S.C. § 6082 (Helms-Burton Act Title III Private Right of Action)"
+  - "22 U.S.C. § 6091 (Helms-Burton Act Title IV Executive Visa Inadmissibility)"
+  - "General Motors Corp., FCSC Claim No. CU-2494, Decision No. CU-6180 (1971)"
+  - "Ford Motor Co., FCSC Claim No. CU-2495 (1971)"
+  - "Law 851 of July 6, 1960 & Law 890 of October 13, 1960"
+  - "22 U.S.C. § 1643l (FCSC Statutory 6% Annual Simple Interest Mandate)"

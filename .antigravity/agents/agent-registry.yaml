@@ -823,7 +823,7 @@ agents:
   manifest_file: .antigravity/agents/agent-almest-real-estate-and-gaesa-construction-auditor.yaml
 - id: agent-transnational-contractor-and-bouygues-escrow-marshal
   name: Transnational Contractor & Bouygues Escrow Marshal
-  role: Bouygues Bâtiment International (France / Euronext: EN), Multinational General Contractors, French Duty of Vigilance Law (Loi de Vigilance), Helms-Burton Title III Construction Trafficking (22 U.S.C. § 6082), TVPRA Conscript Labor & Master QSF Escrow Marshal
+  role: "Bouygues Bâtiment International (France / Euronext: EN), Multinational General Contractors, French Duty of Vigilance Law (Loi de Vigilance), Helms-Burton Title III Construction Trafficking (22 U.S.C. § 6082), TVPRA Conscript Labor & Master QSF Escrow Marshal"
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-contractor-and-bouygues-escrow-marshal.yaml
 - id: agent-caribbean-drydock-and-asticar-shipyard-auditor
@@ -836,4 +836,14 @@ agents:
   role: DAMEN Shipyards Group (Netherlands), Transnational Ship Repair Consortia, Helms-Burton Title III Drydock Trafficking (22 U.S.C. § 6082), Supplemental Admiralty Rule B/C Vessel Arrests & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-shipbuilder-and-damen-escrow-marshal.yaml
-total_agents: 168
+- id: agent-mcv-comercial-and-cimex-automotive-auditor
+  name: MCV Comercial & CIMEX Automotive Auditor
+  role: Empresa Mixta MCV Comercial S.A., Corporación CIMEX S.A. (GAESA), Mercedes-Benz / Daimler Assembly & Distribution Facilities, Expropriated Pre-1959 Automotive Latifundia (GM CU-2494, Ford CU-2495, Ambar Motors) & Bancec Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-mcv-comercial-and-cimex-automotive-auditor.yaml
+- id: agent-transnational-automaker-and-daimler-escrow-marshal
+  name: Transnational Automaker & Daimler Escrow Marshal
+  role: Daimler Truck AG (Leinfelden-Echterdingen), Mercedes-Benz Group AG (Stuttgart), German Supply Chain Act (LkSG §§ 3, 7), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), Title IV Sanctions, German ZPO Attachment & Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-automaker-and-daimler-escrow-marshal.yaml
+total_agents: 170

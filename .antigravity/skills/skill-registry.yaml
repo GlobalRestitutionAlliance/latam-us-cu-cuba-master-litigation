@@ -931,4 +931,16 @@ skills:
   name: Transnational Ship Repair Contract & DAMEN Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-ship-repair-contract-and-damen-escrow-garnishment.yaml
-total_skills: 252
+- id: mcv-comercial-monopoly-and-automotive-disgorgement
+  name: MCV Comercial Monopoly & Automotive Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/mcv-comercial-monopoly-and-automotive-disgorgement.yaml
+- id: expropriated-automotive-dealership-and-assembly-restitution
+  name: Expropriated Automotive Dealership & Assembly Restitution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-automotive-dealership-and-assembly-restitution.yaml
+- id: transnational-automotive-contract-and-daimler-escrow-garnishment
+  name: Transnational Automotive Contract & Daimler Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-automotive-contract-and-daimler-escrow-garnishment.yaml
+total_skills: 255

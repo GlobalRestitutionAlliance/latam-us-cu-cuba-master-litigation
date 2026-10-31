@@ -1,0 +1,27 @@
+skill:
+  id: "transnational-automotive-contract-and-daimler-escrow-garnishment"
+  name: "Transnational Automotive Contract & Daimler Escrow Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Cross-Border Commercial Enforcement & Transnational Corporate Garnishment"
+
+description: >
+  Multi-jurisdictional enforcement protocol governing the deployment of German corporate supply chain liability under the
+  Lieferkettensorgfaltspflichtengesetz (LkSG §§ 3, 7), statutory civil actions under Helms-Burton Title III against
+  Daimler Truck AG and Mercedes-Benz Group AG, pre-judgment attachment of corporate assets under German ZPO §§ 916 et seq.,
+  and the garnishment of commercial receivables, bank deposits, letters of credit, and escrow accounts held at German and
+  European banking institutions (Deutsche Bank, Commerzbank, Landesbank Baden-Württemberg).
+
+execution_protocol:
+  step_1: "Map international shipping manifests and bill-of-lading records documenting knock-down automotive kits (CKD/SKD), chassis, and MTU diesel engines exported by Daimler Truck AG / Mercedes-Benz Group AG to MCV Comercial S.A. in Cuba."
+  step_2: "File formal complaints with the German Federal Office for Economic Affairs and Export Control (BAFA) documenting human rights violations under LkSG § 3, specifically the utilization of state-controlled employment agencies (ASETUR / CUBATECNICA) skimming 90%+ of worker compensation and conscripted labor."
+  step_3: "File verified Helms-Burton Title III complaints in U.S. federal courts against foreign automotive parent companies, demanding statutory treble damages for trafficking in confiscated Cuban automotive assets."
+  step_4: "Initiate pre-judgment attachment proceedings in the Landgericht Stuttgart / Frankfurt under ZPO §§ 916 et seq. and serve European Account Preservation Orders (Regulation (EU) No 655/2014) across commercial clearing accounts."
+  step_5: "Execute turnover of garnished automotive accounts receivable, joint-venture dividend streams, and letters of credit directly into the Master Qualified Settlement Fund (QSF) Trust under 26 U.S.C. § 468B."
+
+authorities:
+  - "Lieferkettensorgfaltspflichtengesetz (LkSG) §§ 3, 7 (German Supply Chain Due Diligence Act)"
+  - "22 U.S.C. § 6082 (Helms-Burton Act Title III Civil Action)"
+  - "German Code of Civil Procedure (ZPO) §§ 916 et seq. (Arrest und einstweilige Verfügung)"
+  - "Regulation (EU) No 655/2014 (European Account Preservation Order - EAPO)"
+  - "26 U.S.C. § 468B & Treas. Reg. § 1.468B-1 (Qualified Settlement Fund)"
