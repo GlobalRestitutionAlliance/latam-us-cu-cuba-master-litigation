@@ -566,4 +566,14 @@ agents:
   role: Havana Club Holding S.A. (Luxembourg), Pernod Ricard / Diageo JV Dividends, European Bonded Spirits Inventory & Royalty Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-pernod-ricard-jv-and-spirits-garnishee-marshal.yaml
-total_agents: 114
+- id: agent-melfi-marine-and-container-fleet-auditor
+  name: Melfi Marine & Container Fleet Auditor
+  role: Melfi Marine Corp. (Panama / Cuba), Expropriated Container Ships (Seatrain / Naviera de Cuba), TC Mariel & Intermodal Fleet Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-melfi-marine-and-container-fleet-auditor.yaml
+- id: agent-slot-charter-and-ocean-freight-garnishee-marshal
+  name: Slot Charter & Ocean Freight Garnishee Marshal
+  role: Transnational Container Liner Alliances, Ocean Freight Remittances, International Container Leasing Escrows & Vessel Arrest Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-slot-charter-and-ocean-freight-garnishee-marshal.yaml
+total_agents: 116

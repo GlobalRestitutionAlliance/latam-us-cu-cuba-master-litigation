@@ -1,0 +1,24 @@
+skill:
+  id: "intermodal-container-arrest-and-cargo-lien-garnishment"
+  name: "Intermodal Container Arrest & Cargo Lien Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Intermodal Asset Arrest & Maritime Cargo Lien Enforcement"
+
+description: >
+  Procedure for executing in rem maritime arrests under Supplemental Admiralty Rule C and Canadian Admiralty Rules
+  against sovereign-owned and time-chartered container vessels and ISO intermodal containers (dry vans, reefers),
+  and asserting statutory maritime liens over containerized cargo freights.
+
+execution_protocol:
+  step_1: "Track global vessel positions and port rotation schedules of Melfi Marine chartered container feeder vessels entering Canadian, European, and Caribbean ports."
+  step_2: "Monitor BIC (Bureau International des Conteneurs) container prefix markings identifying sovereign-owned and long-term leased container equipment (e.g. MELU, CARU, MECU prefixes)."
+  step_3: "File verified in rem admiralty complaints under Supplemental Rule C asserting maritime liens arising from the commercial trafficking of expropriated maritime facilities."
+  step_4: "Deliver emergency warrants of arrest to U.S. Marshals, Canadian Admiralty Marshals, or European bailiffs to seize vessels and container equipment upon arrival in port."
+
+authorities:
+  - "Supplemental Rule C for Certain Admiralty and Maritime Claims"
+  - "Senior Courts Act 1981 § 20, 21 (UK Admiralty Jurisdiction)"
+  - "Canadian Federal Courts Rules (SOR/98-106) Rules 475-494 (Actions in Rem)"
+  - "28 U.S.C. § 1605(b) (Maritime Lien Exception to FSIA)"
+  - "The Playa Larga and Marble Islands [1983] 2 Lloyd's Rep. 171"

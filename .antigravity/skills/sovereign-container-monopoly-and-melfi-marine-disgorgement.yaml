@@ -1,0 +1,24 @@
+skill:
+  id: "sovereign-container-monopoly-and-melfi-marine-disgorgement"
+  name: "Sovereign Container Monopoly & Melfi Marine Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Maritime Container Logistics Commercial Execution & Sovereign Fleet Disgorgement"
+
+description: >
+  Legal and forensic accounting methodology for asserting FSIA § 1605(a)(2) and § 1605(b) jurisdiction,
+  Bancec alter ego liability, and Title III Helms-Burton claims against Melfi Marine Corp. S.A. and Empresa de Navegación Caribe
+  operating commercial container liner services and confiscated port terminals.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (e.g. Seatrain Lines Inc. railcar container infrastructure, Empresa Naviera de Cuba) with modern container shipping services and Mariel Container Terminal (TC Mariel) operations."
+  step_2: "Audit official corporate filings in the Public Registry of Panama establishing state beneficial ownership, military directorates (GAESA/MITRANS), and inter-company financing for Melfi Marine Corp."
+  step_3: "Document ocean freight tariff schedules, container demurrage invoicing, and slot-charter revenue collections in hard currency (USD, EUR, CAD) across international trade lanes."
+  step_4: "File turnover and disgorgement actions in federal district courts and international admiralty forums demanding accounting and seizure of all container fleet profits and freight revenues."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(b) (Maritime Lien Exception to FSIA)"
+  - "28 U.S.C. § 1610(a)(2) (Commercial Property Attachment)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"

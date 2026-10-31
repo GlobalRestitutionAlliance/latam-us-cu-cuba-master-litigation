@@ -607,4 +607,16 @@ skills:
   name: Aged Spirits Cargo Arrest & Royalty Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/aged-spirits-cargo-arrest-and-royalty-garnishment.yaml
-total_skills: 171
+- id: sovereign-container-monopoly-and-melfi-marine-disgorgement
+  name: Sovereign Container Monopoly & Melfi Marine Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-container-monopoly-and-melfi-marine-disgorgement.yaml
+- id: ocean-freight-remittance-and-slot-charter-interdiction
+  name: Ocean Freight Remittance & Slot-Charter Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/ocean-freight-remittance-and-slot-charter-interdiction.yaml
+- id: intermodal-container-arrest-and-cargo-lien-garnishment
+  name: Intermodal Container Arrest & Cargo Lien Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/intermodal-container-arrest-and-cargo-lien-garnishment.yaml
+total_skills: 174

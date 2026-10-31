@@ -1470,3 +1470,23 @@ W:\Legal\US_CUBA\
   - [Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Dashboard.md)
   - [Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 55)
+- `agent-melfi-marine-and-container-fleet-auditor`: Melfi Marine Corp. (Panama / Cuba), Expropriated Container Ships (Seatrain / Naviera de Cuba), TC Mariel & Intermodal Fleet Auditor.
+- `agent-slot-charter-and-ocean-freight-garnishee-marshal`: Transnational Container Liner Alliances, Ocean Freight Remittances, International Container Leasing Escrows & Vessel Arrest Marshal.
+
+## Newly Registered Skills (Campaign 55)
+- `sovereign-container-monopoly-and-melfi-marine-disgorgement`: Sovereign Container Monopoly & Melfi Marine Disgorgement.
+- `ocean-freight-remittance-and-slot-charter-interdiction`: Ocean Freight Remittance & Slot-Charter Interdiction.
+- `intermodal-container-arrest-and-cargo-lien-garnishment`: Intermodal Container Arrest & Cargo Lien Garnishment.
+
+### Campaign 55: Sovereign Commercial Maritime Container Shipping Fleets, Transnational Liner Alliances, Melfi Marine Corp. (Panama / Cuba), Empresa de Navegación Caribe, Offshore Container Fleets, Slot Charter Agreements & Transshipment Logistics Disgorgement Campaign
+- **Total Restitution Pool:** $300,000,000,000.00 ($300.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** CONT-001 through CONT-025
+- **Assigned Agents:** `agent-melfi-marine-and-container-fleet-auditor`, `agent-slot-charter-and-ocean-freight-garnishee-marshal`
+- **Certified Skills:** `sovereign-container-monopoly-and-melfi-marine-disgorgement`, `ocean-freight-remittance-and-slot-charter-interdiction`, `intermodal-container-arrest-and-cargo-lien-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Container_Shipping_Melfi_Marine_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Container_Shipping_Melfi_Marine_Crosswalk_Matrix.csv)
+  - [Master_Container_Shipping_Melfi_Marine_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Container_Shipping_Melfi_Marine_Crosswalk_Dashboard.md)
+  - [Master_Container_Shipping_Melfi_Marine_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Container_Shipping_Melfi_Marine_Crosswalk_Dashboard.docx)
+

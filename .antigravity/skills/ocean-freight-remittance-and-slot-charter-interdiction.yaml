@@ -1,0 +1,24 @@
+skill:
+  id: "ocean-freight-remittance-and-slot-charter-interdiction"
+  name: "Ocean Freight Remittance & Slot-Charter Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Ocean Freight Garnishment & Slot-Charter Agreement Interception"
+
+description: >
+  Operational protocol for serving Supplemental Admiralty Rule B attachment orders, third-party garnishment writs,
+  and Canadian saisie-conservatoire orders on general shipping agents, freight forwarders, and slot-charter partners
+  holding freight collections and slot payments payable to Melfi Marine Corp.
+
+execution_protocol:
+  step_1: "Track container booking manifests, ocean bills of lading, and freight remittance accounts managed by general shipping agents in Canada (Halifax, Montreal), Europe (Rotterdam, Valencia, Genoa), and Mexico (Veracruz)."
+  step_2: "Identify transnational slot-charter and vessel sharing agreements executed between Melfi Marine and Mediterranean/European liner carriers."
+  step_3: "Serve CPLR § 5222 restraining notices, Supplemental Rule B maritime attachments, and Canadian Federal Court garnishment orders on liner payment desks and freight forwarding agents."
+  step_4: "Interdict freight remittances and container demurrage funds, diverting all proceeds into the Master Qualified Settlement Fund."
+
+authorities:
+  - "Supplemental Rule B for Certain Admiralty and Maritime Claims"
+  - "Canadian Federal Courts Act (R.S.C., 1985, c. F-7) §§ 22, 43"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third Parties)"
+  - "Dutch Code of Civil Procedure (Rv) Art. 700 et seq. (Conservatoir Beslag)"
+  - "Spanish Ley de Enjuiciamiento Civil Art. 584"
