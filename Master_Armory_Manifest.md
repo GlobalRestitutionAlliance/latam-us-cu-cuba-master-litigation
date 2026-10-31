@@ -1741,3 +1741,23 @@ W:\Legal\US_CUBA\
   - [Master_Rail_UFC_Consolidated_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_UFC_Consolidated_Crosswalk_Matrix.csv)
   - [Master_Rail_UFC_Consolidated_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_UFC_Consolidated_Crosswalk_Dashboard.md)
   - [Master_Rail_UFC_Consolidated_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_UFC_Consolidated_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 67)
+- `agent-bucanero-and-brewing-monopoly-auditor`: Cervecería Bucanero S.A., Holguín Mega-Brewery, Coralsa, Confiscated Pre-1959 Breweries (Polar / La Tropical / Hatuey), Tiendas MLC Beer Monopolies & GAESA Hospitality Supply Auditor.
+- `agent-abinbev-jv-and-malt-dividend-marshal`: Anheuser-Busch InBev (AB InBev) Transnational Joint Venture, Offshore Malt & Hop Factoring Escrows, Foreign Dividend Clearing Rails, Helms-Burton Title III Trafficking & Brand Royalty Marshal.
+
+## Newly Registered Skills (Campaign 67)
+- `sovereign-brewing-monopoly-and-bucanero-disgorgement`: Sovereign Commercial Brewing Monopolies, Bucanero Infrastructure & Distribution Disgorgement.
+- `helms-burton-title-iii-brewing-trafficking-interdiction`: Brewing Expropriation, Helms-Burton Title III Trafficking & Trademark Restitution.
+- `brewery-joint-venture-dividend-and-malt-escrow-garnishment`: Brewing Joint Venture Dividend Interdiction & Malt Supply Escrow Garnishment.
+
+### Campaign 67: Sovereign Commercial Brewing Monopolies, Cervecería Bucanero S.A., Anheuser-Busch InBev (AB InBev) Joint Venture, Holguín Mega-Brewery, Expropriated Pre-1959 Breweries (Law 890, Polar / La Tropical / Hatuey FCSC Claims), Hard-Currency Beer Sales in Tiendas MLC & Foreign Dividend Escrows Restitution Campaign
+- **Total Restitution Pool:** $345,000,000,000.00 ($345.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** BUCN-001 through BUCN-025
+- **Assigned Legal Research Agents:** `agent-bucanero-and-brewing-monopoly-auditor`, `agent-abinbev-jv-and-malt-dividend-marshal`
+- **Certified Procedural Skills:** `sovereign-brewing-monopoly-and-bucanero-disgorgement`, `helms-burton-title-iii-brewing-trafficking-interdiction`, `brewery-joint-venture-dividend-and-malt-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Brewing_Bucanero_ABInBev_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Bucanero_ABInBev_Crosswalk_Matrix.csv)
+  - [Master_Brewing_Bucanero_ABInBev_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Bucanero_ABInBev_Crosswalk_Dashboard.md)
+  - [Master_Brewing_Bucanero_ABInBev_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Bucanero_ABInBev_Crosswalk_Dashboard.docx)

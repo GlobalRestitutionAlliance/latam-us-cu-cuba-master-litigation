@@ -751,4 +751,16 @@ skills:
   name: Locomotive Supply Procurement, Export Credit & In Rem Maritime Equipment Arrest
   status: ACTIVE
   manifest_file: .antigravity/skills/locomotive-procurement-and-export-credit-garnishment.yaml
-total_skills: 207
+- id: sovereign-brewing-monopoly-and-bucanero-disgorgement
+  name: Sovereign Commercial Brewing Monopolies, Bucanero Infrastructure & Distribution Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-brewing-monopoly-and-bucanero-disgorgement.yaml
+- id: helms-burton-title-iii-brewing-trafficking-interdiction
+  name: Brewing Expropriation, Helms-Burton Title III Trafficking & Trademark Restitution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/helms-burton-title-iii-brewing-trafficking-interdiction.yaml
+- id: brewery-joint-venture-dividend-and-malt-escrow-garnishment
+  name: Brewing Joint Venture Dividend Interdiction & Malt Supply Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/brewery-joint-venture-dividend-and-malt-escrow-garnishment.yaml
+total_skills: 210

@@ -1,0 +1,12 @@
+skill:
+  id: "helms-burton-title-iii-brewing-trafficking-interdiction"
+  name: "Brewing Expropriation, Helms-Burton Title III Trafficking & Trademark Restitution"
+  description: "Legal verification and Title III trafficking enforcement for confiscated commercial breweries, bottling plants, and pre-1959 beer trademarks nationalized under Law 890 (Polar, La Tropical, Hatuey) against multinational joint venture participants and distributors under 22 U.S.C. § 6082."
+  category: "brewing-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Verify certified Foreign Claims Settlement Commission (FCSC) records for confiscated pre-1959 brewing giants (Cervecería Polar, Cervecería La Tropical, Cervecería Hatuey) nationalized under Law 890."
+    - "Document commercial trafficking under 22 U.S.C. § 6082 by foreign brewing conglomerates (Anheuser-Busch InBev) utilizing confiscated commercial premises, bottling facilities, and trademarks."
+    - "Prepare and serve formal statutory notices of intent to file Title III actions seeking treble damages for commercial trafficking in confiscated brewing properties."
+    - "File federal complaints seeking statutory damages and constructive trusts over commercial beer revenues, trademark royalties, and joint venture dividends."

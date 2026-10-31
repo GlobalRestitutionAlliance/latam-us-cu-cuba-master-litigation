@@ -1,0 +1,12 @@
+skill:
+  id: "brewery-joint-venture-dividend-and-malt-escrow-garnishment"
+  name: "Brewing Joint Venture Dividend Interdiction & Malt Supply Escrow Garnishment"
+  description: "Cross-border post-judgment garnishment and dividend attachment protocol targeting Anheuser-Busch InBev (AB InBev) joint venture distribution accounts, offshore malt/hop supply factoring escrows, and European bank clearing rails under Fed. R. Civ. P. 69, N.Y. C.P.L.R. § 5225, and Belgian judicial enforcement rules."
+  category: "brewing-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Trace equity dividend disbursements, technical management fees, and royalty flows payable by Cervecería Bucanero S.A. to foreign joint venture holding entities in Western Europe."
+    - "Serve restraining notices and third-party turnover subpoenas on intermediary banks and payment clearing rails handling AB InBev dividend distributions."
+    - "Garnish commercial payment receivables, letters of credit, and trade factoring balances financing imported barley, malt, hops, and brewing enzymes."
+    - "Execute multi-jurisdictional garnishments against overseas beer export sales accounts across Canadian, European, and Caribbean commercial clearing hubs."

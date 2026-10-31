@@ -686,4 +686,14 @@ agents:
   role: Russian Sinara / Transmashholding TGM8KM Locomotive Supply Escrows, Chinese CRRC Rolling Stock Factoring, EXIAR Export Guarantees & Intermodal Freight Tariff Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-locomotive-procurement-and-rail-escrow-marshal.yaml
-total_agents: 138
+- id: agent-bucanero-and-brewing-monopoly-auditor
+  name: Bucanero, Brewing Monopoly & Beverage Latifundia Auditor
+  role: Cervecería Bucanero S.A., Holguín Mega-Brewery, Coralsa, Confiscated Pre-1959 Breweries (Polar / La Tropical / Hatuey), Tiendas MLC Beer Monopolies & GAESA Hospitality Supply Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-bucanero-and-brewing-monopoly-auditor.yaml
+- id: agent-abinbev-jv-and-malt-dividend-marshal
+  name: AB InBev Joint Venture, Malt Factoring & Dividend Marshal
+  role: Anheuser-Busch InBev (AB InBev) Transnational Joint Venture, Offshore Malt & Hop Factoring Escrows, Foreign Dividend Clearing Rails, Helms-Burton Title III Trafficking & Brand Royalty Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-abinbev-jv-and-malt-dividend-marshal.yaml
+total_agents: 140
