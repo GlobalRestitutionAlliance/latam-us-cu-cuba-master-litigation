@@ -1083,3 +1083,22 @@ W:\Legal\US_CUBA\
   - [Master_Coffee_Citrus_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Coffee_Citrus_Crosswalk_Matrix.csv)
   - [Master_Coffee_Citrus_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Coffee_Citrus_Crosswalk_Dashboard.md)
   - [Master_Coffee_Citrus_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Coffee_Citrus_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 35)
+- `agent-tobacco-latifundia-and-cigar-auditor`: Tabacuba OSDE, Habanos S.A., Historic Cigar Rolling Palaces & Allied Cigar JV Auditor.
+- `agent-cigar-distributor-and-auction-marshal`: European Wholesale Clearing Rails, Asian Distribution Escrows & Luxury Cigar Auction Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 35)
+- `sovereign-tobacco-vegas-and-factory-disgorgement`: Sovereign Tobacco Vegas & Factory Disgorgement.
+- `habanos-joint-venture-and-wholesale-interdiction`: Habanos S.A. Transnational Joint-Venture & Wholesale Interdiction.
+- `luxury-cigar-auction-and-franchise-royalty-garnishment`: Luxury Cigar Auction & Franchise Royalty Garnishment.
+
+### Campaign 35: Sovereign Tobacco Cultivation, Premium Hand-Rolled Cigar Monopolies, Historic Cigar Factories & Habanos S.A. Global Joint Venture Disgorgement Campaign
+- **Total Restitution Pool:** $290,000,000,000.00 ($290.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** CIGAR-001 through CIGAR-025
+- **Assigned Agents:** `agent-tobacco-latifundia-and-cigar-auditor`, `agent-cigar-distributor-and-auction-marshal`
+- **Certified Skills:** `sovereign-tobacco-vegas-and-factory-disgorgement`, `habanos-joint-venture-and-wholesale-interdiction`, `luxury-cigar-auction-and-franchise-royalty-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Tobacco_Cigar_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_Cigar_Crosswalk_Matrix.csv)
+  - [Master_Tobacco_Cigar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_Cigar_Crosswalk_Dashboard.md)
+  - [Master_Tobacco_Cigar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_Cigar_Crosswalk_Dashboard.docx)

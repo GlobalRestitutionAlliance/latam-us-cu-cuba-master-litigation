@@ -367,4 +367,16 @@ skills:
   name: Agricultural Export Letter of Credit & Trade Receivables Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/agricultural-export-letter-of-credit-and-trade-garnishment.yaml
-total_skills: 111
+- id: sovereign-tobacco-vegas-and-factory-disgorgement
+  name: Sovereign Tobacco Vegas & Factory Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-tobacco-vegas-and-factory-disgorgement.yaml
+- id: habanos-joint-venture-and-wholesale-interdiction
+  name: Habanos S.A. Transnational Joint-Venture & Wholesale Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/habanos-joint-venture-and-wholesale-interdiction.yaml
+- id: luxury-cigar-auction-and-franchise-royalty-garnishment
+  name: Luxury Cigar Auction & Franchise Royalty Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/luxury-cigar-auction-and-franchise-royalty-garnishment.yaml
+total_skills: 114

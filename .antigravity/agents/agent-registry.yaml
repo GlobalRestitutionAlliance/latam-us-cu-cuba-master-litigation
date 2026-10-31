@@ -366,4 +366,14 @@ agents:
   role: Japanese Coffee Roaster Clearing Desks, European Citrus Escrows & Commodity Letter of Credit Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-commodity-trade-and-harvest-garnishee-marshal.yaml
-total_agents: 74
+- id: agent-tobacco-latifundia-and-cigar-auditor
+  name: Sovereign Tobacco Latifundia & Premium Cigar Monopoly Auditor
+  role: Tabacuba OSDE, Habanos S.A., Historic Cigar Rolling Palaces & Allied Cigar JV Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-tobacco-latifundia-and-cigar-auditor.yaml
+- id: agent-cigar-distributor-and-auction-marshal
+  name: Global Cigar Wholesale Distributor & Auction Receivables Garnishee Marshal
+  role: European Wholesale Clearing Rails, Asian Distribution Escrows & Luxury Cigar Auction Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cigar-distributor-and-auction-marshal.yaml
+total_agents: 76
