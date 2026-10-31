@@ -606,4 +606,14 @@ agents:
   role: Habanos S.A. (50/50 Joint Venture with Allied Cigar Corp / Imperial Brands), European Bonded Cigar Inventories, Global Distributorship Receivables & Royalty Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-habanos-jv-and-cigar-distributor-marshal.yaml
-total_agents: 122
+- id: agent-gaviota-tourism-monopoly-auditor
+  name: GAESA, Gaviota & Sovereign Hospitality Latifundia Auditor
+  role: GAESA, Grupo de Turismo Gaviota S.A., Cubanacán, Gran Caribe, Expropriated Pre-1959 Hotel Properties (FCSC Claims CU-0249, CU-1100, CU-2495) & Sovereign Hospitality Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-gaviota-tourism-monopoly-auditor.yaml
+- id: agent-hotel-jv-and-booking-escrow-marshal
+  name: Hotel JV, Helms-Burton Title III & Booking Escrow Marshal
+  role: Transnational Hotel Management Combines (Meliá, Iberostar, Blue Diamond, Kempinski), Helms-Burton Title III (22 U.S.C. § 6082), GDS (Amadeus, Sabre) & Tour Operator Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-hotel-jv-and-booking-escrow-marshal.yaml
+total_agents: 124

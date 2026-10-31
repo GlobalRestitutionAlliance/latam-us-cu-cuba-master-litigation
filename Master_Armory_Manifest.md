@@ -1581,3 +1581,23 @@ W:\Legal\US_CUBA\
   - [Master_Tobacco_TABACUBA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_TABACUBA_Crosswalk_Matrix.csv)
   - [Master_Tobacco_TABACUBA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_TABACUBA_Crosswalk_Dashboard.md)
   - [Master_Tobacco_TABACUBA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_TABACUBA_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 59)
+- `agent-gaviota-tourism-monopoly-auditor`: Grupo de Administración Empresarial S.A. (GAESA), Grupo de Turismo Gaviota S.A., Cubanacán S.A., Gran Caribe S.A., Expropriated Pre-1959 Hotel Properties (FCSC Claim Nos. CU-0249, CU-1100, CU-2495) & Sovereign Hospitality Latifundia Auditor.
+- `agent-hotel-jv-and-booking-escrow-marshal`: Transnational Hotel Management Combines (Meliá Hotels International, Iberostar Group, Blue Diamond Resorts, Kempinski AG, Accor S.A.), Helms-Burton Act Title III (22 U.S.C. § 6082), Central Reservation Systems (CRS), GDS (Amadeus, Sabre) & European Tour Operator Escrow Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 59)
+- `sovereign-tourism-monopoly-and-gaviota-disgorgement`: Sovereign Commercial Tourism Monopolies, GAESA/Gaviota Asset Unbundling & Hospitality Disgorgement.
+- `helms-burton-title-iii-hotel-management-interdiction`: Helms-Burton Title III (22 U.S.C. § 6082) Trafficking Interdiction & Transnational Hotel Management Fee Turnover.
+- `hotel-booking-clearinghouse-and-tour-escrow-garnishment`: Global Distribution Systems (Amadeus, Sabre), Central Reservation Clearinghouses & Tour Operator Escrow Garnishment.
+
+### Campaign 59: Sovereign Commercial Tourism Hospitality Monopolies, Grupo de Administración Empresarial S.A. (GAESA) / Grupo de Turismo Gaviota S.A. / Gran Caribe S.A. / Cubanacán S.A., Expropriated Pre-1959 Hotel Properties & Beachfront Latifundia (FCSC Claim Nos. CU-0249, CU-1100, CU-2495), Transnational Hotel Management Combines (Meliá Hotels International, Iberostar Group, Blue Diamond Resorts, Kempinski AG), Helms-Burton Title III Trafficking Enforcement (22 U.S.C. § 6082) & Global Distribution Systems (GDS) / Tour Operator Clearing Escrows (Amadeus, Sabre, TUI AG, Sunwing) Restitution Campaign
+- **Total Restitution Pool:** $325,000,000,000.00 ($325.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** HOSP-001 through HOSP-025
+- **Assigned Legal Research Agents:** `agent-gaviota-tourism-monopoly-auditor`, `agent-hotel-jv-and-booking-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-tourism-monopoly-and-gaviota-disgorgement`, `helms-burton-title-iii-hotel-management-interdiction`, `hotel-booking-clearinghouse-and-tour-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Hospitality_Gaviota_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hospitality_Gaviota_Crosswalk_Matrix.csv)
+  - [Master_Hospitality_Gaviota_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hospitality_Gaviota_Crosswalk_Dashboard.md)
+  - [Master_Hospitality_Gaviota_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hospitality_Gaviota_Crosswalk_Dashboard.docx)

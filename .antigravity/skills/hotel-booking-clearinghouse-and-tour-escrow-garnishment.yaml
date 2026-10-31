@@ -1,0 +1,12 @@
+skill:
+  id: "hotel-booking-clearinghouse-and-tour-escrow-garnishment"
+  name: "Global Distribution Systems (Amadeus, Sabre), Central Reservation Clearinghouses & Tour Operator Escrow Garnishment"
+  description: "Asset recovery execution protocols targeting third-party Global Distribution Systems (GDS), travel clearinghouses (Amadeus, Sabre, Hotelbeds), and wholesale tour operator booking escrows (TUI AG, Sunwing, DER Touristik) settling sovereign Cuban resort reservations."
+  category: "garnishment-and-interdiction"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Map electronic payment clearing flows between global distribution networks (Amadeus IT Group, Sabre Corporation), merchant aggregators, and Cuban state hotel reservation portals."
+    - "Serve Rule 69 writs of garnishment and international attachment orders on clearinghouse processors holding undistributed reservation proceeds destined for Cuban state accounts."
+    - "Audit and sequester tour operator bulk allotment advance payments and seasonal charter guarantee escrows maintained by European and Canadian wholesale travel conglomerates."
+    - "Compel turnover of all GDS booking transaction logs, passenger manifest cross-references, and settlement ledger accounts under Fed. R. Civ. P. 45 subpoenas."

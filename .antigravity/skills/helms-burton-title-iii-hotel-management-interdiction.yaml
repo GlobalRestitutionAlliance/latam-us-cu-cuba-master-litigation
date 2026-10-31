@@ -1,0 +1,12 @@
+skill:
+  id: "helms-burton-title-iii-hotel-management-interdiction"
+  name: "Helms-Burton Title III (22 U.S.C. § 6082) Trafficking Interdiction & Transnational Hotel Management Fee Turnover"
+  description: "Enforcement framework for establishing statutory civil liability and post-judgment garnishment of management contracts, marketing fees, and incentive royalties payable to multinational hotel management combines (Meliá, Iberostar, Blue Diamond, Kempinski, Accor) trafficking in confiscated Cuban hotel properties."
+  category: "civil-remedies-and-statutory-enforcement"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Audit international hotel management agreements (HMAs) executed between Cuban state entities (Gaviota/Gran Caribe/Cubanacán) and foreign hotel chains operating in Varadero, Havana, and the Cayos."
+    - "Establish statutory 'trafficking' nexus under 22 U.S.C. § 6023(13) and § 6082 for operating, managing, or profiting from confiscated properties without authorization from certified claim holders."
+    - "Serve post-judgment third-party citations and garnishment summonses upon North American, European, and offshore subsidiaries of foreign hotel combines to freeze management fee payables."
+    - "Obtain turnover orders directing international hotel management companies to deposit all base management fees and incentive percentages into a court-supervised qualified settlement fund."

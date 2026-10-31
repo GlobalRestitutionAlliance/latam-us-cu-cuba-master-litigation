@@ -655,4 +655,16 @@ skills:
   name: Premium Cigar Cargo Arrest & Distributor Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/premium-cigar-cargo-arrest-and-distributor-garnishment.yaml
-total_skills: 183
+- id: sovereign-tourism-monopoly-and-gaviota-disgorgement
+  name: Sovereign Tourism Monopoly & Gaviota Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-tourism-monopoly-and-gaviota-disgorgement.yaml
+- id: helms-burton-title-iii-hotel-management-interdiction
+  name: Helms-Burton Title III Hotel Management Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/helms-burton-title-iii-hotel-management-interdiction.yaml
+- id: hotel-booking-clearinghouse-and-tour-escrow-garnishment
+  name: Hotel Booking Clearinghouse & Tour Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/hotel-booking-clearinghouse-and-tour-escrow-garnishment.yaml
+total_skills: 186
