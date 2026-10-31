@@ -516,4 +516,14 @@ agents:
   role: Empresa Cubana Exportadora de Azúcar (CUBAZÚCAR), Bulk Sugar Carrier Arrests & Broker Off-Take Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cubazucar-and-bulk-sugar-garnishee-marshal.yaml
-total_agents: 104
+- id: agent-inmobiliaria-and-urban-latifundia-auditor
+  name: Inmobiliaria & Urban Latifundia Auditor
+  role: Inmobiliaria Monte Barreto S.A., Miramar Trade Center, Inmobiliaria Almest (GAESA), Urban Reform Confiscations & Diplomatic Real Estate Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-inmobiliaria-and-urban-latifundia-auditor.yaml
+- id: agent-miramar-trade-center-and-lease-garnishee-marshal
+  name: Miramar Trade Center & Lease Garnishee Marshal
+  role: Miramar Trade Center Tenant Leases, Offshore Rent Wire Escrows, Habaguanex Commercial Holdings & Title III Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-miramar-trade-center-and-lease-garnishee-marshal.yaml
+total_agents: 106

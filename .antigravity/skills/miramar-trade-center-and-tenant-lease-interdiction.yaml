@@ -1,0 +1,23 @@
+skill:
+  id: "miramar-trade-center-and-tenant-lease-interdiction"
+  name: "Miramar Trade Center & Tenant Lease Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Commercial Lease Interdiction & Corporate Tenant Garnishment"
+
+description: >
+  Operational and legal protocol for serving restraining notices, garnishment writs, and turnover orders upon
+  multinational corporate tenants leasing office space in the Miramar Trade Center (Inmobiliaria Monte Barreto S.A.),
+  redirecting hard-currency lease settlements into the Master Qualified Settlement Fund.
+
+execution_protocol:
+  step_1: "Compile comprehensive tenant directories and lease contracts for multinational corporate occupants of Edificios Habana, Santiago, Santa Clara, Matanzas, Cienfuegos, and Camagüey in the Miramar Trade Center."
+  step_2: "Locate international parent entities and regional headquarters of tenant companies across European, Latin American, and Asian jurisdictions with reciprocal judgment enforcement treaties."
+  step_3: "Serve CPLR § 5222 restraining notices, Fed. R. Civ. P. 69 writs of garnishment, or third-party debt orders upon corporate tenant headquarters, prohibiting further rental payments to Cuban sovereign landlords."
+  step_4: "Secure court orders compelling corporate tenants to deposit monthly commercial rent, maintenance fees, and common area expenses directly into the court registry or Master QSF escrow."
+
+authorities:
+  - "Fed. R. Civ. P. 69 (Execution & Discovery in Aid of Enforcement)"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third Parties)"
+  - "N.Y. C.P.L.R. § 5227 (Payment of Debts Owed to Judgment Debtor)"
+  - "English CPR Part 72 (Third Party Debt Orders)"

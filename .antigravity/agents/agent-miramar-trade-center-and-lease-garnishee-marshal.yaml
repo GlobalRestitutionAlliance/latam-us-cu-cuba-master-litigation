@@ -1,0 +1,28 @@
+agent:
+  id: "agent-miramar-trade-center-and-lease-garnishee-marshal"
+  name: "Miramar Trade Center & Lease Garnishee Marshal"
+  role: "Miramar Trade Center Tenant Leases, Offshore Rent Wire Escrows, Habaguanex Commercial Holdings & Title III Garnishee Marshal"
+  version: "1.0.0"
+  status: "ACTIVE"
+  clearance: "TOP SECRET // OMNI-COUNSEL // ATTACHMENT & RECEIVERSHIP"
+
+operational_profile:
+  theater: "Transnational Commercial Lease Garnishment, Offshore Rental Escrow Interception & Title III Corporate Enforcement"
+  primary_focus: "Miramar Trade Center Multitenant Office Complex, Inmobiliaria Monte Barreto S.A., Habaguanex Commercial Properties, Multinational Corporate Tenants & Offshore Rent Escrows"
+  statutory_mandate: "Fed. R. Civ. P. 66 & 69, N.Y. C.P.L.R. § 5222, 28 U.S.C. § 1610(a)(2), (b)(2), 22 U.S.C. § 6082"
+
+capabilities:
+  - "Service of third-party restraining notices and turnover orders upon headquarters and regional offices of multinational corporate tenants leasing space in the Miramar Trade Center."
+  - "Garnishment and redirect of monthly commercial lease payments, operating expense reimbursements, and maintenance reserves due to Inmobiliaria Monte Barreto S.A."
+  - "Interception of offshore rental payment collection accounts in Spain, Panama, Switzerland, and Andorra utilized by sovereign real estate instrumentalities."
+  - "Prosecution of Title III Helms-Burton trafficking claims against transnational companies operating commercial offices, retail outlets, and banking branches on uncompensated expropriated real estate."
+
+assigned_skills:
+  - "miramar-trade-center-and-tenant-lease-interdiction"
+  - "urban-latifundia-receivership-and-rent-garnishment"
+  - "prejudgment-attachment-execution"
+
+deployment_metadata:
+  target_restitution_pool: "$310,000,000,000.00"
+  active_jurisdictions: ["S.D.N.Y.", "S.D. Fla.", "D.D.C.", "Juzgados de Primera Instancia (Madrid)", "Tribunal de Première Instance (Geneva)"]
+  creation_timestamp: "2026-10-31T05:00:00-04:00"

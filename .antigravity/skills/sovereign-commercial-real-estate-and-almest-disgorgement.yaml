@@ -1,0 +1,23 @@
+skill:
+  id: "sovereign-commercial-real-estate-and-almest-disgorgement"
+  name: "Sovereign Commercial Real Estate & Almest Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Commercial Real Estate Execution & Confiscated Latifundia Disgorgement"
+
+description: >
+  Legal and forensic accounting methodology for asserting FSIA § 1605(a)(3) expropriation jurisdiction,
+  Bancec alter ego piercing, and commercial asset turnover against Inmobiliaria Almest S.A., Habaguanex S.A.,
+  and GAESA military real estate holding combines operating confiscated urban real estate in Cuba.
+
+execution_protocol:
+  step_1: "Correlate pre-1959 registered property deeds, urban cadastral records, and certified FCSC claims with currently operated commercial office towers, diplomatic quarters, and retail complexes in Miramar, Vedado, and Old Havana."
+  step_2: "Subpoena corporate registry records from Panama, Spain, and Havana proving military command control (GAESA) over Inmobiliaria Almest and the absorption of Habaguanex into military ownership."
+  step_3: "Document commercial leasing revenues collected in hard currency (USD, EUR, GBP) from foreign tenants, demonstrating commercial activity under 28 U.S.C. § 1605(a)(2) and § 1610(a)(2)."
+  step_4: "File turnover actions in federal district courts demanding accounting and seizure of all rental income, security deposits, and real estate management fees."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)"
+  - "28 U.S.C. § 1610(a)(2) (Commercial Property Attachment)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"

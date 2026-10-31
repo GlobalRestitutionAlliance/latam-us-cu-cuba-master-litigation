@@ -1370,3 +1370,23 @@ W:\Legal\US_CUBA\
   - [Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Dashboard.md)
   - [Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 50)
+- `agent-inmobiliaria-and-urban-latifundia-auditor`: Inmobiliaria Monte Barreto S.A., Miramar Trade Center, Inmobiliaria Almest (GAESA), Urban Reform Confiscations & Diplomatic Real Estate Auditor.
+- `agent-miramar-trade-center-and-lease-garnishee-marshal`: Multinational Corporate Tenant Leases, Offshore Rent Wire Escrows, Habaguanex Commercial Holdings & Title III Trafficking Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 50)
+- `sovereign-commercial-real-estate-and-almest-disgorgement`: Sovereign Commercial Real Estate Monopoly & Inmobiliaria Almest Disgorgement.
+- `miramar-trade-center-and-tenant-lease-interdiction`: Miramar Trade Center & Multinational Tenant Commercial Lease Interdiction.
+- `urban-latifundia-receivership-and-rent-garnishment`: Expropriated Urban Latifundia Receivership & Diplomatic Rent Garnishment.
+
+### Campaign 50 (Historic 50-Campaign Milestone): Sovereign Commercial Real Estate Monopolies, Urban Latifundia, Inmobiliaria Monte Barreto S.A. (Miramar Trade Center), GAESA Inmobiliaria Almest & Hard-Currency Diplomatic/Corporate Leases Disgorgement Campaign
+- **Total Restitution Pool:** $310,000,000,000.00 ($310.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** REAL-001 through REAL-025
+- **Assigned Agents:** `agent-inmobiliaria-and-urban-latifundia-auditor`, `agent-miramar-trade-center-and-lease-garnishee-marshal`
+- **Certified Skills:** `sovereign-commercial-real-estate-and-almest-disgorgement`, `miramar-trade-center-and-tenant-lease-interdiction`, `urban-latifundia-receivership-and-rent-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Matrix.csv)
+  - [Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Dashboard.md)
+  - [Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Real_Estate_Monte_Barreto_Miramar_Crosswalk_Dashboard.docx)
+

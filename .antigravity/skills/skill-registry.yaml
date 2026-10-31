@@ -547,4 +547,16 @@ skills:
   name: Sugar Cargo Arrest & Broker Receivable Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/sugar-cargo-arrest-and-broker-receivable-garnishment.yaml
-total_skills: 156
+- id: sovereign-commercial-real-estate-and-almest-disgorgement
+  name: Sovereign Commercial Real Estate & Almest Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-commercial-real-estate-and-almest-disgorgement.yaml
+- id: miramar-trade-center-and-tenant-lease-interdiction
+  name: Miramar Trade Center & Tenant Lease Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/miramar-trade-center-and-tenant-lease-interdiction.yaml
+- id: urban-latifundia-receivership-and-rent-garnishment
+  name: Urban Latifundia Receivership & Rent Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/urban-latifundia-receivership-and-rent-garnishment.yaml
+total_skills: 159

@@ -1,0 +1,23 @@
+skill:
+  id: "urban-latifundia-receivership-and-rent-garnishment"
+  name: "Urban Latifundia Receivership & Rent Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Equity Receivership & Sovereign Real Estate Foreclosure"
+
+description: >
+  Procedure for securing appointment of a Special Master and Equity Receiver under Fed. R. Civ. P. 53 and 66
+  over sovereign commercial real estate holdings, urban rental properties, diplomatic chancery leases,
+  and executing transnational judgment liens against offshore real estate assets and holding entities.
+
+execution_protocol:
+  step_1: "File verified motions in judgment enforcement courts seeking appointment of an Equity Receiver over the commercial real estate assets, leases, and revenue streams of Inmobiliaria Monte Barreto, Almest, and Habaguanex."
+  step_2: "Empower the Receiver to assume management rights, issue binding rent-demand notices to all foreign embassy and corporate tenants, and institute eviction or damages proceedings for non-compliance."
+  step_3: "Trace and attach offshore collection bank accounts in Spain, Switzerland, and Panama where foreign tenants deposit rental payments to evade direct U.S. sanctions."
+  step_4: "Record judgments and register exequatur liens against sovereign-owned real property and holding company equity located in European and Latin American capitals under local property laws."
+
+authorities:
+  - "Fed. R. Civ. P. 66 (Receivers Appointed by Federal Courts)"
+  - "Fed. R. Civ. P. 53 (Masters)"
+  - "28 U.S.C. § 1610(a)(2) (Execution on Agency/Instrumentality Commercial Property)"
+  - "Spanish Ley de Enjuiciamiento Civil (LEC) Arts. 584 et seq. (Embargo de Bienes)"
