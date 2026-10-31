@@ -1,0 +1,16 @@
+skill:
+  id: power-grid-infrastructure-and-tariff-garnishment
+  name: Power Grid Infrastructure & Tariff Garnishment
+  version: 1.0.0
+  description: Post-judgment garnishment of distributed generation batteries (Geysel), high-voltage transmission substation assets, and hard-currency industrial electricity billing escrows.
+  procedures:
+    - Identification and forensic tracing of distributed diesel and fuel oil generation units operated by Empresa de Mantenimiento a Grupos Electrógenos (Geysel / EMGEF).
+    - Attachment of high-voltage transmission equipment, step-up transformers, and switchyard control systems imported through third-country intermediaries.
+    - Encumbrance of hard-currency electricity tariffs collected from foreign joint venture factories, Mariel ZEDM enterprises, and GAESA tourist hotels.
+    - Service of third-party execution notices on multinational industrial enterprises paying power utility bills to UNE.
+    - Sweep of commercial power tariff receipts into court-supervised Qualified Settlement Funds (QSF) under 26 U.S.C. § 468B.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - 28 U.S.C. § 1610(g) & 26 U.S.C. § 468B Master QSF Receivership
+    - Restatement (Third) of Foreign Relations Law § 455
+  operational_status: ACTIVE

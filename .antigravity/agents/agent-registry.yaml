@@ -466,4 +466,14 @@ agents:
   role: Sherritt Energas Dividends, Matanzas Terminal Berths, Crude Tanker Admiralty Arrests & Hydrocarbon Trade Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-energy-joint-venture-and-tanker-garnishee-marshal.yaml
-total_agents: 94
+- id: agent-une-and-power-grid-auditor
+  name: Sovereign Electric Monopoly, UNE & Power Grid Auditor
+  role: Unión Eléctrica (UNE), Cuban Electric Company (CCE) Takings, Thermoelectric Plants & National Grid Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-une-and-power-grid-auditor.yaml
+- id: agent-powership-charter-and-energy-escrow-garnishee-marshal
+  name: Karpowership Charter, Generation Concession & Utility Escrow Garnishee Marshal
+  role: Turkish Powership Charters, Capacity Payment Escrows, Foreign Turbomachinery Receivables & Utility Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-powership-charter-and-energy-escrow-garnishee-marshal.yaml
+total_agents: 96

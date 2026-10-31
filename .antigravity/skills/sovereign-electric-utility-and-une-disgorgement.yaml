@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-electric-utility-and-une-disgorgement
+  name: Sovereign Electric Utility & UNE Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge UNE sovereign power monopolies, expropriated pre-1959 Cuban Electric Company assets, and base-load thermoelectric generating complexes.
+  procedures:
+    - Forensic mapping of the statutory monopoly granted to Unión Eléctrica (UNE) over power generation, transmission, and billing.
+    - Title reconstruction of nationalized Cuban Electric Company power plants, substations, and grid rights-of-way under FCSC Title V awards.
+    - Encumbrance of state-owned base-load thermoelectric stations (Guiteras, Felton, Mariel, Cienfuegos) under FSIA § 1610(a)(2).
+    - Service of charging orders on foreign engineering and turbine maintenance contractors holding state equipment or debt collateral.
+    - Enforcement of restitution liens over national power transmission lines and commercial electricity revenues.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Expropriated Utility Property
+    - Constructive Trust & Restitution under Restatement (Third) § 55
+  operational_status: ACTIVE

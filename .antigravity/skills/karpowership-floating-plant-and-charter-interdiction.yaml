@@ -1,0 +1,16 @@
+skill:
+  id: karpowership-floating-plant-and-charter-interdiction
+  name: Karpowership Floating Plant & Charter Interdiction
+  version: 1.0.0
+  description: Interdiction, Rule 69 turnover, and maritime attachment of Turkish floating powership charterparty contracts, capacity fee escrows, and mooring concessions.
+  procedures:
+    - Forensic identification and tracking of floating powerships moored in Havana Bay, Mariel Port, and Santiago de Cuba operated by Karadeniz Holding / Karpowership.
+    - Service of Supplemental Admiralty Rule B process on floating power barges and associated fuel supply vessels.
+    - Interception of monthly capacity payments, hard-currency charter hire, and fuel reimbursement escrows paid by UNE to offshore Turkish corporate entities.
+    - Freezing of correspondent banking rails in Turkey, Malta, the UK, and Switzerland handling Karpowership payment clearances.
+    - Encumbrance of sovereign payment guarantees and commercial letters of credit backing long-term power purchase agreements.
+  enforcement_framework:
+    - Supplemental Admiralty Rule B Maritime Attachment
+    - 28 U.S.C. § 1610(a)(2) Commercial Property Execution
+    - Fed. R. Civ. P. 69 Foreign Interline Turnover Precedents
+  operational_status: ACTIVE

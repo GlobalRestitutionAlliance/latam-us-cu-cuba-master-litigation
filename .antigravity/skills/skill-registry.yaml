@@ -487,4 +487,16 @@ skills:
   name: Tanker Cargo Arrest & Fuel Trade Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/tanker-cargo-arrest-and-fuel-trade-garnishment.yaml
-total_skills: 141
+- id: sovereign-electric-utility-and-une-disgorgement
+  name: Sovereign Electric Utility & UNE Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-electric-utility-and-une-disgorgement.yaml
+- id: karpowership-floating-plant-and-charter-interdiction
+  name: Karpowership Floating Plant & Charter Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/karpowership-floating-plant-and-charter-interdiction.yaml
+- id: power-grid-infrastructure-and-tariff-garnishment
+  name: Power Grid Infrastructure & Tariff Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/power-grid-infrastructure-and-tariff-garnishment.yaml
+total_skills: 144

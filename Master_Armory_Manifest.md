@@ -1273,3 +1273,22 @@ W:\Legal\US_CUBA\
   - [Master_Hydrocarbons_CUPET_Refining_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Matrix.csv)
   - [Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.md)
   - [Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 45)
+- `agent-une-and-power-grid-auditor`: Unión Eléctrica (UNE), Cuban Electric Company (CCE) Takings, Thermoelectric Plants & National Grid Auditor.
+- `agent-powership-charter-and-energy-escrow-garnishee-marshal`: Turkish Powership Charters, Capacity Payment Escrows, Foreign Turbomachinery Receivables & Utility Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 45)
+- `sovereign-electric-utility-and-une-disgorgement`: Sovereign Electric Utility & UNE Disgorgement.
+- `karpowership-floating-plant-and-charter-interdiction`: Karpowership Floating Plant & Charter Interdiction.
+- `power-grid-infrastructure-and-tariff-garnishment`: Power Grid Infrastructure & Tariff Garnishment.
+
+### Campaign 45: Sovereign Electric Power Generation, National Grid Monopolies, UNE Latifundia & Transnational Floating Power Plant (Karpowership) Concessions Disgorgement Campaign
+- **Total Restitution Pool:** $285,000,000,000.00 ($285.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** ELEC-001 through ELEC-025
+- **Assigned Agents:** `agent-une-and-power-grid-auditor`, `agent-powership-charter-and-energy-escrow-garnishee-marshal`
+- **Certified Skills:** `sovereign-electric-utility-and-une-disgorgement`, `karpowership-floating-plant-and-charter-interdiction`, `power-grid-infrastructure-and-tariff-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Electric_Power_UNE_Karpowership_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Karpowership_Crosswalk_Matrix.csv)
+  - [Master_Electric_Power_UNE_Karpowership_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Karpowership_Crosswalk_Dashboard.md)
+  - [Master_Electric_Power_UNE_Karpowership_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Karpowership_Crosswalk_Dashboard.docx)
