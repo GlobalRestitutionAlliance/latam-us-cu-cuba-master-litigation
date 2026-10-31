@@ -403,4 +403,16 @@ skills:
   name: Transnational Metallurgy Trade Finance & Credit Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-metallurgy-trade-finance-and-credit-garnishment.yaml
-total_skills: 120
+- id: sovereign-merchant-fleet-and-mambisa-disgorgement
+  name: Sovereign Merchant Fleet & Mambisa Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-merchant-fleet-and-mambisa-disgorgement.yaml
+- id: drydock-joint-venture-and-ship-repair-interdiction
+  name: Drydock Joint Venture & Ship Repair Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/drydock-joint-venture-and-ship-repair-interdiction.yaml
+- id: maritime-charter-hire-and-freight-garnishment
+  name: Maritime Charter Hire & Freight Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/maritime-charter-hire-and-freight-garnishment.yaml
+total_skills: 123

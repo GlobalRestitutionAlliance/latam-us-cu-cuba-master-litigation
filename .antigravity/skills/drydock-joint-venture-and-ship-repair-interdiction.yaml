@@ -1,0 +1,16 @@
+skill:
+  id: drydock-joint-venture-and-ship-repair-interdiction
+  name: Drydock Joint Venture & Ship Repair Interdiction
+  version: 1.0.0
+  description: Maritime execution protocol to encumber Caribbean Drydock Company (CDC S.A.), Damen Shipyards joint venture operations, floating drydocks, and foreign vessel repair cashflows.
+  procedures:
+    - Forensic audit of the corporate joint venture between the Cuban Ministry of Transport and Damen Shipyards Group operating Caribbean Drydock Company (CDC S.A.).
+    - Attachment of commercial ship repair invoices, maintenance deposits, and work-in-progress escrows paid by foreign-flagged shipowners.
+    - Encumbrance of the Panamax and Handysize floating drydocks, dockside heavy gantry cranes, and marine machine shops in Havana Bay.
+    - Service of Rule 69 garnishment orders on Damen Shiprepair entities and European maritime equipment suppliers holding joint-venture equity or profit shares.
+    - Seizure of foreign currency repair receivables and turnover into certified restitution trust accounts.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Fed. R. Civ. P. 69 Third-Party Debtor Process
+  operational_status: ACTIVE

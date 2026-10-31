@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-merchant-fleet-and-mambisa-disgorgement
+  name: Sovereign Merchant Fleet & Mambisa Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge sovereign merchant fleets, expropriated pre-1959 shipping line assets, and Acemex offshore shipowning vehicles.
+  procedures:
+    - Audit of the statutory monopoly granted to Empresa de Navegación Mambisa over state international maritime shipping operations.
+    - Forensic mapping of nationalized pre-1959 steamship fleets, cargo piers, and maritime agency assets across Havana, Cienfuegos, and Santiago de Cuba.
+    - Piercing of offshore corporate veils of Acemex Management Company Ltd., Transimar S.A., and single-ship shell companies in Panama, Cyprus, and Malta.
+    - Encumbrance of sovereign bulk carriers, multipurpose cargo ships, and tankers operating on international commercial trade lanes.
+    - Enforcement of restitution liens over sovereign maritime vessels, commercial shipping revenues, and port real estate.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Maritime Property
+    - Equitable Restitution & Constructive Trust Imposition under Restatement (Third) § 55
+  operational_status: ACTIVE

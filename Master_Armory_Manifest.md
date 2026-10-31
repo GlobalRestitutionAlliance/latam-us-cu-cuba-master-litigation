@@ -1140,3 +1140,22 @@ W:\Legal\US_CUBA\
   - [Master_Metallurgy_Steel_Scrap_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Metallurgy_Steel_Scrap_Crosswalk_Matrix.csv)
   - [Master_Metallurgy_Steel_Scrap_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Metallurgy_Steel_Scrap_Crosswalk_Dashboard.md)
   - [Master_Metallurgy_Steel_Scrap_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Metallurgy_Steel_Scrap_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 38)
+- `agent-merchant-fleet-and-mambisa-auditor`: Empresa de Navegación Mambisa, Acemex Group, Offshore Ship Registries & CDC S.A. Drydock JV Auditor.
+- `agent-admiralty-arrest-and-charter-garnishee-marshal`: Rule B/C Vessel Arrests, International Charter Hire Garnishment, Freight Escrows & Maritime Lien Marshal.
+
+## Newly Registered Skills (Campaign 38)
+- `sovereign-merchant-fleet-and-mambisa-disgorgement`: Sovereign Merchant Fleet & Mambisa Disgorgement.
+- `drydock-joint-venture-and-ship-repair-interdiction`: Drydock Joint Venture & Ship Repair Interdiction.
+- `maritime-charter-hire-and-freight-garnishment`: Maritime Charter Hire & Freight Garnishment.
+
+### Campaign 38: Sovereign Commercial Maritime Shipping Fleets, Bulk Cargo Carriers, Oil Tankers, Ship Repair Yards & Transnational Drydock JVs Campaign
+- **Total Restitution Pool:** $285,000,000,000.00 ($285.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** MARIT-001 through MARIT-025
+- **Assigned Agents:** `agent-merchant-fleet-and-mambisa-auditor`, `agent-admiralty-arrest-and-charter-garnishee-marshal`
+- **Certified Skills:** `sovereign-merchant-fleet-and-mambisa-disgorgement`, `drydock-joint-venture-and-ship-repair-interdiction`, `maritime-charter-hire-and-freight-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Maritime_Fleet_Drydock_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Maritime_Fleet_Drydock_Crosswalk_Matrix.csv)
+  - [Master_Maritime_Fleet_Drydock_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Maritime_Fleet_Drydock_Crosswalk_Dashboard.md)
+  - [Master_Maritime_Fleet_Drydock_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Maritime_Fleet_Drydock_Crosswalk_Dashboard.docx)

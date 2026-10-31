@@ -1,0 +1,16 @@
+skill:
+  id: maritime-charter-hire-and-freight-garnishment
+  name: Maritime Charter Hire & Freight Garnishment
+  version: 1.0.0
+  description: Financial execution protocol to attach time-charter and voyage-charter hire payments, freight earnings, demurrage receivables, and marine escrow accounts under Supplemental Admiralty Rule B.
+  procedures:
+    - Identification of active charterparties, contracts of affreightment (COAs), and fixture notes executed by Mambisa, Acemex, and state chartering desks.
+    - Service of Supplemental Admiralty Rule B maritime attachment process on charterers, commodity traders, and bunker suppliers within US district courts.
+    - Garnishment of freight remittances, unearned hire reserves, and demurrage settlement escrows held in international maritime correspondent banks.
+    - Foreclosure of maritime liens upon freights, sub-freights, and sub-charter hire pursuant to federal maritime law.
+    - Turnover of attached charter hire funds, escrow balances, and cargo sale proceeds directly into the Master QSF.
+  enforcement_framework:
+    - Supplemental Admiralty Rules B & C
+    - 28 U.S.C. § 1610(a)(2) & § 1610(g)
+    - General Maritime Law of Maritime Liens and Attachment
+  operational_status: ACTIVE

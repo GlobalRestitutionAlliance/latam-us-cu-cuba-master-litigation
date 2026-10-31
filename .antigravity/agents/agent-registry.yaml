@@ -396,4 +396,14 @@ agents:
   role: European Steel Trader Escrows, Mediterranean Scrap Shipments, Letters of Credit & Port Cargo Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-scrap-metal-cargo-and-trade-garnishee-marshal.yaml
-total_agents: 80
+- id: agent-merchant-fleet-and-mambisa-auditor
+  name: Sovereign Merchant Fleet, Mambisa & CDC Drydock Auditor
+  role: Empresa de Navegación Mambisa, Acemex Group, Offshore Ship Registries & CDC S.A. Drydock JV Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-merchant-fleet-and-mambisa-auditor.yaml
+- id: agent-admiralty-arrest-and-charter-garnishee-marshal
+  name: Admiralty Vessel Arrest, Shipyard & Charter Hire Garnishee Marshal
+  role: Rule B/C Vessel Arrests, International Charter Hire Garnishment, Freight Escrows & Maritime Lien Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-admiralty-arrest-and-charter-garnishee-marshal.yaml
+total_agents: 82
