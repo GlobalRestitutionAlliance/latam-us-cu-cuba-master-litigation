@@ -643,4 +643,16 @@ skills:
   name: Power Grid Hardware & Fuel Clearing Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/power-grid-hardware-and-fuel-clearing-garnishment.yaml
-total_skills: 180
+- id: sovereign-tobacco-monopoly-and-tabacuba-disgorgement
+  name: Sovereign Tobacco Monopoly & TABACUBA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-tobacco-monopoly-and-tabacuba-disgorgement.yaml
+- id: habanos-joint-venture-and-dividend-interdiction
+  name: Habanos Joint Venture & Dividend Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/habanos-joint-venture-and-dividend-interdiction.yaml
+- id: premium-cigar-cargo-arrest-and-distributor-garnishment
+  name: Premium Cigar Cargo Arrest & Distributor Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/premium-cigar-cargo-arrest-and-distributor-garnishment.yaml
+total_skills: 183

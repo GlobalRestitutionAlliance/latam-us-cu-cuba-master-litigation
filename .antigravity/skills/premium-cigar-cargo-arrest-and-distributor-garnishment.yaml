@@ -1,0 +1,25 @@
+skill:
+  id: "premium-cigar-cargo-arrest-and-distributor-garnishment"
+  name: "Premium Cigar Cargo Arrest & Distributor Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Commercial Tobacco Receivables Garnishment & Bonded Inventory Attachment"
+
+description: >
+  Enforcement protocol for attaching commercial accounts receivable owed by global exclusive cigar distributors,
+  executing conservatory arrest warrants over premium boxed cigar inventories in European customs bonded warehouses,
+  and enforcing statutory trademark remedies under Section 211.
+
+execution_protocol:
+  step_1: "Serve third-party debt orders under English CPR Part 72 and European enforcement regulations upon exclusive distributors (Hunters & Frankau in UK, 5th Avenue in Germany, Diadema in Italy, Coprova in France, Pacific Cigar in Hong Kong) attaching payment balances owed to Habanos S.A."
+  step_2: "Identify physical consignments of premium boxed cigars stored in customs-bonded facilities (Geneva FreePort, Madrid-Barajas, Rotterdam) and obtain conservatory arrest orders (saisie-conservatoire / conservatoir beslag)."
+  step_3: "Assert possessory maritime and commercial liens under Supplemental Admiralty Rules B and C on in-transit ocean and air cargo shipments of commercial tobacco exports."
+  step_4: "Enforce Section 211 of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (112 Stat. 2681-88), precluding recognition of confiscated trademark rights and disgorging unlawful licensing royalties."
+
+authorities:
+  - "28 U.S.C. § 1610(a)(2), (b)(2) (Commercial Property Attachment)"
+  - "Supplemental Rules for Admiralty or Maritime Claims, Rules B & C"
+  - "Section 211 of the Omnibus Consolidated Act, 1999, Pub. L. No. 105-277, § 211, 112 Stat. 2681-88"
+  - "Swiss Federal Law on Debt Enforcement and Bankruptcy (SchKG) Art. 271 (Arrest)"
+  - "Dutch Code of Civil Procedure (Rv) Art. 700 & 718 (Conservatoir Beslag)"
+  - "English Civil Procedure Rules (CPR) Part 72 (Third-Party Debt Orders)"

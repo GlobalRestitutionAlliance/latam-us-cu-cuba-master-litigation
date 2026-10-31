@@ -1,0 +1,26 @@
+skill:
+  id: "sovereign-tobacco-monopoly-and-tabacuba-disgorgement"
+  name: "Sovereign Tobacco Monopoly & TABACUBA Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Agro-Industrial Tobacco Civil Execution & State Enterprise Disgorgement"
+
+description: >
+  Legal, forensic accounting, and evidentiary methodology for asserting FSIA § 1605(a)(2) and § 1605(a)(3) jurisdiction,
+  Bancec alter ego liability, and Title III Helms-Burton claims against Grupo Empresarial de Tabaco de Cuba (TABACUBA)
+  and Cubatabaco exploiting confiscated cigar manufactories, leaf latifundia, and proprietary trademarks.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (FCSC Claim Nos. CU-1335, CU-1336, Menéndez, García y Cía. / Cifuentes y Cía. / Francisco Palicio y Cía.) with modern cigar manufacturing factories, curing barns, and agricultural plantations operated by TABACUBA."
+  step_2: "Audit official Cuban ministerial decrees and Mercantile Registry filings establishing state beneficial ownership, military oversight under GAESA/MINAG, and corporate unity under First National City Bank v. Bancec."
+  step_3: "Apply the commercial activity exception affirmed in Alfred Dunhill of London, Inc. v. Republic of Cuba, 425 U.S. 682 (1976), establishing that repudiation of commercial debts and retention of cigar sales proceeds is purely commercial conduct."
+  step_4: "File turnover and restitution actions in federal district courts demanding accounting and disgorgement of all international cigar revenues, export contracts, and commercial franchise fees."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(a)(3) (Expropriation Exception to Foreign Sovereign Immunity)"
+  - "28 U.S.C. § 1610(a)(2) & (b)(2) (Commercial Property Attachment and Execution)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Alfred Dunhill of London, Inc. v. Republic of Cuba, 425 U.S. 682 (1976)"
+  - "Menendez v. Faber, Coe & Gregg, Inc., 485 F.2d 1355 (2d Cir. 1973)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"

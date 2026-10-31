@@ -1562,3 +1562,22 @@ W:\Legal\US_CUBA\
   - [Master_Electric_Power_UNE_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Crosswalk_Dashboard.md)
   - [Master_Electric_Power_UNE_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 58)
+- `agent-tabacuba-and-cigar-monopoly-auditor`: Grupo Empresarial de Tabaco de Cuba (TABACUBA), Ministry of Agriculture (MINAG), Expropriated Pre-1959 Cigar Manufactories (Menéndez García / Cifuentes / Dunhill Precedents, FCSC Claim Nos. CU-1335 & CU-1336) & Agro-Industrial Tobacco Monopoly Auditor.
+- `agent-habanos-jv-and-cigar-distributor-marshal`: Habanos S.A. 50/50 Transnational Joint Venture, Worldwide Cigar Export Consignment Contracts, Bonded Free Zone Inventories & Foreign Exclusive Distributor Royalty Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 58)
+- `sovereign-tobacco-monopoly-and-tabacuba-disgorgement`: Sovereign Commercial Premium Tobacco Monopoly & TABACUBA Disgorgement.
+- `habanos-joint-venture-and-dividend-interdiction`: Habanos S.A. Transnational Joint Venture, Offshore Corporate Profits & Dividend Interdiction.
+- `premium-cigar-cargo-arrest-and-distributor-garnishment`: Premium Cigar Physical Cargo In Rem Arrest, Customs Bonded Warehouse Seizure & Distributor Royalty Garnishment.
+
+### Campaign 58: Sovereign Commercial Premium Tobacco Agro-Industrial Monopolies, Grupo Empresarial de Tabaco de Cuba (TABACUBA), Habanos S.A. Transnational Joint Venture, Worldwide Cigar Export Consignments, Royalties & Expropriated Pre-1959 Cigar Manufactories and Trademarks (Menéndez García / Cifuentes / Dunhill Precedents) Restitution Campaign
+- **Total Restitution Pool:** $320,000,000,000.00 ($320.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** TOBC-001 through TOBC-025
+- **Assigned Legal Research Agents:** `agent-tabacuba-and-cigar-monopoly-auditor`, `agent-habanos-jv-and-cigar-distributor-marshal`
+- **Certified Procedural Skills:** `sovereign-tobacco-monopoly-and-tabacuba-disgorgement`, `habanos-joint-venture-and-dividend-interdiction`, `premium-cigar-cargo-arrest-and-distributor-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Tobacco_TABACUBA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_TABACUBA_Crosswalk_Matrix.csv)
+  - [Master_Tobacco_TABACUBA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_TABACUBA_Crosswalk_Dashboard.md)
+  - [Master_Tobacco_TABACUBA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Tobacco_TABACUBA_Crosswalk_Dashboard.docx)

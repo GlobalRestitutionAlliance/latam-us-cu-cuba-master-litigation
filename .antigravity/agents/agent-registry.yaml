@@ -596,4 +596,14 @@ agents:
   role: Floating Power Barge Charters (Karpowership / Karadeniz Holdings), Heavy Fuel Oil Procurement Escrows, High-Voltage Substation Hardware & Electrical Tariff Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-floating-power-plant-and-fuel-escrow-marshal.yaml
-total_agents: 120
+- id: agent-tabacuba-and-cigar-monopoly-auditor
+  name: TABACUBA & Cigar Monopoly Auditor
+  role: TABACUBA (Grupo Empresarial de Tabaco de Cuba), Expropriated Cigar Manufactories (Menéndez García / Cifuentes / Partagás / H. Upmann) & Vuelta Abajo Latifundia Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-tabacuba-and-cigar-monopoly-auditor.yaml
+- id: agent-habanos-jv-and-cigar-distributor-marshal
+  name: Habanos JV & Cigar Distributor Marshal
+  role: Habanos S.A. (50/50 Joint Venture with Allied Cigar Corp / Imperial Brands), European Bonded Cigar Inventories, Global Distributorship Receivables & Royalty Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-habanos-jv-and-cigar-distributor-marshal.yaml
+total_agents: 122
