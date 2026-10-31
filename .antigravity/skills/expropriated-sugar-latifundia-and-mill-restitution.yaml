@@ -1,0 +1,12 @@
+skill:
+  id: "expropriated-sugar-latifundia-and-mill-restitution"
+  name: "Expropriated Sugar Latifundia, Mill Restitution & Title III Trafficking Actions"
+  description: "Legal restitution and cadastral title-tracing protocol targeting uncompensated confiscations of pre-1959 American sugar empires under Law 851 (Cuban-American Sugar Co., United Fruit Co., West Indies Sugar Corp., Vertientes-Camagüey, Francisco Sugar, Amstar), enforcing Helms-Burton Title III private rights of action (22 U.S.C. § 6082) and Title IV executive visa exclusions (22 U.S.C. § 6091)."
+  category: "sugar-title-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Authenticate FCSC Certified Claims (Cuban-American CU-2572, United Fruit CU-0026, West Indies CU-2573, Vertientes-Camagüey CU-0045, Francisco Sugar CU-2574, Amstar CU-2490) and map historical mill and plantation boundaries against active AZCUBA sugar enterprises."
+    - "Document commercial trafficking under 22 U.S.C. § 6082 by tracking the cultivation, harvest, milling, and commercialization of sugar produced on confiscated latifundia."
+    - "Prepare Helms-Burton Title III civil complaints seeking treble damages against transnational commodity trading houses, food processors, and shipping conglomerates sourcing sugar from confiscated properties."
+    - "Submit Title IV evidentiary dossiers to the U.S. Department of State for mandatory visa revocation and executive exclusion of corporate officers of trafficking commodity entities."

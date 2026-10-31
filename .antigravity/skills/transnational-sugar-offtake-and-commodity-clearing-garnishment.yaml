@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-sugar-offtake-and-commodity-clearing-garnishment"
+  name: "Transnational Sugar Offtake Garnishment, Commodity Clearing Interdiction & QSF Trust Marshalling"
+  description: "Cross-border post-judgment execution and escrow garnishment framework targeting CUBAZÚCAR raw sugar export proceeds, bilateral state off-take contracts (China COFCO), ICE Sugar No. 11 broker clearing accounts (London/New York), bulk terminal port dues, and biomass co-generation revenues for deposit into a 26 U.S.C. § 468B Master QSF Trust."
+  category: "sugar-commodity-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Attach and garnish commercial trade receivables, letters of credit, and payment streams owed by foreign buyers and state trading corporations to CUBAZÚCAR under FSIA § 1610(a)(2) and TRIA § 201."
+    - "Serve writs of execution and post-judgment charging orders on commodity brokerage accounts, clearinghouses, and margin floats associated with ICE Sugar No. 11 futures contracts."
+    - "Enforce maritime liens and attach charterparty freight escrows on dry bulk cargo vessels loading raw sugar at Cienfuegos, Guayabal, and Matanzas bulk loading terminals."
+    - "Marshal seized commercial proceeds and settlement payments into a 26 U.S.C. § 468B Qualified Settlement Fund (QSF) Trust for pro-rata distribution to certified claimants."

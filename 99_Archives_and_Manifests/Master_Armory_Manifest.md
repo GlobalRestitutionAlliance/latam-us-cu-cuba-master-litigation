@@ -1841,3 +1841,41 @@ W:\Legal\US_CUBA\
   - [Master_Cubaniquel_Sherritt_Mining_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cubaniquel_Sherritt_Mining_Crosswalk_Matrix.csv)
   - [Master_Cubaniquel_Sherritt_Mining_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cubaniquel_Sherritt_Mining_Crosswalk_Dashboard.md)
   - [Master_Cubaniquel_Sherritt_Mining_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cubaniquel_Sherritt_Mining_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 72)
+- `agent-azcuba-and-sugar-monopoly-auditor`: Grupo Empresarial Agroazucarero (AZCUBA), Zerus S.A., Expropriated Pre-1959 American Sugar Empires (Law 851, Cuban-American Sugar Co. CU-2572, United Fruit Co. CU-0026, West Indies Sugar CU-2573, Vertientes-Camagüey CU-0045, Francisco Sugar CU-2574, Amstar CU-2490), Centrales Azucareros, Cane Latifundia & Alter Ego Auditor.
+- `agent-cubazucar-and-commodity-escrow-marshal`: Empresa Cubana Exportadora de Azúcar y sus Derivados (CUBAZÚCAR / TECUBA), Deepwater Bulk Sugar Maritime Terminals (Cienfuegos, Guayabal, Matanzas), Bilateral State Off-Take Quotas (China COFCO), ICE Sugar No. 11 Futures Clearing, Biomass Energy JVs (Biopower / Central Ciro Redondo) & Commodity Escrow Marshal.
+
+## Newly Registered Skills (Campaign 72)
+- `sovereign-sugar-monopoly-and-azcuba-disgorgement`: Sovereign Sugar Monopoly, AZCUBA Corporate Disgorgement, Agro-Industrial Mill Auditing & Bancec Alter Ego Liability.
+- `expropriated-sugar-latifundia-and-mill-restitution`: Expropriated Sugar Latifundia, Centrales Azucareros Restitution & Helms-Burton Title III/IV Trafficking Actions (22 U.S.C. §§ 6082, 6091).
+- `transnational-sugar-offtake-and-commodity-clearing-garnishment`: Transnational Sugar Offtake Accounts Receivable Garnishment, ICE Sugar No. 11 Broker Float Interdiction, Dry Bulk Charterparty Attachment & Master QSF Distribution.
+
+### Campaign 72 (Historic 150-Agent & $23T Milestone): Sovereign Commercial Raw Sugar Agro-Industrial Monopolies, Grupo Empresarial Agroazucarero (AZCUBA), CUBAZÚCAR / TECUBA Export Escrows, Expropriated Pre-1959 American Sugar Empires (Law 851, Cuban-American Sugar Co. CU-2572, United Fruit Co. CU-0026, West Indies Sugar CU-2573, Vertientes-Camagüey CU-0045, Francisco Sugar CU-2574, Amstar CU-2490), Deepwater Bulk Terminals (Cienfuegos Tricontinental, Guayabal, Matanzas), Bilateral State Off-Take Quotas (China COFCO), ICE Sugar No. 11 Futures Clearing & Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082) Restitution Campaign
+- **Total Restitution Pool:** $370,000,000,000.00 ($370.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** SUG-001 through SUG-025
+- **Assigned Legal Research Agents:** `agent-azcuba-and-sugar-monopoly-auditor`, `agent-cubazucar-and-commodity-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-sugar-monopoly-and-azcuba-disgorgement`, `expropriated-sugar-latifundia-and-mill-restitution`, `transnational-sugar-offtake-and-commodity-clearing-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Matrix.csv)
+  - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.md)
+  - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 72)
+- `agent-azcuba-holding-and-zerus-joint-venture-auditor`: Grupo Empresarial Agroazucarero (AZCUBA), Zerus S.A., Expropriated Pre-1959 American Sugar Empires (Law 851, Cuban-American Sugar Co. CU-2572, United Fruit Co. CU-0026, West Indies Sugar CU-2573, Vertientes-Camagüey CU-0045, Francisco Sugar CU-2574, Amstar CU-2490), Centrales Azucareros, Cane Latifundia & Alter Ego Auditor.
+- `agent-cubazucar-and-commodity-escrow-marshal`: Empresa Cubana Exportadora de Azúcar y sus Derivados (CUBAZÚCAR / TECUBA), Deepwater Bulk Sugar Maritime Terminals (Cienfuegos, Guayabal, Matanzas), Bilateral State Off-Take Quotas (China COFCO), ICE Sugar No. 11 Futures Clearing, Biomass Energy JVs (Biopower / Central Ciro Redondo) & Commodity Escrow Marshal.
+
+## Newly Registered Skills (Campaign 72)
+- `azcuba-holding-and-sugar-agroindustrial-disgorgement`: AZCUBA Holding, Sugar Agro-Industrial Disgorgement & Corporate Auditing.
+- `expropriated-sugar-latifundia-and-mill-restitution`: Expropriated Sugar Latifundia, Centrales Azucareros Restitution & Helms-Burton Title III/IV Trafficking Actions (22 U.S.C. §§ 6082, 6091).
+- `transnational-sugar-offtake-and-commodity-clearing-garnishment`: Transnational Sugar Offtake Accounts Receivable Garnishment, ICE Sugar No. 11 Broker Float Interdiction, Dry Bulk Charterparty Attachment & Master QSF Distribution.
+
+### Campaign 72 (Historic 150-Agent & $23T Milestone): Sovereign Commercial Raw Sugar Agro-Industrial Monopolies, Grupo Empresarial Agroazucarero (AZCUBA), CUBAZÚCAR / TECUBA Export Escrows, Expropriated Pre-1959 American Sugar Empires (Law 851, Cuban-American Sugar Co. CU-2572, United Fruit Co. CU-0026, West Indies Sugar CU-2573, Vertientes-Camagüey CU-0045, Francisco Sugar CU-2574, Amstar CU-2490), Deepwater Bulk Terminals (Cienfuegos Tricontinental, Guayabal, Matanzas), Bilateral State Off-Take Quotas (China COFCO), ICE Sugar No. 11 Futures Clearing & Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082) Restitution Campaign
+- **Total Restitution Pool:** $370,000,000,000.00 ($370.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** SUG-001 through SUG-025
+- **Assigned Legal Research Agents:** `agent-azcuba-holding-and-zerus-joint-venture-auditor`, `agent-cubazucar-and-commodity-escrow-marshal`
+- **Certified Procedural Skills:** `azcuba-holding-and-sugar-agroindustrial-disgorgement`, `expropriated-sugar-latifundia-and-mill-restitution`, `transnational-sugar-offtake-and-commodity-clearing-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Matrix.csv)
+  - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.md)
+  - [Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_AZCUBA_Sugar_Agroindustrial_Crosswalk_Dashboard.docx)

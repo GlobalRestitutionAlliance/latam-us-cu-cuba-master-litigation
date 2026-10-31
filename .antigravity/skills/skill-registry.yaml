@@ -811,4 +811,16 @@ skills:
   name: Transnational Cobalt Offtake Garnishment, Sherritt Dividend Interdiction & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-cobalt-offtake-and-sherritt-dividend-escrow-garnishment.yaml
-total_skills: 222
+- id: azcuba-holding-and-sugar-agroindustrial-disgorgement
+  name: AZCUBA Holding, Sugar Agro-Industrial Disgorgement & Corporate Auditing
+  status: ACTIVE
+  manifest_file: .antigravity/skills/azcuba-holding-and-sugar-agroindustrial-disgorgement.yaml
+- id: expropriated-sugar-latifundia-and-mill-restitution
+  name: Expropriated Sugar Latifundia, Mill Restitution & Title III Trafficking Actions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-sugar-latifundia-and-mill-restitution.yaml
+- id: transnational-sugar-offtake-and-commodity-clearing-garnishment
+  name: Transnational Sugar Offtake Garnishment, Commodity Clearing Interdiction & QSF Trust Marshalling
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-sugar-offtake-and-commodity-clearing-garnishment.yaml
+total_skills: 225

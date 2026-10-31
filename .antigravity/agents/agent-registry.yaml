@@ -736,4 +736,14 @@ agents:
   role: Moa Nickel S.A. 50/50 Joint Venture with Sherritt International Corp., Fort Saskatchewan Hydrometallurgical Refinery (Alberta), International Cobalt Company Inc. (ICCI), Transnational Offtake Agreements (China Minmetals, European Battery Consortia), LME Warehouse Warrants & Dividend Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-sherritt-jv-and-cobalt-offtake-escrow-marshal.yaml
-total_agents: 148
+- id: agent-azcuba-holding-and-zerus-joint-venture-auditor
+  name: AZCUBA Holding & Zerus Joint Venture Auditor
+  role: Grupo Empresarial Agroazucarero (AZCUBA), Zerus S.A., Expropriated Pre-1959 American Sugar Empires (Law 851, Cuban-American Sugar Co. CU-2572, United Fruit Co. CU-0026, West Indies Sugar CU-2573, Vertientes-Camagüey CU-0045, Francisco Sugar CU-2574, Amstar CU-2490), Centrales Azucareros, Cane Latifundia & Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-azcuba-holding-and-zerus-joint-venture-auditor.yaml
+- id: agent-cubazucar-and-commodity-escrow-marshal
+  name: CUBAZÚCAR & Commodity Escrow Marshal
+  role: Empresa Cubana Exportadora de Azúcar y sus Derivados (CUBAZÚCAR / TECUBA), Deepwater Bulk Sugar Maritime Terminals (Cienfuegos, Guayabal, Matanzas), Bilateral State Off-Take Quotas (China COFCO), ICE Sugar No. 11 Futures Clearing, Biomass Energy JVs (Biopower / Central Ciro Redondo) & Commodity Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cubazucar-and-commodity-escrow-marshal.yaml
+total_agents: 150
