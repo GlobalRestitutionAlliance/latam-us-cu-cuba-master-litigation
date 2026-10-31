@@ -6,7 +6,7 @@ The repository operates under a Zero-Trust Model designed to protect evidentiary
 ## Reporting a Security Vulnerability or Breach
 If you discover a security vulnerability, compromised signing key, or unauthorized commit:
 1. **Do not create a public issue.**
-2. Send an encrypted notification to the Maintainer Council: `security@globalrestitutionalliance.org` (GPG Key: `VERIFICATION_KEYS/maintainers.asc`).
+2. Submit a confidential report via GitHub Private Vulnerability Reporting / Security Advisories.
 3. For immediate CI alert notifications, utilize the `[SECURITY-ALERT]` issue template.
 
 ## The Reversion Protocol (Anti-Derailment Maneuver)
@@ -17,12 +17,12 @@ If a malicious or corrupted commit bypasses checks and merges into `main`:
    ```
 2. **Verify Tag Cryptographic Signature:**
    ```bash
-   git tag -v v1.805.0
+   git tag -v v1.0.1
    ```
 3. **Execute Local Hard Reset:**
    ```bash
    git checkout main
-   git reset --hard v1.805.0
+   git reset --hard v1.0.1
    ```
 4. **Synchronize Force-Reset Across All Mirrors:**
    ```bash

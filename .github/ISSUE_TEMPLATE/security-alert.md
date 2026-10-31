@@ -15,6 +15,6 @@ Describe the observed anomaly, unauthorized commit attempt, or credential compro
 - **Observed Integrity Failure:**
 
 ### Proposed Mitigation
-- [ ] Hard reset to last verified signed release tag (e.g., `v1.805.0`).
+- [ ] Hard reset to last verified signed release tag (e.g., `v1.0.1`).
 - [ ] Revoke compromised GPG key in `VERIFICATION_KEYS/maintainers.asc`.
 - [ ] Trigger Reversion Protocol across all decentralized mirrors.

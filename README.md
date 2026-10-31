@@ -1,7 +1,7 @@
 # US-CUBA MASTER LITIGATION: INSTITUTIONAL RESTITUTION FRAMEWORK
 [![Integrity Verification](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml)
 [![Decentralized Mirror Sync](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml)
-[![Genesis Release](https://img.shields.io/badge/Release-v1.805.0--LOCKED-blue.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/releases/tag/v1.805.0)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.1-blue.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/releases/tag/v1.0.1)
 [![Litigation Status](https://img.shields.io/badge/Campaigns_Active-82_Phases-success.svg)](Master_Armory_Manifest.md)
 [![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-170_Deployed-blue.svg)](.antigravity/agents/agent-registry.yaml)
 [![Certified Skills](https://img.shields.io/badge/Certified_Skills-255_Active-purple.svg)](.antigravity/skills/skill-registry.yaml)
