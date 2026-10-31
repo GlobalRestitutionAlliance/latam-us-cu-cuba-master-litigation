@@ -1,0 +1,12 @@
+skill:
+  id: "passenger-port-dues-and-shore-excursion-escrow-garnishment"
+  name: "Cruise Passenger Head Tax Interdiction, Port Docking Dues Garnishment & Shore Excursion Escrow Seizure"
+  description: "Asset recovery execution protocols targeting passenger disembarkation port fees, pilotage and tugboat service charges, and cruise shore excursion settlement accounts held by travel management intermediaries."
+  category: "garnishment-and-interdiction"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Audit international booking and port clearance ledgers for passenger cruise vessels calling at Havana, Cienfuegos, and Santiago de Cuba."
+    - "Serve Supplemental Admiralty Rule B attachment writs upon international passenger processing escrows and vessel agent accounts."
+    - "Sequester passenger shore excursion clearing funds paid through international tour operators (Havanatur, Cubanacán Viajes, Gaviota Tours)."
+    - "Compel turnover of cruise line port fee settlement statements, passenger manifests, and foreign correspondent bank remittance records under Fed. R. Civ. P. 45 subpoenas."

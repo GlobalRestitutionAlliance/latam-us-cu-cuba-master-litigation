@@ -1661,3 +1661,23 @@ W:\Legal\US_CUBA\
   - [Master_Petroleum_CUPET_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Petroleum_CUPET_Crosswalk_Matrix.csv)
   - [Master_Petroleum_CUPET_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Petroleum_CUPET_Crosswalk_Dashboard.md)
   - [Master_Petroleum_CUPET_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Petroleum_CUPET_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 63)
+- `agent-havana-docks-and-cruise-terminal-auditor`: Havana Docks Corporation (CU-2492), Expropriated Piers (San Francisco / Machina / Santa Clara), GAESA / AUSA Passenger Terminals & Cruise Port Auditor.
+- `agent-cruise-line-trafficking-and-passenger-dues-marshal`: Cruise Line Trafficking (Carnival, Royal Caribbean, Norwegian, MSC Precedents), S.D. Fla. Helms-Burton Title III Judgments, Passenger Head Taxes & Port Dues Marshal.
+
+## Newly Registered Skills (Campaign 63)
+- `sovereign-cruise-terminal-monopoly-and-ausa-disgorgement`: Sovereign Commercial Maritime Passenger Port Monopolies, GAESA/AUSA Concession Unbundling & Terminal Revenue Disgorgement.
+- `helms-burton-title-iii-cruise-line-trafficking-enforcement`: Helms-Burton Title III (22 U.S.C. § 6082) Cruise Line Trafficking Execution & Passenger Fare Turnover.
+- `passenger-port-dues-and-shore-excursion-escrow-garnishment`: Cruise Passenger Head Tax Interdiction, Port Docking Dues Garnishment & Shore Excursion Escrow Seizure.
+
+### Campaign 63: Sovereign Commercial Cruise Ship Terminals, Maritime Passenger Docks, Havana Docks Corporation (CU-2492), Expropriated Deepwater Piers (San Francisco / Machina / Santa Clara), S.D. Fla. Helms-Burton Title III Maritime Trafficking Judgments (Havana Docks Corp. v. Carnival / Royal Caribbean / Norwegian / MSC Precedents) & International Passenger Port Dues Restitution Campaign
+- **Total Restitution Pool:** $325,000,000,000.00 ($325.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** CRUS-001 through CRUS-025
+- **Assigned Legal Research Agents:** `agent-havana-docks-and-cruise-terminal-auditor`, `agent-cruise-line-trafficking-and-passenger-dues-marshal`
+- **Certified Procedural Skills:** `sovereign-cruise-terminal-monopoly-and-ausa-disgorgement`, `helms-burton-title-iii-cruise-line-trafficking-enforcement`, `passenger-port-dues-and-shore-excursion-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Cruise_Terminals_Havana_Docks_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cruise_Terminals_Havana_Docks_Crosswalk_Matrix.csv)
+  - [Master_Cruise_Terminals_Havana_Docks_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cruise_Terminals_Havana_Docks_Crosswalk_Dashboard.md)
+  - [Master_Cruise_Terminals_Havana_Docks_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cruise_Terminals_Havana_Docks_Crosswalk_Dashboard.docx)

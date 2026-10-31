@@ -703,4 +703,16 @@ skills:
   name: Supertanker Terminal Cargo Arrest & Bunker Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/supertanker-terminal-cargo-arrest-and-bunker-garnishment.yaml
-total_skills: 195
+- id: sovereign-cruise-terminal-monopoly-and-ausa-disgorgement
+  name: Sovereign Cruise Terminal Monopoly & AUSA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-cruise-terminal-monopoly-and-ausa-disgorgement.yaml
+- id: helms-burton-title-iii-cruise-line-trafficking-enforcement
+  name: Helms-Burton Title III Cruise Line Trafficking Enforcement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/helms-burton-title-iii-cruise-line-trafficking-enforcement.yaml
+- id: passenger-port-dues-and-shore-excursion-escrow-garnishment
+  name: Passenger Port Dues & Shore Excursion Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/passenger-port-dues-and-shore-excursion-escrow-garnishment.yaml
+total_skills: 198

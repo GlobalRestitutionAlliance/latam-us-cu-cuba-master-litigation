@@ -646,4 +646,14 @@ agents:
   role: Transnational Crude Tanker Fleets, Bunkering Conduits, D.D.C. Title III Petroleum Enforcement (Exxon Mobil v. CIMEX & CUPET) & Oil Swap Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-oil-tanker-and-bunkering-escrow-marshal.yaml
-total_agents: 130
+- id: agent-havana-docks-and-cruise-terminal-auditor
+  name: Havana Docks & Cruise Terminal Auditor
+  role: Havana Docks Corporation (CU-2492), Expropriated Piers (San Francisco / Machina / Santa Clara), GAESA / AUSA Passenger Terminals & Cruise Port Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-havana-docks-and-cruise-terminal-auditor.yaml
+- id: agent-cruise-line-trafficking-and-passenger-dues-marshal
+  name: Cruise Line Trafficking & Passenger Dues Marshal
+  role: Cruise Line Trafficking (Carnival, Royal Caribbean, Norwegian, MSC Precedents), S.D. Fla. Helms-Burton Title III Judgments, Passenger Head Taxes & Port Dues Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cruise-line-trafficking-and-passenger-dues-marshal.yaml
+total_agents: 132

@@ -1,0 +1,12 @@
+skill:
+  id: "helms-burton-title-iii-cruise-line-trafficking-enforcement"
+  name: "Helms-Burton Title III (22 U.S.C. § 6082) Cruise Line Trafficking Execution & Passenger Fare Turnover"
+  description: "Enforcement framework for executing final judgments and collecting statutory treble damages against international cruise ship operators (Carnival, Royal Caribbean, Norwegian, MSC) trafficking in uncompensated confiscated passenger cruise terminals under Havana Docks Corporation precedents."
+  category: "civil-remedies-and-statutory-enforcement"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Enforce federal court judgments entered in Havana Docks Corp. v. Carnival Corp., Royal Caribbean Cruises Ltd., Norwegian Cruise Line Holdings Ltd., and MSC Cruises S.A. (S.D. Fla.) under 22 U.S.C. § 6082."
+    - "Serve post-judgment third-party citations and Rule 69 garnishment summonses upon North American, European, and Bahamian cruise ticketing clearinghouses."
+    - "Calculate and enforce statutory treble damages and pre-judgment interest accrued on certified FCSC awards for confiscated cruise docks."
+    - "Obtain turnover decrees compelling cruise lines to deposit passenger head tax reserves, port berthing escrows, and shore excursion revenues into a court-supervised qualified settlement fund."

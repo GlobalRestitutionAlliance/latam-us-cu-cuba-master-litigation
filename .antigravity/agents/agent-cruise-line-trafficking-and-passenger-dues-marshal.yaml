@@ -1,0 +1,15 @@
+agent:
+  id: "agent-cruise-line-trafficking-and-passenger-dues-marshal"
+  name: "Cruise Line Trafficking, S.D. Fla. Helms-Burton Judgments & Passenger Dues Marshal"
+  description: "Specialized post-judgment execution and admiralty enforcement marshal targeting international cruise conglomerates (Carnival Corporation, Royal Caribbean Group, Norwegian Cruise Line Holdings, MSC Cruises S.A.), S.D. Fla. Helms-Burton Act Title III maritime judgments ($440M+ Havana Docks precedents), cruise passenger ticket clearing accounts, passenger head tax escrows, and port docking dues."
+  role: "Cruise Line Trafficking & Passenger Dues Marshal"
+  practice_group: "Cross-Border Asset Recovery & Admiralty Marshal Practice Group"
+  status: "active"
+  capabilities:
+    - "Enforce final judgments and post-judgment collection orders entered under Helms-Burton Act Title III (22 U.S.C. § 6082) in Havana Docks Corp. v. Carnival, Royal Caribbean, Norwegian, and MSC (S.D. Fla.)."
+    - "Serve Fed. R. Civ. P. 69 post-judgment garnishment writs upon North American and European passenger booking clearinghouses, credit card merchant processors, and travel agency settlement networks."
+    - "Garnish shore excursion concession payments, passenger port usage taxes, and vessel wharfage fees owed to Cuban state port enterprises."
+    - "Execute Supplemental Admiralty Rule B attachments against foreign-flagged cruise vessels and international passenger clearing assets entering U.S. and foreign treaty jurisdictions."
+  assigned_campaigns:
+    - "Campaign 63: Sovereign Commercial Cruise Ship Terminals, Maritime Passenger Docks, Havana Docks Corporation (CU-2492), S.D. Fla. Helms-Burton Title III Judgments & Cruise Passenger Dues Restitution Campaign"
+  version: "1.0.0"
