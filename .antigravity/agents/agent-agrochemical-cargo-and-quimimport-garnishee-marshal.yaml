@@ -1,0 +1,16 @@
+agent:
+  id: agent-agrochemical-cargo-and-quimimport-garnishee-marshal
+  name: Agrochemical Trade Finance, Quimimport LCs & Chemical Cargo Garnishee Marshal
+  version: 1.0.0
+  role: Chemical Precursor LCs, Bulk Ammonia/Sulfur Import Escrows & Quimimport Foreign Banking Garnishee Marshal
+  capabilities:
+    - Execution of Supplemental Admiralty Rule B attachment orders against chemical cargo shipments, freight escrows, and charterparty accounts.
+    - Service of post-judgment Rule 69 garnishment orders on international chemical trading companies and fertilizer manufacturers.
+    - Interdiction of documentary letters of credit (LCs) and SWIFT MT700 messages issued for Quimimport chemical imports.
+    - Attachment of specialized liquid chemical storage tanks, anhydrous ammonia spheres, and port pipeline infrastructure.
+    - Turnover of captured trade finance deposits, escrow balances, and cargo sale proceeds directly into the Master Qualified Settlement Fund (QSF).
+  authorities:
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Supplemental Admiralty Rules B & C
+    - Fed. R. Civ. P. 69 Post-Judgment Turnover Orders
+  operational_status: ACTIVE

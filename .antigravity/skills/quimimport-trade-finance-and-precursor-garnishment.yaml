@@ -1,0 +1,16 @@
+skill:
+  id: quimimport-trade-finance-and-precursor-garnishment
+  name: Quimimport Trade Finance & Precursor Garnishment
+  version: 1.0.0
+  description: Financial execution protocol to attach Quimimport commercial letters of credit, ammonia/potash import escrow deposits, and foreign chemical supplier clearing accounts.
+  procedures:
+    - Tracing of documentary letters of credit (LCs) and bank payment obligations issued in favor of or by Empresa Cubana Importadora de Productos Químicos (Quimimport).
+    - Service of Rule 69 garnishment orders upon international chemical trading conglomerates and agricultural input distributors.
+    - Interdiction of SWIFT MT103 and MT700 messages routed through European, Canadian, and Panamanian correspondent banking conduits.
+    - Attachment of negotiable ocean bills of lading and cargo title documents for incoming bulk sulfur, urea, phosphate rock, and potash shipments.
+    - Turnover of captured trade proceeds, escrow funds, and arbitration recoveries directly into the Master QSF.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(a)(2) & § 1610(g)
+    - Uniform Customs and Practice for Documentary Credits (UCP 600)
+    - Fed. R. Civ. P. 69 Post-Judgment Turnover Writs
+  operational_status: ACTIVE

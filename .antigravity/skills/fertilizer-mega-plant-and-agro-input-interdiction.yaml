@@ -1,0 +1,16 @@
+skill:
+  id: fertilizer-mega-plant-and-agro-input-interdiction
+  name: Fertilizer Mega-Plant & Agro-Input Interdiction
+  version: 1.0.0
+  description: Industrial execution protocol to attach sovereign granulated fertilizer complexes, NPK bulk mixing facilities, and deepwater chemical port terminals.
+  procedures:
+    - Forensic audit of the corporate and operational structures of Empresa de Fertilizantes de Cienfuegos (Fertisoc) and Empresa de Fertilizantes de Nuevitas.
+    - Attachment of commercial fertilizer distribution revenues, state agricultural supply contracts, and export allocations.
+    - Encumbrance of refrigerated anhydrous ammonia storage spheres, bulk chemical storage warehouses, and deepwater port loading gantries.
+    - Service of Rule 69 garnishment orders on foreign engineering contractors and equipment suppliers holding modernization equity or debt collateral.
+    - Seizure of foreign currency operating cashflows and diversion into certified restitution trust accounts.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Fed. R. Civ. P. 69 Third-Party Debtor Process
+  operational_status: ACTIVE

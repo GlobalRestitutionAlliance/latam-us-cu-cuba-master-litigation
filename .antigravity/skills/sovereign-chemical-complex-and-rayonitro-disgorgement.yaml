@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-chemical-complex-and-rayonitro-disgorgement
+  name: Sovereign Chemical Complex & Rayonitro Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge nationalized industrial chemical plants, sulfuric acid complexes, and expropriated American chemical assets.
+  procedures:
+    - Audit of the statutory monopoly granted to GEIQ over domestic industrial chemical, acid, and caustic soda production.
+    - Forensic mapping of expropriated pre-1959 chemical works, synthetic fiber plants, and fertilizer blending terminals in Matanzas, Havana, and Regla.
+    - Encumbrance of the Rayonitro industrial chemical complex in Matanzas, including its contact-process sulfuric acid plants and carbon disulfide facilities.
+    - Attachment of dedicated rail tanker fleets, specialized acid transport equipment, and port loading pipelines.
+    - Enforcement of restitution liens over chemical production facilities, industrial real estate, and state supply revenues.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Industrial Property
+    - Equitable Restitution & Constructive Trust Imposition under Restatement (Third) § 55
+  operational_status: ACTIVE

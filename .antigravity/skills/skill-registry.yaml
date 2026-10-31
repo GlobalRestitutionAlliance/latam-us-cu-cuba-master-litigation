@@ -415,4 +415,16 @@ skills:
   name: Maritime Charter Hire & Freight Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/maritime-charter-hire-and-freight-garnishment.yaml
-total_skills: 123
+- id: sovereign-chemical-complex-and-rayonitro-disgorgement
+  name: Sovereign Chemical Complex & Rayonitro Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-chemical-complex-and-rayonitro-disgorgement.yaml
+- id: fertilizer-mega-plant-and-agro-input-interdiction
+  name: Fertilizer Mega-Plant & Agro-Input Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/fertilizer-mega-plant-and-agro-input-interdiction.yaml
+- id: quimimport-trade-finance-and-precursor-garnishment
+  name: Quimimport Trade Finance & Precursor Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/quimimport-trade-finance-and-precursor-garnishment.yaml
+total_skills: 126

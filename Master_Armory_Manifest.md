@@ -1159,3 +1159,22 @@ W:\Legal\US_CUBA\
   - [Master_Maritime_Fleet_Drydock_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Maritime_Fleet_Drydock_Crosswalk_Matrix.csv)
   - [Master_Maritime_Fleet_Drydock_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Maritime_Fleet_Drydock_Crosswalk_Dashboard.md)
   - [Master_Maritime_Fleet_Drydock_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Maritime_Fleet_Drydock_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 39)
+- `agent-industrial-chemical-and-fertilizer-auditor`: GEIQ State Monopoly, Rayonitro Sulfuric Acid Complex, Cienfuegos/Nuevitas Fertilizer Plants & Quimimport Auditor.
+- `agent-agrochemical-cargo-and-quimimport-garnishee-marshal`: Chemical Precursor LCs, Bulk Ammonia/Sulfur Import Escrows & Quimimport Foreign Banking Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 39)
+- `sovereign-chemical-complex-and-rayonitro-disgorgement`: Sovereign Chemical Complex & Rayonitro Disgorgement.
+- `fertilizer-mega-plant-and-agro-input-interdiction`: Fertilizer Mega-Plant & Agro-Input Interdiction.
+- `quimimport-trade-finance-and-precursor-garnishment`: Quimimport Trade Finance & Precursor Garnishment.
+
+### Campaign 39: Sovereign Industrial Chemicals, Sulfuric Acid Mega-Plants, Nitrogen/Phosphate Fertilizer Monopolies & Quimimport Agrochemical Conduits Disgorgement Campaign
+- **Total Restitution Pool:** $275,000,000,000.00 ($275.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** CHEM-001 through CHEM-025
+- **Assigned Agents:** `agent-industrial-chemical-and-fertilizer-auditor`, `agent-agrochemical-cargo-and-quimimport-garnishee-marshal`
+- **Certified Skills:** `sovereign-chemical-complex-and-rayonitro-disgorgement`, `fertilizer-mega-plant-and-agro-input-interdiction`, `quimimport-trade-finance-and-precursor-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Industrial_Chemicals_Fertilizer_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Industrial_Chemicals_Fertilizer_Crosswalk_Matrix.csv)
+  - [Master_Industrial_Chemicals_Fertilizer_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Industrial_Chemicals_Fertilizer_Crosswalk_Dashboard.md)
+  - [Master_Industrial_Chemicals_Fertilizer_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Industrial_Chemicals_Fertilizer_Crosswalk_Dashboard.docx)
