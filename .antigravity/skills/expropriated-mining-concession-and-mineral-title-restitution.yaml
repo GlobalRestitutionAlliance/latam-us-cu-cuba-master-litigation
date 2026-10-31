@@ -1,0 +1,12 @@
+skill:
+  id: "expropriated-mining-concession-and-mineral-title-restitution"
+  name: "Expropriated Mining Concession, Mineral Title Restitution & Title III Trafficking Actions"
+  description: "Legal restitution and judicial title-tracing protocol targeting uncompensated confiscations of pre-1959 American mining latifundia, mineral rights, and refining infrastructure under Law 851, specifically Freeport Sulphur Co. / Moa Bay Mining Co. (FCSC Claim No. CU-2498) and the Nicaro Nickel Project, enforcing Helms-Burton Title III private rights of action (22 U.S.C. § 6082) and Title IV executive inadmissibility sanctions (22 U.S.C. § 6091)."
+  category: "mining-title-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Authenticate FCSC Certified Claims (Freeport Sulphur / Moa Bay Mining Co. CU-2498, certified for $88.3M principal; Nicaro U.S. Defense Plant Corporation records) and map underlying concession coordinates against active mining blocks."
+    - "Document commercial trafficking under 22 U.S.C. § 6082 by tracking exploitation, extraction, processing, and distribution of minerals derived from confiscated property."
+    - "Prepare Helms-Burton Title III civil complaints seeking treble damages against foreign mining combines and battery manufacturers engaging in commercial transactions with Cubaníquel."
+    - "Submit Title IV evidentiary dossiers to the U.S. Department of State for mandatory visa revocation and executive exclusion of corporate officers and controlling shareholders of trafficking mining entities."

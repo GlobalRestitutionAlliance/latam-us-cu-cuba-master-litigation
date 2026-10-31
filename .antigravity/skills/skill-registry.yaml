@@ -799,4 +799,16 @@ skills:
   name: Bilateral Health Contract Receivable Garnishment, Diplomatic Wire Attachment & QSF Distribution
   status: ACTIVE
   manifest_file: .antigravity/skills/bilateral-health-contract-receivable-and-escrow-garnishment.yaml
-total_skills: 219
+- id: sovereign-nickel-mining-monopoly-and-cubaniquel-disgorgement
+  name: Sovereign Nickel Mining Monopoly, Cubaníquel Disgorgement & Concession Auditing
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-nickel-mining-monopoly-and-cubaniquel-disgorgement.yaml
+- id: expropriated-mining-concession-and-mineral-title-restitution
+  name: Expropriated Mining Concession, Mineral Title Restitution & Title III Trafficking Actions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-mining-concession-and-mineral-title-restitution.yaml
+- id: transnational-cobalt-offtake-and-sherritt-dividend-escrow-garnishment
+  name: Transnational Cobalt Offtake Garnishment, Sherritt Dividend Interdiction & QSF Trust Marshalling
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-cobalt-offtake-and-sherritt-dividend-escrow-garnishment.yaml
+total_skills: 222

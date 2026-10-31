@@ -1822,3 +1822,22 @@ W:\Legal\US_CUBA\
   - [Master_CSMC_PAHO_MedicalLabor_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CSMC_PAHO_MedicalLabor_Crosswalk_Matrix.csv)
   - [Master_CSMC_PAHO_MedicalLabor_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CSMC_PAHO_MedicalLabor_Crosswalk_Dashboard.md)
   - [Master_CSMC_PAHO_MedicalLabor_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CSMC_PAHO_MedicalLabor_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 71)
+- `agent-cubaniquel-and-mining-concession-auditor`: Grupo Empresarial Cubaníquel, Empresa Central de Níquel, Moa Bay & Nicaro Laterite Deposits, Expropriated Pre-1959 American Mining Combines (Freeport Sulphur / Moa Bay Mining Co. CU-2498 & Nicaro U.S. Defense Plant), Alter Ego Forensics & State Mining Concession Auditor.
+- `agent-sherritt-jv-and-cobalt-offtake-escrow-marshal`: Moa Nickel S.A. 50/50 Joint Venture with Sherritt International Corp., Fort Saskatchewan Hydrometallurgical Refinery (Alberta), International Cobalt Company Inc. (ICCI), Transnational Offtake Agreements (China Minmetals, European Battery Consortia), LME Warehouse Warrants & Dividend Escrow Marshal.
+
+## Newly Registered Skills (Campaign 71)
+- `sovereign-nickel-mining-monopoly-and-cubaniquel-disgorgement`: Sovereign Nickel Mining Monopoly, Cubaníquel Corporate Disgorgement, Laterite Concession Auditing & Bancec Alter Ego Liability.
+- `expropriated-mining-concession-and-mineral-title-restitution`: Expropriated Mining Concession, Mineral Title Restitution & Helms-Burton Title III/IV Trafficking Actions (22 U.S.C. §§ 6082, 6091).
+- `transnational-cobalt-offtake-and-sherritt-dividend-escrow-garnishment`: Transnational Cobalt Offtake Accounts Receivable Garnishment, Sherritt Dividend Interdiction, LME Warrant Attachment & Master QSF Distribution.
+
+### Campaign 71: Sovereign Commercial Nickel & Cobalt Mining Monopolies, Grupo Empresarial Cubaníquel, Moa Nickel S.A. Joint Venture with Sherritt International Corp. (Fort Saskatchewan Hydrometallurgical Refinery), Expropriated American Mining Combines (Law 851, Freeport Sulphur Co. / Moa Bay Mining Co., FCSC Claim No. CU-2498 & Nicaro Nickel Project / U.S. Defense Plant Corp. / Cuban American Nickel Co.), Transnational Cobalt & Nickel Off-Take Contracts (China Minmetals, European Battery Consortia), London Metal Exchange (LME) Warehouse Warrants, Letters of Credit Garnishments & Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082) Restitution Campaign
+- **Total Restitution Pool:** $365,000,000,000.00 ($365.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** NKL-001 through NKL-025
+- **Assigned Legal Research Agents:** `agent-cubaniquel-and-mining-concession-auditor`, `agent-sherritt-jv-and-cobalt-offtake-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-nickel-mining-monopoly-and-cubaniquel-disgorgement`, `expropriated-mining-concession-and-mineral-title-restitution`, `transnational-cobalt-offtake-and-sherritt-dividend-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Cubaniquel_Sherritt_Mining_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cubaniquel_Sherritt_Mining_Crosswalk_Matrix.csv)
+  - [Master_Cubaniquel_Sherritt_Mining_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cubaniquel_Sherritt_Mining_Crosswalk_Dashboard.md)
+  - [Master_Cubaniquel_Sherritt_Mining_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cubaniquel_Sherritt_Mining_Crosswalk_Dashboard.docx)

@@ -726,4 +726,14 @@ agents:
   role: Pan American Health Organization (PAHO) Financial Intermediation, D.D.C. TVPRA Judgment Enforcement (Rodriguez v. PAHO), U.S. Correspondent Bank Clearing Intercepts, 5% Broker Commission Accounts & Multilateral Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-paho-intermediary-and-tvpra-escrow-marshal.yaml
-total_agents: 146
+- id: agent-cubaniquel-and-mining-concession-auditor
+  name: Cubaníquel & Mining Concession Auditor
+  role: Grupo Empresarial Cubaníquel, Empresa Central de Níquel, Moa Bay & Nicaro Laterite Deposits, Expropriated Pre-1959 American Mining Combines (Freeport Sulphur / Moa Bay Mining Co. CU-2498 & Nicaro U.S. Defense Plant), Alter Ego Forensics & State Mining Concession Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cubaniquel-and-mining-concession-auditor.yaml
+- id: agent-sherritt-jv-and-cobalt-offtake-escrow-marshal
+  name: Sherritt JV & Cobalt Offtake Escrow Marshal
+  role: Moa Nickel S.A. 50/50 Joint Venture with Sherritt International Corp., Fort Saskatchewan Hydrometallurgical Refinery (Alberta), International Cobalt Company Inc. (ICCI), Transnational Offtake Agreements (China Minmetals, European Battery Consortia), LME Warehouse Warrants & Dividend Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-sherritt-jv-and-cobalt-offtake-escrow-marshal.yaml
+total_agents: 148

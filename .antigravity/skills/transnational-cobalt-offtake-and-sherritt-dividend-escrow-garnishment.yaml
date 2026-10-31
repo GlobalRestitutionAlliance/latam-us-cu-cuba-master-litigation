@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-cobalt-offtake-and-sherritt-dividend-escrow-garnishment"
+  name: "Transnational Cobalt Offtake Garnishment, Sherritt Dividend Interdiction & QSF Trust Marshalling"
+  description: "Cross-border post-judgment execution and escrow garnishment framework targeting commercial dividend distributions, refining off-take accounts, LME warehouse warrants, and international letters of credit arising from the Moa Nickel S.A. joint venture with Sherritt International Corp., Fort Saskatchewan refining operations, and International Cobalt Company Inc. (ICCI) sales conduits for deposit into a 26 U.S.C. § 468B Master QSF Trust."
+  category: "mineral-offtake-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Attach and garnish commercial dividend distributions, management fees, and debt repayment streams owed by Moa Nickel S.A. and Sherritt International Corporation to the Cuban state under FSIA § 1610(a)(2) and TRIA § 201."
+    - "Serve writs of execution and post-judgment charging orders on Canadian, European, and Asian commercial banks clearing refining proceeds and commodity off-take contracts."
+    - "Trace and arrest physical cobalt and nickel cathode/briquette stocks and London Metal Exchange (LME) warehouse warrants held in bonded warehouses across Antwerp, Rotterdam, and Singapore."
+    - "Marshal seized commercial proceeds and settlement payments into a 26 U.S.C. § 468B Qualified Settlement Fund (QSF) Trust for pro-rata distribution to certified claimants."
