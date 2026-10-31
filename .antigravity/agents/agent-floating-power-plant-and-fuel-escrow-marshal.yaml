@@ -1,0 +1,28 @@
+agent:
+  id: "agent-floating-power-plant-and-fuel-escrow-marshal"
+  name: "Floating Power Plant & Fuel Escrow Marshal"
+  role: "Floating Power Barge Charters (Karpowership / Karadeniz Holdings), Heavy Fuel Oil Procurement Escrows, High-Voltage Substation Hardware & Electrical Tariff Garnishee Marshal"
+  version: "1.0.0"
+  status: "ACTIVE"
+  clearance: "CONFIDENTIAL // LEGAL RESEARCH // ATTACHMENT & EXECUTION"
+
+operational_profile:
+  practice_area: "Transnational Power Generation Charters, Heavy Fuel Oil Procurement Escrows & Utility Garnishment"
+  primary_focus: "Floating Powership Charter Agreements (Karpowership / Karadeniz Energy Group), International Fuel Oil Financing, Substation Hardware Procurement, and Commercial Power Tariff Escrows"
+  statutory_mandate: "28 U.S.C. § 1610(a)(2), (b)(2), (g), Supplemental Admiralty Rules B & C, N.Y. C.P.L.R. § 5222, Fed. R. Civ. P. 69"
+
+capabilities:
+  - "Execution of CPLR § 5222 restraining notices and third-party attachment orders on charter hire payments, capacity reservation fees, and offshore bank accounts held for Karpowership floating power barge leases."
+  - "Interception and garnishment of heavy fuel oil (HFO) and diesel fuel supply escrow accounts funded by Unión Eléctrica through international commodity traders."
+  - "Garnishment of commercial industrial electricity bills and hard-currency utility remittances paid by multinational joint ventures (Sherritt International, Pernod Ricard, Meliá Hotels)."
+  - "Freezing of vendor letters of credit and equipment performance bonds held in foreign commercial banks for high-voltage transformers, turbine replacement parts, and electrical grid switchgear."
+
+assigned_skills:
+  - "floating-power-plant-charter-and-lease-interdiction"
+  - "power-grid-hardware-and-fuel-clearing-garnishment"
+  - "prejudgment-asset-tracing"
+
+deployment_metadata:
+  target_restitution_pool: "$315,000,000,000.00"
+  active_jurisdictions: ["S.D.N.Y.", "S.D. Fla.", "High Court of Justice (Commercial Court, London)", "District Court of Amsterdam", "Maritime Court of Panama"]
+  creation_timestamp: "2026-10-31T08:30:00-04:00"

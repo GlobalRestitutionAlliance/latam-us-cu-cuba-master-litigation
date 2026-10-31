@@ -631,4 +631,16 @@ skills:
   name: Mobile Top-Up Remittance & Subsea Bandwidth Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/mobile-topup-remittance-and-subsea-bandwidth-garnishment.yaml
-total_skills: 177
+- id: sovereign-electric-power-monopoly-and-une-disgorgement
+  name: Sovereign Electric Power Monopoly & UNE Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-electric-power-monopoly-and-une-disgorgement.yaml
+- id: floating-power-plant-charter-and-lease-interdiction
+  name: Floating Power Plant Charter & Lease Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/floating-power-plant-charter-and-lease-interdiction.yaml
+- id: power-grid-hardware-and-fuel-clearing-garnishment
+  name: Power Grid Hardware & Fuel Clearing Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/power-grid-hardware-and-fuel-clearing-garnishment.yaml
+total_skills: 180

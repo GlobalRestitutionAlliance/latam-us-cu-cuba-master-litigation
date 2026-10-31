@@ -586,4 +586,14 @@ agents:
   role: International Roaming Remittances, GSM Clearinghouses, Mobile Top-Up Intermediaries (Ding/DTOne), Satellite Transponder Escrows & Telecommunications Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-telecom-settlement-and-roaming-garnishee-marshal.yaml
-total_agents: 118
+- id: agent-une-electric-grid-and-power-auditor
+  name: UNE Electric Grid & Power Auditor
+  role: Unión Eléctrica (UNE), Ministry of Energy & Mines (MINEM), Expropriated Cuban Electric Company (American & Foreign Power Co., FCSC Claim No. CU-2578) & National Power Grid Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-une-electric-grid-and-power-auditor.yaml
+- id: agent-floating-power-plant-and-fuel-escrow-marshal
+  name: Floating Power Plant & Fuel Escrow Marshal
+  role: Floating Power Barge Charters (Karpowership / Karadeniz Holdings), Heavy Fuel Oil Procurement Escrows, High-Voltage Substation Hardware & Electrical Tariff Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-floating-power-plant-and-fuel-escrow-marshal.yaml
+total_agents: 120

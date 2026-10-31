@@ -1,0 +1,23 @@
+skill:
+  id: "power-grid-hardware-and-fuel-clearing-garnishment"
+  name: "Power Grid Hardware & Fuel Clearing Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Energy Commodity Escrow Interception & Utility Equipment Attachment"
+
+description: >
+  Enforcement protocol for attaching heavy fuel oil (HFO) procurement accounts, letters of credit for power grid hardware,
+  and hard-currency utility collections from commercial joint ventures operating within the national territory.
+
+execution_protocol:
+  step_1: "Forensically map commercial banking channels and international letters of credit utilized by UNE and foreign trading intermediaries to purchase heavy fuel oil and diesel."
+  step_2: "Serve restraining notices and charging orders on international commodity trading desks and escrow accounts securing fuel delivery contracts."
+  step_3: "Serve third-party garnishment notices under Fed. R. Civ. P. 69 upon multinational corporations operating in Cuba (mining, hospitality, rum joint ventures) that remit power tariffs to UNE."
+  step_4: "Encumber offshore procurement escrows for high-voltage transformers, switchgear, and turbine spare parts held in European and Asian financial centers."
+
+authorities:
+  - "28 U.S.C. § 1610(a)(2), (b)(2) (Post-Judgment Attachment of Sovereign Commercial Property)"
+  - "Fed. R. Civ. P. 69 (Enforcement of Money Judgments)"
+  - "N.Y. C.P.L.R. § 5225 & § 5227 (Turnover of Money or Property Due to Judgment Debtor)"
+  - "Uniform Commercial Code (UCC) Article 5 (Letters of Credit)"
+  - "First National City Bank v. Bancec, 462 U.S. 611 (1983)"

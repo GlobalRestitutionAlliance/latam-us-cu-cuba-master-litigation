@@ -1542,3 +1542,23 @@ W:\Legal\US_CUBA\
 7. **ICTRecht Legal-GenAI Prompt & Compliance Protocol:**
    - Spec: [`ictrecht-genai-resources.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/ictrecht-genai-resources.yaml) | Harness: [`ictrecht_genai_resources.py`](file:///W:/Legal/US_CUBA/.antigravity/tools/ictrecht_genai_resources.py)
    - Strict citation verification chains, anti-hallucination prompts, and professional ethics compliance guardrails.
+## Newly Registered Agents (Campaign 57)
+- `agent-une-electric-grid-and-power-auditor`: Unión Eléctrica (UNE), Ministry of Energy & Mines (MINEM), Expropriated Cuban Electric Company (American & Foreign Power Co., FCSC Claim No. CU-2578) & National Power Grid Auditor.
+- `agent-floating-power-plant-and-fuel-escrow-marshal`: Floating Power Barge Charters (Karpowership / Karadeniz Holdings), Heavy Fuel Oil Procurement Escrows, High-Voltage Substation Hardware & Electrical Tariff Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 57)
+- `sovereign-electric-power-monopoly-and-une-disgorgement`: Sovereign Electric Power Monopoly & UNE Disgorgement.
+- `floating-power-plant-charter-and-lease-interdiction`: Floating Power Plant Charter & Lease Interdiction.
+- `power-grid-hardware-and-fuel-clearing-garnishment`: Power Grid Hardware & Fuel Clearing Garnishment.
+
+### Campaign 57: Sovereign Commercial Electric Power Generation, National Grid Infrastructure, Unión Eléctrica (UNE), Offshore Floating Power Plant Charters (Karpowership / Karadeniz), Fuel Oil Clearing Escrows & Expropriated Pre-1959 Cuban Electric Company (American & Foreign Power Co., FCSC Claim No. CU-2578) Restitution Campaign
+- **Total Restitution Pool:** $315,000,000,000.00 ($315.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** ELEC-001 through ELEC-025
+- **Assigned Legal Research Agents:** `agent-une-electric-grid-and-power-auditor`, `agent-floating-power-plant-and-fuel-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-electric-power-monopoly-and-une-disgorgement`, `floating-power-plant-charter-and-lease-interdiction`, `power-grid-hardware-and-fuel-clearing-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Electric_Power_UNE_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Crosswalk_Matrix.csv)
+  - [Master_Electric_Power_UNE_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Crosswalk_Dashboard.md)
+  - [Master_Electric_Power_UNE_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Crosswalk_Dashboard.docx)
+

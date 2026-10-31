@@ -1,0 +1,24 @@
+skill:
+  id: "floating-power-plant-charter-and-lease-interdiction"
+  name: "Floating Power Plant Charter & Lease Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Maritime Power Barge Attachment & Charter Hire Garnishment"
+
+description: >
+  Operational and procedural protocol for attaching charter hire payables, sovereign capacity reservation deposits,
+  and escrow balances associated with foreign-operated floating powerships (Karpowership / Karadeniz Energy Group)
+  stationed in Cuban ports and tied into the national electrical grid.
+
+execution_protocol:
+  step_1: "Audit charter party agreements, BIMCO contracts, and power purchase agreements (PPAs) governing floating powerships stationed in Havana Harbor, Mariel, and Santiago de Cuba."
+  step_2: "Identify offshore bank accounts, clearinghouses, and payment escrow agents in Turkey, the UK, the Netherlands, and Switzerland processing monthly charter hire remittances from UNE."
+  step_3: "Serve CPLR § 5222 restraining notices, English CPR Part 72 third-party debt orders, and Supplemental Admiralty Rule B attachments on charter payment streams."
+  step_4: "Interdict commercial capacity fees and secure judicial orders directing funds into the Master Qualified Settlement Fund."
+
+authorities:
+  - "28 U.S.C. § 1610(a)(2) & (g) (Execution on Commercial Property and Alter Ego Debts)"
+  - "Supplemental Rules for Admiralty or Maritime Claims, Rule B (Maritime Attachment)"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third Parties)"
+  - "English Civil Procedure Rules (CPR) Part 72 (Third-Party Debt Orders)"
+  - "Swiss Federal Law on Debt Enforcement and Bankruptcy (SchKG) Art. 271"

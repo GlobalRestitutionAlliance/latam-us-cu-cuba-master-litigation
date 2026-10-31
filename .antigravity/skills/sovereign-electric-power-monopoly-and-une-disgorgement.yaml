@@ -1,0 +1,25 @@
+skill:
+  id: "sovereign-electric-power-monopoly-and-une-disgorgement"
+  name: "Sovereign Electric Power Monopoly & UNE Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Electric Power Utility Civil Execution & Sovereign Commercial Restitution"
+
+description: >
+  Legal, forensic accounting, and evidentiary methodology for asserting FSIA § 1605(a)(2) and § 1605(a)(3) jurisdiction,
+  Bancec alter ego liability, and Title III Helms-Burton claims against Unión Eléctrica (UNE)
+  operating commercial power generation combines, transmission grids, and confiscated Cuban Electric Company infrastructure.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (FCSC Claim No. CU-2578, Cuban Electric Company / American & Foreign Power Co. / Boise Cascade Corp.) with modern thermal generating stations, high-voltage transmission lines, and regional distribution substations operated by UNE."
+  step_2: "Audit official Cuban regulatory resolutions and Commercial Registry entries establishing state beneficial ownership, ministerial oversight under MINEM, and corporate unity under First National City Bank v. Bancec."
+  step_3: "Document commercial electricity tariffs, hard-currency industrial billing contracts, and capacity sales across the national electrical grid."
+  step_4: "File turnover and restitution actions in federal district courts demanding accounting and disgorgement of all sovereign commercial power revenues and utility assets."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(a)(3) (Expropriation Exception to Foreign Sovereign Immunity)"
+  - "28 U.S.C. § 1610(a)(2) & (b)(2) (Commercial Property Attachment and Execution)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"
+  - "FCSC Claim No. CU-2578 (Cuban Electric Company / Boise Cascade Corp.)"
