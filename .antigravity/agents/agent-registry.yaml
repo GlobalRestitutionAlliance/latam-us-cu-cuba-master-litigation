@@ -356,4 +356,14 @@ agents:
   role: AB InBev Belgian Clearing Rails, Nestlé Swiss Escrows & Commercial Export Receivables Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-beverage-royalty-and-dividend-marshal.yaml
-total_agents: 72
+- id: agent-agroforestry-and-export-crops-auditor
+  name: Sovereign Agro-Forestry & Export Crops Monopoly Auditor
+  role: Grupo Agroforestal (GAF), CubaCafé, Victoria de Girón Citrus & CubaExport Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-agroforestry-and-export-crops-auditor.yaml
+- id: agent-commodity-trade-and-harvest-garnishee-marshal
+  name: Agricultural Commodity Trade & Harvest Receivables Garnishee Marshal
+  role: Japanese Coffee Roaster Clearing Desks, European Citrus Escrows & Commodity Letter of Credit Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-commodity-trade-and-harvest-garnishee-marshal.yaml
+total_agents: 74

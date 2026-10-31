@@ -1064,3 +1064,22 @@ W:\Legal\US_CUBA\
   - [Master_Brewing_Beverage_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Beverage_Crosswalk_Matrix.csv)
   - [Master_Brewing_Beverage_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Beverage_Crosswalk_Dashboard.md)
   - [Master_Brewing_Beverage_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Beverage_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 34)
+- `agent-agroforestry-and-export-crops-auditor`: Grupo Agroforestal (GAF), CubaCafé, Victoria de Girón Citrus & CubaExport Auditor.
+- `agent-commodity-trade-and-harvest-garnishee-marshal`: Japanese Coffee Roaster Clearing Desks, European Citrus Escrows & Commodity Letter of Credit Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 34)
+- `specialty-coffee-and-cocoa-monopoly-disgorgement`: Specialty Coffee & Cocoa Monopoly Disgorgement.
+- `citrus-mega-plantation-and-concentrate-interdiction`: Citrus Mega-Plantation & Concentrate Export Interdiction.
+- `agricultural-export-letter-of-credit-and-trade-garnishment`: Agricultural Export Letter of Credit & Trade Receivables Garnishment.
+
+### Campaign 34: Sovereign Specialty Coffee, Cocoa, Citrus Agro-Industrial Empire & Global Export Monopolies Disgorgement Campaign
+- **Total Restitution Pool:** $270,000,000,000.00 ($270.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** COF-001 through COF-025
+- **Assigned Agents:** `agent-agroforestry-and-export-crops-auditor`, `agent-commodity-trade-and-harvest-garnishee-marshal`
+- **Certified Skills:** `specialty-coffee-and-cocoa-monopoly-disgorgement`, `citrus-mega-plantation-and-concentrate-interdiction`, `agricultural-export-letter-of-credit-and-trade-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Coffee_Citrus_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Coffee_Citrus_Crosswalk_Matrix.csv)
+  - [Master_Coffee_Citrus_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Coffee_Citrus_Crosswalk_Dashboard.md)
+  - [Master_Coffee_Citrus_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Coffee_Citrus_Crosswalk_Dashboard.docx)

@@ -355,4 +355,16 @@ skills:
   name: Multinational Beverage Royalty & Export Receivables Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/multinational-beverage-royalty-and-export-garnishment.yaml
-total_skills: 108
+- id: specialty-coffee-and-cocoa-monopoly-disgorgement
+  name: Specialty Coffee & Cocoa Monopoly Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/specialty-coffee-and-cocoa-monopoly-disgorgement.yaml
+- id: citrus-mega-plantation-and-concentrate-interdiction
+  name: Citrus Mega-Plantation & Concentrate Export Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/citrus-mega-plantation-and-concentrate-interdiction.yaml
+- id: agricultural-export-letter-of-credit-and-trade-garnishment
+  name: Agricultural Export Letter of Credit & Trade Receivables Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/agricultural-export-letter-of-credit-and-trade-garnishment.yaml
+total_skills: 111
