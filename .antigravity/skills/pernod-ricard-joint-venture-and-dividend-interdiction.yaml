@@ -1,0 +1,24 @@
+skill:
+  id: "pernod-ricard-joint-venture-and-dividend-interdiction"
+  name: "Pernod Ricard Joint Venture & Dividend Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Transnational Joint Venture Garnishment & Dividend Interception"
+
+description: >
+  Operational protocol for serving third-party restraining notices, charging orders, and garnishment writs
+  upon Pernod Ricard S.A. and Diageo plc attaching annual dividend distributions, management fees,
+  and royalty remittances payable to Corporación Cuba Ron S.A. through Havana Club Holding S.A. and Ron Santiago S.A.
+
+execution_protocol:
+  step_1: "Subpoena annual financial statements, joint venture operating agreements, and dividend declaration notices from Havana Club Holding S.A. (Luxembourg) and Pernod Ricard S.A. (Paris)."
+  step_2: "Calculate net dividend distributions, marketing royalties, and brand management fees accrued and payable to Cuba Ron S.A."
+  step_3: "Serve CPLR § 5222 restraining notices, French saisie-attribution orders, and Luxembourg attachment writs on Pernod Ricard S.A. and designated joint venture escrow banks."
+  step_4: "Compel turnover of dividend distributions and brand royalties into the Master Qualified Settlement Fund registry."
+
+authorities:
+  - "Fed. R. Civ. P. 69 (Execution & Discovery in Aid of Enforcement)"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third Parties)"
+  - "French Code des procédures civiles d'exécution Art. L. 111-1, L. 211-1 (Saisie-Attribution)"
+  - "Luxembourg Nouveau Code de Procédure Civile Art. 673 et seq. (Saisie-Arrêt)"
+  - "28 U.S.C. § 1610(b)(2) (Execution on Agency/Instrumentality Commercial Property)"

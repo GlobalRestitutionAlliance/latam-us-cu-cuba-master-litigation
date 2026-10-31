@@ -556,4 +556,14 @@ agents:
   role: FARMACUBA / EMCOMED Distribution, Transnational Generic Drug Off-Take Contracts, Overseas Pharma Joint Ventures & API Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-farmacuba-and-generic-export-garnishee-marshal.yaml
-total_agents: 112
+- id: agent-cuba-ron-and-distillery-auditor
+  name: Cuba Ron & Expropriated Distillery Auditor
+  role: Corporación Cuba Ron S.A., Expropriated Arechabala (Havana Club) & Bacardi Distilleries, Aging Bodegas & Rum Latifundia Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cuba-ron-and-distillery-auditor.yaml
+- id: agent-pernod-ricard-jv-and-spirits-garnishee-marshal
+  name: Pernod Ricard JV & Spirits Garnishee Marshal
+  role: Havana Club Holding S.A. (Luxembourg), Pernod Ricard / Diageo JV Dividends, European Bonded Spirits Inventory & Royalty Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-pernod-ricard-jv-and-spirits-garnishee-marshal.yaml
+total_agents: 114

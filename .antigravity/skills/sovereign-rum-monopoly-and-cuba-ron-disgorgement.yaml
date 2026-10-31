@@ -1,0 +1,24 @@
+skill:
+  id: "sovereign-rum-monopoly-and-cuba-ron-disgorgement"
+  name: "Sovereign Rum Monopoly & Cuba Ron Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Spirits Commercial Execution & Expropriated Distillery Disgorgement"
+
+description: >
+  Legal and forensic accounting methodology for asserting FSIA § 1605(a)(3) expropriation jurisdiction,
+  Section 211 trademark statutory bars, and Title III Helms-Burton claims against Corporación Cuba Ron S.A.
+  operating confiscated American and Cuban rum distilleries and aging bodegas.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (e.g. José Arechabala S.A. Havana Club Cárdenas distillery, Bacardí Corp. Santiago distillery) with currently active production combines operated by Corporación Cuba Ron S.A."
+  step_2: "Audit official Ministry of the Food Industry (MINAL) production quotas, aging barrel inventories, and export volume statistics establishing commercial exploitation of confiscated facilities."
+  step_3: "Document executive appointment decrees, common treasury pooling, and ministerial oversight proving that Cuba Ron S.A. is an alter ego and commercial instrumentality of the Cuban state."
+  step_4: "File turnover and disgorgement complaints in federal district courts demanding accounting and seizure of all commercial rum revenues, export earnings, and trademark licensing proceeds."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)"
+  - "28 U.S.C. § 1610(a)(2) (Commercial Property Attachment)"
+  - "Section 211, Omnibus Consolidated Appropriations Act of 1999 (112 Stat. 2681-88)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"

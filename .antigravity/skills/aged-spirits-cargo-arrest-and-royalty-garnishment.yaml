@@ -1,0 +1,24 @@
+skill:
+  id: "aged-spirits-cargo-arrest-and-royalty-garnishment"
+  name: "Aged Spirits Cargo Arrest & Royalty Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Spirits Cargo Maritime Arrest & Bonded Warehouse Garnishment"
+
+description: >
+  Procedure for executing in rem maritime arrests of ocean chemical parcel tankers carrying bulk aging rum,
+  attaching containerized rum inventories stored in European customs-bonded warehouses, and garnishing worldwide
+  duty-free spirits concession revenues.
+
+execution_protocol:
+  step_1: "Track maritime vessel shipments and bills of lading for bulk ethyl alcohol, neutral spirits, and aged rum distillates outbound from Havana, Cárdenas, and Santiago de Cuba destined for European bottling centers."
+  step_2: "File verified in rem admiralty complaints under Supplemental Admiralty Rule C asserting maritime liens arising from the commercial trafficking of expropriated distillery production."
+  step_3: "Serve execution writs and European attachment orders on bonded customs warehouses in France, Spain, the Netherlands, and Germany storing physical stocks of Havana Club and Santiago de Cuba rum."
+  step_4: "Garnish worldwide duty-free concession revenues and commercial accounts receivable owed by global travel retail operators (Dufry, Heinemann, Lagardère)."
+
+authorities:
+  - "Supplemental Rules B and C for Certain Admiralty and Maritime Claims"
+  - "Senior Courts Act 1981 § 20, 21 (UK Admiralty Jurisdiction)"
+  - "Brussels I Recast Regulation (EU) No 1215/2012"
+  - "28 U.S.C. § 1605(b) (Maritime Lien Exception to FSIA)"
+  - "The Playa Larga and Marble Islands [1983] 2 Lloyd's Rep. 171"

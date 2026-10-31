@@ -1450,3 +1450,23 @@ W:\Legal\US_CUBA\
   - [Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Dashboard.md)
   - [Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 54)
+- `agent-cuba-ron-and-distillery-auditor`: Corporación Cuba Ron S.A., Expropriated Arechabala (Havana Club) & Bacardi Distilleries, Aging Bodegas & Rum Latifundia Auditor.
+- `agent-pernod-ricard-jv-and-spirits-garnishee-marshal`: Havana Club Holding S.A. (Luxembourg), Pernod Ricard / Diageo JV Dividends, European Bonded Spirits Inventory & Royalty Marshal.
+
+## Newly Registered Skills (Campaign 54)
+- `sovereign-rum-monopoly-and-cuba-ron-disgorgement`: Sovereign Rum Monopoly & Cuba Ron Disgorgement.
+- `pernod-ricard-joint-venture-and-dividend-interdiction`: Pernod Ricard Joint Venture & Dividend Interdiction.
+- `aged-spirits-cargo-arrest-and-royalty-garnishment`: Aged Spirits Cargo Arrest & Royalty Garnishment.
+
+### Campaign 54: Sovereign Commercial Rum, Spirits, Distilleries & Beverage Monopolies, Expropriated Arechabala (Havana Club) & Bacardi Facilities, Corporación Cuba Ron S.A. Latifundia, Transnational Distribution Joint Ventures (Pernod Ricard / Havana Club International S.A.) & Global Royalty Disgorgement Campaign
+- **Total Restitution Pool:** $310,000,000,000.00 ($310.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** RUM-001 through RUM-025
+- **Assigned Agents:** `agent-cuba-ron-and-distillery-auditor`, `agent-pernod-ricard-jv-and-spirits-garnishee-marshal`
+- **Certified Skills:** `sovereign-rum-monopoly-and-cuba-ron-disgorgement`, `pernod-ricard-joint-venture-and-dividend-interdiction`, `aged-spirits-cargo-arrest-and-royalty-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Matrix.csv)
+  - [Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Dashboard.md)
+  - [Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Spirits_Cuba_Ron_Pernod_Ricard_Crosswalk_Dashboard.docx)
+

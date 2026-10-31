@@ -595,4 +595,16 @@ skills:
   name: Pharma Import Escrow & API Procurement Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/pharma-import-escrow-and-api-procurement-garnishment.yaml
-total_skills: 168
+- id: sovereign-rum-monopoly-and-cuba-ron-disgorgement
+  name: Sovereign Rum Monopoly & Cuba Ron Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-rum-monopoly-and-cuba-ron-disgorgement.yaml
+- id: pernod-ricard-joint-venture-and-dividend-interdiction
+  name: Pernod Ricard Joint Venture & Dividend Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/pernod-ricard-joint-venture-and-dividend-interdiction.yaml
+- id: aged-spirits-cargo-arrest-and-royalty-garnishment
+  name: Aged Spirits Cargo Arrest & Royalty Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/aged-spirits-cargo-arrest-and-royalty-garnishment.yaml
+total_skills: 171
