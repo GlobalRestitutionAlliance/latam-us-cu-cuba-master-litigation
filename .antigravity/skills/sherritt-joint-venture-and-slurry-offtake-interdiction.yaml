@@ -1,0 +1,16 @@
+skill:
+  id: sherritt-joint-venture-and-slurry-offtake-interdiction
+  name: Sherritt Joint Venture & Slurry Offtake Interdiction
+  version: 1.0.0
+  description: Interdiction, charging orders, and post-judgment encumbrance targeting the Sherritt International / Moa Nickel S.A. joint venture, mixed sulfide slurry off-take agreements, and Canadian refining proceeds.
+  procedures:
+    - Identification and forensic tracing of General Nickel Company S.A. equity distributions, dividend streams, and cobalt swap settlements from Sherritt International.
+    - Encumbrance of foreign joint venture shares and contractual receivables held in Toronto, Alberta, and offshore marketing conduits (ICCI Bahamas/Barbados).
+    - Service of third-party garnishment subpoenas on the Fort Saskatchewan refinery and North American metals traders purchasing refined nickel and cobalt.
+    - Freezing of offshore export escrow accounts and trade letters of credit clearing through Canadian and European banking institutions.
+    - Attachment of technical management fees and intellectual property royalties paid to foreign engineering operators.
+  enforcement_framework:
+    - Canadian State Immunity Act R.S.C. 1985 c. S-18 Commercial Exceptions
+    - Ontario Rules of Civil Procedure (Rule 60 Enforcement of Orders)
+    - 28 U.S.C. § 1610(a)(2) Commercial Joint Venture Execution
+  operational_status: ACTIVE

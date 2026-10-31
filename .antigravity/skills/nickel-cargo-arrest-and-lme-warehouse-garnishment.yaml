@@ -1,0 +1,16 @@
+skill:
+  id: nickel-cargo-arrest-and-lme-warehouse-garnishment
+  name: Nickel Cargo Arrest & LME Warehouse Garnishment
+  version: 1.0.0
+  description: Maritime arrest of mixed sulfide bulk cargo vessels under Supplemental Admiralty Rules B & C, attachment of LME warrant-registered nickel/cobalt, and garnishment of mineral export trade finance.
+  procedures:
+    - Real-time AIS tracking of bulk cargo vessels and container ships transporting mixed nickel-cobalt sulfide slurries from Moa Bay port to North American and European discharge terminals.
+    - Execution of Supplemental Admiralty Rule B maritime attachments and Rule C in rem arrests against sovereign mineral cargoes on the high seas and at intermediate bunkering ports.
+    - Encumbrance of refined nickel briquettes and cobalt cathodes stored in London Metal Exchange (LME) licensed warehouses in Rotterdam, Antwerp, and Singapore.
+    - Service of garnishment notices on international metals trading desks (Glencore, Trafigura) holding unpaid off-take receivables or trade credit balances.
+    - Sweep of commercial mineral sales proceeds into court-supervised Qualified Settlement Funds (QSF) under 26 U.S.C. § 468B.
+  enforcement_framework:
+    - Supplemental Admiralty Rules B & C
+    - 28 U.S.C. § 1605(a)(2) Commercial Maritime Exception
+    - 28 U.S.C. § 1610(g) & 26 U.S.C. § 468B Master QSF Receivership
+  operational_status: ACTIVE

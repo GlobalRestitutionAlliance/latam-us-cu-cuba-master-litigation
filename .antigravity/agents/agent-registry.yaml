@@ -496,4 +496,14 @@ agents:
   role: LafargeHolcim Dividends, Specialized Cement Carrier Arrests, Clinker Export Letters of Credit & Trade Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cement-cargo-and-clinker-trade-garnishee-marshal.yaml
-total_agents: 100
+- id: agent-cubaniquel-and-moa-bay-auditor
+  name: Sovereign Nickel Monopoly, Cubaníquel & Moa Bay Auditor
+  role: Cubaníquel State Monopoly, Freeport Sulphur Moa Bay Takings, Pedro Sotto Alba & Nicaro Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cubaniquel-and-moa-bay-auditor.yaml
+- id: agent-sherritt-jv-and-nickel-offtake-garnishee-marshal
+  name: Sherritt Joint Venture, Nickel Slurry & Offtake Garnishee Marshal
+  role: Sherritt Moa Dividends, Mixed Sulfide Cargo In-Transit Arrests, Fort Saskatchewan Offtake & Metal Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-sherritt-jv-and-nickel-offtake-garnishee-marshal.yaml
+total_agents: 102

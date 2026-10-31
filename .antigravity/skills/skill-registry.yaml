@@ -523,4 +523,16 @@ skills:
   name: Bulk Cement Carrier & Quarry Concession Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/bulk-cement-carrier-and-quarry-concession-garnishment.yaml
-total_skills: 150
+- id: sovereign-nickel-monopoly-and-cubaniquel-disgorgement
+  name: Sovereign Nickel Monopoly & Cubaníquel Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-nickel-monopoly-and-cubaniquel-disgorgement.yaml
+- id: sherritt-joint-venture-and-slurry-offtake-interdiction
+  name: Sherritt Joint Venture & Slurry Offtake Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sherritt-joint-venture-and-slurry-offtake-interdiction.yaml
+- id: nickel-cargo-arrest-and-lme-warehouse-garnishment
+  name: Nickel Cargo Arrest & LME Warehouse Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/nickel-cargo-arrest-and-lme-warehouse-garnishment.yaml
+total_skills: 153

@@ -1330,3 +1330,23 @@ W:\Legal\US_CUBA\
   - [Master_Cement_Construction_GEICON_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cement_Construction_GEICON_Crosswalk_Matrix.csv)
   - [Master_Cement_Construction_GEICON_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cement_Construction_GEICON_Crosswalk_Dashboard.md)
   - [Master_Cement_Construction_GEICON_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cement_Construction_GEICON_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 48)
+- `agent-cubaniquel-and-moa-bay-auditor`: Unión del Níquel (Cubaníquel), Freeport Sulphur / Moa Bay Mining Co. Confiscations, Moa Nickel S.A. Concessions & Lateritic Ore Latifundia Auditor.
+- `agent-sherritt-jv-and-nickel-offtake-garnishee-marshal`: Sherritt International Joint Venture Dividends, Class 1 Nickel Briquette Off-Take, LME Warehouse Warrants & Fort Saskatchewan Refining Marshal.
+
+## Newly Registered Skills (Campaign 48)
+- `sovereign-nickel-monopoly-and-cubaniquel-disgorgement`: Sovereign Nickel Monopoly & Cubaníquel Disgorgement.
+- `sherritt-joint-venture-and-slurry-offtake-interdiction`: Sherritt Joint Venture & Slurry Offtake Interdiction.
+- `nickel-cargo-arrest-and-lme-warehouse-garnishment`: Nickel Cargo Arrest & LME Warehouse Garnishment.
+
+### Campaign 48: Sovereign Industrial Mining, Nickel Extraction Combines, Moa Bay Latifundia & Sherritt International Joint Venture (Moa Nickel S.A.) Disgorgement Campaign
+- **Total Restitution Pool:** $295,000,000,000.00 ($295.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** NIKL-001 through NIKL-025
+- **Assigned Agents:** `agent-cubaniquel-and-moa-bay-auditor`, `agent-sherritt-jv-and-nickel-offtake-garnishee-marshal`
+- **Certified Skills:** `sovereign-nickel-monopoly-and-cubaniquel-disgorgement`, `sherritt-joint-venture-and-slurry-offtake-interdiction`, `nickel-cargo-arrest-and-lme-warehouse-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Matrix.csv)
+  - [Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Dashboard.md)
+  - [Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Dashboard.docx)
+

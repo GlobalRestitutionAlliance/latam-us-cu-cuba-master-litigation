@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-nickel-monopoly-and-cubaniquel-disgorgement
+  name: Sovereign Nickel Monopoly & Cubaníquel Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge Cubaníquel sovereign nickel extraction monopolies, expropriated Freeport Sulphur Moa Bay assets, and state laterite mining combines.
+  procedures:
+    - Forensic mapping of the statutory monopoly granted to Cubaníquel over nickel-cobalt mining, processing, and refining.
+    - Title reconstruction of nationalized Freeport Sulphur / Moa Bay Mining Company industrial assets, acid leach autoclaves, and port berths under FCSC Title V awards.
+    - Encumbrance of state-owned nickel processing complexes (Pedro Sotto Alba, Che Guevara, Nicaro) under FSIA § 1610(a)(2).
+    - Service of charging orders on foreign engineering and equipment vendors holding state equipment financing or debt collateral.
+    - Enforcement of restitution liens over national nickel mining concessions and commercial export revenues.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Expropriated Mining Properties
+    - Constructive Trust & Restitution under Restatement (Third) § 55
+  operational_status: ACTIVE
