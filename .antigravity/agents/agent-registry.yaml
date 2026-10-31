@@ -716,4 +716,14 @@ agents:
   role: Innovative Immunotherapy Alliance S.A. (Buffalo NY / Roswell Park Joint Venture), U.S. Clinical Trial Escrows, Transnational Biotech JVs (ChangHeber China, Biocon India), OFAC Biotech Licensing Conduits & International Patent Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-roswell-park-jv-and-biotech-escrow-marshal.yaml
-total_agents: 144
+- id: agent-csmc-labor-export-and-bilateral-contract-auditor
+  name: CSMC Labor Export & Bilateral Contract Auditor
+  role: Comercializadora de Servicios Médicos Cubanos S.A. (CSMC S.A.), MINSAP, Bilateral Host Government Health Contracts (Brazil Mais Médicos / Mexico IMSS / Qatar / Angola / Italy), Salary Garnishment Forensics & State Commercial Revenue Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-csmc-labor-export-and-bilateral-contract-auditor.yaml
+- id: agent-paho-intermediary-and-tvpra-escrow-marshal
+  name: PAHO Intermediary & TVPRA Escrow Marshal
+  role: Pan American Health Organization (PAHO) Financial Intermediation, D.D.C. TVPRA Judgment Enforcement (Rodriguez v. PAHO), U.S. Correspondent Bank Clearing Intercepts, 5% Broker Commission Accounts & Multilateral Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-paho-intermediary-and-tvpra-escrow-marshal.yaml
+total_agents: 146

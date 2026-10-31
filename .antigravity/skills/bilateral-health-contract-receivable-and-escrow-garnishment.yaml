@@ -1,0 +1,12 @@
+skill:
+  id: "bilateral-health-contract-receivable-and-escrow-garnishment"
+  name: "Bilateral Health Contract Receivable Garnishment, Diplomatic Wire Attachment & QSF Distribution"
+  description: "Cross-border attachment and third-party debt garnishment protocol targeting foreign host government payments (Mexico IMSS-Bienestar, Brazil Mais Médicos, Qatar Cuban Hospital, Angola, Italy), intermediary clearing floats, and diplomatic wire channels under 28 U.S.C. § 1610, foreign money judgment recognition acts, and Master QSF administration under 26 U.S.C. § 468B."
+  category: "bilateral-health-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Serve third-party debt orders and garnishment notices on foreign sovereign health ministries and state agencies with outstanding payment obligations to CSMC S.A. under international exequatur."
+    - "Attach and garnish correspondent bank clearing floats in New York, London, Madrid, and Geneva processing wire transfers from foreign treasuries to Cuban state entities."
+    - "Enforce judgment lien priority over commercial receivables and diplomatic payment channels under FSIA § 1610(a)(2) and U.C.C. Article 4A."
+    - "Liquidate attached medical export revenues and brokerage commission clawbacks into the Master Qualified Settlement Fund under 26 U.S.C. § 468B for pro rata distributions to affected personnel."

@@ -787,4 +787,16 @@ skills:
   name: Biotech Joint Venture Dividend, Clinical Trial Escrow & Patent Royalty Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/biotech-joint-venture-dividend-and-clinical-escrow-garnishment.yaml
-total_skills: 216
+- id: sovereign-medical-labor-export-and-csmc-disgorgement
+  name: Sovereign Medical Labor Export Monopoly, CSMC S.A. Disgorgement & Contract Auditing
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-medical-labor-export-and-csmc-disgorgement.yaml
+- id: tvpra-forced-labor-and-commercial-intermediary-interdiction
+  name: TVPRA Forced Labor Enforcement, Commercial Intermediary Liability & PAHO Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/tvpra-forced-labor-and-commercial-intermediary-interdiction.yaml
+- id: bilateral-health-contract-receivable-and-escrow-garnishment
+  name: Bilateral Health Contract Receivable Garnishment, Diplomatic Wire Attachment & QSF Distribution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/bilateral-health-contract-receivable-and-escrow-garnishment.yaml
+total_skills: 219

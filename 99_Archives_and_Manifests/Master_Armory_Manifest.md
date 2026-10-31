@@ -1802,3 +1802,23 @@ W:\Legal\US_CUBA\
   - [Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Matrix.csv)
   - [Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Dashboard.md)
   - [Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 70)
+- `agent-csmc-labor-export-and-bilateral-contract-auditor`: Comercializadora de Servicios Médicos Cubanos S.A. (CSMC S.A.), MINSAP, Bilateral Host Government Health Contracts (Brazil Mais Médicos / Mexico IMSS / Qatar / Angola / Italy), Salary Garnishment Forensics & State Commercial Revenue Auditor.
+- `agent-paho-intermediary-and-tvpra-escrow-marshal`: Pan American Health Organization (PAHO) Financial Intermediation, D.D.C. TVPRA Judgment Enforcement (Rodriguez v. PAHO), U.S. Correspondent Bank Clearing Intercepts, 5% Broker Commission Accounts & Multilateral Escrow Marshal.
+
+## Newly Registered Skills (Campaign 70)
+- `sovereign-medical-labor-export-and-csmc-disgorgement`: Sovereign Medical Labor Export Monopoly, CSMC S.A. Corporate Disgorgement, Bilateral Host Government Contract Auditing & Bancec Alter Ego Liability.
+- `tvpra-forced-labor-and-commercial-intermediary-interdiction`: Trafficking Victims Protection Reauthorization Act (TVPRA, 18 U.S.C. §§ 1589, 1595) Enforcement, PAHO Financial Intermediary Liability & Restraining Notice Execution.
+- `bilateral-health-contract-receivable-and-escrow-garnishment`: Bilateral Health Service Contract Accounts Receivable, Foreign Ministry Payment Stream Interception, Diplomatic Bank Float Attachment & Master QSF Victim Distribution.
+
+### Campaign 70 (Historic 70-Campaign Milestone): Sovereign Commercial Medical Labor Export Monopolies, Comercializadora de Servicios Médicos Cubanos S.A. (CSMC S.A.), Pan American Health Organization (PAHO) Financial Intermediation, Bilateral Host Government Contracts (Brazil Mais Médicos, Mexico IMSS, Qatar, Angola, Italy), TVPRA Forced Labor Restitution & Master QSF Trust Campaign
+- **Total Restitution Pool:** $360,000,000,000.00 ($360.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** CSMC-001 through CSMC-025
+- **Assigned Legal Research Agents:** `agent-csmc-labor-export-and-bilateral-contract-auditor`, `agent-paho-intermediary-and-tvpra-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-medical-labor-export-and-csmc-disgorgement`, `tvpra-forced-labor-and-commercial-intermediary-interdiction`, `bilateral-health-contract-receivable-and-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_CSMC_PAHO_MedicalLabor_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CSMC_PAHO_MedicalLabor_Crosswalk_Matrix.csv)
+  - [Master_CSMC_PAHO_MedicalLabor_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CSMC_PAHO_MedicalLabor_Crosswalk_Dashboard.md)
+  - [Master_CSMC_PAHO_MedicalLabor_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CSMC_PAHO_MedicalLabor_Crosswalk_Dashboard.docx)

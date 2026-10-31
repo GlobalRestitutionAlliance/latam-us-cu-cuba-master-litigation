@@ -1,0 +1,12 @@
+skill:
+  id: "tvpra-forced-labor-and-commercial-intermediary-interdiction"
+  name: "TVPRA Forced Labor Enforcement, Commercial Intermediary Liability & PAHO Interdiction"
+  description: "Post-judgment enforcement and commercial intermediary liability protocol targeting forced labor financial intermediaries, the Pan American Health Organization (PAHO), and financial clearing institutions under the Trafficking Victims Protection Reauthorization Act (TVPRA, 18 U.S.C. §§ 1589, 1595), Rodriguez v. PAHO, and Jam v. International Finance Corp."
+  category: "tvpra-intermediary-interdiction"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Apply the commercial activity exception to international organization immunity under Jam v. International Finance Corp. and Rodriguez v. PAHO to reach PAHO commercial bank accounts and administrative broker commissions."
+    - "Serve restraining notices and writs of execution under Fed. R. Civ. P. 69 and N.Y. C.P.L.R. § 5222 on PAHO operating funds and revolving fund accounts in Washington D.C. and New York."
+    - "Interdict and claw back PAHO's 5% commercial transaction brokerage fees retained from host government medical mission disbursements."
+    - "Formulate motions for mandatory victim restitution under 18 U.S.C. § 1593 and establish constructive trusts over intermediary financial assets."
