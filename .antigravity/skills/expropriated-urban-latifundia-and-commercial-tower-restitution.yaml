@@ -1,0 +1,25 @@
+skill:
+  id: "expropriated-urban-latifundia-and-commercial-tower-restitution"
+  name: "Expropriated Urban Latifundia & Commercial Tower Restitution"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Urban Property Confiscation & Title III Construction Trafficking Restitution"
+
+description: >
+  Procedural protocol for enforcing certified property claims under Title V of the International Claims Settlement
+  Act of 1949 and private rights of action under Title III of the Helms-Burton Act (22 U.S.C. § 6082) against
+  entities constructing, operating, or commercializing expropriated urban land parcels, historic commercial buildings,
+  and modern high-rise developments confiscated under the Urban Reform Law of October 14, 1960 and Law 851.
+
+execution_protocol:
+  step_1: "Reconcile certified FCSC claims and historical land deeds with the precise geographic coordinates of modern hotel and commercial towers (e.g. Torre K, Manzana Kempinski, Grand Packard)."
+  step_2: "Serve formal 30-day statutory pre-filing notices under 22 U.S.C. § 6082(a)(3) upon commercial developers, general contractors, and joint-venture partners trafficking in the confiscated property."
+  step_3: "Calculate treble statutory damages based on fair market value plus 6% simple annual interest from the date of confiscation pursuant to 22 U.S.C. § 6082(a)(1)(A)(i)."
+  step_4: "Initiate Title IV visa inadmissibility proceedings under 22 U.S.C. § 6091 with the U.S. Department of State against corporate officers, directors, and controlling shareholders of trafficking contractors."
+
+authorities:
+  - "22 U.S.C. § 6082 (Helms-Burton Act Title III Private Right of Action)"
+  - "22 U.S.C. § 6091 (Helms-Burton Act Title IV Executive Visa Inadmissibility)"
+  - "Urban Reform Law of October 14, 1960 (Gaceta Oficial de la República de Cuba)"
+  - "Law 851 of July 6, 1960 & Nationalization Decrees"
+  - "Title V, International Claims Settlement Act of 1949 (22 U.S.C. §§ 1643 et seq.)"

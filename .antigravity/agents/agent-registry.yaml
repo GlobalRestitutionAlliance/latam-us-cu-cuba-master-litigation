@@ -816,4 +816,14 @@ agents:
   role: Havana International Bank Ltd. (Havin Bank London / UK FCA/PRA Regulated), Banco Financiero Internacional (BFI / GAESA), SWIFT / TARGET2 Settlement Rails, European Correspondent Accounts, TRIA § 201 Garnishments & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-interbank-clearing-and-havin-marshal.yaml
-total_agents: 164
+- id: agent-almest-real-estate-and-gaesa-construction-auditor
+  name: Almest Real Estate & GAESA Construction Auditor
+  role: Inmobiliaria Almest S.A. (GAESA), Unión de Construcciones Militares (UCM), Urban Reform Confiscations (Law of October 14, 1960), Luxury Hotel Real Estate (Torre K, Manzana Kempinski, Packard) & Bancec Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-almest-real-estate-and-gaesa-construction-auditor.yaml
+- id: agent-transnational-contractor-and-bouygues-escrow-marshal
+  name: Transnational Contractor & Bouygues Escrow Marshal
+  role: Bouygues Bâtiment International (France / Euronext: EN), Multinational General Contractors, French Duty of Vigilance Law (Loi de Vigilance), Helms-Burton Title III Construction Trafficking (22 U.S.C. § 6082), TVPRA Conscript Labor & Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-contractor-and-bouygues-escrow-marshal.yaml
+total_agents: 166

@@ -907,4 +907,16 @@ skills:
   name: Transnational Interbank Clearing, Havin Bank London & SWIFT Settlement Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-interbank-clearing-and-havin-escrow-garnishment.yaml
-total_skills: 246
+- id: almest-real-estate-monopoly-and-gaesa-construction-disgorgement
+  name: Almest Real Estate Monopoly & GAESA Construction Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/almest-real-estate-monopoly-and-gaesa-construction-disgorgement.yaml
+- id: expropriated-urban-latifundia-and-commercial-tower-restitution
+  name: Expropriated Urban Latifundia & Commercial Tower Restitution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-urban-latifundia-and-commercial-tower-restitution.yaml
+- id: transnational-construction-contract-and-bouygues-escrow-garnishment
+  name: Transnational Construction Contract & Bouygues Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-construction-contract-and-bouygues-escrow-garnishment.yaml
+total_skills: 249

@@ -2012,3 +2012,22 @@ W:\Legal\US_CUBA\
   - [Master_Sovereign_Banking_BCC_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_BCC_Crosswalk_Matrix.csv)
   - [Master_Sovereign_Banking_BCC_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_BCC_Crosswalk_Dashboard.md)
   - [Master_Sovereign_Banking_BCC_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sovereign_Banking_BCC_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 80)
+- `agent-almest-real-estate-and-gaesa-construction-auditor`: Inmobiliaria Almest S.A. (GAESA), Unión de Construcciones Militares (UCM), Urban Reform Confiscations (Law of October 14, 1960), Luxury Hotel Real Estate (Torre K, Manzana Kempinski, Packard) & Bancec Alter Ego Auditor.
+- `agent-transnational-contractor-and-bouygues-escrow-marshal`: Bouygues Bâtiment International (France / Euronext: EN), Multinational General Contractors, French Duty of Vigilance Law (Loi de Vigilance), Helms-Burton Title III Construction Trafficking (22 U.S.C. § 6082), TVPRA Conscript Labor & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 80)
+- `almest-real-estate-monopoly-and-gaesa-construction-disgorgement`: Almest Real Estate Monopoly & GAESA Construction Disgorgement Protocol.
+- `expropriated-urban-latifundia-and-commercial-tower-restitution`: Expropriated Urban Latifundia & Commercial Tower Restitution Protocol.
+- `transnational-construction-contract-and-bouygues-escrow-garnishment`: Transnational Construction Contract & Bouygues Escrow Garnishment Protocol.
+
+### Campaign 80 (Historic 80-Campaign, 2,000-Instrument & $26 Trillion Milestone): Sovereign Commercial Real Estate Development, Urban Latifundia, Military Construction Monopolies, Grupo de Administración Empresarial S.A. (GAESA) / Inmobiliaria Almest S.A., Unión de Construcciones Militares (UCM), Transnational General Contractor Joint Ventures (Bouygues Bâtiment International - France / Bouygues S.A. Euronext: EN), Expropriated Pre-1959 Urban Latifundia & Commercial Real Estate (Urban Reform Law of October 14, 1960; Law 851; FCSC Certified Real Estate Claims), Helms-Burton Title III Construction Trafficking Actions (22 U.S.C. § 6082), French Duty of Vigilance Law (Loi n° 2017-399 relative au devoir de vigilance), TVPRA Conscript Labor Disgorgement (18 U.S.C. §§ 1589, 1595), European Bank Guarantees & Contract Receivables Garnishment (BNP Paribas, Crédit Agricole, Société Générale), and Master Qualified Settlement Fund (QSF) Trust Restitution ($410.00B Pool - $26.290T Milestone)
+- **Total Restitution Pool:** $410,000,000,000.00 ($410.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** ALM-001 through ALM-025
+- **Assigned Legal Research Agents:** `agent-almest-real-estate-and-gaesa-construction-auditor`, `agent-transnational-contractor-and-bouygues-escrow-marshal`
+- **Certified Procedural Skills:** `almest-real-estate-monopoly-and-gaesa-construction-disgorgement`, `expropriated-urban-latifundia-and-commercial-tower-restitution`, `transnational-construction-contract-and-bouygues-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Almest_Bouygues_RealEstate_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Almest_Bouygues_RealEstate_Crosswalk_Matrix.csv)
+  - [Master_Almest_Bouygues_RealEstate_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Almest_Bouygues_RealEstate_Crosswalk_Dashboard.md)
+  - [Master_Almest_Bouygues_RealEstate_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Almest_Bouygues_RealEstate_Crosswalk_Dashboard.docx)

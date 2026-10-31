@@ -1,0 +1,25 @@
+skill:
+  id: "almest-real-estate-monopoly-and-gaesa-construction-disgorgement"
+  name: "Almest Real Estate Monopoly & GAESA Construction Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Military Real Estate Holding & Construction Monopoly Disgorgement"
+
+description: >
+  Standardized forensic auditing and legal protocol for establishing Bancec alter ego unity across
+  Inmobiliaria Almest S.A., Unión de Construcciones Militares (UCM), Grupo de Administración Empresarial S.A. (GAESA),
+  and MINFAR. The protocol structures FSIA § 1605(a)(2) commercial activity jurisdiction, § 1605(a)(3) expropriation claims,
+  and equitable disgorgement of commercial real estate development revenues and foreign partnership assets.
+
+execution_protocol:
+  step_1: "Correlate pre-1959 municipal cadastral registries and property deeds with current Almest real estate development concessions in Havana, Varadero, and the northern cays."
+  step_2: "Document military command hierarchies establishing that Almest and UCM operate as integrated commercial arms of GAESA and the Cuban Ministry of the Revolutionary Armed Forces (MINFAR)."
+  step_3: "Trace commercial leasing revenues, joint development investments, and project financing flows captured through Banco Financiero Internacional (BFI)."
+  step_4: "File federal and international enforcement actions demanding commercial veil-piercing under First National City Bank v. Bancec (462 U.S. 611) and equitable disgorgement of real estate proceeds."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)"
+  - "28 U.S.C. § 1610(a)(2), (g) (Attachment of Sovereign & Instrumentality Property)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "U.S. Department of State Cuba Restricted List (CRL) Designation of Inmobiliaria Almest S.A. (Nov 9, 2017)"

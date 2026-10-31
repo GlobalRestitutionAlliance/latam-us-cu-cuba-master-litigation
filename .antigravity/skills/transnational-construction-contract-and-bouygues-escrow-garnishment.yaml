@@ -1,0 +1,26 @@
+skill:
+  id: "transnational-construction-contract-and-bouygues-escrow-garnishment"
+  name: "Transnational Construction Contract & Bouygues Escrow Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Transnational General Contractor Execution & European Escrow Garnishment"
+
+description: >
+  Multi-jurisdictional enforcement protocol establishing corporate liability under the French Duty of Vigilance Law
+  (Loi n° 2017-399), TVPRA forced labor statutes (18 U.S.C. §§ 1589, 1595), and post-judgment garnishment of European
+  construction contracts, performance bonds, letter of credit facilities, and progress payments issued by French
+  and European banking institutions in favor of Bouygues Bâtiment International and partner entities.
+
+execution_protocol:
+  step_1: "File formal mise en demeure (notice to comply) under French Commercial Code Art. L. 225-102-4 against Bouygues S.A. in Paris for failure to mitigate human rights risks associated with UCM conscript labor."
+  step_2: "Assert federal civil actions under 18 U.S.C. § 1595 and the Alien Tort Statute for complicity in forced labor on Cuban commercial hotel construction sites."
+  step_3: "Obtain European Account Preservation Orders (EAPO, Regulation (EU) No 655/2014) freezing construction progress payments and offshore project escrows in France, Spain, and Switzerland."
+  step_4: "Serve Third-Party Debt Orders and saisie-attribution notices upon European financial institutions (BNP Paribas, Crédit Agricole, Société Générale) holding Bouygues contractor balances."
+  step_5: "Transfer all liquidated garnishment proceeds into the court-supervised Master Qualified Settlement Fund (QSF) Trust under 26 U.S.C. § 468B."
+
+authorities:
+  - "Loi n° 2017-399 du 27 mars 2017 (Code de commerce Art. L. 225-102-4, Devoir de vigilance)"
+  - "Trafficking Victims Protection Reauthorization Act (TVPRA, 18 U.S.C. §§ 1589, 1595)"
+  - "Alien Tort Statute (ATS, 28 U.S.C. § 1350)"
+  - "Regulation (EU) No 655/2014 (European Account Preservation Order)"
+  - "26 U.S.C. § 468B & Treas. Reg. § 1.468B-1 (Qualified Settlement Fund)"
