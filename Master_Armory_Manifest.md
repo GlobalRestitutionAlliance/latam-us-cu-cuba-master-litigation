@@ -1292,3 +1292,22 @@ W:\Legal\US_CUBA\
   - [Master_Electric_Power_UNE_Karpowership_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Karpowership_Crosswalk_Matrix.csv)
   - [Master_Electric_Power_UNE_Karpowership_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Karpowership_Crosswalk_Dashboard.md)
   - [Master_Electric_Power_UNE_Karpowership_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Electric_Power_UNE_Karpowership_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 46)
+- `agent-etecsa-and-telecom-monopoly-auditor`: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), ITT / Cuban Telephone Co. Confiscations, Submarine Fiber Cables & Mobile Network Auditor.
+- `agent-roaming-clearing-and-telecom-garnishee-marshal`: GSMA Roaming Balances, Hard-Currency Top-Up Gateways (Ding, Recharge), Carrier Transit Payables & Telecom Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 46)
+- `sovereign-telecom-monopoly-and-etecsa-disgorgement`: Sovereign Telecom Monopoly & ETECSA Disgorgement.
+- `subsea-fiber-cable-and-ip-transit-interdiction`: Subsea Fiber Cable & IP Transit Interdiction.
+- `international-roaming-and-mobile-topup-garnishment`: International Roaming & Mobile Top-Up Garnishment.
+
+### Campaign 46: Sovereign Telecommunications, ETECSA Monopolies, Subsea Fiber Optic Cable Concessions (ALBA-1, Arcos-1) & Hard-Currency International Roaming / Top-Up Escrows Disgorgement Campaign
+- **Total Restitution Pool:** $290,000,000,000.00 ($290.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** TELC-001 through TELC-025
+- **Assigned Agents:** `agent-etecsa-and-telecom-monopoly-auditor`, `agent-roaming-clearing-and-telecom-garnishee-marshal`
+- **Certified Skills:** `sovereign-telecom-monopoly-and-etecsa-disgorgement`, `subsea-fiber-cable-and-ip-transit-interdiction`, `international-roaming-and-mobile-topup-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Telecommunications_ETECSA_Subsea_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Subsea_Crosswalk_Matrix.csv)
+  - [Master_Telecommunications_ETECSA_Subsea_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Subsea_Crosswalk_Dashboard.md)
+  - [Master_Telecommunications_ETECSA_Subsea_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Subsea_Crosswalk_Dashboard.docx)

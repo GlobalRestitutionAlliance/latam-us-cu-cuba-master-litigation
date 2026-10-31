@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-telecom-monopoly-and-etecsa-disgorgement
+  name: Sovereign Telecom Monopoly & ETECSA Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge ETECSA sovereign telecom monopolies, expropriated pre-1959 ITT / Cuban Telephone Company assets, and national cellular network combines.
+  procedures:
+    - Forensic mapping of the statutory monopoly granted to ETECSA over fixed, mobile, internet, and data telecommunications across Cuba.
+    - Title reconstruction of nationalized ITT / Cuban Telephone Company switching stations, central exchanges, and rights-of-way under FCSC Title V awards.
+    - Encumbrance of state-owned cellular base transceiver stations (BTS), fiber-optic rings, and data centers under FSIA § 1610(a)(2).
+    - Service of charging orders on foreign equipment suppliers (Huawei, Ericsson, ZTE) holding state equipment financing or debt collateral.
+    - Enforcement of restitution liens over national telecom real estate and commercial telephony revenues.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Expropriated Telecom Property
+    - Constructive Trust & Restitution under Restatement (Third) § 55
+  operational_status: ACTIVE

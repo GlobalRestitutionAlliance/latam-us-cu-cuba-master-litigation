@@ -1,0 +1,16 @@
+skill:
+  id: subsea-fiber-cable-and-ip-transit-interdiction
+  name: Subsea Fiber Cable & IP Transit Interdiction
+  version: 1.0.0
+  description: Interdiction, charging orders, and post-judgment encumbrance targeting submarine fiber-optic cables (ALBA-1, Arcos-1), international landing station concessions, and IP transit revenues.
+  procedures:
+    - Identification and forensic tracing of equity ownership, capacity allocations, and lease revenues in the ALBA-1 submarine cable linking Cuba, Venezuela, and Jamaica.
+    - Encumbrance of landing station facilities and terrestrial backhaul links operated by ETECSA at Siboney and Cojímar.
+    - Service of third-party garnishment subpoenas on international Tier-1 IP transit providers delivering wholesale bandwidth to ETECSA.
+    - Attachment of dark fiber lease payments and maintenance reserve escrows held in foreign banking jurisdictions.
+    - Interception of cross-border data transit fees and international circuit revenues paid by foreign telecommunications entities.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(a)(2) Commercial Property Execution
+    - UNCLOS Submarine Cable Concession Exceptions
+    - Fed. R. Civ. P. 69 Foreign Interline Turnover Precedents
+  operational_status: ACTIVE

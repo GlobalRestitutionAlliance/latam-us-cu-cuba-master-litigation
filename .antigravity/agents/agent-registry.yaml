@@ -476,4 +476,14 @@ agents:
   role: Turkish Powership Charters, Capacity Payment Escrows, Foreign Turbomachinery Receivables & Utility Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-powership-charter-and-energy-escrow-garnishee-marshal.yaml
-total_agents: 96
+- id: agent-etecsa-and-telecom-monopoly-auditor
+  name: Sovereign Telecom Monopoly, ETECSA & Subsea Cable Auditor
+  role: ETECSA State Monopoly, ITT / Cuban Telephone Co. Confiscations, Submarine Fiber Cables & Mobile Network Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-etecsa-and-telecom-monopoly-auditor.yaml
+- id: agent-roaming-clearing-and-telecom-garnishee-marshal
+  name: International Roaming, Mobile Top-Up & Telecom Garnishee Marshal
+  role: GSMA Roaming Balances, Hard-Currency Top-Up Gateways (Ding, Recharge), Carrier Transit Payables & Telecom Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-roaming-clearing-and-telecom-garnishee-marshal.yaml
+total_agents: 98

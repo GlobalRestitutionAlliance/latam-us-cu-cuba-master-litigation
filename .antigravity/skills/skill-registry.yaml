@@ -499,4 +499,16 @@ skills:
   name: Power Grid Infrastructure & Tariff Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/power-grid-infrastructure-and-tariff-garnishment.yaml
-total_skills: 144
+- id: sovereign-telecom-monopoly-and-etecsa-disgorgement
+  name: Sovereign Telecom Monopoly & ETECSA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-telecom-monopoly-and-etecsa-disgorgement.yaml
+- id: subsea-fiber-cable-and-ip-transit-interdiction
+  name: Subsea Fiber Cable & IP Transit Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/subsea-fiber-cable-and-ip-transit-interdiction.yaml
+- id: international-roaming-and-mobile-topup-garnishment
+  name: International Roaming & Mobile Top-Up Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/international-roaming-and-mobile-topup-garnishment.yaml
+total_skills: 147

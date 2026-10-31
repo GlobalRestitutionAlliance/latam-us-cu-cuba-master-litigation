@@ -1,0 +1,16 @@
+skill:
+  id: international-roaming-and-mobile-topup-garnishment
+  name: International Roaming & Mobile Top-Up Garnishment
+  version: 1.0.0
+  description: Post-judgment garnishment of multilateral mobile roaming balances cleared via GSMA clearinghouses, hard-currency mobile top-up remittances, and international carrier settlement accounts.
+  procedures:
+    - Forensic tracking of multilateral roaming receivables cleared through the European Data Clearing House (EDCH) and Syniverse for international travelers roaming on Cubacel.
+    - Attachment of weekly and monthly hard-currency mobile phone recharge ("Recarga Internacional") payments flowing through aggregators (Ding, Recharge.com, CSQ World, IDT Corporation).
+    - Encumbrance of bilateral carrier settlement accounts between ETECSA and U.S./European telecommunications carriers.
+    - Service of third-party execution notices on digital payment processors routing top-up revenues into BFI or offshore escrow accounts.
+    - Sweep of commercial telecommunications revenue streams into court-supervised Qualified Settlement Funds (QSF) under 26 U.S.C. § 468B.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - 28 U.S.C. § 1610(g) & 26 U.S.C. § 468B Master QSF Receivership
+    - FCC Foreign Carrier Settlement Regulations & NY UCC § 4A-503
+  operational_status: ACTIVE
