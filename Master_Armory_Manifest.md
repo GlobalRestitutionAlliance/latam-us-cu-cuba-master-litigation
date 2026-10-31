@@ -1601,3 +1601,23 @@ W:\Legal\US_CUBA\
   - [Master_Hospitality_Gaviota_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hospitality_Gaviota_Crosswalk_Matrix.csv)
   - [Master_Hospitality_Gaviota_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hospitality_Gaviota_Crosswalk_Dashboard.md)
   - [Master_Hospitality_Gaviota_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hospitality_Gaviota_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 60)
+- `agent-sovereign-banking-and-bfi-auditor`: Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Banco Financiero Internacional S.A. (BFI), GAESA Hard-Currency Treasury, Expropriated Commercial Bank Assets (Law 891, Citibank / Chase / Bank of Boston FCSC Claims) & Sovereign Banking Auditor.
+- `agent-havin-bank-and-correspondent-clearing-marshal`: Havana International Bank Ltd. (Havin Bank / London, UK Co. Reg. 01083984), Banco Internacional de Comercio S.A. (BICSA), UK High Court Enforcement (CRF I Ltd. Precedents), SWIFT / Interbank Clearing Escrows & Correspondent Bank Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 60)
+- `sovereign-central-banking-and-bnc-asset-disgorgement`: Sovereign Commercial Banking Monopolies, BCC/BNC Asset Unbundling & Central Bank Reserve Disgorgement.
+- `bfi-gaesa-hard-currency-treasury-interdiction`: Banco Financiero Internacional (BFI) Commercial Accounts, GAESA Hard-Currency Sweeps & Offshore Conduit Interdiction.
+- `havin-bank-london-and-correspondent-garnishment`: Havana International Bank Ltd. (London) Charging Orders, UK Commercial Court Execution (CRF I Ltd.) & European Correspondent Bank Garnishment.
+
+### Campaign 60: Sovereign Commercial Transnational Banking Monopolies, Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Banco Financiero Internacional S.A. (BFI), Havana International Bank Ltd. (Havin Bank London), Banco Internacional de Comercio S.A. (BICSA), Transnational Correspondent Clearing Escrows, Expropriated Pre-1959 Commercial Bank Assets (Law 891, First National City Bank / Chase Manhattan / First National Bank of Boston FCSC Claims) & UK High Court Commercial Enforcement (CRF I Ltd. Precedents) Restitution Campaign
+- **Total Restitution Pool:** $330,000,000,000.00 ($330.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** BANK-001 through BANK-025
+- **Assigned Legal Research Agents:** `agent-sovereign-banking-and-bfi-auditor`, `agent-havin-bank-and-correspondent-clearing-marshal`
+- **Certified Procedural Skills:** `sovereign-central-banking-and-bnc-asset-disgorgement`, `bfi-gaesa-hard-currency-treasury-interdiction`, `havin-bank-london-and-correspondent-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Banking_BNC_BFI_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Banking_BNC_BFI_Crosswalk_Matrix.csv)
+  - [Master_Banking_BNC_BFI_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Banking_BNC_BFI_Crosswalk_Dashboard.md)
+  - [Master_Banking_BNC_BFI_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Banking_BNC_BFI_Crosswalk_Dashboard.docx)

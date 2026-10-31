@@ -667,4 +667,16 @@ skills:
   name: Hotel Booking Clearinghouse & Tour Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/hotel-booking-clearinghouse-and-tour-escrow-garnishment.yaml
-total_skills: 186
+- id: sovereign-central-banking-and-bnc-asset-disgorgement
+  name: Sovereign Central Banking & BNC Asset Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-central-banking-and-bnc-asset-disgorgement.yaml
+- id: bfi-gaesa-hard-currency-treasury-interdiction
+  name: BFI GAESA Hard-Currency Treasury Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/bfi-gaesa-hard-currency-treasury-interdiction.yaml
+- id: havin-bank-london-and-correspondent-garnishment
+  name: Havin Bank London & Correspondent Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/havin-bank-london-and-correspondent-garnishment.yaml
+total_skills: 189

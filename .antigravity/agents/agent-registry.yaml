@@ -616,4 +616,14 @@ agents:
   role: Transnational Hotel Management Combines (Meliá, Iberostar, Blue Diamond, Kempinski), Helms-Burton Title III (22 U.S.C. § 6082), GDS (Amadeus, Sabre) & Tour Operator Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-hotel-jv-and-booking-escrow-marshal.yaml
-total_agents: 124
+- id: agent-sovereign-banking-and-bfi-auditor
+  name: Sovereign Banking, BFI & Commercial Bank Auditor
+  role: Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Banco Financiero Internacional (BFI), GAESA Hard-Currency Sweeps & Law 891 Bank Confiscation Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-sovereign-banking-and-bfi-auditor.yaml
+- id: agent-havin-bank-and-correspondent-clearing-marshal
+  name: Havin Bank London & Correspondent Clearing Marshal
+  role: Havana International Bank Ltd. (Havin Bank / London), BICSA, UK High Court Commercial Execution (CRF I Ltd. Precedents) & Correspondent Bank Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-havin-bank-and-correspondent-clearing-marshal.yaml
+total_agents: 126

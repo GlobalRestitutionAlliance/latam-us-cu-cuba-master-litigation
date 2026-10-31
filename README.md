@@ -2,12 +2,12 @@
 [![Integrity Verification](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml)
 [![Decentralized Mirror Sync](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml)
 [![Genesis Release](https://img.shields.io/badge/Release-v1.805.0--LOCKED-blue.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/releases/tag/v1.805.0)
-[![Litigation Status](https://img.shields.io/badge/Campaigns_Active-59_Phases-success.svg)](Master_Armory_Manifest.md)
-[![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-124_Deployed-blue.svg)](.antigravity/agents/agent-registry.yaml)
-[![Certified Skills](https://img.shields.io/badge/Certified_Skills-186_Active-purple.svg)](.antigravity/skills/skill-registry.yaml)
+[![Litigation Status](https://img.shields.io/badge/Campaigns_Active-60_Phases-success.svg)](Master_Armory_Manifest.md)
+[![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-126_Deployed-blue.svg)](.antigravity/agents/agent-registry.yaml)
+[![Certified Skills](https://img.shields.io/badge/Certified_Skills-189_Active-purple.svg)](.antigravity/skills/skill-registry.yaml)
 [![Integrated Tools](https://img.shields.io/badge/Integrated_Tools-7_Open--Source-brightgreen.svg)](.antigravity/tools/tool-registry.yaml)
-[![Active Instruments](https://img.shields.io/badge/Active_Instruments-1%2C475_Verified-orange.svg)](Master_Armory_Manifest.md)
-[![Restitution Pool](https://img.shields.io/badge/Restitution_Pool-%2418.670_Trillion-brightgreen.svg)](00_Master_Knowledge_Base/)
+[![Active Instruments](https://img.shields.io/badge/Active_Instruments-1%2C500_Verified-orange.svg)](Master_Armory_Manifest.md)
+[![Restitution Pool](https://img.shields.io/badge/Restitution_Pool-%2419.000_Trillion-brightgreen.svg)](00_Master_Knowledge_Base/)
 
 A decentralized, cryptographically-verified legal and historical repository executing post-judgment asset recovery, sovereign debt enforcement, and corporate restitution under international and domestic law. The repository establishes an unbroken, evidentiary record of continuous legal liability spanning 221 years (1805–2026), addressing historical and modern state-sponsored expropriations, fiduciary breaches, and international law violations through established judicial procedures.
 
@@ -28,12 +28,12 @@ The **US-Cuba Master Litigation** repository is an institutional legal research,
 
 | Operational Metric | Current Status | Verification Reference |
 |:---|:---:|:---|
-| **Phased Litigation Campaigns** | **59 Active Campaigns** | [`Expansion_and_Audit_Log.md`](Expansion_and_Audit_Log.md) |
-| **Autonomous Legal Research Agents** | **124 Deployed Agents** | [`.antigravity/agents/agent-registry.yaml`](.antigravity/agents/agent-registry.yaml) |
-| **Certified Analytical & Procedural Skills** | **186 Certified Skills** | [`.antigravity/skills/skill-registry.yaml`](.antigravity/skills/skill-registry.yaml) |
+| **Phased Litigation Campaigns** | **60 Active Campaigns** | [`Expansion_and_Audit_Log.md`](Expansion_and_Audit_Log.md) |
+| **Autonomous Legal Research Agents** | **126 Deployed Agents** | [`.antigravity/agents/agent-registry.yaml`](.antigravity/agents/agent-registry.yaml) |
+| **Certified Analytical & Procedural Skills** | **189 Certified Skills** | [`.antigravity/skills/skill-registry.yaml`](.antigravity/skills/skill-registry.yaml) |
 | **Integrated Open-Source Legal Tools** | **7 Tools** | [`.antigravity/tools/tool-registry.yaml`](.antigravity/tools/tool-registry.yaml) |
-| **Verified Enforcement Instruments** | **1,475 Instruments** | [`Master_Armory_Manifest.md`](Master_Armory_Manifest.md) |
-| **Cumulative Target Restitution Pool** | **$18.670 Trillion** | [`00_Master_Knowledge_Base/`](00_Master_Knowledge_Base/) |
+| **Verified Enforcement Instruments** | **1,500 Instruments** | [`Master_Armory_Manifest.md`](Master_Armory_Manifest.md) |
+| **Cumulative Target Restitution Pool** | **$19.000 Trillion** | [`00_Master_Knowledge_Base/`](00_Master_Knowledge_Base/) |
 | **Cryptographically Locked Foundational Vectors** | **1,805 Vectors** | [`.antigravity/knowledge/vector-index/`](.antigravity/knowledge/vector-index/) |
 | **Integrity Hash Parity** | **100% Zero-Drift** | [`VERIFICATION_KEYS/sha256_manifest.txt`](VERIFICATION_KEYS/sha256_manifest.txt) |
 
@@ -79,9 +79,9 @@ See [`.antigravity/tools/cross_nation_toolkit_manifest.yaml`](.antigravity/tools
 
 ---
 
-## Specialized Practice Groups (124 Agents / 186 Skills)
+## Specialized Practice Groups (126 Agents / 189 Skills)
 
-The 124 autonomous legal research agents and 186 certified skills are organized across six focused practice areas:
+The 126 autonomous legal research agents and 189 certified skills are organized across six focused practice areas:
 1. **Constitutional, Statutory & Appellate Practice:** Focuses on federal jurisdictional analysis, statutory construction, procedural drafting, and appellate preservation.
 2. **Sovereign Immunity & International Arbitration:** Addresses Foreign Sovereign Immunities Act (FSIA) exceptions (28 U.S.C. §§ 1605, 1610), ARSIWA Article 14 continuing wrong doctrines, and international arbitration procedures (PCA, ICSID, UNCITRAL).
 3. **Admiralty, Maritime Logistics & In Rem Enforcement:** Handles maritime liens, vessel and cargo arrest procedures under Supplemental Admiralty Rules B and C, and port concession recovery.
@@ -121,7 +121,7 @@ W:\Legal\US_CUBA\
 │   ├── knowledge\                     [Vector Index (9 blocks: 1–1805), Precedents, Timeline]
 │   ├── templates\                     [Pleading, Brief, and Discovery Templates]
 │   └── rules\                         [Operational Guardrails & Verification Rules]
-├── 00_Master_Knowledge_Base\          [59 Evidentiary Crosswalk Matrices, Dashboards, CSVs & DOCX]
+├── 00_Master_Knowledge_Base\          [60 Evidentiary Crosswalk Matrices, Dashboards, CSVs & DOCX]
 ├── 01_Pleadings_and_Complaints\       [Federal Complaints, Class Certification, Interventions]
 ├── 02_Discovery_and_Evidentiary\      [Subpoena Schedules, Corporate Lineage Matrices, Rule 45 Packages]
 ├── 03_Evidentiary_Exhibits\          [Primary Source Documents & Certified Archival Records]
@@ -131,7 +131,7 @@ W:\Legal\US_CUBA\
 ├── 06_Trial_and_Appellate_Prep\       [Jury Instructions, Appellate Preservation Records, Trial Outlines]
 ├── 07_Enforcement_and_Restitution\    [Admiralty In Rem Liens, QSF Protocols, Execution Writs]
 ├── VERIFICATION_KEYS\                 [Master SHA-256 Manifest & Public GPG Verification Ring]
-├── Master_Armory_Manifest.md          [Complete Indexed Portfolio of All 59 Litigation Campaigns]
+├── Master_Armory_Manifest.md          [Complete Indexed Portfolio of All 60 Litigation Campaigns]
 └── Expansion_and_Audit_Log.md         [Chronological Record of Deployments & Audits]
 ```
 

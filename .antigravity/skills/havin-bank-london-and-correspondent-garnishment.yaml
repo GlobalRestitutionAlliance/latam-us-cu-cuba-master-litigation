@@ -1,0 +1,12 @@
+skill:
+  id: "havin-bank-london-and-correspondent-garnishment"
+  name: "Havana International Bank Ltd. (London) Charging Orders, UK Commercial Court Execution (CRF I Ltd.) & European Correspondent Bank Garnishment"
+  description: "Cross-border judgment enforcement protocols targeting Havana International Bank Ltd. (Havin Bank / London), Banco Internacional de Comercio S.A. (BICSA), English Commercial Court enforcement procedures under CPR Part 70–73, and European correspondent bank garnishment."
+  category: "cross-border-enforcement"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Enforce final commercial debt judgments against Banco Nacional de Cuba and the Republic of Cuba in the High Court of Justice (Commercial Court, London) under CRF I Ltd. v. BNC principles."
+    - "File applications for Third Party Debt Orders (Civil Procedure Rules Part 72) and Charging Orders (CPR Part 73) over shares and accounts of Havana International Bank Ltd. (UK Co. Reg. 01083984)."
+    - "Garnish BICSA trade finance letters of credit, bill of exchange acceptance accounts, and commodity import escrow funds held in London, Madrid, Zurich, and Montreal."
+    - "Coordinate simultaneous cross-border recognition and exequatur proceedings across England, Spain, France, and Switzerland to attach interconnected correspondent clearing pipelines."

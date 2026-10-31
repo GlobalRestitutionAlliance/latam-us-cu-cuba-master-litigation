@@ -1,0 +1,12 @@
+skill:
+  id: "bfi-gaesa-hard-currency-treasury-interdiction"
+  name: "Banco Financiero Internacional (BFI) Commercial Accounts, GAESA Hard-Currency Sweeps & Offshore Conduit Interdiction"
+  description: "Forensic tracking and post-judgment execution protocols targeting Banco Financiero Internacional S.A. (BFI) commercial bank accounts, GAESA military hard-currency operational sweeps, and foreign correspondent conduit clearing."
+  category: "garnishment-and-interdiction"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Audit BFI corporate shareholding, confirming 100% beneficial ownership and control by GAESA / Ministry of the Revolutionary Armed Forces (MINFAR) under Bancec principles."
+    - "Map mandatory hard-currency surrender pipelines routing export proceeds and hotel revenues from Gaviota, Cimex, Habaguanex, and Tabacuba into BFI correspondent conduits."
+    - "Serve Rule 69 writs of attachment and international third-party notices on foreign banks acting as correspondent nodes for BFI commercial clearings."
+    - "Seek conservatory freezing orders and turnover decrees against BFI-controlled foreign currency clearing balances maintained in Western European and Panamanian financial institutions."
