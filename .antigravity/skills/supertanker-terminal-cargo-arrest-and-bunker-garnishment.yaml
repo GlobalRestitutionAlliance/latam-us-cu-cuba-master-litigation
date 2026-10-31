@@ -1,0 +1,12 @@
+skill:
+  id: "supertanker-terminal-cargo-arrest-and-bunker-garnishment"
+  name: "Matanzas Supertanker Terminal Cargo Arrest, Transnational Crude Oil Tanker Seizure & Marine Bunkering Escrow Garnishment"
+  description: "Asset recovery execution protocols targeting Matanzas deepwater supertanker terminal crude storage receipts, international crude tanker vessels, offshore bunkering clearinghouses, and commodity barter escrows."
+  category: "garnishment-and-interdiction"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Track vessel movements of crude oil and dirty petroleum product (DPP) tankers calling at Matanzas, Cienfuegos, and Havana Bay using AIS and international maritime databases."
+    - "Execute Supplemental Admiralty Rule B maritime attachments and Rule C in rem arrests against sovereign-controlled or chartered tankers entering foreign territorial waters."
+    - "Garnish marine bunkering fuel accounts, lightering fees, and port dues settled through international maritime clearinghouses in Rotterdam, Gibraltar, and Panama."
+    - "Subpoena international oil trading houses (Trafigura, Glencore, Vitol) and foreign state energy enterprises for all petroleum delivery records, bills of lading, and escrow clearing accounts under Fed. R. Civ. P. 45."

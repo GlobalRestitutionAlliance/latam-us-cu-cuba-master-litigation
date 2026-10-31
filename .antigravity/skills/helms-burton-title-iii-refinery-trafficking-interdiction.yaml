@@ -1,0 +1,12 @@
+skill:
+  id: "helms-burton-title-iii-refinery-trafficking-interdiction"
+  name: "Helms-Burton Title III (22 U.S.C. § 6082) Refinery Trafficking Enforcement & Commercial Fuel Revenue Turnover"
+  description: "Enforcement framework for establishing statutory civil liability and post-judgment garnishment against commercial entities trafficking in uncompensated confiscated oil refineries, terminals, and service station assets under Exxon Mobil Corp. v. Corporación CIMEX S.A. and Unión Cuba-Petróleo precedents."
+  category: "civil-remedies-and-statutory-enforcement"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Enforce federal court holdings in Exxon Mobil Corp. v. CIMEX & CUPET (D.D.C. Civil Action No. 19-1277) sustaining subject-matter jurisdiction under Helms-Burton Title III and FSIA commercial exceptions."
+    - "Establish statutory 'trafficking' nexus under 22 U.S.C. § 6023(13) and § 6082 for refining, storing, distributing, or retailing petroleum products derived from confiscated refinery assets."
+    - "Serve post-judgment third-party citations and garnishment summonses upon foreign oil traders and commodity buyers purchasing refined products from CUPET."
+    - "Obtain turnover decrees compelling multinational joint venture partners and off-takers to deposit petroleum purchase payments into a court-supervised qualified settlement fund."

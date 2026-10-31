@@ -691,4 +691,16 @@ skills:
   name: PSA Terminal Concession & Container Tariff Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/psa-terminal-concession-and-container-tariff-garnishment.yaml
-total_skills: 192
+- id: sovereign-hydrocarbon-monopoly-and-cupet-disgorgement
+  name: Sovereign Hydrocarbon Monopoly & CUPET Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-hydrocarbon-monopoly-and-cupet-disgorgement.yaml
+- id: helms-burton-title-iii-refinery-trafficking-interdiction
+  name: Helms-Burton Title III Refinery Trafficking Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/helms-burton-title-iii-refinery-trafficking-interdiction.yaml
+- id: supertanker-terminal-cargo-arrest-and-bunker-garnishment
+  name: Supertanker Terminal Cargo Arrest & Bunker Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/supertanker-terminal-cargo-arrest-and-bunker-garnishment.yaml
+total_skills: 195

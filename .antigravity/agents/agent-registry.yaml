@@ -636,4 +636,14 @@ agents:
   role: PSA International (Singapore) Concession Royalties, Helms-Burton Title III Maritime Trafficking (Crowley, Seaboard, CMA CGM, Maersk), Container Handling & Transshipment Dues Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-psa-concession-and-maritime-trafficking-marshal.yaml
-total_agents: 128
+- id: agent-cupet-and-refinery-monopoly-auditor
+  name: CUPET, ECC & Petroleum Latifundia Auditor
+  role: Unión Cuba-Petróleo (CUPET), ECC, Expropriated Refineries (Law 851, Esso CU-0064 / Texaco CU-0065), Matanzas Terminal & Hydrocarbon Latifundia Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cupet-and-refinery-monopoly-auditor.yaml
+- id: agent-oil-tanker-and-bunkering-escrow-marshal
+  name: Oil Tanker Fleets & Bunkering Escrow Marshal
+  role: Transnational Crude Tanker Fleets, Bunkering Conduits, D.D.C. Title III Petroleum Enforcement (Exxon Mobil v. CIMEX & CUPET) & Oil Swap Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-oil-tanker-and-bunkering-escrow-marshal.yaml
+total_agents: 130

@@ -1641,3 +1641,23 @@ W:\Legal\US_CUBA\
   - [Master_Mariel_ZEDM_PSA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Mariel_ZEDM_PSA_Crosswalk_Matrix.csv)
   - [Master_Mariel_ZEDM_PSA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Mariel_ZEDM_PSA_Crosswalk_Dashboard.md)
   - [Master_Mariel_ZEDM_PSA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Mariel_ZEDM_PSA_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 62)
+- `agent-cupet-and-refinery-monopoly-auditor`: Unión Cuba-Petróleo (CUPET), Empresa Comercializadora de Combustibles (ECC), Expropriated American Refineries (Law 851, Esso Standard Oil CU-0064 / Texaco CU-0065), Matanzas Supertanker Terminal & Hydrocarbon Latifundia Auditor.
+- `agent-oil-tanker-and-bunkering-escrow-marshal`: Transnational Crude Tanker Fleets, Coastal Bunkering Conduits, D.D.C. Title III Petroleum Enforcement (Exxon Mobil Corp. v. CIMEX & CUPET Precedents) & Oil Swap Escrow Marshal.
+
+## Newly Registered Skills (Campaign 62)
+- `sovereign-hydrocarbon-monopoly-and-cupet-disgorgement`: Sovereign Commercial Petroleum Monopolies, CUPET/ECC Asset Unbundling & Oil Refining Disgorgement.
+- `helms-burton-title-iii-refinery-trafficking-interdiction`: Helms-Burton Title III (22 U.S.C. § 6082) Refinery Trafficking Enforcement & Commercial Fuel Revenue Turnover.
+- `supertanker-terminal-cargo-arrest-and-bunker-garnishment`: Matanzas Supertanker Terminal Cargo Arrest, Transnational Crude Oil Tanker Seizure & Marine Bunkering Escrow Garnishment.
+
+### Campaign 62: Sovereign Commercial Hydrocarbon Refining, Supertanker Crude Terminals, Unión Cuba-Petróleo (CUPET), Expropriated American Refineries (Law 851, Esso Standard Oil FCSC CU-0064 / Texaco FCSC CU-0065), D.D.C. Helms-Burton Title III Judgment Enforcement (Exxon Mobil Corp. v. CIMEX & CUPET Precedents) & Transnational Tanker Fleet Bunkering Escrows Restitution Campaign
+- **Total Restitution Pool:** $340,000,000,000.00 ($340.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** PETR-001 through PETR-025
+- **Assigned Legal Research Agents:** `agent-cupet-and-refinery-monopoly-auditor`, `agent-oil-tanker-and-bunkering-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-hydrocarbon-monopoly-and-cupet-disgorgement`, `helms-burton-title-iii-refinery-trafficking-interdiction`, `supertanker-terminal-cargo-arrest-and-bunker-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Petroleum_CUPET_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Petroleum_CUPET_Crosswalk_Matrix.csv)
+  - [Master_Petroleum_CUPET_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Petroleum_CUPET_Crosswalk_Dashboard.md)
+  - [Master_Petroleum_CUPET_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Petroleum_CUPET_Crosswalk_Dashboard.docx)
