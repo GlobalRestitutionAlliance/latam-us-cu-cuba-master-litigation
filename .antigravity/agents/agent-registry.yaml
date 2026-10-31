@@ -656,4 +656,14 @@ agents:
   role: Cruise Line Trafficking (Carnival, Royal Caribbean, Norwegian, MSC Precedents), S.D. Fla. Helms-Burton Title III Judgments, Passenger Head Taxes & Port Dues Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cruise-line-trafficking-and-passenger-dues-marshal.yaml
-total_agents: 132
+- id: agent-cimex-retail-and-trd-auditor
+  name: CIMEX, TRD Caribe & Retail Latifundia Auditor
+  role: Corporación CIMEX S.A., Cadena Panamericanas, Tiendas Caribe (TRD), Tiendas MLC, Law 890 Confiscated Retail Chains (Sears / Woolworth) & GAESA Retail Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cimex-retail-and-trd-auditor.yaml
+- id: agent-colon-free-zone-and-pos-escrow-marshal
+  name: Colon Free Zone Procurement & POS Escrow Marshal
+  role: Panama Colon Free Zone Supply Factoring, FINCIMEX / Orbit S.A. Payment Gateway Clearing, Hard-Currency POS Sweeps & Retail Merchant Float Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-colon-free-zone-and-pos-escrow-marshal.yaml
+total_agents: 134

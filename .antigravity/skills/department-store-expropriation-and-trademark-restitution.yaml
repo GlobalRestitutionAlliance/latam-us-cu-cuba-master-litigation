@@ -1,0 +1,12 @@
+skill:
+  id: "department-store-expropriation-and-trademark-restitution"
+  name: "Department Store Expropriation, Helms-Burton Title III Trafficking & Trademark Restitution"
+  description: "Legal verification and restitution framework for American commercial department stores, retail chains, and trademarks confiscated without compensation under Law 890 (October 14, 1960), including Sears Roebuck & Co. (FCSC Claim No. CU-2494), F.W. Woolworth Co. (FCSC Claim No. CU-2496), and El Encanto commercial assets."
+  category: "restitution-enforcement"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Verify certified Foreign Claims Settlement Commission (FCSC) final awards for confiscated retail giants (Sears CU-2494, Woolworth CU-2496) and map historical store locations converted into Tiendas Panamericanas/TRD."
+    - "Document commercial trafficking under 22 U.S.C. § 6082 (Helms-Burton Act Title III) by foreign suppliers, franchisors, and joint venture retail distributors utilizing confiscated commercial premises."
+    - "Trace misappropriated pre-1959 retail trademarks, commercial trade names, and goodwill exploited across Cuban sovereign retail networks without license or compensation."
+    - "Prepare multi-jurisdictional notices of liability, third-party distributor demand letters, and Title III complaints seeking statutory treble damages."

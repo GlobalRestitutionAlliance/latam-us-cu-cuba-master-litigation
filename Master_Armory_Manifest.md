@@ -1681,3 +1681,23 @@ W:\Legal\US_CUBA\
   - [Master_Cruise_Terminals_Havana_Docks_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cruise_Terminals_Havana_Docks_Crosswalk_Matrix.csv)
   - [Master_Cruise_Terminals_Havana_Docks_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cruise_Terminals_Havana_Docks_Crosswalk_Dashboard.md)
   - [Master_Cruise_Terminals_Havana_Docks_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Cruise_Terminals_Havana_Docks_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 64)
+- `agent-cimex-retail-and-trd-auditor`: Corporación CIMEX S.A., Cadena Panamericanas, Tiendas Caribe (TRD), Tiendas MLC, Law 890 Confiscated Retail Chains (Sears / Woolworth) & GAESA Retail Auditor.
+- `agent-colon-free-zone-and-pos-escrow-marshal`: Panama Colon Free Zone Supply Factoring, FINCIMEX / Orbit S.A. Payment Gateway Clearing, Hard-Currency POS Sweeps & Retail Merchant Float Marshal.
+
+## Newly Registered Skills (Campaign 64)
+- `sovereign-commercial-retail-monopoly-and-cimex-disgorgement`: Sovereign Commercial Retail Monopolies, Hard-Currency Tiendas MLC & CIMEX Disgorgement.
+- `department-store-expropriation-and-trademark-restitution`: Department Store Expropriation, Helms-Burton Title III Trafficking & Trademark Restitution.
+- `colon-free-zone-procurement-and-pos-clearing-garnishment`: Panama Colon Free Zone Procurement, POS Clearing & Commercial Float Garnishment.
+
+### Campaign 64: Sovereign Commercial Retail Monopolies, Hard-Currency Tiendas MLC, Corporación CIMEX S.A., Cadena de Tiendas Panamericanas, Tiendas Caribe (TRD), Expropriated Pre-1959 American Department Stores (Law 890, Sears Roebuck & Co. FCSC Claim No. CU-2494 / F.W. Woolworth Co. FCSC Claim No. CU-2496 / El Encanto), Panama Colon Free Zone Supply Conduits & Hard-Currency POS / Payment Gateway Escrows (FINCIMEX / Orbit S.A.) Restitution Campaign
+- **Total Restitution Pool:** $330,000,000,000.00 ($330.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** RETL-001 through RETL-025
+- **Assigned Legal Research Agents:** `agent-cimex-retail-and-trd-auditor`, `agent-colon-free-zone-and-pos-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-commercial-retail-monopoly-and-cimex-disgorgement`, `department-store-expropriation-and-trademark-restitution`, `colon-free-zone-procurement-and-pos-clearing-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Retail_CIMEX_TRD_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Retail_CIMEX_TRD_Crosswalk_Matrix.csv)
+  - [Master_Retail_CIMEX_TRD_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Retail_CIMEX_TRD_Crosswalk_Dashboard.md)
+  - [Master_Retail_CIMEX_TRD_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Retail_CIMEX_TRD_Crosswalk_Dashboard.docx)

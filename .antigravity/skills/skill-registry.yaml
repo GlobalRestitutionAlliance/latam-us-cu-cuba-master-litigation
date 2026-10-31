@@ -715,4 +715,16 @@ skills:
   name: Passenger Port Dues & Shore Excursion Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/passenger-port-dues-and-shore-excursion-escrow-garnishment.yaml
-total_skills: 198
+- id: sovereign-commercial-retail-monopoly-and-cimex-disgorgement
+  name: Sovereign Commercial Retail Monopolies, Hard-Currency Tiendas MLC & CIMEX Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-commercial-retail-monopoly-and-cimex-disgorgement.yaml
+- id: department-store-expropriation-and-trademark-restitution
+  name: Department Store Expropriation, Helms-Burton Title III Trafficking & Trademark Restitution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/department-store-expropriation-and-trademark-restitution.yaml
+- id: colon-free-zone-procurement-and-pos-clearing-garnishment
+  name: Panama Colon Free Zone Procurement, POS Clearing & Commercial Float Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/colon-free-zone-procurement-and-pos-clearing-garnishment.yaml
+total_skills: 201

@@ -1,0 +1,12 @@
+skill:
+  id: "colon-free-zone-procurement-and-pos-clearing-garnishment"
+  name: "Panama Colon Free Zone Procurement, POS Clearing & Commercial Float Garnishment"
+  description: "Cross-border post-judgment garnishment and debt attachment protocol targeting Panama Colon Free Zone supply conduits, merchant factoring balances, FINCIMEX/Orbit S.A. payment gateway clearing escrows, and POS terminal transaction settlements under N.Y. C.P.L.R. § 5225 and Fed. R. Civ. P. 69."
+  category: "garnishment-and-factoring"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Identify logistics forwarders, re-exporters, and commercial trading entities in the Colon Free Zone (Panama) executing wholesale supply contracts for CIMEX and Tiendas Caribe."
+    - "Serve restraining notices and third-party turnover subpoenas on intermediary banks, merchant acquiring institutions, and clearing houses handling FINCIMEX and Orbit S.A. transaction floats."
+    - "Garnish commercial payment receivables, letters of credit, and merchant debit card settlements processed through foreign card networks and correspondent clearing rails."
+    - "Execute maritime and air cargo attachments against retail consumer goods, electronics, and home appliances prior to transshipment into Cuban customs territory."
