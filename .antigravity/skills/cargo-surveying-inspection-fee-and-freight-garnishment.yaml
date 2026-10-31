@@ -1,0 +1,16 @@
+skill:
+  id: cargo-surveying-inspection-fee-and-freight-garnishment
+  name: Cargo Surveying Inspection Fee & Freight Garnishment
+  version: 1.0.0
+  description: Operational protocol to attach Cubacontrol mandatory cargo inspection fees, Transcargo freight forwarding accounts, and logistics clearing balances.
+  procedures:
+    - Tracing of mandatory inspection fee invoices issued by Cubacontrol S.A. to foreign commodity suppliers and charterers.
+    - Service of third-party debtor garnishment notices on international grain, fuel, and chemical traders paying inspection tariffs.
+    - Interdiction of SWIFT MT103 transfers routed to Cubacontrol and Transcargo correspondent accounts in Spain, Canada, and Panama.
+    - Attachment of negotiable ocean bills of lading, customs broker clearing accounts, and freight consolidation fees.
+    - Turnover of captured inspection revenues, freight balances, and arbitration awards directly into the Master QSF.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(a)(2) & § 1610(g)
+    - Fed. R. Civ. P. 69 Post-Judgment Turnover Writs
+    - NY UCC Article 9 & International Freight Trade Laws
+  operational_status: ACTIVE

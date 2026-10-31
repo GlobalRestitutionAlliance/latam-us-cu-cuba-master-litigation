@@ -1197,3 +1197,22 @@ W:\Legal\US_CUBA\
   - [Master_Polymetallic_Mining_Geominsal_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Polymetallic_Mining_Geominsal_Crosswalk_Matrix.csv)
   - [Master_Polymetallic_Mining_Geominsal_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Polymetallic_Mining_Geominsal_Crosswalk_Dashboard.md)
   - [Master_Polymetallic_Mining_Geominsal_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Polymetallic_Mining_Geominsal_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 41)
+- `agent-bonded-warehousing-and-ausa-auditor`: Almacenes Universales S.A. (AUSA), Cubacontrol S.A., Bonded Warehouses, Free Trade Logistics Zones & THC Tariffs Auditor.
+- `agent-freight-forwarding-and-demurrage-garnishee-marshal`: Shipping Line Demurrage Escrows, Terminal Handling Charges (THC), Cubacontrol Fees & Panama/Europe Clearing Marshal.
+
+## Newly Registered Skills (Campaign 41)
+- `sovereign-bonded-logistics-and-ausa-disgorgement`: Sovereign Bonded Logistics & AUSA Disgorgement.
+- `container-demurrage-and-terminal-tariff-interdiction`: Container Demurrage & Terminal Tariff Interdiction.
+- `cargo-surveying-inspection-fee-and-freight-garnishment`: Cargo Surveying Inspection Fee & Freight Garnishment.
+
+### Campaign 41: Sovereign Customs-Bonded Warehousing, Free Trade Logistics Zones, AUSA Monopolies & Cubacontrol Transnational Cargo Inspection Disgorgement Campaign
+- **Total Restitution Pool:** $280,000,000,000.00 ($280.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** AUSA-001 through AUSA-025
+- **Assigned Agents:** `agent-bonded-warehousing-and-ausa-auditor`, `agent-freight-forwarding-and-demurrage-garnishee-marshal`
+- **Certified Skills:** `sovereign-bonded-logistics-and-ausa-disgorgement`, `container-demurrage-and-terminal-tariff-interdiction`, `cargo-surveying-inspection-fee-and-freight-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Bonded_Logistics_AUSA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Bonded_Logistics_AUSA_Crosswalk_Matrix.csv)
+  - [Master_Bonded_Logistics_AUSA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Bonded_Logistics_AUSA_Crosswalk_Dashboard.md)
+  - [Master_Bonded_Logistics_AUSA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Bonded_Logistics_AUSA_Crosswalk_Dashboard.docx)

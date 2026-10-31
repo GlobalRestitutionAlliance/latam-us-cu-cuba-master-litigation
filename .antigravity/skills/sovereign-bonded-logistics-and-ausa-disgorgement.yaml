@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-bonded-logistics-and-ausa-disgorgement
+  name: Sovereign Bonded Logistics & AUSA Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge GAESA's Almacenes Universales S.A. (AUSA) warehousing monopoly and logistics parks.
+  procedures:
+    - Audit of the statutory and military monopoly granted to AUSA over customs-bonded storage and free trade zone logistics.
+    - Forensic mapping of expropriated pre-1959 bonded warehouses, refrigerated port docks, and freight terminals (Cuban Warehouse Corp., Terminal Marítima).
+    - Encumbrance of logistics distribution hubs, automated container stacking yards, and bonded warehouses across Havana, Mariel, and provincial ports.
+    - Service of charging orders on foreign engineering contractors and port equipment suppliers holding state equity or debt collateral.
+    - Enforcement of restitution liens over logistics real property, bonded terminals, and operating cashflows.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Port Infrastructure
+    - Equitable Restitution & Constructive Trust Imposition under Restatement (Third) § 55
+  operational_status: ACTIVE

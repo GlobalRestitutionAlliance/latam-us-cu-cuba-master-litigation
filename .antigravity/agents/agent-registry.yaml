@@ -426,4 +426,14 @@ agents:
   role: Trafigura Offtake Escrows, Bulk Ore Carrier Arrests, Geneva Trading Clearing Desks & Smelter Receivables Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-mineral-concentrate-and-trafigura-garnishee-marshal.yaml
-total_agents: 86
+- id: agent-bonded-warehousing-and-ausa-auditor
+  name: Sovereign Bonded Warehousing, AUSA & Free Trade Zone Auditor
+  role: Almacenes Universales S.A. (AUSA), Cubacontrol S.A., Bonded Warehouses, Free Trade Logistics Zones & THC Tariffs Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-bonded-warehousing-and-ausa-auditor.yaml
+- id: agent-freight-forwarding-and-demurrage-garnishee-marshal
+  name: Maritime Container Demurrage, Cargo Inspection & Logistics Garnishee Marshal
+  role: Shipping Line Demurrage Escrows, Terminal Handling Charges (THC), Cubacontrol Fees & Panama/Europe Clearing Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-freight-forwarding-and-demurrage-garnishee-marshal.yaml
+total_agents: 88

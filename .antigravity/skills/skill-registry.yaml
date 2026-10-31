@@ -439,4 +439,16 @@ skills:
   name: Precious Metals & Industrial Mineral Export Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/precious-metals-and-industrial-mineral-export-garnishment.yaml
-total_skills: 129
+- id: sovereign-bonded-logistics-and-ausa-disgorgement
+  name: Sovereign Bonded Logistics & AUSA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-bonded-logistics-and-ausa-disgorgement.yaml
+- id: container-demurrage-and-terminal-tariff-interdiction
+  name: Container Demurrage & Terminal Tariff Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/container-demurrage-and-terminal-tariff-interdiction.yaml
+- id: cargo-surveying-inspection-fee-and-freight-garnishment
+  name: Cargo Surveying Inspection Fee & Freight Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/cargo-surveying-inspection-fee-and-freight-garnishment.yaml
+total_skills: 132

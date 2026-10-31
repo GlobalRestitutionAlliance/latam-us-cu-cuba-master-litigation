@@ -1,0 +1,16 @@
+skill:
+  id: container-demurrage-and-terminal-tariff-interdiction
+  name: Container Demurrage & Terminal Tariff Interdiction
+  version: 1.0.0
+  description: Maritime and financial execution protocol to attach Terminal Handling Charges (THC), container demurrage payments, and port stevedoring tariffs.
+  procedures:
+    - Identification of active container service agreements executed between global ocean carriers and AUSA / port authorities.
+    - Service of Rule 69 garnishment orders on international shipping lines operating in Cuban trade lanes.
+    - Freezing of Terminal Handling Charges (THC), container detention deposits, and storage demurrage escrow accounts.
+    - Foreclosure of maritime liens upon containerized cargo handling revenues pursuant to federal maritime law.
+    - Turnover of attached demurrage funds, tariff payments, and port handling fees directly into certified restitution trust accounts.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Supplemental Admiralty Rule B Maritime Attachment
+  operational_status: ACTIVE

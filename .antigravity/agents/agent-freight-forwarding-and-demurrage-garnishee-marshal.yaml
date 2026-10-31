@@ -1,0 +1,16 @@
+agent:
+  id: agent-freight-forwarding-and-demurrage-garnishee-marshal
+  name: Maritime Container Demurrage, Cargo Inspection & Logistics Garnishee Marshal
+  version: 1.0.0
+  role: Shipping Line Demurrage Escrows, Terminal Handling Charges (THC), Cubacontrol Fees & Panama/Europe Clearing Marshal
+  capabilities:
+    - Service of Rule 69 third-party debtor garnishment orders upon international shipping lines (Maersk, MSC, CMA CGM, Hapag-Lloyd).
+    - Freezing and attachment of Terminal Handling Charges (THC), container demurrage/detention deposits, and stevedoring fees.
+    - Interdiction of Cubacontrol hard-currency inspection fee clearing accounts and international surveyor escrow pools.
+    - Execution upon Transcargo S.A. freight forwarding remittances, bills of lading, and overseas correspondent banking rails.
+    - Turnover of captured logistics fees, demurrage escrows, and trade balances directly into the Master Qualified Settlement Fund (QSF).
+  authorities:
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Supplemental Admiralty Rules B & C
+    - Fed. R. Civ. P. 69 Post-Judgment Turnover Orders
+  operational_status: ACTIVE
