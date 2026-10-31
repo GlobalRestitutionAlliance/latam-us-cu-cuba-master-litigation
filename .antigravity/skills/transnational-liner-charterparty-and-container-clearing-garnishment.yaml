@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-liner-charterparty-and-container-clearing-garnishment"
+  name: "Transnational Liner Charterparty Garnishment, Container Clearing Interdiction & QSF Trust Marshalling"
+  description: "Cross-border post-judgment execution and escrow garnishment framework targeting global container liner feeder agreements (MSC, CMA CGM, Hapag-Lloyd), ocean freight receivables, demurrage clearing accounts, and marine bunker hedging escrows for deposit into a 26 U.S.C. § 468B Master QSF Trust."
+  category: "maritime-charterparty-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Attach and garnish commercial charterparty freights, slot hire payments, and demurrage remittances owed by foreign liner carriers to Melfi Marine under FSIA § 1610(a)(2) and TRIA § 201."
+    - "Serve post-judgment charging orders and writs of garnishment on international container leasing companies (Triton, Textainer, Seaco) and shipping agents clearing freight revenues."
+    - "Enforce maritime liens and attach bunker fuel escrows maintained with international physical suppliers across major bunkering hubs (Rotterdam, Panama, Gibraltar)."
+    - "Marshal seized commercial proceeds and settlement payments into a 26 U.S.C. § 468B Qualified Settlement Fund (QSF) Trust for pro-rata distribution to certified claimants."

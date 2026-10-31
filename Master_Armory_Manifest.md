@@ -1898,3 +1898,22 @@ W:\Legal\US_CUBA\
   - [Master_CubaRon_PernodRicard_Spirits_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CubaRon_PernodRicard_Spirits_Crosswalk_Matrix.csv)
   - [Master_CubaRon_PernodRicard_Spirits_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CubaRon_PernodRicard_Spirits_Crosswalk_Dashboard.md)
   - [Master_CubaRon_PernodRicard_Spirits_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_CubaRon_PernodRicard_Spirits_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 74)
+- `agent-melfi-offshore-liner-and-maritime-charter-auditor`: Melfi Marine Corporation S.A. (Panama), Empresa de Navegación Caribe (ENC), MITRANS Commercial Shipping Apparatus, Expropriated Pre-1959 American Merchant Fleets (Law 851, Seatrain Lines FCSC CU-2493 & Naviera de Cuba), Time Charterparty Contracts & Bancec Alter Ego Auditor.
+- `agent-liner-alliance-and-container-escrow-marshal`: Transnational Container Liner Feeder Charters (MSC, CMA CGM, Hapag-Lloyd), Supplemental Admiralty Rules B & C Vessel Arrests, Transshipment Freight Clearing Conduits, Marine Bunker Hedging Accounts & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 74)
+- `melfi-marine-offshore-fleet-and-liner-disgorgement`: Melfi Marine Offshore Fleet, Liner Disgorgement, Time-Charter Auditing & Bancec Alter Ego Liability.
+- `expropriated-maritime-fleet-and-seatrain-lines-restitution`: Expropriated Maritime Fleet, Seatrain Lines Restitution, Supplemental Admiralty Rule C In Rem Arrests & Title III/IV Trafficking Actions (22 U.S.C. §§ 6082, 6091).
+- `transnational-liner-charterparty-and-container-clearing-garnishment`: Transnational Container Liner Feeder Slot Charter Garnishment, Supplemental Rule B Maritime Attachment, Bunker Hedging Interdiction & Master QSF Distribution.
+
+### Campaign 74: Sovereign Commercial Maritime Container Shipping Fleets, Transnational Liner Alliances, Melfi Marine Corporation S.A. (Panama / Cuba), Empresa de Navegación Caribe (ENC), Expropriated American Maritime Fleets & Docks (Law 851, Seatrain Lines Inc. FCSC Claim No. CU-2493 / Naviera de Cuba / Havana Docks CU-2492), Supplemental Admiralty Rules B and C In Rem Fleet Arrests, Transnational Feeder Services with Global Mega-Carriers (MSC, CMA CGM, Hapag-Lloyd), Demurrage & Container Clearing Escrows & Master QSF Restitution Campaign
+- **Total Restitution Pool:** $380,000,000,000.00 ($380.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** SHP-001 through SHP-025
+- **Assigned Legal Research Agents:** `agent-melfi-offshore-liner-and-maritime-charter-auditor`, `agent-liner-alliance-and-container-escrow-marshal`
+- **Certified Procedural Skills:** `melfi-marine-offshore-fleet-and-liner-disgorgement`, `expropriated-maritime-fleet-and-seatrain-lines-restitution`, `transnational-liner-charterparty-and-container-clearing-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Melfi_Container_Shipping_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Melfi_Container_Shipping_Crosswalk_Matrix.csv)
+  - [Master_Melfi_Container_Shipping_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Melfi_Container_Shipping_Crosswalk_Dashboard.md)
+  - [Master_Melfi_Container_Shipping_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Melfi_Container_Shipping_Crosswalk_Dashboard.docx)

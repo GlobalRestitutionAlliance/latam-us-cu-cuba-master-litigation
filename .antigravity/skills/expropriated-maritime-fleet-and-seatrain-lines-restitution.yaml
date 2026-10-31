@@ -1,0 +1,12 @@
+skill:
+  id: "expropriated-maritime-fleet-and-seatrain-lines-restitution"
+  name: "Expropriated Maritime Fleet, Seatrain Lines Restitution & Admiralty Title Actions"
+  description: "Legal restitution and maritime title-tracing protocol targeting uncompensated confiscations of pre-1959 American and Cuban merchant marine vessels, railcar ferries, and dock facilities under Law 851 (Seatrain Lines Inc., FCSC Claim No. CU-2493; Naviera de Cuba; Havana Docks CU-2492), enforcing Helms-Burton Title III private rights of action (22 U.S.C. § 6082) and Supplemental Admiralty Rule C in rem arrest procedures."
+  category: "maritime-title-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Authenticate FCSC Certified Claims (Seatrain Lines Inc. CU-2493; Havana Docks CU-2492) and correlate historical vessel and terminal assets with active maritime transport routes."
+    - "Document commercial trafficking under 22 U.S.C. § 6082 by tracking ocean carriers docking at confiscated container berths or utilizing confiscated maritime terminal facilities."
+    - "Prepare Supplemental Admiralty Rule C in rem arrest complaints and Rule B maritime attachment filings against commercial vessels and freights in international maritime jurisdictions."
+    - "Submit Title IV evidentiary dossiers to the U.S. Department of State for mandatory visa revocation and executive exclusion of corporate officers of trafficking container liner companies."

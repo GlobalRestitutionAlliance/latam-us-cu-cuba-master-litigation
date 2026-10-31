@@ -756,4 +756,14 @@ agents:
   role: Havana Club International S.A. (HCI S.A.), Havana Club Holding S.A. (Luxembourg), Pernod Ricard S.A. Global Distribution Conduits, Worldwide Trademark Royalties, D.D.C. Title III Trafficking Judgments (Arechabala v. Pernod Ricard) & Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-pernod-ricard-offshore-royalty-and-distribution-escrow-marshal.yaml
-total_agents: 152
+- id: agent-melfi-offshore-liner-and-maritime-charter-auditor
+  name: Melfi Offshore Liner & Maritime Charter Auditor
+  role: Melfi Marine Corporation S.A. (Panama), Empresa de Navegación Caribe (ENC), MITRANS Commercial Shipping Apparatus, Expropriated Pre-1959 American Merchant Fleets (Law 851, Seatrain Lines FCSC CU-2493 & Naviera de Cuba), Time Charterparty Contracts & Bancec Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-melfi-offshore-liner-and-maritime-charter-auditor.yaml
+- id: agent-liner-alliance-and-container-escrow-marshal
+  name: Liner Alliance & Container Escrow Marshal
+  role: Transnational Container Liner Feeder Charters (MSC, CMA CGM, Hapag-Lloyd), Supplemental Admiralty Rules B & C Vessel Arrests, Transshipment Freight Clearing Conduits, Marine Bunker Hedging Accounts & Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-liner-alliance-and-container-escrow-marshal.yaml
+total_agents: 154

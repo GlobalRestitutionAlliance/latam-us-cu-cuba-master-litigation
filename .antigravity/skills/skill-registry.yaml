@@ -835,4 +835,16 @@ skills:
   name: Transnational Spirits Royalty Garnishment, Pernod Ricard Dividend Interdiction & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-spirits-royalty-and-pernod-ricard-dividend-garnishment.yaml
-total_skills: 228
+- id: melfi-marine-offshore-fleet-and-liner-disgorgement
+  name: Melfi Marine Offshore Fleet, Liner Disgorgement & Maritime Alter Ego Auditing
+  status: ACTIVE
+  manifest_file: .antigravity/skills/melfi-marine-offshore-fleet-and-liner-disgorgement.yaml
+- id: expropriated-maritime-fleet-and-seatrain-lines-restitution
+  name: Expropriated Maritime Fleet, Seatrain Lines Restitution & Admiralty Title Actions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-maritime-fleet-and-seatrain-lines-restitution.yaml
+- id: transnational-liner-charterparty-and-container-clearing-garnishment
+  name: Transnational Liner Charterparty Garnishment, Container Clearing Interdiction & QSF Trust Marshalling
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-liner-charterparty-and-container-clearing-garnishment.yaml
+total_skills: 231
