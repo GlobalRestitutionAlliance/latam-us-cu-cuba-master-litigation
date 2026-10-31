@@ -696,4 +696,14 @@ agents:
   role: Anheuser-Busch InBev (AB InBev) Transnational Joint Venture, Offshore Malt & Hop Factoring Escrows, Foreign Dividend Clearing Rails, Helms-Burton Title III Trafficking & Brand Royalty Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-abinbev-jv-and-malt-dividend-marshal.yaml
-total_agents: 140
+- id: agent-alimport-and-food-procurement-auditor
+  name: ALIMPORT, Food Monopoly & Agribusiness Latifundia Auditor
+  role: Empresa Cubana Importadora de Alimentos (ALIMPORT), MINCEX, Molinera de Harina S.A., Quaker Oats (CU-2497) & Swift/Armour Confiscated Food Facilities, State Bulk Food Import Monopolies & GAESA Tourist Supply Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-alimport-and-food-procurement-auditor.yaml
+- id: agent-tsra-cash-in-advance-and-grain-escrow-marshal
+  name: TSRA Cash-in-Advance & Agribusiness Escrow Marshal
+  role: U.S. TSRA (Trade Sanctions Reform Act) Cash-in-Advance Escrows, Agribusiness Supplier Letters of Credit (Cargill / ADM / Tyson / Bunge), Bulk Grain/Poultry Vessel Arrest & Intermediary Bank Clearing Float Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-tsra-cash-in-advance-and-grain-escrow-marshal.yaml
+total_agents: 142

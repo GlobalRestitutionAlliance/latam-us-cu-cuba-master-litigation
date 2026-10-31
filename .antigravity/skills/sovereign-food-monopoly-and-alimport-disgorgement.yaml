@@ -1,16 +1,12 @@
 skill:
-  id: sovereign-food-monopoly-and-alimport-disgorgement
-  name: Sovereign Food Monopoly & ALIMPORT Disgorgement
-  version: 1.0.0
-  description: Tactical enforcement protocol to audit, encumber, and disgorge ALIMPORT sovereign food import monopolies, expropriated pre-1959 flour mills, and state wholesale grain combines.
+  id: "sovereign-food-monopoly-and-alimport-disgorgement"
+  name: "Sovereign Food Import Monopolies, ALIMPORT Procurement & Supply Concession Disgorgement"
+  description: "Forensic audit and asset disgorgement protocol targeting state-controlled commercial food import monopolies (Empresa Cubana Importadora de Alimentos - ALIMPORT, MINCEX, and Coralsa), bulk commodity purchasing quotas, and wholesale supply concessions under FSIA § 1605(a)(2), § 1605(a)(3), and Bancec alter ego principles."
+  category: "food-import-disgorgement"
+  status: "certified"
+  version: "1.0.0"
   procedures:
-    - Audit of the statutory monopoly granted to ALIMPORT over all sovereign grain, meat, poultry, dairy, and edible oil imports into Cuba.
-    - Forensic mapping of expropriated pre-1959 industrial flour mills, bulk grain elevators, and cold storage warehouses across Havana, Cienfuegos, and Santiago.
-    - Encumbrance of sovereign milling complexes, automated grain silos, and state food distribution distribution centers.
-    - Service of charging orders on foreign agricultural trading houses and equipment suppliers holding state equity or debt collateral.
-    - Enforcement of restitution liens over food processing real estate, milling assets, and state commercial revenues.
-  enforcement_framework:
-    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
-    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Food Infrastructure
-    - Equitable Restitution & Constructive Trust Imposition under Restatement (Third) § 55
-  operational_status: ACTIVE
+    - "Establish alter ego unity between the Ministry of Foreign Trade (MINCEX) and food import monopoly ALIMPORT under First National City Bank v. Bancec and Rubin v. Islamic Republic of Iran."
+    - "Audit commercial cash flows, wholesale markups, and foreign currency revenues generated from ALIMPORT supplying GAESA tourist hotels (ITH S.A.) and Tiendas MLC supermarkets."
+    - "Trace foreign currency payment sweeps and documentary credit escrows through Banco Central de Cuba, Banco Financiero Internacional (BFI), and foreign correspondent banks."
+    - "Formulate motions for entry of post-judgment turnover orders, charging orders, and equitable receivership over commercial food procurement proceeds and bulk grain silo concessions."

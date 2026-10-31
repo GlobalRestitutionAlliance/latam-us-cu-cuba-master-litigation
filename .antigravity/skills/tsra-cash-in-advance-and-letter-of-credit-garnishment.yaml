@@ -1,0 +1,12 @@
+skill:
+  id: "tsra-cash-in-advance-and-letter-of-credit-garnishment"
+  name: "TSRA Cash-in-Advance Escrow Interdiction & Commercial Letter-of-Credit Garnishment"
+  description: "Cross-border post-judgment garnishment and debt attachment protocol targeting Trade Sanctions Reform and Export Enhancement Act (TSRA) cash-in-advance deposit accounts, documentary letters of credit, and third-party bank clearing floats under U.C.C. Article 5, Fed. R. Civ. P. 69, and N.Y. C.P.L.R. § 5225."
+  category: "tsra-escrow-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Trace cash collateral deposits and pre-funded escrow accounts maintained by ALIMPORT at intermediary confirming banks executing TSRA agricultural export purchases (22 U.S.C. § 7207)."
+    - "Serve restraining notices and third-party turnover subpoenas on major U.S. and European confirming banks and commodity trading houses (Cargill, ADM, Tyson, Bunge) handling ALIMPORT remittances."
+    - "Garnish documentary letters of credit and commercial settlement floats prior to payment release or cargo title transfer under U.C.C. Article 5 and Peterson v. Iran doctrine."
+    - "Coordinate Supplemental Admiralty Rule C in rem arrest warrants against commercial bulk grain and refrigerated poultry vessels transiting international waters."

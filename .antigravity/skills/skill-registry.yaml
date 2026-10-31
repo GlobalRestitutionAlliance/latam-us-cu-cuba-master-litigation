@@ -763,4 +763,16 @@ skills:
   name: Brewing Joint Venture Dividend Interdiction & Malt Supply Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/brewery-joint-venture-dividend-and-malt-escrow-garnishment.yaml
-total_skills: 210
+- id: sovereign-food-monopoly-and-alimport-disgorgement
+  name: Sovereign Food Import Monopolies, ALIMPORT Procurement & Supply Concession Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-food-monopoly-and-alimport-disgorgement.yaml
+- id: expropriated-food-processing-and-milling-restitution
+  name: Expropriated Food Processing Plants, Flour Mills & Helms-Burton Title III Restitution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-food-processing-and-milling-restitution.yaml
+- id: tsra-cash-in-advance-and-letter-of-credit-garnishment
+  name: TSRA Cash-in-Advance Escrow Interdiction & Commercial Letter-of-Credit Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/tsra-cash-in-advance-and-letter-of-credit-garnishment.yaml
+total_skills: 213

@@ -1,0 +1,12 @@
+skill:
+  id: "expropriated-food-processing-and-milling-restitution"
+  name: "Expropriated Food Processing Plants, Flour Mills & Helms-Burton Title III Restitution"
+  description: "Legal verification and Title III trafficking enforcement for American-owned food processing complexes, industrial flour mills, cold storage facilities, and trademarks confiscated under Law 890 (The Quaker Oats Co. FCSC CU-2497, Swift & Co., Armour & Co., Molinera de Harina S.A.) under 22 U.S.C. § 6082."
+  category: "food-plant-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Verify certified Foreign Claims Settlement Commission (FCSC) records for confiscated food giants nationalized under Law 890, including The Quaker Oats Company (CU-2497), Molinera de Harina S.A., Swift & Company, and Armour & Company."
+    - "Identify third-party foreign agribusiness traders and shipping operators commercially trafficking over confiscated milling real estate, deepwater discharge piers, and cold storage warehouses under 22 U.S.C. § 6082."
+    - "Serve formal statutory notices of intent to file Title III actions and demand letters seeking treble damages for commercial trafficking in confiscated agro-industrial facilities."
+    - "Prepare multi-district federal court complaints seeking statutory damages and constructive trusts over commercial food import revenues derived from confiscated property."
