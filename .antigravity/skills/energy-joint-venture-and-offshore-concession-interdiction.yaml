@@ -1,0 +1,16 @@
+skill:
+  id: energy-joint-venture-and-offshore-concession-interdiction
+  name: Energy Joint Venture & Offshore Concession Interdiction
+  version: 1.0.0
+  description: Interdiction and post-judgment charging orders targeting transnational energy joint ventures (Energas S.A., Cuvenpetrol), production sharing contracts, and offshore Gulf of Mexico exploration blocks.
+  procedures:
+    - Identification and forensic tracing of dividend distributions, joint venture cash calls, and management fees flowing to CUPET from Energas S.A. (Sherritt International).
+    - Encumbrance of foreign partner equity interests, cost-recovery oil allocations, and contractual receivables in onshore and offshore PSCs.
+    - Service of third-party garnishment subpoenas on foreign energy partners operating in Canadian, European, and Australian financial jurisdictions.
+    - Post-judgment attachment of sovereign concession rights and licensing fees across Gulf of Mexico deepwater EEZ exploration blocks.
+    - Freezing of offshore escrow accounts maintained for oilfield rehabilitation and environmental abandonment reserves.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(a)(2) Commercial Joint Venture Asset Execution
+    - Fed. R. Civ. P. 69 Foreign Interline Turnover Precedents
+    - NY UCC § 4A-503 Wire Transfer Restraint
+  operational_status: ACTIVE

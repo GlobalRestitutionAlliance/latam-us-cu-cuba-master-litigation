@@ -475,4 +475,16 @@ skills:
   name: Overflight Airspace Fees & Airport Tariff Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/overflight-airspace-fees-and-airport-tariff-garnishment.yaml
-total_skills: 138
+- id: sovereign-hydrocarbon-and-cupet-disgorgement
+  name: Sovereign Hydrocarbon & CUPET Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-hydrocarbon-and-cupet-disgorgement.yaml
+- id: energy-joint-venture-and-offshore-concession-interdiction
+  name: Energy Joint Venture & Offshore Concession Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/energy-joint-venture-and-offshore-concession-interdiction.yaml
+- id: tanker-cargo-arrest-and-fuel-trade-garnishment
+  name: Tanker Cargo Arrest & Fuel Trade Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/tanker-cargo-arrest-and-fuel-trade-garnishment.yaml
+total_skills: 141

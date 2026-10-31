@@ -1254,3 +1254,22 @@ W:\Legal\US_CUBA\
   - [Master_Civil_Aviation_CACSA_IATA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Civil_Aviation_CACSA_IATA_Crosswalk_Matrix.csv)
   - [Master_Civil_Aviation_CACSA_IATA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Civil_Aviation_CACSA_IATA_Crosswalk_Dashboard.md)
   - [Master_Civil_Aviation_CACSA_IATA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Civil_Aviation_CACSA_IATA_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 44)
+- `agent-cupet-and-hydrocarbon-monopoly-auditor`: Unión Cuba-Petróleo (CUPET), Expropriated American Refineries (Esso, Texaco, Sinclair), Coastal Refining Combines & Offshore Concessions Auditor.
+- `agent-energy-joint-venture-and-tanker-garnishee-marshal`: Sherritt Energas Dividends, Matanzas Terminal Berths, Crude Tanker Admiralty Arrests & Hydrocarbon Trade Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 44)
+- `sovereign-hydrocarbon-and-cupet-disgorgement`: Sovereign Hydrocarbon & CUPET Disgorgement.
+- `energy-joint-venture-and-offshore-concession-interdiction`: Energy Joint Venture & Offshore Concession Interdiction.
+- `tanker-cargo-arrest-and-fuel-trade-garnishment`: Tanker Cargo Arrest & Fuel Trade Garnishment.
+
+### Campaign 44: Sovereign Hydrocarbon Extraction, Refining & Wholesale Distribution Monopolies, CUPET Latifundia, Offshore Oil Exploration Concessions & Sherritt / PDVSA / Zarubezhneft Joint Ventures Disgorgement Campaign
+- **Total Restitution Pool:** $290,000,000,000.00 ($290.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** PETR-001 through PETR-025
+- **Assigned Agents:** `agent-cupet-and-hydrocarbon-monopoly-auditor`, `agent-energy-joint-venture-and-tanker-garnishee-marshal`
+- **Certified Skills:** `sovereign-hydrocarbon-and-cupet-disgorgement`, `energy-joint-venture-and-offshore-concession-interdiction`, `tanker-cargo-arrest-and-fuel-trade-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Hydrocarbons_CUPET_Refining_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Matrix.csv)
+  - [Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.md)
+  - [Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.docx)

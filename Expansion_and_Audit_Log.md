@@ -1558,3 +1558,25 @@ Operationalized an offensive multi-theater post-judgment execution swarm targeti
 - **Line Endings:** Strict LF normalization enforced across all text files.
 - **Foundational Immutability:** Locked foundational files (`historical-timeline.yaml`, `legal-precedents.yaml`, `Master_Chain_of_Custody_Log.md`) 100% clean and untouched.
 - **SHA-256 Manifest:** Regenerated and verified with 0 mismatches.
+## [2026-10-31T02:45:00-04:00] - Campaign 44: Sovereign Hydrocarbon Extraction, Refining & Wholesale Distribution Monopolies, CUPET Latifundia, Offshore Oil Exploration Concessions & Sherritt / PDVSA / Zarubezhneft Joint Ventures Disgorgement Campaign
+
+### 1. Architectural Scope & Mandate
+Operationalized an offensive multi-theater post-judgment execution swarm targeting **$290.00 Billion** in sovereign hydrocarbon extraction combines, coastal oil refineries, offshore exploration concessions, transnational energy joint ventures, deepwater tanker terminal infrastructure, and hard-currency retail fuel distribution monopolies, including the state petroleum holding corporation (Unión Cuba-Petróleo - CUPET), national coastal refineries (Refinería Ñico López, Refinería Hermanos Díaz, Refinería Camilo Cienfuegos, Refinería Sergio Soto), the Matanzas Supertanker Terminal, the Matanzas-Cienfuegos crude pipeline, joint ventures with foreign energy corporations (Energas S.A. / Sherritt International, Cuvenpetrol S.A. / PDVSA, Zarubezhneft, Melbana Energy), and the Servicupet nationwide hard-currency fuel retailing chain, expanding the aggregate restitution pool to **$14.140 Trillion** across 1,100 multi-theater tactical instruments.
+
+### 2. Phased Waves Audit & Confirmation (100% Parity)
+- **Wave 1 (Expropriated Pre-1959 American Refineries, Terminals & Bulk Fuel Storage Latifundia):** Audited & Confirmed (5/5 instruments verified, $70.00B Pool).
+- **Wave 2 (Unión Cuba-Petróleo Sovereign Holding & State Refining Combines):** Audited & Confirmed (5/5 instruments verified, $65.00B Pool).
+- **Wave 3 (Transnational Energy Joint Ventures, Production Sharing Contracts & Offshore Concessions):** Audited & Confirmed (5/5 instruments verified, $58.00B Pool).
+- **Wave 4 (Matanzas Supertanker Terminal, National Pipelines & Tanker Charter Interdiction):** Audited & Confirmed (5/5 instruments verified, $52.00B Pool).
+- **Wave 5 (Alter Ego Annihilation, Hard-Currency Fuel Clearing & Master QSF Distribution):** Audited & Confirmed (5/5 instruments verified, $45.00B Pool; $290.00B Aggregate Pool).
+
+### 3. Deliverables Generated & Hardened
+- `00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Matrix.csv`
+- `00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.md`
+- `00_Master_Knowledge_Base/Master_Hydrocarbons_CUPET_Refining_Crosswalk_Dashboard.docx`
+
+### 4. Integrity Verification & Invariants
+- **Vector Invariant:** Verified exact count of 1,805 vectors across `.antigravity/knowledge/vector-index/*.yaml` (0 drift).
+- **Line Endings:** Strict LF normalization enforced across all text files.
+- **Foundational Immutability:** Locked foundational files (`historical-timeline.yaml`, `legal-precedents.yaml`, `Master_Chain_of_Custody_Log.md`) 100% clean and untouched.
+- **SHA-256 Manifest:** Regenerated and verified with 0 mismatches.

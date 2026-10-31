@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-hydrocarbon-and-cupet-disgorgement
+  name: Sovereign Hydrocarbon & CUPET Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge CUPET sovereign oil monopolies, expropriated pre-1959 American refineries, and state petroleum refining combines.
+  procedures:
+    - Forensic mapping of the statutory monopoly granted to Unión Cuba-Petróleo (CUPET) over all petroleum exploration, refining, and distribution.
+    - Title reconstruction of nationalized Esso, Texaco, and Sinclair refineries, bulk storage tanks, and pipelines under FCSC Title V awards.
+    - Encumbrance of state-owned coastal refineries (Ñico López, Hermanos Díaz, Camilo Cienfuegos) under FSIA § 1610(a)(2).
+    - Service of charging orders on foreign engineering and oilfield services contractors holding state equipment or debt collateral.
+    - Enforcement of restitution liens over downstream retail fuel distribution networks (Servicupet) and hard-currency revenues.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Petroleum Infrastructure
+    - Constructive Trust & Restitution under Restatement (Third) § 55
+  operational_status: ACTIVE

@@ -1,0 +1,16 @@
+skill:
+  id: tanker-cargo-arrest-and-fuel-trade-garnishment
+  name: Tanker Cargo Arrest & Fuel Trade Garnishment
+  version: 1.0.0
+  description: Maritime arrest of crude oil and refined product tankers under Supplemental Admiralty Rules B & C, encumbrance of Matanzas Supertanker Terminal berths, and garnishment of international fuel trade finance.
+  procedures:
+    - AIS real-time tracking of crude carriers, product tankers, and LPG vessels calling at Cuban ports or carrying CUPET-owned petroleum cargoes.
+    - Execution of Supplemental Admiralty Rule B maritime attachments and Rule C in rem arrests against sovereign oil cargoes on the high seas and at bunkering anchorages.
+    - Encumbrance of deepwater discharge berths, crude storage tanks, and pumping stations at the Matanzas Supertanker Terminal.
+    - Service of garnishment notices on international oil trading companies (Trafigura, Vitol, Glencore) holding unpaid crude payables or demurrage balances.
+    - Sweep of commercial fuel sale proceeds into court-supervised Qualified Settlement Funds (QSF) under 26 U.S.C. § 468B.
+  enforcement_framework:
+    - Supplemental Admiralty Rules B & C
+    - 28 U.S.C. § 1605(a)(2) Commercial Shipping Exception
+    - 28 U.S.C. § 1610(g) & 26 U.S.C. § 468B Master QSF Receivership
+  operational_status: ACTIVE

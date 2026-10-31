@@ -456,4 +456,14 @@ agents:
   role: IATA Multilateral Clearance Desks, BSP Remittances, Havana FIR Overflight Navigation Fees & Aircraft Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-iata-clearing-and-overflight-garnishee-marshal.yaml
-total_agents: 92
+- id: agent-cupet-and-hydrocarbon-monopoly-auditor
+  name: Sovereign Hydrocarbon Monopoly, CUPET & Refinery Latifundia Auditor
+  role: CUPET State Monopoly, Expropriated American Refineries (Esso, Texaco, Sinclair), Coastal Refining Combines & Offshore Concessions Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cupet-and-hydrocarbon-monopoly-auditor.yaml
+- id: agent-energy-joint-venture-and-tanker-garnishee-marshal
+  name: Energy Joint Venture, Supertanker Cargo & Oil Trade Garnishee Marshal
+  role: Sherritt Energas Dividends, Matanzas Terminal Berths, Crude Tanker Admiralty Arrests & Hydrocarbon Trade Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-energy-joint-venture-and-tanker-garnishee-marshal.yaml
+total_agents: 94
