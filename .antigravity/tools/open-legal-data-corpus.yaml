@@ -1,0 +1,36 @@
+tool:
+  id: "open-legal-data-corpus"
+  name: "Open Legal Data & Pile-of-Law Corpus Processor"
+  version: "1.0.0"
+  license: "MIT / Apache-2.0"
+  upstream_url: "https://github.com/openlegaldata/openlegaldata"
+  category: "Open Legal Data & Court Scrapers"
+  description: >
+    Text processing, entity extraction, and corpus indexing tool for ingesting massive
+    open-source legal text datasets (OpenLegalData, Pile-of-Law, MultiLegalPile).
+    Enables air-gapped forensic mining of historical administrative registries,
+    regulatory enforcement dockets, and international tribunal transcripts.
+
+supported_corpora:
+  pile_of_law:
+    description: "256GB open-source corpus of legal, regulatory, and administrative text."
+    subsets:
+      - "courtlistener_opinions"
+      - "courtlistener_dockets"
+      - "federal_register"
+      - "bork_hearings"
+      - "doj_olc_memos"
+      - "attorney_general_opinions"
+  multilegal_pile:
+    description: "Multi-lingual multilingual corpus spanning European, Latin American, and international tribunals."
+    subsets:
+      - "eur_lex_regulations"
+      - "echr_judgments"
+      - "icj_proceedings"
+  openlegaldata:
+    description: "Structured case law and court decisions with citation graph topology."
+
+nlp_capabilities:
+  - "Automated Named Entity Recognition (NER) for foreign sovereign entities, state ministers, and commercial front companies."
+  - "Pattern-based extraction of uncompensated expropriation clauses and sovereign immunity waivers."
+  - "Semantic vector chunking and indexing for high-dimensional evidentiary retrieval."

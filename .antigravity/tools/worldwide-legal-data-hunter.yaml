@@ -1,0 +1,38 @@
+tool:
+  id: "worldwide-legal-data-hunter"
+  name: "World Wide Law Global Legal Data Hunter"
+  version: "1.0.0"
+  license: "MIT"
+  upstream_url: "https://github.com/worldwidelaw/legal-sources"
+  category: "Open Legal Data & Court Scrapers"
+  description: >
+    Multi-jurisdictional legal data scraper and pipeline framework mapping official government
+    gazettes, legislative portals, and court jurisprudence across 110+ sovereign nations.
+    Provides standard schemas for harvesting nationalization decrees, diplomatic treaties,
+    and sovereign property registries across Europe, Latin America, and the Caribbean.
+
+supported_jurisdictions:
+  cuba:
+    official_gazette: "Gaceta Oficial de la República de Cuba (gacetaoficial.gob.cu)"
+    focus_areas: ["Nationalization Decrees (Law 851, Law 890)", "Commercial Registry Notices", "Foreign Investment Portfolio"]
+  panama:
+    mercantile_registry: "Registro Público de Panamá (rp.gob.pa)"
+    focus_areas: ["Melfi Marine Corp.", "Commercial Offshore Shipping Holdings", "Corporate Veil-Piercing Audits"]
+  spain:
+    official_bulletin: "Boletín Oficial del Estado (boe.es)"
+    focus_areas: ["Foreign Sovereign Immunities Jurisprudence", "Audiencia Nacional Commercial Rulings"]
+  united_kingdom:
+    legislation_portal: "legislation.gov.uk"
+    focus_areas: ["State Immunity Act 1978", "Civil Procedure Rules Part 72 (Third-Party Debt Orders)"]
+  canada:
+    justice_laws_portal: "laws-lois.justice.gc.ca"
+    focus_areas: ["Federal Courts Act §§ 22, 43 (Admiralty Jurisdiction)", "State Immunity Act (R.S.C. 1985, c. S-18)"]
+  netherlands:
+    official_portal: "wetten.overheid.nl"
+    focus_areas: ["Code of Civil Procedure (Rv) Art. 700 Conservatoir Beslag", "Rotterdam District Court Admiralty Rolls"]
+
+data_pipeline_stages:
+  stage_1: "Endpoint Discovery: Identify and ping official government XML/RSS/JSON feeds and HTML gazette portals."
+  stage_2: "Document Ingestion: Scrape gazettes, statutory texts, and court dockets while respecting robots.txt and rate limits."
+  stage_3: "Structural Normalization: Parse heterogeneous tables, decrees, and citations into unified JSON-LD / YAML evidentiary structures."
+  stage_4: "Cryptographic Indexing: Compute SHA-256 digests and map cross-references into master litigation crosswalk matrices."

@@ -1,0 +1,104 @@
+registry: Master Open-Source Legal Technology & Tool Registry
+version: 1.0.0
+description: >
+  Modular, decentralized legal-technological weapon systems, court scrapers, document automation engines,
+  and legal AI benchmarks integrated under .antigravity/tools/. Designed for immediate deployment in the
+  US-Cuba Master Litigation and portable across all subsequent sovereign restitution repositories
+  (e.g., us-nicaragua-master-litigation, us-honduras-master-litigation, us-hawaii-master-litigation).
+license_posture: AGPL-3.0 / Apache-2.0 / MIT Open-Source Shield
+total_tools: 7
+
+tools:
+  # Category 1: Open Legal Data & Court Scrapers (Bypassing Document Starvation)
+  - id: free-law-recap-harvester
+    name: Free Law Project & RECAP Docket Harvester
+    category: open-legal-data-and-court-scrapers
+    upstream_repository: "https://github.com/freelawproject/courtlistener"
+    specification_file: free-law-recap-harvester.yaml
+    harness_script: free_law_recap_harvester.py
+    license: AGPL-3.0
+    capabilities:
+      - "Bypasses federal court PACER paywalls via RECAP crowd-sourced document archive."
+      - "Queries CourtListener REST API v4 for federal dockets, opinions, and judge financial disclosures."
+      - "Extracts and parses legal citations using the Free Law Project Reporters and Courts databases."
+      - "Performs automated PDF exhibit extraction and metadata normalization."
+
+  - id: worldwide-legal-data-hunter
+    name: World Wide Law Global Legal Data Hunter
+    category: open-legal-data-and-court-scrapers
+    upstream_repository: "https://github.com/worldwidelaw/legal-sources"
+    specification_file: worldwide-legal-data-hunter.yaml
+    harness_script: worldwide_legal_data_hunter.py
+    license: MIT
+    capabilities:
+      - "Multi-country legal scraper framework covering official portals and gazettes across 110+ jurisdictions."
+      - "Harvests primary foreign legislation, executive nationalization decrees, and appellate court decisions."
+      - "Normalizes heterogeneous international legal sources into standardized JSON/YAML evidentiary vectors."
+      - "Automates continuous tracking of foreign sovereign asset registries and diplomatic gazettes."
+
+  - id: open-legal-data-corpus
+    name: Open Legal Data & Pile-of-Law Corpus Processor
+    category: open-legal-data-and-court-scrapers
+    upstream_repository: "https://github.com/openlegaldata/openlegaldata"
+    specification_file: open-legal-data-corpus.yaml
+    harness_script: open_legal_data_corpus.py
+    license: MIT / Apache-2.0
+    capabilities:
+      - "Processes large-scale public-interest legal corpora (Pile-of-Law, MultiLegalPile, OpenLegalData)."
+      - "Executes automated text mining across historic administrative, regulatory, and declassified dockets."
+      - "Extracts named entities, sovereign actors, and corporate lineages for evidentiary cross-walk mapping."
+      - "Provides offline semantic search embeddings for air-gapped litigation analysis."
+
+  # Category 2: Legal Aid & Document Automation Engineering (Scaling Class Actions)
+  - id: docassemble-action-engine
+    name: Docassemble Guided Interview & Pleading Assembly Engine
+    category: legal-aid-and-document-automation
+    upstream_repository: "https://github.com/jhpyle/docassemble"
+    specification_file: docassemble-action-engine.yaml
+    harness_script: docassemble_action_engine.py
+    license: MIT
+    capabilities:
+      - "Guided YAML interview logic for mass-claimant intake and class-action verification."
+      - "Dynamic generation of court-ready DOCX, PDF, and RTF pleadings, subpoenas, and exequatur petitions."
+      - "Multi-language document rendering for cross-border international arbitrations (PCA, ICJ, IACHR)."
+      - "Automated conditional assembly of statutory exhibits, verification oaths, and certificates of service."
+
+  - id: justack-access-triage
+    name: Justack AI Access-to-Justice Triage Engine
+    category: legal-aid-and-document-automation
+    upstream_repository: "https://github.com/justack-ai/website"
+    specification_file: justack-access-triage.yaml
+    harness_script: justack_access_triage.py
+    license: AGPL-3.0
+    capabilities:
+      - "Intelligent claimant intake, rights determination, and restitution eligibility scoring."
+      - "Translates complex legal doctrines (Mitchell Fiduciary, Helms-Burton, FSIA) into accessible plain language."
+      - "Automates subclass assignment across territorial, corporate, and human rights claims."
+      - "Facilitates pro se class member verification and electronic attestation workflows."
+
+  # Category 3: Legal AI, Benchmarks, & LLM-Era Legal Reasoning
+  - id: stanford-legalbench-evaluator
+    name: Stanford CodeX & RegLab LegalBench IRAC Evaluator
+    category: legal-ai-benchmarks-and-reasoning
+    upstream_repository: "https://github.com/HazyResearch/legalbench"
+    specification_file: stanford-legalbench-evaluator.yaml
+    harness_script: stanford_legalbench_evaluator.py
+    license: Apache-2.0
+    capabilities:
+      - "Evaluates legal reasoning and brief strength using the IRAC (Issue, Rule, Application, Conclusion) framework."
+      - "Validates statutory interpretation rigor, issue spotting, and precedent matching against judicial standards."
+      - "Executes automated vulnerability scoring on federal pleadings before docket filing."
+      - "Benchmarks AI-assisted draft arguments against hostile DOJ/OLC adversarial simulations."
+
+  - id: ictrecht-genai-resources
+    name: ICTRecht Legal-GenAI Prompt & Compliance Protocol
+    category: legal-ai-benchmarks-and-reasoning
+    upstream_repository: "https://github.com/ICTRecht/Legal-GenAI-Resources"
+    specification_file: ictrecht-genai-resources.yaml
+    harness_script: ictrecht_genai_resources.py
+    license: CC-BY-SA-4.0 / MIT
+    capabilities:
+      - "Curated legal prompt engineering templates optimized for complex litigation and corporate forensics."
+      - "Ethical compliance validation and judicial hallucination guards for citations and case law."
+      - "Standardized prompt pipelines for multi-jurisdictional conflict of laws analysis."
+      - "Automated audit trail generation for AI-assisted legal research and brief drafting."

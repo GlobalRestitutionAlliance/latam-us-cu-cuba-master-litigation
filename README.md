@@ -5,6 +5,7 @@
 [![Litigation Status](https://img.shields.io/badge/Campaigns_Armed-56_Active-success.svg)](Master_Armory_Manifest.md)
 [![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-118_Deployed-blue.svg)](.antigravity/agents/agent-registry.yaml)
 [![Tactical Skills](https://img.shields.io/badge/Tactical_Skills-177_Certified-purple.svg)](.antigravity/skills/skill-registry.yaml)
+[![Integrated Tools](https://img.shields.io/badge/Integrated_Tools-7_Open--Source-brightgreen.svg)](.antigravity/tools/tool-registry.yaml)
 [![Tactical Instruments](https://img.shields.io/badge/Armed_Instruments-1%2C400_Verified-orange.svg)](Master_Armory_Manifest.md)
 [![Restitution Pool](https://img.shields.io/badge/Restitution_Pool-%2417.710_Trillion-brightgreen.svg)](00_Master_Knowledge_Base/)
 
@@ -30,10 +31,51 @@ The **US-Cuba Master Litigation** repository is an operationalized legal-technol
 | **Phased Swarm Campaigns Executed** | **56 Campaigns** | [`Expansion_and_Audit_Log.md`](Expansion_and_Audit_Log.md) |
 | **Autonomous Swarm Enforcement Agents** | **118 Agents** | [`.antigravity/agents/agent-registry.yaml`](.antigravity/agents/agent-registry.yaml) |
 | **Certified Tactical Enforcement Skills** | **177 Skills** | [`.antigravity/skills/skill-registry.yaml`](.antigravity/skills/skill-registry.yaml) |
+| **Integrated Open-Source Tools** | **7 Tools** | [`.antigravity/tools/tool-registry.yaml`](.antigravity/tools/tool-registry.yaml) |
 | **Armed Multi-Theater Tactical Instruments** | **1,400 Instruments** | [`Master_Armory_Manifest.md`](Master_Armory_Manifest.md) |
 | **Cumulative Target Restitution Pool** | **$17.710 Trillion** | [`00_Master_Knowledge_Base/`](00_Master_Knowledge_Base/) |
 | **Cryptographically Locked Foundational Vectors** | **1,805 Vectors** | [`.antigravity/knowledge/vector-index/`](.antigravity/knowledge/vector-index/) |
 | **Integrity Hash Parity** | **100% Zero-Drift** | [`VERIFICATION_KEYS/sha256_manifest.txt`](VERIFICATION_KEYS/sha256_manifest.txt) |
+
+---
+
+## Open-Source Legal Technology & Tool Suite (`.antigravity/tools/`)
+
+To dismantle document starvation, paywalls (such as PACER), and procedural resource asymmetries, the framework integrates 7 production-grade open-source tools:
+
+### 1. Open Legal Data & Court Scrapers (Bypassing Document Starvation)
+- **Free Law Project & RECAP Harvester ([`free_law_recap_harvester.py`](.antigravity/tools/free_law_recap_harvester.py)):** Bypasses federal PACER paywalls via RECAP crowd-sourced archives, queries CourtListener REST API v4, normalizes case citations, and audits judicial financial disclosures for conflicts of interest.
+- **World Wide Law Data Hunter ([`worldwide_legal_data_hunter.py`](.antigravity/tools/worldwide_legal_data_hunter.py)):** Scrapes official government gazettes (*Gaceta Oficial de Cuba*, *Boletín Oficial del Estado*, *Registro Público de Panamá*) across 110+ jurisdictions into standardized evidentiary vectors.
+- **Open Legal Data & Pile-of-Law Corpus ([`open_legal_data_corpus.py`](.antigravity/tools/open_legal_data_corpus.py)):** Offline text processing and named-entity extraction engine mining massive public-interest legal corpora (Pile-of-Law, MultiLegalPile) for historical confiscation records.
+
+### 2. Legal Aid & Document Automation Engineering (Scaling Class Actions)
+- **Docassemble Pleading Assembly ([`docassemble_action_engine.py`](.antigravity/tools/docassemble_action_engine.py)):** Guided YAML question flows compiling court-ready federal class complaints, international arbitration notices (PCA), and IACHR petitions with multi-lingual rendering and cryptographic hash stamping.
+- **Justack AI Access-to-Justice Triage ([`justack_access_triage.py`](.antigravity/tools/justack_access_triage.py)):** Plain-language legal triage qualifying unrepresented diaspora heirs, translating sovereign immunity doctrines, and matching claimants to litigation subclasses.
+
+### 3. Legal AI, Benchmarks, & IRAC Reasoning
+- **Stanford CodeX LegalBench Evaluator ([`stanford_legalbench_evaluator.py`](.antigravity/tools/stanford_legalbench_evaluator.py)):** Tests draft briefs and theories across the IRAC (Issue Spotting, Rule Recall, Rule Application, Conclusion) framework prior to federal filing.
+- **ICTRecht GenAI Compliance ([`ictrecht_genai_resources.py`](.antigravity/tools/ictrecht_genai_resources.py)):** Anti-hallucination prompt templates, citation validation chains, and ethical compliance guardrails.
+
+---
+
+## How Independent Researchers, Coders & Lawyers Integrate
+
+1. **Leveraging Open APIs for Evidence Gathering:** Rather than manually searching for government archives or historical ledgers, our pipeline interfaces directly with open-source legal graph databases and CourtListener APIs to pull unsealed dockets, judge financial disclosures, and historical administrative records.
+2. **Automating Exequatur & International Filings:** Using Docassemble and open document assembly pipelines, practitioners programmatically format international arbitration notices (PCA) and IACHR petitions across multiple language and jurisdictional requirements simultaneously.
+3. **The Open-Source Shield:** Under AGPL-3.0, Apache-2.0, and MIT licenses, code, scrapers, and analytical dossiers developed here remain decentralized, transparent, and legally protected against centralized takedown notices.
+
+---
+
+## Multi-Nation Sovereign Master Litigation Portability
+
+The `.antigravity/tools/` suite is modular and portable, serving as the foundational engine for all upcoming master litigation repositories prosecuting historical and modern imperialist subjugation across affected nations:
+- **`us-nicaragua-master-litigation`**: Enforcing the 1986 ICJ Judgment (*Nicaragua v. United States*), Bryan-Chamorro Treaty damages, and Contra financing disgorgement.
+- **`us-honduras-master-litigation`**: Expropriation of fruit syndicate latifundia (Cuyamel/United Fruit Co.) and sovereign debt coercion.
+- **`us-hawaii-master-litigation`**: The 1893 illegal overthrow of the Hawaiian Kingdom, Joint Resolution 55 nullity, and Crown Lands breach of trust.
+- **`us-panama-master-litigation`**: 1903 Canal Treaty coercion, 1989 civilian damages, and canal toll disgorgement.
+- **`us-philippines-master-litigation`**: 1898 Treaty of Paris $20M purchase nullity and colonial reparations.
+
+See [`.antigravity/tools/cross_nation_toolkit_manifest.yaml`](.antigravity/tools/cross_nation_toolkit_manifest.yaml) for replication instructions.
 
 ---
 
@@ -64,21 +106,16 @@ flowchart TD
     G --> H["Master Qualified Settlement Fund<br/>(26 U.S.C. § 468B Trustee Liquidation)"]
 ```
 
-1. **The Mitchell Fiduciary Exception:** Establishes non-discretionary federal statutory trusteeship and perpetual accountability for sovereign expropriations without compensation (*United States v. Mitchell*, 463 U.S. 206).
-2. **ARSIWA Article 14 (Continuing Wrongs):** Codifies that continuing breaches of international law extending from historical acts into the present establish active, unextinguished sovereign liability.
-3. **Foreign Sovereign Immunities Act (FSIA):** 28 U.S.C. § 1605(a)(2) (Commercial Activity), § 1605(a)(3) (Takings in Violation of International Law), § 1605(b) (Maritime Liens), and § 1610 (Post-Judgment Attachment and Execution of Sovereign Commercial Assets).
-4. **Bancec Alter Ego Doctrine:** Pierces separate juridical status when state corporate entities are abused to perpetrate fraud or evade statutory restitution (*First National City Bank v. Bancec*, 462 U.S. 611).
-5. **Supplemental Admiralty Rules B & C:** Authorizes worldwide maritime attachment, garnishment, and in rem arrest of commercial vessels, subsea cables, freight revenues, and containerized cargo.
-
 ---
 
 ## Repository Structure & Directory Map
 
 ```
 W:\Legal\US_CUBA\
-├── .antigravity\                      [Swarm Engine, 118 Agents, 177 Skills, 1,805 Vectors]
+├── .antigravity\                      [Swarm Engine, 118 Agents, 177 Skills, 7 Tools, 1,805 Vectors]
 │   ├── agents\                        [Agent Registry & Persona Specifications]
 │   ├── skills\                        [Skill Registry & Operational Protocols]
+│   ├── tools\                         [Open-Source Scrapers, Document Engines & AI Benchmarks]
 │   ├── datasets\                      [Archival Datasets & NARA/LOC Muniments]
 │   ├── workflows\                     [Multi-Agent Pipeline Definitions]
 │   ├── knowledge\                     [Vector Index (9 blocks: 1–1805), Precedents, Timeline]

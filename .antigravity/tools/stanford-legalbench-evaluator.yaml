@@ -1,0 +1,43 @@
+tool:
+  id: "stanford-legalbench-evaluator"
+  name: "Stanford CodeX & RegLab LegalBench IRAC Evaluator"
+  version: "1.0.0"
+  license: "Apache-2.0"
+  upstream_url: "https://github.com/HazyResearch/legalbench"
+  category: "Legal AI, Benchmarks, & LLM-Era Legal Reasoning"
+  description: >
+    Standardized legal reasoning benchmark evaluator based on the Stanford CodeX and RegLab LegalBench
+    collaborative benchmark. Structures adversarial audit tests across the classic IRAC framework:
+    Issue Spotting, Rule Recall, Rule Application, and Conclusion. Validates the jurisprudential rigor
+    of complaints, opposition briefs, and crosswalk vectors prior to federal court filing.
+
+irac_evaluation_pillars:
+  issue_spotting:
+    description: "Evaluates whether the pleading identifies all actionable sovereign immunity exceptions and causes of action."
+    benchmarks:
+      - "FSIA Commercial Activity Exception (28 U.S.C. § 1605(a)(2))"
+      - "FSIA Expropriation Exception (28 U.S.C. § 1605(a)(3))"
+      - "FSIA Maritime Lien Exception (28 U.S.C. § 1605(b))"
+      - "Helms-Burton Act Title III Trafficking (22 U.S.C. § 6082)"
+      - "Bancec Alter Ego Corporate Veil-Piercing"
+
+  rule_recall:
+    description: "Evaluates accurate citation and synthesis of binding Supreme Court and Circuit precedents."
+    benchmarks:
+      - "First National City Bank v. Bancec, 462 U.S. 611 (1983)"
+      - "United States v. Mitchell, 463 U.S. 206 (1983)"
+      - "Havana Docks Corp. v. Royal Caribbean Cruises, Ltd., 104 F.4th 1243 (11th Cir. 2024)"
+      - "Rubin v. Islamic Republic of Iran, 138 S. Ct. 816 (2018)"
+
+  rule_application:
+    description: "Tests logical coherence in applying statutory standards to audited factual muniments."
+    benchmarks:
+      - "Direct effect in the United States requirement under FSIA § 1605(a)(2)"
+      - "Continuous ownership and certified claim chain-of-title under Title V"
+      - "Actual notice and trafficking scienter under Helms-Burton Title III"
+
+  conclusion:
+    description: "Verifies prayer for relief consistency, damages quantum calculation, and receivership scope."
+    benchmarks:
+      - "Treble damages statutory mathematics"
+      - "Qualified Settlement Fund governance under 26 U.S.C. § 468B"

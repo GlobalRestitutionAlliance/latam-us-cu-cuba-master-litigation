@@ -1,0 +1,29 @@
+tool:
+  id: "ictrecht-genai-resources"
+  name: "ICTRecht Legal-GenAI Prompt & Compliance Protocol"
+  version: "1.0.0"
+  license: "CC-BY-SA-4.0 / MIT"
+  upstream_url: "https://github.com/ICTRecht/Legal-GenAI-Resources"
+  category: "Legal AI, Benchmarks, & LLM-Era Legal Reasoning"
+  description: >
+    Curated repository of open-source legal AI engineering resources, prompt templates,
+    and compliance guardrails developed by practicing European and international legal tech specialists.
+    Provides rigorous anti-hallucination prompts, citation verification chains, and conflict-of-laws
+    reasoning architectures ensuring AI-generated legal outputs withstand hostile judicial scrutiny.
+
+compliance_modules:
+  anti_hallucination_guard:
+    objective: "Zero-tolerance verification of case citations, statutory sections, and docket numbers."
+    protocol: "Cross-checks every proposed citation against the local vector index and CourtListener reporters database."
+
+  prompt_templates:
+    statutory_cross_examination:
+      description: "Adversarial cross-examination of foreign sovereign immunity claims under FSIA exceptions."
+    alter_ego_indicia_checklist:
+      description: "12-factor Bancec alter ego evidentiary discovery checklist."
+    sanctions_interlock_auditor:
+      description: "Analysis of OFAC CACR, EU Blocking Statute (Council Regulation (EC) No 2271/96), and Helms-Burton Title III."
+
+operational_integration:
+  - "Provides system prompt templates for new agent roles and skill specifications."
+  - "Automates verification of compliance with Model Rules of Professional Conduct Rule 1.1 (Competence) and Rule 3.3 (Candor Toward the Tribunal)."

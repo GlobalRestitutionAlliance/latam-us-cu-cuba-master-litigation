@@ -1,0 +1,48 @@
+manifest: Multi-Nation Sovereign Master Litigation Toolkit Portability Framework
+version: 1.0.0
+jurisprudential_mandate: >
+  Standardized open-source legal technology, docket scraping, document assembly, and AI reasoning
+  architecture engineered to be copied, adapted, and immediately deployed across all subsequent
+  sovereign master litigation repositories prosecuting historical and modern imperialist subjugation,
+  fiduciary breaches, and territorial expropriations by Euro-American powers.
+
+target_future_repositories:
+  - repository: us-nicaragua-master-litigation
+    primary_theater: "ICJ Judgment Enforcement (Nicaragua v. United States, 1986), Bryan-Chamorro Treaty Expropriations, Contra Financing Disgorgement."
+    applicable_tools:
+      - "free-law-recap-harvester (tracking federal court enforcement of ICJ Article 94 claims)"
+      - "docassemble-action-engine (bilingual Spanish/English PCA and ICJ exequatur assembly)"
+      - "worldwide-legal-data-hunter (La Gaceta - Diario Oficial de Nicaragua scraping)"
+
+  - repository: us-honduras-master-litigation
+    primary_theater: "Banana Republic Concession Expropriations, Cuyamel/United Fruit Co. Latifundia, Sovereign Debt Coercion."
+    applicable_tools:
+      - "open-legal-data-corpus (forensic mining of declassified State Department fruit syndicate dockets)"
+      - "stanford-legalbench-evaluator (IRAC evaluation of concession breach arguments)"
+      - "justack-access-triage (mass peasant farmer and labor union subclass qualification)"
+
+  - repository: us-hawaii-master-litigation
+    primary_theater: "1893 Illegal Overthrow of the Hawaiian Kingdom, Joint Resolution 55 (Newlands Resolution) Nullity, Crown Lands Breach of Trust."
+    applicable_tools:
+      - "free-law-recap-harvester (federal land trust and ceded lands litigation dockets)"
+      - "docassemble-action-engine (Native Hawaiian beneficiary class action complaint generation)"
+      - "stanford-legalbench-evaluator (testing Mitchell fiduciary exception on 1.8M acres of Crown Lands)"
+
+  - repository: us-panama-master-litigation
+    primary_theater: "1903 Hay-Bunau-Varilla Treaty Coercion, 1989 Operation Just Cause Civilian Damages, Panama Canal Sovereign Toll Disgorgement."
+    applicable_tools:
+      - "worldwide-legal-data-hunter (Gaceta Oficial de Panamá and Maritime Court registries)"
+      - "ictrecht-genai-resources (anti-hallucination prompts for Panamanian damages quantum)"
+
+  - repository: us-philippines-master-litigation
+    primary_theater: "1898 Treaty of Paris $20M Purchase Nullity, Philippine-American War Reparations, Colonial Mineral Extraction."
+    applicable_tools:
+      - "open-legal-data-corpus (insular cases jurisprudence and territorial census extraction)"
+      - "justack-access-triage (descendant class action intake)"
+
+deployment_protocol_for_new_repos:
+  step_1: "Clone/copy .antigravity/tools/ directory into the root of target repository."
+  step_2: "Register tools under .antigravity/project.yaml modules: tools: tools/tool-registry.yaml."
+  step_3: "Configure target nation jurisdiction code in worldwide_legal_data_hunter.py."
+  step_4: "Load nation-specific historical vectors and statute triggers in open_legal_data_corpus.py."
+  step_5: "Deploy Docassemble interview templates customized for local court/tribunal caption requirements."

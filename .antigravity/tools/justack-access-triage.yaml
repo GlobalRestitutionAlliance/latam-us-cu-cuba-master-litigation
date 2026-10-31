@@ -1,0 +1,26 @@
+tool:
+  id: "justack-access-triage"
+  name: "Justack AI Access-to-Justice Triage Engine"
+  version: "1.0.0"
+  license: "AGPL-3.0"
+  upstream_url: "https://github.com/justack-ai/website"
+  category: "Legal Aid & Document Automation Engineering"
+  description: >
+    Open-source access-to-justice, legal triage, and claimant navigation platform.
+    Empowers unrepresented individuals, diaspora descendants, and certified claim heirs
+    to evaluate restitution eligibility, match claims to specific litigation subclasses,
+    and understand complex sovereign immunity doctrines in plain language.
+
+triage_capabilities:
+  claimant_qualification:
+    - "Title V International Claims Settlement Act certified claim verification."
+    - "Chain of heirship and probate succession verification."
+    - "Helms-Burton Title III trafficking victim eligibility screening."
+  subclass_matching:
+    - "Subclass 1: Historic Expropriated Industrial & Utility Holdings (Pre-1959)."
+    - "Subclass 2: Transnational Commercial Monopolies & State Alter Ego Disgorgement."
+    - "Subclass 3: Maritime, Port, & Subsea Infrastructure Concessions."
+    - "Subclass 4: Fundamental Fiduciary Breach & Territorial Restitution (1805–2026 Continuum)."
+  plain_language_translation:
+    - "Converts FSIA commercial activity tests into interactive plain-language assessment checklists."
+    - "Provides guided self-service questionnaires for evidentiary exhibit submission."

@@ -1510,3 +1510,35 @@ W:\Legal\US_CUBA\
   - [Master_Telecommunications_ETECSA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Crosswalk_Dashboard.md)
   - [Master_Telecommunications_ETECSA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Crosswalk_Dashboard.docx)
 
+
+---
+
+## OPEN-SOURCE LEGAL TECHNOLOGY & TOOL SUITE (.ANTIGRAVITY/TOOLS/)
+*Decentralized court scrapers, document automation engines, and legal reasoning benchmark evaluators licensed under AGPL-3.0 / MIT / Apache-2.0.*
+
+- **Master Tool Registry:** [`tool-registry.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/tool-registry.yaml)
+- **Multi-Nation Portability Blueprint:** [`cross_nation_toolkit_manifest.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/cross_nation_toolkit_manifest.yaml)
+- **Tool Suite Documentation:** [`README.md`](file:///W:/Legal/US_CUBA/.antigravity/tools/README.md)
+
+### Integrated Open-Source Tool Catalog:
+1. **Free Law Project & RECAP Docket Harvester:**
+   - Spec: [`free-law-recap-harvester.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/free-law-recap-harvester.yaml) | Harness: [`free_law_recap_harvester.py`](file:///W:/Legal/US_CUBA/.antigravity/tools/free_law_recap_harvester.py)
+   - Bypasses federal PACER paywalls, fetches RECAP dockets, parses standard legal citations, and audits judicial financial disclosures.
+2. **World Wide Law Global Legal Data Hunter:**
+   - Spec: [`worldwide-legal-data-hunter.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/worldwide-legal-data-hunter.yaml) | Harness: [`worldwide_legal_data_hunter.py`](file:///W:/Legal/US_CUBA/.antigravity/tools/worldwide_legal_data_hunter.py)
+   - Multi-country legal scraper framework covering official portals and gazettes across 110+ jurisdictions.
+3. **Open Legal Data & Pile-of-Law Corpus Processor:**
+   - Spec: [`open-legal-data-corpus.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/open-legal-data-corpus.yaml) | Harness: [`open_legal_data_corpus.py`](file:///W:/Legal/US_CUBA/.antigravity/tools/open_legal_data_corpus.py)
+   - NLP and entity extraction engine processing large-scale legal corpora (Pile-of-Law, MultiLegalPile) for historical uncompensated taking evidence.
+4. **Docassemble Guided Interview & Pleading Assembly Engine:**
+   - Spec: [`docassemble-action-engine.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/docassemble-action-engine.yaml) | Harness: [`docassemble_action_engine.py`](file:///W:/Legal/US_CUBA/.antigravity/tools/docassemble_action_engine.py)
+   - Guided YAML interview logic for mass-claimant intake, assembling court-ready federal complaints, PCA notices, and IACHR petitions.
+5. **Justack AI Access-to-Justice Triage Engine:**
+   - Spec: [`justack-access-triage.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/justack-access-triage.yaml) | Harness: [`justack_access_triage.py`](file:///W:/Legal/US_CUBA/.antigravity/tools/justack_access_triage.py)
+   - Plain-language legal triage and subclass qualification engine matching unrepresented claimants to litigation subclasses.
+6. **Stanford CodeX & RegLab LegalBench IRAC Evaluator:**
+   - Spec: [`stanford-legalbench-evaluator.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/stanford-legalbench-evaluator.yaml) | Harness: [`stanford_legalbench_evaluator.py`](file:///W:/Legal/US_CUBA/.antigravity/tools/stanford_legalbench_evaluator.py)
+   - Evaluates legal briefs and theories against standardized benchmarks across Issue Spotting, Rule Recall, Rule Application, and Conclusion.
+7. **ICTRecht Legal-GenAI Prompt & Compliance Protocol:**
+   - Spec: [`ictrecht-genai-resources.yaml`](file:///W:/Legal/US_CUBA/.antigravity/tools/ictrecht-genai-resources.yaml) | Harness: [`ictrecht_genai_resources.py`](file:///W:/Legal/US_CUBA/.antigravity/tools/ictrecht_genai_resources.py)
+   - Strict citation verification chains, anti-hallucination prompts, and professional ethics compliance guardrails.

@@ -1,0 +1,37 @@
+tool:
+  id: "free-law-recap-harvester"
+  name: "Free Law Project & RECAP Docket Harvester"
+  version: "1.0.0"
+  license: "AGPL-3.0"
+  upstream_url: "https://github.com/freelawproject/courtlistener"
+  category: "Open Legal Data & Court Scrapers"
+  description: >
+    Production bridge for interfacing with the Free Law Project CourtListener REST API v4,
+    the RECAP crowd-sourced document archive, and the legal citation/court parsing databases.
+    Enables uncurated discovery of sealed/unsealed federal court dockets, PACER paywall bypassing,
+    judicial financial disclosure auditing, and opinion full-text extraction.
+
+endpoints:
+  courtlistener_api_root: "https://www.courtlistener.com/api/rest/v4/"
+  recap_archive_search: "https://www.courtlistener.com/api/rest/v4/dockets/"
+  opinions_search: "https://www.courtlistener.com/api/rest/v4/search/"
+  financial_disclosures: "https://www.courtlistener.com/api/rest/v4/financial-disclosures/"
+
+configuration:
+  timeout_seconds: 30
+  rate_limit_per_minute: 60
+  cache_directory: "00_Master_Knowledge_Base/recap_cache/"
+  supported_courts:
+    - "flsd" # U.S. District Court for the Southern District of Florida
+    - "nysd" # U.S. District Court for the Southern District of New York
+    - "dcd"  # U.S. District Court for the District of Columbia
+    - "ca11" # U.S. Court of Appeals for the Eleventh Circuit
+    - "ca2"  # U.S. Court of Appeals for the Second Circuit
+    - "cadc" # U.S. Court of Appeals for the D.C. Circuit
+    - "scotus" # Supreme Court of the United States
+
+operational_protocols:
+  protocol_1: "Docket Discovery: Search federal dockets by case name, party, docket number, or statutory hook (e.g. 'Helms-Burton', '28 U.S.C. 1605', 'Bancec')."
+  protocol_2: "RECAP Document Retrieval: Fetch publicly contributed PACER PDF filings, bench orders, and sealed document dockets without paying court fees."
+  protocol_3: "Citation Parsing: Extract and normalize legal citations against the Free Law Project Reporters Database (e.g. 'F.4th', 'F. Supp. 3d', 'U.S.')."
+  protocol_4: "Conflict of Interest Audit: Screen presiding judges against CourtListener judicial financial disclosure databases for holdings in targeted multinational defendants."

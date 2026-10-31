@@ -16,6 +16,7 @@ project:
   modules:
     agents: agents/agent-registry.yaml
     skills: skills/skill-registry.yaml
+    tools: tools/tool-registry.yaml
     datasets: datasets/dataset-registry.yaml
     workflows: workflows/workflow-registry.yaml
     knowledge: knowledge/

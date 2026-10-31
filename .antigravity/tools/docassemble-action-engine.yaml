@@ -1,0 +1,31 @@
+tool:
+  id: "docassemble-action-engine"
+  name: "Docassemble Guided Interview & Pleading Assembly Engine"
+  version: "1.0.0"
+  license: "MIT"
+  upstream_url: "https://github.com/jhpyle/docassemble"
+  category: "Legal Aid & Document Automation Engineering"
+  description: >
+    Production expert system framework for guided interviews and automated document assembly.
+    Built on Python, YAML interview definitions, and Jinja2/Markdown/DOCX templates.
+    Generates mass-class pleadings, international arbitration notices (PCA), and IACHR petitions
+    with multi-lingual translation, conditional exhibit inclusion, and statutory verifications.
+
+architecture:
+  interview_definition: "YAML-based question flows with embedded Python logic and validation rules."
+  template_rendering: "Jinja2 template engine targeting DOCX, PDF, and Markdown formats."
+  data_persistence: "JSON/PostgreSQL state storage for claimant multi-step interviews."
+  localization: "Bilingual English/Spanish variable substitution for Latin American tribunals."
+
+supported_pleadings:
+  - "Federal District Court Class Action Complaint (FRCP Rule 23)"
+  - "Motion for Preliminary Injunction & Prejudgment Attachment (FRCP Rule 64 / 65)"
+  - "Permanent Court of Arbitration (PCA) Notice of Arbitration (UNCITRAL Rules)"
+  - "Inter-American Commission on Human Rights (IACHR) Individual Petition"
+  - "Exequatur Petition for Recognition and Enforcement of Foreign Arbitral Awards (New York Convention)"
+
+deployment_workflow:
+  step_1: "Define Interview YAML: Establish variable collection sequence (claimant identity, expropriated property, certified FCSC award number, damages quantum)."
+  step_2: "Template Binding: Map variables directly to federal court caption blocks, allegations, and prayers for relief."
+  step_3: "Automated Rendering: Compile interview results into signed, filing-ready DOCX and PDF documents."
+  step_4: "Cryptographic Attestation: Calculate SHA-256 hash of generated brief and log into Master Chain of Custody."
