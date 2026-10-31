@@ -619,4 +619,16 @@ skills:
   name: Intermodal Container Arrest & Cargo Lien Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/intermodal-container-arrest-and-cargo-lien-garnishment.yaml
-total_skills: 174
+- id: sovereign-telecom-monopoly-and-etecsa-disgorgement
+  name: Sovereign Telecom Monopoly & ETECSA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-telecom-monopoly-and-etecsa-disgorgement.yaml
+- id: international-roaming-and-clearinghouse-settlement-interdiction
+  name: International Roaming & Clearinghouse Settlement Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/international-roaming-and-clearinghouse-settlement-interdiction.yaml
+- id: mobile-topup-remittance-and-subsea-bandwidth-garnishment
+  name: Mobile Top-Up Remittance & Subsea Bandwidth Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/mobile-topup-remittance-and-subsea-bandwidth-garnishment.yaml
+total_skills: 177

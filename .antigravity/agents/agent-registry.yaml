@@ -576,4 +576,14 @@ agents:
   role: Transnational Container Liner Alliances, Ocean Freight Remittances, International Container Leasing Escrows & Vessel Arrest Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-slot-charter-and-ocean-freight-garnishee-marshal.yaml
-total_agents: 116
+- id: agent-etecsa-telecom-and-subsea-cable-auditor
+  name: ETECSA Telecom & Subsea Cable Auditor
+  role: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Expropriated ITT (Cuban Telephone Co.) Infrastructure, ALBA-1 Subsea Fiber & Roaming Settlement Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-etecsa-telecom-and-subsea-cable-auditor.yaml
+- id: agent-telecom-settlement-and-roaming-garnishee-marshal
+  name: Telecom Settlement & Roaming Garnishee Marshal
+  role: International Roaming Remittances, GSM Clearinghouses, Mobile Top-Up Intermediaries (Ding/DTOne), Satellite Transponder Escrows & Telecommunications Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-telecom-settlement-and-roaming-garnishee-marshal.yaml
+total_agents: 118

@@ -1,0 +1,23 @@
+skill:
+  id: "mobile-topup-remittance-and-subsea-bandwidth-garnishment"
+  name: "Mobile Top-Up Remittance & Subsea Bandwidth Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Digital Mobile Remittance Interception & Subsea Cable Concession Execution"
+
+description: >
+  Protocol for garnishing retail and wholesale digital mobile top-up payment flows processed through international fintech platforms,
+  as well as attaching commercial transit fees and bandwidth lease rights across subsea fiber-optic cables (ALBA-1, ARCOS-1).
+
+execution_protocol:
+  step_1: "Identify major international digital mobile top-up distributors (Ding in Ireland/USA, Recharge.com in Netherlands, DTOne in Singapore/UK) aggregating consumer payments for ETECSA mobile accounts."
+  step_2: "Serve charging orders, third-party garnishee orders, and freeze orders on distributor merchant settlement escrows prior to hard-currency wire remittance to Havana."
+  step_3: "Forensically inspect commercial capacity lease agreements for dark fiber and wavelengths on the ALBA-1 (Venezuela-Cuba-Jamaica) and ARCOS-1 subsea fiber cable systems."
+  step_4: "Secure judicial charging liens over all commercial bandwidth lease payments and peering transit revenues payable by international operators accessing Cuban data routes."
+
+authorities:
+  - "28 U.S.C. § 1610(a)(2), (b)(2) (Commercial Property Attachment)"
+  - "Irish Enforcement of Court Orders Acts (Garnishee / Third Party Orders)"
+  - "Dutch Code of Civil Procedure (Rv) Art. 700 & 718 (Conservatoir Beslag)"
+  - "Singapore Rules of Court Order 22 (Enforcement of Judgments - Garnishee Proceedings)"
+  - "UCC Article 9 (Security Interests in Intangible Accounts and General Intangibles)"

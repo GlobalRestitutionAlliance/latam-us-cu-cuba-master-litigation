@@ -1,0 +1,23 @@
+skill:
+  id: "international-roaming-and-clearinghouse-settlement-interdiction"
+  name: "International Roaming & Clearinghouse Settlement Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Transnational Telecom Financial Interdiction & Clearinghouse Garnishment"
+
+description: >
+  Operational and procedural protocol for attaching international mobile roaming receivables, GSMA net financial clearing balances,
+  bilateral carrier voice termination settlements, and transnational telecom escrow funds payable to ETECSA.
+
+execution_protocol:
+  step_1: "Map global telecommunications clearinghouses (EDCH in UAE, Syniverse in USA, Comfone in Switzerland) facilitating net clearing settlements for GSMA roaming agreements with ETECSA."
+  step_2: "Draft and serve restraining notices under Fed. R. Civ. P. 69, N.Y. C.P.L.R. § 5222, and English CPR Part 72 attaching credit balances, clearinghouse receivables, and carrier payables."
+  step_3: "Serve third-party discovery subpoenas under Fed. R. Civ. P. 45 upon Tier-1 international carriers (Telefónica, Vodafone, Orange, Telecom Italia) demanding accounting of bilateral traffic settlement accounts."
+  step_4: "Interdict and direct net clearing proceeds into the Master Qualified Settlement Fund under judicial oversight."
+
+authorities:
+  - "28 U.S.C. § 1610(a)(2) & (g) (Commercial Property & Agency Execution)"
+  - "Fed. R. Civ. P. 69 (Execution on Money Judgments)"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third-Party Garnishees)"
+  - "English Civil Procedure Rules (CPR) Part 72 (Third-Party Debt Orders)"
+  - "GSM Association (GSMA) Financial Settlement Regulations (FASAG/BARG)"

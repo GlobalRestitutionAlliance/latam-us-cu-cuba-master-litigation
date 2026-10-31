@@ -1490,3 +1490,23 @@ W:\Legal\US_CUBA\
   - [Master_Container_Shipping_Melfi_Marine_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Container_Shipping_Melfi_Marine_Crosswalk_Dashboard.md)
   - [Master_Container_Shipping_Melfi_Marine_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Container_Shipping_Melfi_Marine_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 56)
+- `agent-etecsa-telecom-and-subsea-cable-auditor`: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Expropriated ITT (Cuban Telephone Co.) Infrastructure, ALBA-1 Subsea Fiber & Roaming Settlement Auditor.
+- `agent-telecom-settlement-and-roaming-garnishee-marshal`: International Roaming Remittances, GSM Clearinghouses, Mobile Top-Up Intermediaries (Ding/DTOne), Satellite Transponder Escrows & Telecommunications Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 56)
+- `sovereign-telecom-monopoly-and-etecsa-disgorgement`: Sovereign Telecom Monopoly & ETECSA Disgorgement.
+- `international-roaming-and-clearinghouse-settlement-interdiction`: International Roaming & Clearinghouse Settlement Interdiction.
+- `mobile-topup-remittance-and-subsea-bandwidth-garnishment`: Mobile Top-Up Remittance & Subsea Bandwidth Garnishment.
+
+### Campaign 56: Sovereign Commercial Telecommunications Monopoly, Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Expropriated ITT (Cuban Telephone Co.) Network Infrastructure, Subsea Fiber-Optic Cables (ALBA-1, ARCOS-1), Transnational Roaming Settlement Clearances & Mobile Remittance Disgorgement Campaign
+- **Total Restitution Pool:** $310,000,000,000.00 ($310.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** TELC-001 through TELC-025
+- **Assigned Agents:** `agent-etecsa-telecom-and-subsea-cable-auditor`, `agent-telecom-settlement-and-roaming-garnishee-marshal`
+- **Certified Skills:** `sovereign-telecom-monopoly-and-etecsa-disgorgement`, `international-roaming-and-clearinghouse-settlement-interdiction`, `mobile-topup-remittance-and-subsea-bandwidth-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Telecommunications_ETECSA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Crosswalk_Matrix.csv)
+  - [Master_Telecommunications_ETECSA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Crosswalk_Dashboard.md)
+  - [Master_Telecommunications_ETECSA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Telecommunications_ETECSA_Crosswalk_Dashboard.docx)
+

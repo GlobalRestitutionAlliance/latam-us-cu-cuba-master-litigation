@@ -1,16 +1,25 @@
 skill:
-  id: sovereign-telecom-monopoly-and-etecsa-disgorgement
-  name: Sovereign Telecom Monopoly & ETECSA Disgorgement
-  version: 1.0.0
-  description: Tactical enforcement protocol to audit, encumber, and disgorge ETECSA sovereign telecom monopolies, expropriated pre-1959 ITT / Cuban Telephone Company assets, and national cellular network combines.
-  procedures:
-    - Forensic mapping of the statutory monopoly granted to ETECSA over fixed, mobile, internet, and data telecommunications across Cuba.
-    - Title reconstruction of nationalized ITT / Cuban Telephone Company switching stations, central exchanges, and rights-of-way under FCSC Title V awards.
-    - Encumbrance of state-owned cellular base transceiver stations (BTS), fiber-optic rings, and data centers under FSIA § 1610(a)(2).
-    - Service of charging orders on foreign equipment suppliers (Huawei, Ericsson, ZTE) holding state equipment financing or debt collateral.
-    - Enforcement of restitution liens over national telecom real estate and commercial telephony revenues.
-  enforcement_framework:
-    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
-    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Expropriated Telecom Property
-    - Constructive Trust & Restitution under Restatement (Third) § 55
-  operational_status: ACTIVE
+  id: "sovereign-telecom-monopoly-and-etecsa-disgorgement"
+  name: "Sovereign Telecom Monopoly & ETECSA Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Telecommunications Sovereign Commercial Execution & State Enterprise Disgorgement"
+
+description: >
+  Comprehensive legal, forensic accounting, and evidentiary methodology for asserting FSIA § 1605(a)(2) and § 1605(a)(3) jurisdiction,
+  Bancec alter ego liability, and Title III Helms-Burton claims against Empresa de Telecomunicaciones de Cuba S.A. (ETECSA)
+  operating commercial telecommunications, subsea fiber cables, and confiscated ITT Corporation infrastructure.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (FCSC Claim No. CU-2615, International Telephone & Telegraph Corporation / Cuban Telephone Company) with modern nationwide telecommunications exchanges, cable conduits, and central switching facilities exploited by ETECSA."
+  step_2: "Audit official Cuban regulatory filings and Commercial Registry entries establishing 100% state ownership, military directorate control via GAESA and the Ministry of Communications (MICOM), and alter ego unity under First National City Bank v. Bancec."
+  step_3: "Forensically quantify international voice termination tariffs, transit settlements, and roaming revenues earned in hard currency (USD, EUR) across transatlantic and regional telecom routes."
+  step_4: "File turnover actions in federal district courts demanding accounting and disgorgement of all international telecommunication revenues and commercial bandwidth profits."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(a)(3) (Expropriation Exception to Foreign Sovereign Immunity)"
+  - "28 U.S.C. § 1610(a)(2) & (b)(2) (Commercial Property Attachment and Execution)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"
+  - "FCSC Claim No. CU-2615 (International Telephone & Telegraph Corp. / Cuban Telephone Co.)"
