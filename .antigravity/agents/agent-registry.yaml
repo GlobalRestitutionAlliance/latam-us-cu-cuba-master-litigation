@@ -436,4 +436,14 @@ agents:
   role: Shipping Line Demurrage Escrows, Terminal Handling Charges (THC), Cubacontrol Fees & Panama/Europe Clearing Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-freight-forwarding-and-demurrage-garnishee-marshal.yaml
-total_agents: 88
+- id: agent-alimport-and-food-monopoly-auditor
+  name: Sovereign Food Import Monopoly, ALIMPORT & Grain Latifundia Auditor
+  role: ALIMPORT State Monopoly, TSRA Cash Escrow Accounts, Global Agribusiness Contracts & Flour Mill Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-alimport-and-food-monopoly-auditor.yaml
+- id: agent-agricultural-trade-and-escrow-garnishee-marshal
+  name: TSRA Cash in Advance Escrows, Bulk Grain Cargo & ALIMPORT Garnishee Marshal
+  role: US Agribusiness Purchase Escrows, Third-Country Bank Clearings, Bulk Grain Charterparty & Rule 69 Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-agricultural-trade-and-escrow-garnishee-marshal.yaml
+total_agents: 90

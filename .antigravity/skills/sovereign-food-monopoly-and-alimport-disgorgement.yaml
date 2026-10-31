@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-food-monopoly-and-alimport-disgorgement
+  name: Sovereign Food Monopoly & ALIMPORT Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge ALIMPORT sovereign food import monopolies, expropriated pre-1959 flour mills, and state wholesale grain combines.
+  procedures:
+    - Audit of the statutory monopoly granted to ALIMPORT over all sovereign grain, meat, poultry, dairy, and edible oil imports into Cuba.
+    - Forensic mapping of expropriated pre-1959 industrial flour mills, bulk grain elevators, and cold storage warehouses across Havana, Cienfuegos, and Santiago.
+    - Encumbrance of sovereign milling complexes, automated grain silos, and state food distribution distribution centers.
+    - Service of charging orders on foreign agricultural trading houses and equipment suppliers holding state equity or debt collateral.
+    - Enforcement of restitution liens over food processing real estate, milling assets, and state commercial revenues.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Food Infrastructure
+    - Equitable Restitution & Constructive Trust Imposition under Restatement (Third) § 55
+  operational_status: ACTIVE

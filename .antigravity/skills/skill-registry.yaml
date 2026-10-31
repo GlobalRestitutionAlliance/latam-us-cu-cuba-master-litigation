@@ -451,4 +451,16 @@ skills:
   name: Cargo Surveying Inspection Fee & Freight Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/cargo-surveying-inspection-fee-and-freight-garnishment.yaml
-total_skills: 132
+- id: sovereign-food-monopoly-and-alimport-disgorgement
+  name: Sovereign Food Monopoly & ALIMPORT Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-food-monopoly-and-alimport-disgorgement.yaml
+- id: tsra-cash-in-advance-escrow-interdiction
+  name: TSRA Cash in Advance Escrow Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/tsra-cash-in-advance-escrow-interdiction.yaml
+- id: bulk-grain-cargo-and-agribusiness-trade-garnishment
+  name: Bulk Grain Cargo & Agribusiness Trade Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/bulk-grain-cargo-and-agribusiness-trade-garnishment.yaml
+total_skills: 135

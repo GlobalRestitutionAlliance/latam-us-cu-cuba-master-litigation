@@ -1,0 +1,16 @@
+skill:
+  id: bulk-grain-cargo-and-agribusiness-trade-garnishment
+  name: Bulk Grain Cargo & Agribusiness Trade Garnishment
+  version: 1.0.0
+  description: Maritime and trade execution protocol to attach bulk grain and frozen poultry ocean shipments, negotiable bills of lading, charterparty freights, and commodity supplier receivables.
+  procedures:
+    - Real-time tracking of bulk carriers and refrigerated cargo vessels loading agricultural commodities destined for Cuban ports.
+    - Service of Supplemental Admiralty Rule B maritime attachment process on ocean carriers, freight forwarders, and chartering desks.
+    - Attachment of negotiable ocean bills of lading, phytosanitary inspection certificates, and cargo title documents.
+    - Foreclosure of maritime liens upon freights, sub-freights, and demurrage settlement escrows under federal maritime law.
+    - Turnover of attached trade proceeds, cargo auction balances, and commodity claim recoveries directly into the Master QSF.
+  enforcement_framework:
+    - Supplemental Admiralty Rules B & C
+    - 28 U.S.C. § 1610(a)(2) & § 1610(g)
+    - General Maritime Law of Maritime Liens and Attachment
+  operational_status: ACTIVE

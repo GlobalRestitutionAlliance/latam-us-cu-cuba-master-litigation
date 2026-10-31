@@ -1,0 +1,16 @@
+skill:
+  id: tsra-cash-in-advance-escrow-interdiction
+  name: TSRA Cash in Advance Escrow Interdiction
+  version: 1.0.0
+  description: Financial execution protocol to attach Trade Sanctions Reform and Export Enhancement Act (TSRA) cash-in-advance escrow deposits, advance payment wires, and third-country bank accounts.
+  procedures:
+    - Forensic tracing of rolling hard-currency payment obligations mandated under 22 U.S.C. § 7207(b) for U.S. agricultural exports to Cuba.
+    - Service of Rule 69 garnishment orders on third-country correspondent banks holding ALIMPORT cash-in-advance escrows (Panama, France, Canada, Spain).
+    - Freezing of advance payment wires, documentary letters of credit, and commercial escrow deposits prior to cargo departure.
+    - Attachment of commercial clearing accounts maintained by foreign banking intermediaries processing ALIMPORT food purchases.
+    - Turnover of captured cash-in-advance funds and escrow balances directly into certified restitution trust accounts.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Trade Sanctions Reform and Export Enhancement Act (22 U.S.C. § 7207)
+  operational_status: ACTIVE

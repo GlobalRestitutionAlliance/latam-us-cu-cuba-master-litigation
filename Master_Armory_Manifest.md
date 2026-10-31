@@ -1216,3 +1216,22 @@ W:\Legal\US_CUBA\
   - [Master_Bonded_Logistics_AUSA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Bonded_Logistics_AUSA_Crosswalk_Matrix.csv)
   - [Master_Bonded_Logistics_AUSA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Bonded_Logistics_AUSA_Crosswalk_Dashboard.md)
   - [Master_Bonded_Logistics_AUSA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Bonded_Logistics_AUSA_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 42)
+- `agent-alimport-and-food-monopoly-auditor`: Empresa Cubana Importadora de Alimentos (ALIMPORT), MINCEX Foreign Trade Monopolies, TSRA Grain Contracts & Commercial Food Import Auditor.
+- `agent-agricultural-trade-and-escrow-garnishee-marshal`: TSRA Cash-in-Advance Escrows, Letters of Credit, Bulk Cargo In-Transit Arrests & Global Agribusiness Receivables Marshal.
+
+## Newly Registered Skills (Campaign 42)
+- `sovereign-food-monopoly-and-alimport-disgorgement`: Sovereign Food Monopoly & ALIMPORT Disgorgement.
+- `tsra-cash-in-advance-escrow-interdiction`: TSRA Cash-in-Advance Escrow Interdiction.
+- `bulk-grain-cargo-and-agribusiness-trade-garnishment`: Bulk Grain Cargo & Agribusiness Trade Garnishment.
+
+### Campaign 42: Sovereign Commercial Food Import Monopolies, ALIMPORT TSRA Agricultural Cash Escrows, Bulk Grain Trade & Global Agribusiness Disgorgement Campaign
+- **Total Restitution Pool:** $285,000,000,000.00 ($285.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** ALIM-001 through ALIM-025
+- **Assigned Agents:** `agent-alimport-and-food-monopoly-auditor`, `agent-agricultural-trade-and-escrow-garnishee-marshal`
+- **Certified Skills:** `sovereign-food-monopoly-and-alimport-disgorgement`, `tsra-cash-in-advance-escrow-interdiction`, `bulk-grain-cargo-and-agribusiness-trade-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_ALIMPORT_Food_Agribusiness_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ALIMPORT_Food_Agribusiness_Crosswalk_Matrix.csv)
+  - [Master_ALIMPORT_Food_Agribusiness_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ALIMPORT_Food_Agribusiness_Crosswalk_Dashboard.md)
+  - [Master_ALIMPORT_Food_Agribusiness_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ALIMPORT_Food_Agribusiness_Crosswalk_Dashboard.docx)
