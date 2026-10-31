@@ -1,0 +1,16 @@
+skill:
+  id: precious-metals-and-industrial-mineral-export-garnishment
+  name: Precious Metals & Industrial Mineral Export Garnishment
+  version: 1.0.0
+  description: Financial execution protocol to attach sovereign gold doré clearing balances, dimension stone/marble export contracts, and natural zeolite distribution cashflows.
+  procedures:
+    - Tracing of sovereign gold doré bar shipments, refining agreements, and precious metal settlement accounts in Swiss and Canadian banks.
+    - Service of post-judgment garnishment notices on European and Latin American importers of Cuban marble (Empresa Mármoles Cubanos).
+    - Attachment of commercial export contracts and receivables for natural zeolite, bentonite, and calcium carbonate shipments.
+    - Interdiction of bank clearing rails handling ENSAL salt commercial sales and industrial mineral transactions.
+    - Turnover of captured trade proceeds, letter of credit balances, and commodity settlement funds directly into the Master QSF.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(a)(2) & § 1610(g)
+    - Fed. R. Civ. P. 69 Post-Judgment Turnover Writs
+    - NY UCC Article 9 & International Trade Finance Laws
+  operational_status: ACTIVE

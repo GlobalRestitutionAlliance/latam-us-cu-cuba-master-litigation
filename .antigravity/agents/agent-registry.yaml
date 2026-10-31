@@ -416,4 +416,14 @@ agents:
   role: Chemical Precursor LCs, Bulk Ammonia/Sulfur Import Escrows & Quimimport Foreign Banking Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-agrochemical-cargo-and-quimimport-garnishee-marshal.yaml
-total_agents: 84
+- id: agent-geominsal-and-polymetallic-mining-auditor
+  name: Sovereign Polymetallic Mining, Geominsal & EMINCAR JV Auditor
+  role: Geominsal State Monopoly, Castellanos Zinc/Lead Mine, Trafigura EMINCAR JV, El Cobre & Gold Concessions Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-geominsal-and-polymetallic-mining-auditor.yaml
+- id: agent-mineral-concentrate-and-trafigura-garnishee-marshal
+  name: Mineral Concentrate Cargo, Trafigura Escrows & Metal Trader Garnishee Marshal
+  role: Trafigura Offtake Escrows, Bulk Ore Carrier Arrests, Geneva Trading Clearing Desks & Smelter Receivables Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-mineral-concentrate-and-trafigura-garnishee-marshal.yaml
+total_agents: 86

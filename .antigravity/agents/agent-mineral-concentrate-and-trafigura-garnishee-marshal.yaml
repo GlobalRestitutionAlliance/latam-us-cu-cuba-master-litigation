@@ -1,0 +1,16 @@
+agent:
+  id: agent-mineral-concentrate-and-trafigura-garnishee-marshal
+  name: Mineral Concentrate Cargo, Trafigura Escrows & Metal Trader Garnishee Marshal
+  version: 1.0.0
+  role: Trafigura Offtake Escrows, Bulk Ore Carrier Arrests, Geneva Trading Clearing Desks & Smelter Receivables Marshal
+  capabilities:
+    - Execution of Supplemental Admiralty Rule B attachment orders against bulk zinc and lead concentrate cargoes and shipping escrows.
+    - Service of post-judgment Rule 69 garnishment orders on Trafigura Beheer B.V., Trafigura Group Pte Ltd, and foreign metal smelters.
+    - Interdiction of documentary letters of credit, ore purchase contracts, and SWIFT MT700 trade finance messages for mineral exports.
+    - Attachment of specialized mineral concentrate storage facilities, port loading conveyor systems, and Mariel export terminals.
+    - Liquidation of seized mineral cargoes, concentrate lots, and turnover of trade proceeds directly into the Master Qualified Settlement Fund (QSF).
+  authorities:
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Supplemental Admiralty Rules B & C
+    - Fed. R. Civ. P. 69 Post-Judgment Turnover Orders
+  operational_status: ACTIVE

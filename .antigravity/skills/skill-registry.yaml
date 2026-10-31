@@ -427,4 +427,16 @@ skills:
   name: Quimimport Trade Finance & Precursor Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/quimimport-trade-finance-and-precursor-garnishment.yaml
-total_skills: 126
+- id: sovereign-polymetallic-mine-and-geominsal-disgorgement
+  name: Sovereign Polymetallic Mine & Geominsal Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-polymetallic-mine-and-geominsal-disgorgement.yaml
+- id: trafigura-joint-venture-and-concentrate-interdiction
+  name: Trafigura Joint Venture & Concentrate Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/trafigura-joint-venture-and-concentrate-interdiction.yaml
+- id: precious-metals-and-industrial-mineral-export-garnishment
+  name: Precious Metals & Industrial Mineral Export Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/precious-metals-and-industrial-mineral-export-garnishment.yaml
+total_skills: 129

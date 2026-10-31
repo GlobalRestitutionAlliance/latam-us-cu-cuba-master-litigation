@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-polymetallic-mine-and-geominsal-disgorgement
+  name: Sovereign Polymetallic Mine & Geominsal Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge sovereign polymetallic extraction combines, Geominsal mining monopolies, and expropriated pre-1959 American mining concessions.
+  procedures:
+    - Audit of the statutory monopoly granted to Geominsal over all non-nickel, non-hydrocarbon mineral exploration and extraction.
+    - Forensic mapping of nationalized pre-1959 copper, manganese, gold, and mineral latifundia (Matahambre, El Cobre, Charco Redondo).
+    - Encumbrance of sovereign polymetallic open pits, underground mining shafts, processing mills, and flotation plants.
+    - Service of charging orders on foreign equipment suppliers, engineering consultants, and mining contractors holding state liens.
+    - Enforcement of restitution liens over mining real estate, mineral reserves, and concession titles.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Confiscated Mining Concessions
+    - Equitable Restitution & Constructive Trust Imposition under Restatement (Third) § 55
+  operational_status: ACTIVE

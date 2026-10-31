@@ -1178,3 +1178,22 @@ W:\Legal\US_CUBA\
   - [Master_Industrial_Chemicals_Fertilizer_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Industrial_Chemicals_Fertilizer_Crosswalk_Matrix.csv)
   - [Master_Industrial_Chemicals_Fertilizer_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Industrial_Chemicals_Fertilizer_Crosswalk_Dashboard.md)
   - [Master_Industrial_Chemicals_Fertilizer_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Industrial_Chemicals_Fertilizer_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 40)
+- `agent-geominsal-and-polymetallic-mining-auditor`: Geominsal State Monopoly, Castellanos Zinc/Lead Mine, Trafigura EMINCAR JV, El Cobre & Gold Concessions Auditor.
+- `agent-mineral-concentrate-and-trafigura-garnishee-marshal`: Trafigura Offtake Escrows, Bulk Ore Carrier Arrests, Geneva Trading Clearing Desks & Smelter Receivables Marshal.
+
+## Newly Registered Skills (Campaign 40)
+- `sovereign-polymetallic-mine-and-geominsal-disgorgement`: Sovereign Polymetallic Mine & Geominsal Disgorgement.
+- `trafigura-joint-venture-and-concentrate-interdiction`: Trafigura Joint Venture & Concentrate Interdiction.
+- `precious-metals-and-industrial-mineral-export-garnishment`: Precious Metals & Industrial Mineral Export Garnishment.
+
+### Campaign 40: Sovereign Polymetallic Mining, Gold & Copper Latifundia, Trafigura EMINCAR JVs & Geominsal Monopolies Disgorgement Campaign
+- **Total Restitution Pool:** $275,000,000,000.00 ($275.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** MINE-001 through MINE-025
+- **Assigned Agents:** `agent-geominsal-and-polymetallic-mining-auditor`, `agent-mineral-concentrate-and-trafigura-garnishee-marshal`
+- **Certified Skills:** `sovereign-polymetallic-mine-and-geominsal-disgorgement`, `trafigura-joint-venture-and-concentrate-interdiction`, `precious-metals-and-industrial-mineral-export-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Polymetallic_Mining_Geominsal_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Polymetallic_Mining_Geominsal_Crosswalk_Matrix.csv)
+  - [Master_Polymetallic_Mining_Geominsal_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Polymetallic_Mining_Geominsal_Crosswalk_Dashboard.md)
+  - [Master_Polymetallic_Mining_Geominsal_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Polymetallic_Mining_Geominsal_Crosswalk_Dashboard.docx)

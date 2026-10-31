@@ -1,0 +1,16 @@
+skill:
+  id: trafigura-joint-venture-and-concentrate-interdiction
+  name: Trafigura Joint Venture & Concentrate Interdiction
+  version: 1.0.0
+  description: International execution protocol to encumber Trafigura / Urion Holdings joint-venture equity in EMINCAR, Castellanos lead/zinc concentrate export shipments, and foreign smelter payments.
+  procedures:
+    - Forensic audit of the corporate partnership between Geominsal and Trafigura (Urion Holdings) in Empresa Minera del Caribe (EMINCAR).
+    - Service of Rule 69 third-party debtor garnishment orders upon Trafigura trading headquarters in Geneva and Singapore.
+    - Attachment of export shipments of zinc concentrate and lead concentrate moving through Port Mariel and international waters.
+    - Freezing of Trafigura off-take purchase payments, dividend remittances, and management fee escrows owed to Geominsal.
+    - Diversion of mineral sale revenues directly into certified restitution trust accounts.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Swiss Federal Debt Enforcement and Bankruptcy Act (PBLG) Arrest Orders
+  operational_status: ACTIVE
