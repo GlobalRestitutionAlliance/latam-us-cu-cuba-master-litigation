@@ -676,4 +676,14 @@ agents:
   role: Empresa Cubana de Navegación Aérea (ECNA), Havana FIR Air Navigation Overflight Fees, IATA Clearing House (Geneva / Montreal) Settlement Floats, OFAC Airline Remittance Conduits & Intermediary Bank Garnishment Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-airspace-overflight-and-iata-escrow-marshal.yaml
-total_agents: 136
+- id: agent-ufc-railway-and-mainline-auditor
+  name: UFC Railway, Mainline Infrastructure & Freight Tariff Auditor
+  role: Unión de Ferrocarriles de Cuba (UFC), Consolidated Railroads of Cuba (CU-2500) & Hershey Railway (CU-2495) Expropriations, Mainline Rights-of-Way & Industrial Rail Freight Tariff Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-ufc-railway-and-mainline-auditor.yaml
+- id: agent-locomotive-procurement-and-rail-escrow-marshal
+  name: Locomotive Procurement & Rail Factoring Escrow Marshal
+  role: Russian Sinara / Transmashholding TGM8KM Locomotive Supply Escrows, Chinese CRRC Rolling Stock Factoring, EXIAR Export Guarantees & Intermodal Freight Tariff Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-locomotive-procurement-and-rail-escrow-marshal.yaml
+total_agents: 138

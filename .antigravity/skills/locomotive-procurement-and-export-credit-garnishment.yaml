@@ -1,19 +1,12 @@
-id: locomotive-procurement-and-export-credit-garnishment
-name: Sovereign Rolling Stock Procurement & Russian/Chinese Export Credit Garnishment
-description: Operational protocols for intercepting international export credit financing (EXIAR, Sinosure), letter-of-credit deposits, and equipment escrow balances for locomotives, passenger cars, and freight wagons imported by Unión de Ferrocarriles de Cuba (UFC).
-version: 1.0.0
-tactical_domain: Rolling Stock Procurement Interception & Export Credit Escrow Garnishment
-execution_protocol:
-  - Step 1: Auditing bilateral state-to-state and commercial locomotive procurement contracts (Transmashholding, Sinara Group, CRRC Corp).
-  - Step 2: Identifying correspondent banking rails and letter-of-credit clearing facilities financing UFC rolling stock acquisitions in Europe, Russia, and Asia.
-  - Step 3: Serving post-judgment writs of garnishment under FRCP 69 and 28 U.S.C. § 1610(g) on commercial banks holding procurement escrows and export credit guarantee balances.
-  - Step 4: Levying Supplemental Admiralty Rule B and C in rem attachment orders on physical locomotive shipments, diesel engines, and wheelsets transiting third-party maritime hubs.
-  - Step 5: Directing intercepted financing reserves, performance bond escrows, and equipment liquidation proceeds into the Master Restitution Qualified Settlement Fund.
-statutory_authorities:
-  - 28 U.S.C. § 1610(g) (FSIA Execution on Agencies & Instrumentalities)
-  - Federal Rule of Civil Procedure 69 (Execution)
-  - Supplemental Admiralty Rule B & C (Maritime Attachment and In Rem Arrest)
-  - Uniform Commercial Code (UCC) § 5-116 (Assignment of Letter of Credit Proceeds)
-  - Peterson v. Islamic Republic of Iran, 578 U.S. 520 (2016)
-verified_by: agent-rail-logistics-garnishee-marshal
-status: READY
+skill:
+  id: "locomotive-procurement-and-export-credit-garnishment"
+  name: "Locomotive Supply Procurement, Export Credit & In Rem Maritime Equipment Arrest"
+  description: "Cross-border post-judgment garnishment and in rem admiralty arrest protocol targeting Russian (Sinara / Transmashholding) and Chinese (CRRC) locomotive supply credits, letters of credit, EXIAR export guarantees, and imported rolling stock in transit under Supplemental Admiralty Rule C, Fed. R. Civ. P. 69, and N.Y. C.P.L.R. § 5225."
+  category: "locomotive-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Trace export credit clearing accounts, letter-of-credit facilities, and bank escrows financing Russian Sinara TGM8KM locomotives and Chinese CRRC passenger cars for UFC."
+    - "Issue in rem admiralty arrest warrants under Supplemental Admiralty Rule C against imported diesel locomotives, bogies, and traction motors in Caribbean transshipment ports."
+    - "Serve restraining notices and third-party turnover subpoenas on intermediary banks, export insurers, and factoring houses handling UFC equipment installment payments."
+    - "Garnish commercial demurrage escrows, intermodal container leases, and freight transit receivables held by international forwarders."

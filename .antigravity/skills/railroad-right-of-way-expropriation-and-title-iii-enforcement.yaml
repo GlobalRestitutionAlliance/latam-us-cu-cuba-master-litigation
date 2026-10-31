@@ -1,0 +1,12 @@
+skill:
+  id: "railroad-right-of-way-expropriation-and-title-iii-enforcement"
+  name: "Railroad Right-of-Way Expropriation & Helms-Burton Title III Trafficking Enforcement"
+  description: "Legal verification and restitution framework for American-owned railway infrastructure, rolling stock, and rights-of-way confiscated under Law 890, including Consolidated Railroads of Cuba (FCSC Claim No. CU-2500) and Hershey Cuban Railway (FCSC Claim No. CU-2495) under 22 U.S.C. § 6082."
+  category: "railway-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Verify certified Foreign Claims Settlement Commission (FCSC) final awards for Consolidated Railroads of Cuba (CU-2500) and Hershey Cuban Railway (CU-2495) covering national mainline networks and electrified tracks."
+    - "Identify third-party foreign shipping lines, commodity traders, and joint venture logistics operators commercially trafficking over confiscated mainline rights-of-way under 22 U.S.C. § 6082."
+    - "Serve formal statutory notices of intent to file Title III actions and demand letters seeking treble damages for commercial trafficking in confiscated rail property."
+    - "Prepare multi-district federal court complaints seeking statutory damages and constructive trusts over commercial freight revenues derived from confiscated trackage."

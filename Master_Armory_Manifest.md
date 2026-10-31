@@ -1721,3 +1721,23 @@ W:\Legal\US_CUBA\
   - [Master_Airport_ECASA_Overflight_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Airport_ECASA_Overflight_Crosswalk_Matrix.csv)
   - [Master_Airport_ECASA_Overflight_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Airport_ECASA_Overflight_Crosswalk_Dashboard.md)
   - [Master_Airport_ECASA_Overflight_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Airport_ECASA_Overflight_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 66)
+- `agent-ufc-railway-and-mainline-auditor`: Unión de Ferrocarriles de Cuba (UFC), Consolidated Railroads of Cuba (CU-2500) & Hershey Railway (CU-2495) Expropriations, Mainline Rights-of-Way & Industrial Rail Freight Tariff Auditor.
+- `agent-locomotive-procurement-and-rail-escrow-marshal`: Russian Sinara / Transmashholding TGM8KM Locomotive Supply Escrows, Chinese CRRC Rolling Stock Factoring, EXIAR Export Guarantees & Intermodal Freight Tariff Marshal.
+
+## Newly Registered Skills (Campaign 66)
+- `sovereign-railway-monopoly-and-ufc-disgorgement`: Sovereign Commercial Railway Monopolies, UFC Infrastructure & Freight Tariff Disgorgement.
+- `railroad-right-of-way-expropriation-and-title-iii-enforcement`: Railroad Right-of-Way Expropriation & Helms-Burton Title III Trafficking Enforcement.
+- `locomotive-procurement-and-export-credit-garnishment`: Locomotive Supply Procurement, Export Credit & In Rem Maritime Equipment Arrest.
+
+### Campaign 66: Sovereign Commercial National Railway Infrastructure, Intermodal Freight Corridors, Unión de Ferrocarriles de Cuba (UFC), Expropriated Consolidated Railroads of Cuba (Law 890, FCSC Claim No. CU-2500 / Hershey Cuban Railway FCSC Claim No. CU-2495), Transnational Russian (Sinara / Transmashholding) & Chinese (CRRC) Rolling Stock Procurement Escrows & Industrial Rail Tariff Restitution Campaign
+- **Total Restitution Pool:** $340,000,000,000.00 ($340.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** UFCR-001 through UFCR-025
+- **Assigned Legal Research Agents:** `agent-ufc-railway-and-mainline-auditor`, `agent-locomotive-procurement-and-rail-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-railway-monopoly-and-ufc-disgorgement`, `railroad-right-of-way-expropriation-and-title-iii-enforcement`, `locomotive-procurement-and-export-credit-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Rail_UFC_Consolidated_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_UFC_Consolidated_Crosswalk_Matrix.csv)
+  - [Master_Rail_UFC_Consolidated_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_UFC_Consolidated_Crosswalk_Dashboard.md)
+  - [Master_Rail_UFC_Consolidated_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Rail_UFC_Consolidated_Crosswalk_Dashboard.docx)

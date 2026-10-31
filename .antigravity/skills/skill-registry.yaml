@@ -739,4 +739,16 @@ skills:
   name: IATA Clearinghouse Interdiction & Multilateral Airline Settlement Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/iata-clearinghouse-and-airline-settlement-garnishment.yaml
-total_skills: 204
+- id: sovereign-railway-monopoly-and-ufc-disgorgement
+  name: Sovereign Commercial Railway Monopolies, UFC Infrastructure & Freight Tariff Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-railway-monopoly-and-ufc-disgorgement.yaml
+- id: railroad-right-of-way-expropriation-and-title-iii-enforcement
+  name: Railroad Right-of-Way Expropriation & Helms-Burton Title III Trafficking Enforcement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/railroad-right-of-way-expropriation-and-title-iii-enforcement.yaml
+- id: locomotive-procurement-and-export-credit-garnishment
+  name: Locomotive Supply Procurement, Export Credit & In Rem Maritime Equipment Arrest
+  status: ACTIVE
+  manifest_file: .antigravity/skills/locomotive-procurement-and-export-credit-garnishment.yaml
+total_skills: 207
