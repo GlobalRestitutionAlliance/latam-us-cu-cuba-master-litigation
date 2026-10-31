@@ -1,0 +1,23 @@
+skill:
+  id: "transnational-generic-drug-trade-and-farmacuba-interdiction"
+  name: "Transnational Generic Drug Trade & FARMACUBA Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Pharmaceutical Trade Interdiction & Export Receivable Garnishment"
+
+description: >
+  Operational protocol for identifying, garnishing, and intercepting international generic pharmaceutical export contracts,
+  bilateral government-to-government drug supply agreements, and overseas sales remittances managed by FARMACUBA
+  and Heber Biotec S.A. across Latin America, Asia, and Europe.
+
+execution_protocol:
+  step_1: "Track international pharmaceutical shipment bills of lading, phytosanitary export certificates, and sales invoices issued by FARMACUBA for finished generic medications, vaccines, and recombinant formulations."
+  step_2: "Identify foreign purchasing ministries and state health authorities (e.g. Mexico IMSS/INSABI, Venezuela, Bolivia, Vietnam) maintaining accounts payable for Cuban medical imports."
+  step_3: "Serve CPLR § 5222 restraining notices, Fed. R. Civ. P. 69 writs of garnishment, or letters rogatory upon foreign paying agencies and commercial clearing banks handling trade settlements."
+  step_4: "Interdict export proceeds, redirecting contract settlements directly into the Master Qualified Settlement Fund."
+
+authorities:
+  - "Fed. R. Civ. P. 69 (Execution & Discovery in Aid of Enforcement)"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third Parties)"
+  - "Spanish Ley de Enjuiciamiento Civil Art. 584"
+  - "28 U.S.C. § 1610(b)(2) (Execution Against Agency or Instrumentality Property)"

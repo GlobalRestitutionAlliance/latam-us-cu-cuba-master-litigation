@@ -583,4 +583,16 @@ skills:
   name: Air Cargo Charter Escrow & Forwarder Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/air-cargo-charter-escrow-and-forwarder-garnishment.yaml
-total_skills: 165
+- id: sovereign-pharmaceutical-monopoly-and-medicuba-disgorgement
+  name: Sovereign Pharma Monopoly & MEDICUBA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-pharmaceutical-monopoly-and-medicuba-disgorgement.yaml
+- id: transnational-generic-drug-trade-and-farmacuba-interdiction
+  name: Transnational Generic Drug Trade & FARMACUBA Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-generic-drug-trade-and-farmacuba-interdiction.yaml
+- id: pharma-import-escrow-and-api-procurement-garnishment
+  name: Pharma Import Escrow & API Procurement Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/pharma-import-escrow-and-api-procurement-garnishment.yaml
+total_skills: 168

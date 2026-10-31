@@ -546,4 +546,14 @@ agents:
   role: IATA Cargo Accounts Settlement System (CASS), Air Cargo Charter Operators, Freight Forwarder Escrows & Air Cargo Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-iata-cass-and-cargo-charter-garnishee-marshal.yaml
-total_agents: 110
+- id: agent-medicuba-and-pharma-monopoly-auditor
+  name: MEDICUBA & Pharma Monopoly Auditor
+  role: Empresa Importadora y Exportadora de Productos Médicos (MEDICUBA), BioCubaFarma Holding, Expropriated American Pharma Labs & Procurement Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-medicuba-and-pharma-monopoly-auditor.yaml
+- id: agent-farmacuba-and-generic-export-garnishee-marshal
+  name: FARMACUBA & Generic Export Garnishee Marshal
+  role: FARMACUBA / EMCOMED Distribution, Transnational Generic Drug Off-Take Contracts, Overseas Pharma Joint Ventures & API Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-farmacuba-and-generic-export-garnishee-marshal.yaml
+total_agents: 112

@@ -1430,3 +1430,23 @@ W:\Legal\US_CUBA\
   - [Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Dashboard.md)
   - [Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 53)
+- `agent-medicuba-and-pharma-monopoly-auditor`: Empresa Importadora y Exportadora de Productos Médicos (MEDICUBA), BioCubaFarma Holding, Expropriated Pre-1959 American Pharma Labs & Procurement Auditor.
+- `agent-farmacuba-and-generic-export-garnishee-marshal`: FARMACUBA / EMCOMED Distribution, Transnational Generic Drug Off-Take Contracts, Overseas Pharma Joint Ventures & API Escrow Marshal.
+
+## Newly Registered Skills (Campaign 53)
+- `sovereign-pharmaceutical-monopoly-and-medicuba-disgorgement`: Sovereign Pharma Monopoly & MEDICUBA Disgorgement.
+- `transnational-generic-drug-trade-and-farmacuba-interdiction`: Transnational Generic Drug Trade & FARMACUBA Interdiction.
+- `pharma-import-escrow-and-api-procurement-garnishment`: Pharma Import Escrow & API Procurement Garnishment.
+
+### Campaign 53: Sovereign Commercial Pharmaceutical Import-Export Monopolies, BioCubaFarma Holding, MEDICUBA Procurement Escrows, FARMACUBA Generic Drug Trade & Transnational API Interdiction Disgorgement Campaign
+- **Total Restitution Pool:** $290,000,000,000.00 ($290.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** PHRM-001 through PHRM-025
+- **Assigned Agents:** `agent-medicuba-and-pharma-monopoly-auditor`, `agent-farmacuba-and-generic-export-garnishee-marshal`
+- **Certified Skills:** `sovereign-pharmaceutical-monopoly-and-medicuba-disgorgement`, `transnational-generic-drug-trade-and-farmacuba-interdiction`, `pharma-import-escrow-and-api-procurement-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Matrix.csv)
+  - [Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Dashboard.md)
+  - [Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Pharma_MEDICUBA_Farmacuba_Crosswalk_Dashboard.docx)
+

@@ -1,0 +1,23 @@
+skill:
+  id: "sovereign-pharmaceutical-monopoly-and-medicuba-disgorgement"
+  name: "Sovereign Pharma Monopoly & MEDICUBA Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Pharmaceutical Commercial Execution & Expropriated Laboratory Disgorgement"
+
+description: >
+  Legal and forensic accounting methodology for asserting FSIA § 1605(a)(3) expropriation jurisdiction,
+  Bancec alter ego liability, and Title III Helms-Burton claims against BioCubaFarma and Empresa Importadora
+  y Exportadora de Productos Médicos (MEDICUBA S.A.) operating confiscated pharmaceutical assets.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (e.g. Parke Davis CU-0824, Eli Lilly CU-1107, Abbott Laboratories CU-1332, Johnson & Johnson CU-0785) with active manufacturing complexes operated by BioCubaFarma and its industrial subsidiaries."
+  step_2: "Audit official pharmaceutical import/export directories, ministerial procurement budgets, and customs clearance filings establishing continuous commercial activity in uncompensated confiscated facilities."
+  step_3: "Document state ownership, executive command control, and profit repatriation demonstrating that MEDICUBA and BioCubaFarma are commercial alter egos of the Ministry of Public Health and the Cuban sovereign state."
+  step_4: "File turnover and disgorgement complaints in federal district courts demanding accounting and seizure of all commercial pharmaceutical sales proceeds, procurement deposits, and licensing revenues."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)"
+  - "28 U.S.C. § 1610(a)(2) (Commercial Property Attachment)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"

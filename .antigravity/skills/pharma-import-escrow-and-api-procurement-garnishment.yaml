@@ -1,0 +1,23 @@
+skill:
+  id: "pharma-import-escrow-and-api-procurement-garnishment"
+  name: "Pharma Import Escrow & API Procurement Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Import Letter of Credit Garnishment & Vendor Escrow Attachment"
+
+description: >
+  Procedure for freezing, attaching, and garnishing foreign procurement letters of credit (LCs), advance vendor deposits,
+  and escrow balances opened by MEDICUBA S.A. with international chemical manufacturers and banking syndicates
+  for the purchase of Active Pharmaceutical Ingredients (APIs) and medical technologies.
+
+execution_protocol:
+  step_1: "Subpoena SWIFT MT700 letter of credit transmissions and documentary collection records issued by Banco Central de Cuba / Banco Exterior de Cuba for MEDICUBA procurement."
+  step_2: "Identify confirming, negotiating, and advising banks in Europe (Spain, Germany, Switzerland) and Asia (China, India) handling active API procurement escrows."
+  step_3: "Serve pre-judgment attachment orders, restraining notices, and third-party debt orders on confirming banks to freeze cash collateral, advance margins, and reimbursement credits."
+  step_4: "Compel turnover of attached procurement balances into the Master QSF registry upon entry of final execution orders."
+
+authorities:
+  - "N.Y. C.P.L.R. § 5222, 5225, 5227 (Restraining Notices and Turnover Orders)"
+  - "Uniform Commercial Code § 5-118 (Letter of Credit Security Interests)"
+  - "Swiss Federal Statute on International Private Law (PILA) Art. 177"
+  - "28 U.S.C. § 1610(a)(2) (Attachment of Commercial Property in the U.S.)"
