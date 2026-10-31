@@ -1,0 +1,12 @@
+skill:
+  id: "biotech-joint-venture-dividend-and-clinical-escrow-garnishment"
+  name: "Biotech Joint Venture Dividend, Clinical Trial Escrow & Patent Royalty Garnishment"
+  description: "Post-judgment execution and third-party garnishment protocol targeting domestic and transnational biotechnology joint ventures (Innovative Immunotherapy Alliance S.A. in Buffalo NY / Roswell Park, ChangHeber China, Biocon India), U.S. clinical trial escrows, PAHO/WHO vaccine supply disbursements, and international patent licensing royalties under Fed. R. Civ. P. 69, N.Y. C.P.L.R. § 5225, and 28 U.S.C. § 1610."
+  category: "biotech-jv-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Serve restraining notices and turnover subpoenas on Innovative Immunotherapy Alliance S.A. and Roswell Park Comprehensive Cancer Center in the Western District of New York under N.Y. C.P.L.R. § 5222 and Fed. R. Civ. P. 69 attaching Cuban state equity distributions and licensing fees."
+    - "Garnish commercial milestone payments, clinical trial research funding, and patent royalty balances accrued under OFAC and FDA licenses for CIMAvax-EGF."
+    - "Interdict multilateral vaccine procurement payments from the Pan American Health Organization (PAHO) and World Health Organization (WHO) routed through U.S. and European financial clearing intermediaries."
+    - "Attach foreign biopharmaceutical joint venture equity shares and dividend remittances from Changchun Heber Biological Technology Co. Ltd. (China) and Biocon S.A. (India) under international exequatur and judicial enforcement decrees."

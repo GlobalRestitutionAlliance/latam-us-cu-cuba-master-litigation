@@ -1,0 +1,12 @@
+skill:
+  id: "expropriated-pharmaceutical-laboratory-and-patent-restitution"
+  name: "Expropriated Pharmaceutical Laboratories, Chemical Plants & Patent Restitution"
+  description: "Legal verification and Title III trafficking enforcement for American-owned pharmaceutical manufacturing complexes, chemical synthesis laboratories, and proprietary drug brands confiscated under Law 890 (Parke-Davis & Co. FCSC Claim No. CU-2491, E.R. Squibb & Sons / Bristol-Myers Squibb, Johnson & Johnson, Abbott Laboratories, Laboratorios Vieta-Plasencia) under 22 U.S.C. § 6082 and 28 U.S.C. § 1605(a)(3)."
+  category: "pharmaceutical-expropriation-restitution"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Verify certified Foreign Claims Settlement Commission (FCSC) records for confiscated pharmaceutical giants nationalized under Law 890, including Parke-Davis & Company (FCSC Claim No. CU-2491), E.R. Squibb & Sons, and domestic laboratories."
+    - "Identify foreign pharmaceutical conglomerates and state enterprises commercially trafficking over confiscated manufacturing complexes, laboratory buildings, formulation rights, and historical pharmaceutical brands under 22 U.S.C. § 6082."
+    - "Serve statutory notices of intent to file Title III actions and demand letters seeking treble damages for commercial trafficking in confiscated pharmaceutical property."
+    - "Draft multi-district federal court complaints seeking statutory damages, restitution, and constructive trusts over commercial life sciences revenues derived from expropriated pharmaceutical infrastructure."

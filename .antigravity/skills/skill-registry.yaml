@@ -775,4 +775,16 @@ skills:
   name: TSRA Cash-in-Advance Escrow Interdiction & Commercial Letter-of-Credit Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/tsra-cash-in-advance-and-letter-of-credit-garnishment.yaml
-total_skills: 213
+- id: sovereign-biocubafarma-monopoly-and-cimab-disgorgement
+  name: Sovereign Biotechnology Monopoly, BioCubaFarma Infrastructure & CIMAB Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-biocubafarma-monopoly-and-cimab-disgorgement.yaml
+- id: expropriated-pharmaceutical-laboratory-and-patent-restitution
+  name: Expropriated Pharmaceutical Laboratories, Chemical Plants & Patent Restitution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-pharmaceutical-laboratory-and-patent-restitution.yaml
+- id: biotech-joint-venture-dividend-and-clinical-escrow-garnishment
+  name: Biotech Joint Venture Dividend, Clinical Trial Escrow & Patent Royalty Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/biotech-joint-venture-dividend-and-clinical-escrow-garnishment.yaml
+total_skills: 216

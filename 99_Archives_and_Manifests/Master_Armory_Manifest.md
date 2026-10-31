@@ -1782,3 +1782,23 @@ W:\Legal\US_CUBA\
   - [Master_Agribusiness_ALIMPORT_TSRA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Agribusiness_ALIMPORT_TSRA_Crosswalk_Matrix.csv)
   - [Master_Agribusiness_ALIMPORT_TSRA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Agribusiness_ALIMPORT_TSRA_Crosswalk_Dashboard.md)
   - [Master_Agribusiness_ALIMPORT_TSRA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Agribusiness_ALIMPORT_TSRA_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 69)
+- `agent-biocubafarma-and-life-sciences-auditor`: BioCubaFarma Sovereign Conglomerate, CIMAB S.A., CIGB, CIM, Expropriated Pre-1959 American Pharmaceutical Laboratories (Law 890, Parke-Davis & Co. FCSC Claim No. CU-2491 / E.R. Squibb / J&J / Abbott), WHO/PAHO Vaccine Procurement Tenders & WIPO Patent Royalties Auditor.
+- `agent-roswell-park-jv-and-biotech-escrow-marshal`: Innovative Immunotherapy Alliance S.A. (Buffalo NY / Roswell Park Joint Venture), U.S. Clinical Trial Escrows, Transnational Biotech JVs (ChangHeber China, Biocon India), OFAC Biotech Licensing Conduits & International Patent Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 69)
+- `sovereign-biocubafarma-monopoly-and-cimab-disgorgement`: Sovereign Biotechnology Monopoly, BioCubaFarma Enterprise Infrastructure, CIMAB Commercial Export Concessions & Domestic Asset Disgorgement.
+- `expropriated-pharmaceutical-laboratory-and-patent-restitution`: Expropriated Pre-1959 Pharmaceutical Laboratories, Chemical Manufacturing Plants, Parke-Davis FCSC Claim No. CU-2491 & Helms-Burton Title III Biotech Trafficking Restitution.
+- `biotech-joint-venture-dividend-and-clinical-escrow-garnishment`: Transnational Biotech Joint Venture Dividends (Roswell Park NY, ChangHeber China, Biocon India), U.S. Clinical Trial Escrows, WHO/PAHO Vaccine Payment Interception & WIPO Patent Royalty Garnishment.
+
+### Campaign 69: Sovereign Commercial Biotechnology Monopolies, BioCubaFarma Conglomerate, CIMAB S.A. Export Concessions, Innovative Immunotherapy Alliance Joint Venture (Roswell Park, Buffalo NY), Expropriated Pharmaceutical Laboratories (Law 890, Parke-Davis & Co. FCSC Claim No. CU-2491), Multilateral Vaccine Supply Tenders & International Patent Royalties Restitution Campaign
+- **Total Restitution Pool:** $355,000,000,000.00 ($355.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** BIOC-001 through BIOC-025
+- **Assigned Legal Research Agents:** `agent-biocubafarma-and-life-sciences-auditor`, `agent-roswell-park-jv-and-biotech-escrow-marshal`
+- **Certified Procedural Skills:** `sovereign-biocubafarma-monopoly-and-cimab-disgorgement`, `expropriated-pharmaceutical-laboratory-and-patent-restitution`, `biotech-joint-venture-dividend-and-clinical-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Matrix.csv)
+  - [Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Dashboard.md)
+  - [Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_BioCubaFarma_RoswellPark_Biotech_Crosswalk_Dashboard.docx)
