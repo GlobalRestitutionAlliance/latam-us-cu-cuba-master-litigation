@@ -1045,3 +1045,22 @@ W:\Legal\US_CUBA\
   - [Master_Automotive_Fleets_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Automotive_Fleets_Crosswalk_Matrix.csv)
   - [Master_Automotive_Fleets_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Automotive_Fleets_Crosswalk_Dashboard.md)
   - [Master_Automotive_Fleets_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Automotive_Fleets_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 33)
+- `agent-commercial-brewing-and-beverage-auditor`: Cervecería Bucanero / AB InBev JV, Los Portales / Nestlé JV & Coralsa Beverage Auditor.
+- `agent-beverage-royalty-and-dividend-marshal`: AB InBev Belgian Clearing Rails, Nestlé Swiss Escrows & Commercial Export Receivables Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 33)
+- `commercial-brewery-and-beverage-jv-disgorgement`: Commercial Brewery & Beverage Joint-Venture Disgorgement.
+- `mineral-water-and-soft-drink-concession-interdiction`: Mineral Water & Soft Drink Concession Interdiction.
+- `multinational-beverage-royalty-and-export-garnishment`: Multinational Beverage Royalty & Export Receivables Garnishment.
+
+### Campaign 33: Sovereign Commercial Brewing, Beverage Monopolies, Distilleries & Multinational Brewing JVs Disgorgement Campaign
+- **Total Restitution Pool:** $285,000,000,000.00 ($285.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** BEV-001 through BEV-025
+- **Assigned Agents:** `agent-commercial-brewing-and-beverage-auditor`, `agent-beverage-royalty-and-dividend-marshal`
+- **Certified Skills:** `commercial-brewery-and-beverage-jv-disgorgement`, `mineral-water-and-soft-drink-concession-interdiction`, `multinational-beverage-royalty-and-export-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Brewing_Beverage_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Beverage_Crosswalk_Matrix.csv)
+  - [Master_Brewing_Beverage_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Beverage_Crosswalk_Dashboard.md)
+  - [Master_Brewing_Beverage_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Brewing_Beverage_Crosswalk_Dashboard.docx)

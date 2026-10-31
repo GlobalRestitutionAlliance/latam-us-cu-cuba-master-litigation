@@ -346,4 +346,14 @@ agents:
   role: Amadeus Clearing Rails, European Tour Operator Escrows & Commercial Fleet Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-rental-receivables-and-dealership-marshal.yaml
-total_agents: 70
+- id: agent-commercial-brewing-and-beverage-auditor
+  name: Sovereign Commercial Brewing & Beverage Monopolies Auditor
+  role: Cervecería Bucanero / AB InBev JV, Los Portales / Nestlé JV & Coralsa Beverage Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-commercial-brewing-and-beverage-auditor.yaml
+- id: agent-beverage-royalty-and-dividend-marshal
+  name: Commercial Beverage Dividend & Offshore Royalty Garnishee Marshal
+  role: AB InBev Belgian Clearing Rails, Nestlé Swiss Escrows & Commercial Export Receivables Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-beverage-royalty-and-dividend-marshal.yaml
+total_agents: 72

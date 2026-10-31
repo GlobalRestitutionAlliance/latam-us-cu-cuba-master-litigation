@@ -343,4 +343,16 @@ skills:
   name: Prepaid Travel Voucher & Merchant Settlement Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/prepaid-travel-voucher-and-merchant-settlement-garnishment.yaml
-total_skills: 105
+- id: commercial-brewery-and-beverage-jv-disgorgement
+  name: Commercial Brewery & Beverage Joint-Venture Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/commercial-brewery-and-beverage-jv-disgorgement.yaml
+- id: mineral-water-and-soft-drink-concession-interdiction
+  name: Mineral Water & Soft Drink Concession Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/mineral-water-and-soft-drink-concession-interdiction.yaml
+- id: multinational-beverage-royalty-and-export-garnishment
+  name: Multinational Beverage Royalty & Export Receivables Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/multinational-beverage-royalty-and-export-garnishment.yaml
+total_skills: 108
