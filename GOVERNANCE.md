@@ -10,8 +10,8 @@ The repository is governed by the **Global Restitution Alliance Maintainer Counc
 - **Global Tribunals Envoy:** Custodian of `04_International_Tribunals/` and multilateral arbitration agreements.
 - **Senior Strategic Analyst:** Custodian of `05_Strategic_Doctrines_and_Red_Team/` and procedural legal risk assessments.
 
-## Specialized Legal Practice Groups (158 Agents / 237 Skills / 7 Tools)
-The Council exercises strategic oversight over 158 specialized autonomous research agents deployed across focused legal practice areas:
+## Specialized Legal Practice Groups (160 Agents / 240 Skills / 7 Tools)
+The Council exercises strategic oversight over 160 specialized autonomous research agents deployed across focused legal practice areas:
 1. **Constitutional, Statutory & Appellate Practice:** SCOTUS advocates, appellate strategists, and procedural drafters.
 2. **Sovereign Immunity & International Arbitration:** FSIA specialists (28 U.S.C. §§ 1605, 1610), ICSID/UNCITRAL arbitrators, and UN treaty envoys.
 3. **Admiralty, Maritime Logistics & In Rem Enforcement:** Port authority auditors, container shipping fleet monitors (Melfi Marine), ocean freight garnishee officers, and Rule B/C in rem enforcement specialists.

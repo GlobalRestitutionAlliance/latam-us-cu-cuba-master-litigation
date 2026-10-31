@@ -786,4 +786,14 @@ agents:
   role: Karpower International B.V. (Turkey / Netherlands / Karadeniz Holding) Floating Powership Charters (Mariel, Havana Bay, Santiago de Cuba), Heavy Fuel Oil (HFO) Supply Settlement Rails, Supplemental Admiralty Rule B Maritime Bunkering Attachments, Helms-Burton Title III Energy Trafficking Actions (22 U.S.C. § 6082) & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-powership-and-fuel-escrow-marshal.yaml
-total_agents: 158
+- id: agent-habanos-holding-and-allied-cigar-syndicate-auditor
+  name: Habanos Holding & Allied Cigar Syndicate Auditor
+  role: Corporación Habanos S.A., Allied Cigar Corporation (Hong Kong), Grupo Empresarial de Tabaco de Cuba (TABACUBA), Expropriated Historic Cigar Manufactories (Menéndez García CU-1335, Cifuentes CU-1336, F. Palicio), Vuelta Abajo Vegas & Bancec Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-habanos-holding-and-allied-cigar-syndicate-auditor.yaml
+- id: agent-transnational-cigar-royalty-and-luxury-auction-marshal
+  name: Transnational Cigar Royalty & Luxury Auction Marshal
+  role: Global Exclusive Distributorship Networks (Tabacalera S.L.U., Coprova, Diadema, Phoenicia Trading, Infifon), Annual Festival del Habano Humidor Auctions, Customs-Bonded Warehouses (Colón Free Zone, Geneva, Madrid), TRIA § 201 & FSIA § 1610(a)(2) Hard-Currency Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-cigar-royalty-and-luxury-auction-marshal.yaml
+total_agents: 160

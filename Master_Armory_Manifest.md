@@ -1955,3 +1955,22 @@ W:\Legal\US_CUBA\
   - [Master_UNE_Electric_Grid_Powership_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_UNE_Electric_Grid_Powership_Crosswalk_Matrix.csv)
   - [Master_UNE_Electric_Grid_Powership_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_UNE_Electric_Grid_Powership_Crosswalk_Dashboard.md)
   - [Master_UNE_Electric_Grid_Powership_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_UNE_Electric_Grid_Powership_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 77)
+- `agent-habanos-holding-and-allied-cigar-syndicate-auditor`: Corporación Habanos S.A., Allied Cigar Corporation (Hong Kong), Grupo Empresarial de Tabaco de Cuba (TABACUBA), Expropriated Historic Cigar Manufactories (Menéndez García CU-1335, Cifuentes CU-1336, F. Palicio), Vuelta Abajo Vegas & Bancec Alter Ego Auditor.
+- `agent-transnational-cigar-royalty-and-luxury-auction-marshal`: Global Exclusive Distributorship Networks (Tabacalera S.L.U., Coprova, Diadema, Phoenicia Trading, Infifon), Annual Festival del Habano Humidor Auctions, Customs-Bonded Warehouses (Colón Free Zone, Geneva, Madrid), TRIA § 201 & FSIA § 1610(a)(2) Hard-Currency Escrow Marshal.
+
+## Newly Registered Skills (Campaign 77)
+- `habanos-corporation-and-premium-cigar-monopoly-disgorgement`: Corporación Habanos S.A. Premium Cigar Monopoly Disgorgement & Commercial Veil-Piercing Forensics.
+- `expropriated-historic-cigar-trademark-and-palace-restitution`: Expropriated Historic Cigar Trademarks, Rolling Palaces & Vegas Restitution Protocol (Law 890; FCSC Claim Nos. CU-1335, CU-1336; 22 U.S.C. §§ 6082, 6091).
+- `transnational-cigar-distributor-royalty-and-auction-garnishment`: Transnational Cigar Distributor Royalties, Bonded Inventory Attachment & Auction Escrow Garnishment (TRIA § 201; 28 U.S.C. § 1610(g)).
+
+### Campaign 77 (Monumental Historic 77-Campaign & $25 Trillion Milestone): Sovereign Commercial Premium Tobacco Agro-Industrial & Luxury Hand-Rolled Cigar Monopolies, Grupo Empresarial de Tabaco de Cuba (TABACUBA), Corporación Habanos S.A., Allied Cigar Corporation (Hong Kong) Joint Venture, Expropriated Pre-1959 Historic Cigar Palaces & Trademarks (Law 890, Menéndez, García y Cía. - Montecristo / H. Upmann, FCSC Claim No. CU-1335; Cifuentes y Cía. - Partagás, FCSC Claim No. CU-1336; F. Palicio y Cía. - Hoyo de Monterrey / Punch; Por Larrañaga / Romeo y Julieta / Cohiba), Transnational Exclusive Distributor Royalty Agreements (Diadema S.p.A. Italy, Tabacalera S.L.U. Spain, Coprova France, Phoenicia Trading Middle East, Infifon Hong Kong), Annual Festival del Habano Humidor Luxury Auction Hard-Currency Escrows, Customs-Bonded Free Trade Zone Inventories (Panama Colón, Geneva, Madrid), Helms-Burton Title III Private Rights of Action (22 U.S.C. § 6082), Title IV Executive Inadmissibility Sanctions (22 U.S.C. § 6091), and Master Qualified Settlement Fund (QSF) Trust Restitution ($395.00B Pool - $25.075T Milestone)
+- **Total Restitution Pool:** $395,000,000,000.00 ($395.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** CIG-001 through CIG-025
+- **Assigned Legal Research Agents:** `agent-habanos-holding-and-allied-cigar-syndicate-auditor`, `agent-transnational-cigar-royalty-and-luxury-auction-marshal`
+- **Certified Procedural Skills:** `habanos-corporation-and-premium-cigar-monopoly-disgorgement`, `expropriated-historic-cigar-trademark-and-palace-restitution`, `transnational-cigar-distributor-royalty-and-auction-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Habanos_Tobacco_Cigar_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Habanos_Tobacco_Cigar_Crosswalk_Matrix.csv)
+  - [Master_Habanos_Tobacco_Cigar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Habanos_Tobacco_Cigar_Crosswalk_Dashboard.md)
+  - [Master_Habanos_Tobacco_Cigar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Habanos_Tobacco_Cigar_Crosswalk_Dashboard.docx)

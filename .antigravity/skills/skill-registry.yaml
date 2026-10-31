@@ -871,4 +871,16 @@ skills:
   name: Transnational Powership Charter Hire Garnishment, Bunker Fuel Attachment & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-powership-charter-and-bunker-escrow-garnishment.yaml
-total_skills: 237
+- id: habanos-corporation-and-premium-cigar-monopoly-disgorgement
+  name: Corporación Habanos S.A. Premium Cigar Monopoly Disgorgement & Commercial Veil-Piercing Forensics
+  status: ACTIVE
+  manifest_file: .antigravity/skills/habanos-corporation-and-premium-cigar-monopoly-disgorgement.yaml
+- id: expropriated-historic-cigar-trademark-and-palace-restitution
+  name: Expropriated Historic Cigar Trademarks, Rolling Palaces & Vegas Restitution Protocol
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-historic-cigar-trademark-and-palace-restitution.yaml
+- id: transnational-cigar-distributor-royalty-and-auction-garnishment
+  name: Transnational Cigar Distributor Royalties, Bonded Inventory Attachment & Auction Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-cigar-distributor-royalty-and-auction-garnishment.yaml
+total_skills: 240

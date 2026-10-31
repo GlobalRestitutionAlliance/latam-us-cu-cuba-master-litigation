@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-cigar-distributor-royalty-and-auction-garnishment"
+  name: "Transnational Cigar Distributor Royalties, Bonded Inventory Attachment & Auction Escrow Garnishment"
+  description: "Transnational post-judgment execution protocol targeting exclusive distributor off-take contracts (Tabacalera Spain, Diadema Italy, Coprova France, Phoenicia Middle East, Infifon Hong Kong), bonded customs warehouse inventories (Panama Colón, Geneva, Madrid), and Festival del Habano luxury humidor auction wire escrows under TRIA § 201 and 28 U.S.C. § 1610(g)."
+  category: "cigar-auction-and-royalty-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Serve post-judgment garnishment writs and Rule 69 discovery on transnational distributor hubs (Tabacalera S.L.U. Madrid, Coprova Paris, Diadema Rome, Phoenicia Limassol/Beirut, Infifon Hong Kong)."
+    - "Execute Supplemental Admiralty Rule B maritime attachment on containerized luxury cigar cargo shipments and customs-bonded free-zone warehouses (Panama Colón Free Zone, Geneva Freeport)."
+    - "Monitor and freeze correspondent banking wire settlements and international wire clearing flows connected to the annual Festival del Habano luxury humidor auctions."
+    - "Channel all garnished proceeds into the court-supervised Master Qualified Settlement Fund (QSF) Trust under 26 U.S.C. § 468B."
