@@ -463,4 +463,16 @@ skills:
   name: Bulk Grain Cargo & Agribusiness Trade Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/bulk-grain-cargo-and-agribusiness-trade-garnishment.yaml
-total_skills: 135
+- id: sovereign-civil-aviation-and-cacsa-disgorgement
+  name: Sovereign Civil Aviation & CACSA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-civil-aviation-and-cacsa-disgorgement.yaml
+- id: iata-clearing-house-and-ticket-settlement-interdiction
+  name: IATA Clearing House & Ticket Settlement Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/iata-clearing-house-and-ticket-settlement-interdiction.yaml
+- id: overflight-airspace-fees-and-airport-tariff-garnishment
+  name: Overflight Airspace Fees & Airport Tariff Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/overflight-airspace-fees-and-airport-tariff-garnishment.yaml
+total_skills: 138

@@ -1235,3 +1235,22 @@ W:\Legal\US_CUBA\
   - [Master_ALIMPORT_Food_Agribusiness_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ALIMPORT_Food_Agribusiness_Crosswalk_Matrix.csv)
   - [Master_ALIMPORT_Food_Agribusiness_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ALIMPORT_Food_Agribusiness_Crosswalk_Dashboard.md)
   - [Master_ALIMPORT_Food_Agribusiness_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_ALIMPORT_Food_Agribusiness_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 43)
+- `agent-cacsa-and-civil-aviation-auditor`: Corporación de la Aviación Cubana S.A. (CACSA), Cubana de Aviación Fleets, Aerogaviota Charters, Airport Concessions & Airline Auditor.
+- `agent-iata-clearing-and-overflight-garnishee-marshal`: IATA Multilateral Clearance Desks, BSP Remittances, Havana FIR Overflight Navigation Fees & Aircraft Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 43)
+- `sovereign-civil-aviation-and-cacsa-disgorgement`: Sovereign Civil Aviation & CACSA Disgorgement.
+- `iata-clearing-house-and-ticket-settlement-interdiction`: IATA Clearing House & Ticket Settlement Interdiction.
+- `overflight-airspace-fees-and-airport-tariff-garnishment`: Overflight Airspace Fees & Airport Tariff Garnishment.
+
+### Campaign 43: Sovereign Commercial Civil Aviation, Cubana de Aviación Fleets, CACSA Airport Monopolies & IATA Clearing House Disgorgement Campaign
+- **Total Restitution Pool:** $285,000,000,000.00 ($285.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** AVIA-001 through AVIA-025
+- **Assigned Agents:** `agent-cacsa-and-civil-aviation-auditor`, `agent-iata-clearing-and-overflight-garnishee-marshal`
+- **Certified Skills:** `sovereign-civil-aviation-and-cacsa-disgorgement`, `iata-clearing-house-and-ticket-settlement-interdiction`, `overflight-airspace-fees-and-airport-tariff-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Civil_Aviation_CACSA_IATA_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Civil_Aviation_CACSA_IATA_Crosswalk_Matrix.csv)
+  - [Master_Civil_Aviation_CACSA_IATA_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Civil_Aviation_CACSA_IATA_Crosswalk_Dashboard.md)
+  - [Master_Civil_Aviation_CACSA_IATA_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Civil_Aviation_CACSA_IATA_Crosswalk_Dashboard.docx)

@@ -1,0 +1,16 @@
+skill:
+  id: iata-clearing-house-and-ticket-settlement-interdiction
+  name: IATA Clearing House & Ticket Settlement Interdiction
+  version: 1.0.0
+  description: Interdiction and Rule 69 turnover proceedings against multilateral passenger and cargo ticket clearing balances held in the IATA Clearing House (ICH) in Geneva/Montreal, BSP remittance accounts, and international GDS clearing rails.
+  procedures:
+    - Identification and forensic tracing of multilateral interline clearance accounts operated by the International Air Transport Association (IATA) in Geneva, Switzerland and Montreal, Canada.
+    - Interception of Billing and Settlement Plan (BSP) net remittances flowing from global travel management companies, online travel agencies (OTAs), and consolidators to Cubana de Aviación.
+    - Service of third-party garnishment writs and charging orders on IATA settlement banks and Global Distribution Systems (Amadeus, Sabre, Travelport).
+    - Execution against international interline freight revenues, cargo air waybills (AWB), and baggage clearing escrows.
+    - Freezing of correspondent banking rails routing airline ticket hard currency to CACSA treasury accounts.
+  enforcement_framework:
+    - 28 U.S.C. § 1610(a)(2) Commercial Asset Execution
+    - Fed. R. Civ. P. 69 Foreign Interline Turnover Precedents
+    - Multilateral Interline Traffic Agreements (MITA) & IATA Clearing Rules
+  operational_status: ACTIVE

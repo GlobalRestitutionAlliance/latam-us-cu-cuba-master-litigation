@@ -446,4 +446,14 @@ agents:
   role: US Agribusiness Purchase Escrows, Third-Country Bank Clearings, Bulk Grain Charterparty & Rule 69 Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-agricultural-trade-and-escrow-garnishee-marshal.yaml
-total_agents: 90
+- id: agent-cacsa-and-civil-aviation-auditor
+  name: Sovereign Civil Aviation Monopoly, CACSA & Commercial Fleet Auditor
+  role: CACSA State Monopoly, Cubana de Aviación Fleets, Aerogaviota Charters, Airport Concessions & Airline Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cacsa-and-civil-aviation-auditor.yaml
+- id: agent-iata-clearing-and-overflight-garnishee-marshal
+  name: IATA Clearing House Escrows, Overflight Fees & Airspace Garnishee Marshal
+  role: IATA Multilateral Clearance Desks, BSP Remittances, Havana FIR Overflight Navigation Fees & Aircraft Garnishee Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-iata-clearing-and-overflight-garnishee-marshal.yaml
+total_agents: 92

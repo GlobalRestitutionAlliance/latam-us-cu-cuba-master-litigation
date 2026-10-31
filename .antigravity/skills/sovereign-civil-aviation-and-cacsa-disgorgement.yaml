@@ -1,0 +1,16 @@
+skill:
+  id: sovereign-civil-aviation-and-cacsa-disgorgement
+  name: Sovereign Civil Aviation & CACSA Disgorgement
+  version: 1.0.0
+  description: Tactical enforcement protocol to audit, encumber, and disgorge CACSA sovereign holding monopolies, Cubana de Aviación fleet assets, Aerogaviota GAESA charters, and expropriated pre-1959 airline concessions.
+  procedures:
+    - Forensic mapping of the corporate hierarchy of Corporación de la Aviación Cubana S.A. (CACSA) and its operating subsidiaries.
+    - Title reconstruction of nationalized pre-1959 air carriers, maintenance hangars, airport passenger terminals, and aviation facilities.
+    - Encumbrance of state-owned commercial aircraft, engine spare parts pools, and flight simulator centers under FSIA § 1610(a)(2).
+    - Service of charging orders on foreign lessors and maintenance repair organizations (MROs) holding state aviation equity or equipment escrows.
+    - Enforcement of restitution liens over national civil aviation infrastructure and commercial air transport revenues.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(3) & § 1610(a)(2)
+    - Helms-Burton Title III (22 U.S.C. § 6082) Trafficking in Expropriated Airline Property
+    - Constructive Trust & Restitution under Restatement (Third) § 55
+  operational_status: ACTIVE

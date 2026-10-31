@@ -1,0 +1,16 @@
+skill:
+  id: overflight-airspace-fees-and-airport-tariff-garnishment
+  name: Overflight Airspace Fees & Airport Tariff Garnishment
+  version: 1.0.0
+  description: Post-judgment garnishment of en-route navigation and overflight charges paid by global airlines traversing the Havana Flight Information Region (FIR), ECASA airport landing/handling fees, and passenger departure taxes across international correspondent accounts.
+  procedures:
+    - Identification and forensic tracking of overflight and air navigation fees paid by international commercial airlines traversing the Havana FIR to Empresa Cubana de Navegación Aérea (ECNA).
+    - Interception of transit fees collected through IATA or direct government-to-government escrow arrangements (including FAA overflight escrow balances).
+    - Encumbrance of passenger airport departure taxes, security fees, and ground handling tariffs collected by Empresa Cubana de Aeropuertos y Servicios Aeroportuarios S.A. (ECASA).
+    - Service of garnishment subpoenas and restraining notices on major commercial air carriers operating routes overflying Cuban sovereign airspace.
+    - Sweep of commercial revenue streams into court-supervised Qualified Settlement Funds (QSF) under 26 U.S.C. § 468B.
+  enforcement_framework:
+    - 28 U.S.C. § 1605(a)(2) Commercial Activity Exception
+    - 28 U.S.C. § 1610(g) & 26 U.S.C. § 468B Master QSF Receivership
+    - International Civil Aviation Organization (ICAO) Doc 9082 Charges Principles
+  operational_status: ACTIVE
