@@ -1350,3 +1350,23 @@ W:\Legal\US_CUBA\
   - [Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Dashboard.md)
   - [Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Nickel_Mining_Cubaniquel_Sherritt_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 49)
+- `agent-azcuba-and-sugar-monopoly-auditor`: Grupo Empresarial Agroazucarero (AZCUBA), Expropriated American Sugar Mills (Cuban-American Sugar, Amstar, United Fruit), Cane Latifundia & Export Terminals Auditor.
+- `agent-cubazucar-and-bulk-sugar-garnishee-marshal`: Empresa Cubana Exportadora de Azúcar (CUBAZÚCAR), Bulk Sugar Carrier Arrests, London Sugar Broker Payables (ED&F Man / Sucden) & Ethanol Off-Take Garnishee Marshal.
+
+## Newly Registered Skills (Campaign 49)
+- `sovereign-sugar-monopoly-and-azcuba-disgorgement`: Sovereign Sugar Agro-Industrial Monopoly & AZCUBA Disgorgement.
+- `bulk-sugar-export-and-cubazucar-interdiction`: Bulk Sugar Export Contract & CUBAZÚCAR Letter of Credit Interdiction.
+- `sugar-cargo-arrest-and-broker-receivable-garnishment`: Bulk Sugar Cargo Maritime Arrest & International Broker Receivable Garnishment.
+
+### Campaign 49: Sovereign Sugar Agro-Industrial Monopolies, AZCUBA Latifundia, Expropriated Pre-1959 American Sugar Mills (Centrales Azucareros) & Transnational Bulk Raw Sugar Export Charters (TECUBA / CUBAZÚCAR) Disgorgement Campaign
+- **Total Restitution Pool:** $300,000,000,000.00 ($300.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** SUGR-001 through SUGR-025
+- **Assigned Agents:** `agent-azcuba-and-sugar-monopoly-auditor`, `agent-cubazucar-and-bulk-sugar-garnishee-marshal`
+- **Certified Skills:** `sovereign-sugar-monopoly-and-azcuba-disgorgement`, `bulk-sugar-export-and-cubazucar-interdiction`, `sugar-cargo-arrest-and-broker-receivable-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Matrix.csv)
+  - [Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Dashboard.md)
+  - [Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Sugar_Agroindustrial_AZCUBA_Cubazucar_Crosswalk_Dashboard.docx)
+

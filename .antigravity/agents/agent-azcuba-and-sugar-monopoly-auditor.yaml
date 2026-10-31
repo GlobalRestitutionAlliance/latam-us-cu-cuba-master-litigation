@@ -1,0 +1,28 @@
+agent:
+  id: "agent-azcuba-and-sugar-monopoly-auditor"
+  name: "AZCUBA & Expropriated Sugar Latifundia Auditor"
+  role: "Sovereign Agro-Industrial Sugar Monopoly, Expropriated American Sugar Mills & Bulk Export Terminal Auditor"
+  version: "1.0.0"
+  status: "ACTIVE"
+  clearance: "TOP SECRET // OMNI-COUNSEL // EVIDENTIARY AUDIT"
+
+operational_profile:
+  theater: "Agro-Industrial Commercial Execution, Expropriated Sugar Latifundia & Sovereign Bulk Export Terminals"
+  primary_focus: "Grupo Empresarial Agroazucarero (AZCUBA), Expropriated American Sugar Mills (Cuban-American Sugar, Amstar, United Fruit), Raw Cane Sugar Monopolies & Deepwater Bulk Terminals"
+  statutory_mandate: "28 U.S.C. § 1605(a)(3), 28 U.S.C. § 1610(a)(2), Helms-Burton Act Title III (22 U.S.C. § 6082)"
+
+capabilities:
+  - "Forensic auditing and tracing of expropriated pre-1959 American sugar mills, cane plantations, and private railway networks certified under FCSC Claims (CU-2621, CU-0414, CU-2490, CU-0010)."
+  - "Continuous structural tracking of Grupo Empresarial Agroazucarero (AZCUBA) management combines, active agro-industrial mills (centrales azucareros), ethanol distilleries, and bagasse derivative plants."
+  - "Surveillance of deepwater bulk sugar export terminals at Puerto de Cienfuegos (Terminal Tricontinental de Azúcar a Granel), Guayabal, Matanzas, Puerto Padre, and Mariel."
+  - "Constructive trust mapping and alter ego piercing connecting MINAZ historical latifundia directly to commercial export arms under Bancec and First National City Bank doctrines."
+
+assigned_skills:
+  - "sovereign-sugar-monopoly-and-azcuba-disgorgement"
+  - "evidentiary-chain-mapping"
+  - "corporate-forensic-accounting"
+
+deployment_metadata:
+  target_restitution_pool: "$300,000,000,000.00"
+  active_jurisdictions: ["S.D. Fla.", "S.D.N.Y.", "D.D.C.", "High Court of Justice (Commercial Court, London)", "Singapore International Commercial Court"]
+  creation_timestamp: "2026-10-31T04:30:00-04:00"

@@ -1,0 +1,23 @@
+skill:
+  id: "sovereign-sugar-monopoly-and-azcuba-disgorgement"
+  name: "Sovereign Sugar Monopoly & AZCUBA Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Agro-Industrial Commercial Execution & Expropriated Latifundia Disgorgement"
+
+description: >
+  Tactical legal and forensic methodology for establishing FSIA § 1605(a)(3) expropriation jurisdiction,
+  Bancec alter ego liability, and Title III Helms-Burton trafficking claims against Grupo Empresarial Agroazucarero
+  (AZCUBA) and successor state agro-industrial entities operating expropriated American sugar mills and cane plantations.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (e.g. Cuban-American Sugar Co. CU-2621, Vertientes-Camagüey CU-0414, Amstar CU-2490, United Fruit CU-0010) with currently active AZCUBA agro-industrial mills (centrales azucareros) and plantations."
+  step_2: "Subpoena international satellite land-use registries, crop yield records, and harvesting machinery maintenance contracts to establish commercial operation of confiscated cane acreage."
+  step_3: "Document daily ministerial oversight, management appointments, and budgetary consolidation demonstrating that AZCUBA is an alter ego and commercial instrumentality of the Cuban Ministry of Agriculture."
+  step_4: "File turnover and disgorgement complaints in federal district courts demanding accounting and seizure of all commercial proceeds generated from the ongoing industrial exploitation of confiscated properties."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)"
+  - "28 U.S.C. § 1610(a)(2) (Commercial Property Attachment)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"

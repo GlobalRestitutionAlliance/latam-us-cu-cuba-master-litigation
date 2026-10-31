@@ -1,0 +1,23 @@
+skill:
+  id: "bulk-sugar-export-and-cubazucar-interdiction"
+  name: "Bulk Sugar Export & CUBAZÚCAR Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Commodities Export Interdiction & Letter of Credit Interception"
+
+description: >
+  Protocol for tracing, garnishing, and freezing international raw cane sugar, molasses, and ethanol export contracts,
+  letters of credit (LCs), documentary collections, and banking settlement flows executed by Empresa Cubana
+  Exportadora de Azúcar y sus Derivados (CUBAZÚCAR / TECUBA) across global commodity trading houses.
+
+execution_protocol:
+  step_1: "Intercept bills of lading, phytosanitary export certificates, and sales contracts issued by CUBAZÚCAR for bulk sugar consignments outbound from Cienfuegos, Guayabal, and Mariel."
+  step_2: "Identify confirming, issuing, and negotiating banks handling letters of credit opened by international buyers (e.g., European trade houses, Asian state trading corporations, Middle Eastern refiners)."
+  step_3: "Serve CPLR § 5222 restraining notices, Fed. R. Civ. P. 69 writs of garnishment, or English Part 71 third-party debt orders upon advising banks and commodity trade desks."
+  step_4: "Interdict escrow and clearing accounts, redirecting contract settlements into the Master Qualified Settlement Fund."
+
+authorities:
+  - "Fed. R. Civ. P. 69 (Execution & Discovery in Aid of Enforcement)"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third Parties)"
+  - "English CPR Part 72 (Third Party Debt Orders)"
+  - "28 U.S.C. § 1610(b)(2) (Execution Against Agency or Instrumentality Property)"

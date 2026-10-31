@@ -506,4 +506,14 @@ agents:
   role: Sherritt Moa Dividends, Mixed Sulfide Cargo In-Transit Arrests, Fort Saskatchewan Offtake & Metal Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-sherritt-jv-and-nickel-offtake-garnishee-marshal.yaml
-total_agents: 102
+- id: agent-azcuba-and-sugar-monopoly-auditor
+  name: AZCUBA & Expropriated Sugar Latifundia Auditor
+  role: Grupo Empresarial Agroazucarero (AZCUBA), Expropriated American Sugar Mills & Bulk Export Terminal Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-azcuba-and-sugar-monopoly-auditor.yaml
+- id: agent-cubazucar-and-bulk-sugar-garnishee-marshal
+  name: CUBAZÚCAR & Bulk Sugar Cargo Garnishee Marshal
+  role: Empresa Cubana Exportadora de Azúcar (CUBAZÚCAR), Bulk Sugar Carrier Arrests & Broker Off-Take Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-cubazucar-and-bulk-sugar-garnishee-marshal.yaml
+total_agents: 104

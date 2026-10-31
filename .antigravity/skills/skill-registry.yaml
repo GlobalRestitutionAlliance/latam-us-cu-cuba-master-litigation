@@ -535,4 +535,16 @@ skills:
   name: Nickel Cargo Arrest & LME Warehouse Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/nickel-cargo-arrest-and-lme-warehouse-garnishment.yaml
-total_skills: 153
+- id: sovereign-sugar-monopoly-and-azcuba-disgorgement
+  name: Sovereign Sugar Monopoly & AZCUBA Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-sugar-monopoly-and-azcuba-disgorgement.yaml
+- id: bulk-sugar-export-and-cubazucar-interdiction
+  name: Bulk Sugar Export & CUBAZÚCAR Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/bulk-sugar-export-and-cubazucar-interdiction.yaml
+- id: sugar-cargo-arrest-and-broker-receivable-garnishment
+  name: Sugar Cargo Arrest & Broker Receivable Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sugar-cargo-arrest-and-broker-receivable-garnishment.yaml
+total_skills: 156

@@ -1,0 +1,23 @@
+skill:
+  id: "sugar-cargo-arrest-and-broker-receivable-garnishment"
+  name: "Sugar Cargo Arrest & Broker Receivable Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Maritime Cargo Arrest & Commodity Broker Receivable Garnishment"
+
+description: >
+  Operational protocol for arresting ocean-going bulk sugar vessels under Supplemental Admiralty Rules B and C,
+  and serving third-party garnishee orders upon international sugar brokers and merchants (ED&F Man, Sucden, Czarnikow)
+  holding payable balances due to Cuban sovereign commercial agencies.
+
+execution_protocol:
+  step_1: "Track AIS position data and port arrival schedules of Handymax and Supramax bulkers laden with Cuban raw centrifugal sugar, refined sugar, or blackstrap molasses arriving at friendly jurisdiction ports."
+  step_2: "File verified in rem admiralty complaints under Supplemental Rule C asserting maritime liens arising from the commercial trafficking of expropriated agro-industrial production."
+  step_3: "Obtain emergency warrants of maritime arrest and deliver to U.S. Marshals or High Court Admiralty Marshals to seize cargo upon arrival in port waters."
+  step_4: "Concurrently serve Rule B maritime attachment and garnishment orders on international sugar trading brokers and trade finance intermediaries holding open trade credit balances or derivative hedges."
+
+authorities:
+  - "Supplemental Rules B and C for Certain Admiralty and Maritime Claims"
+  - "Senior Courts Act 1981 § 20, 21 (UK Admiralty Jurisdiction)"
+  - "28 U.S.C. § 1605(b) (Maritime Lien Exception to FSIA)"
+  - "The Playa Larga and Marble Islands [1983] 2 Lloyd's Rep. 171"
