@@ -536,4 +536,14 @@ agents:
   role: Antillana de Salvamento Tug Fleets, Foreign Carrier Port Disbursement Accounts (PDAs) & Maritime Lien Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-salvage-towage-and-disbursement-garnishee-marshal.yaml
-total_agents: 108
+- id: agent-aerovaradero-and-air-cargo-auditor
+  name: Aerovaradero Air Cargo & Logistics Auditor
+  role: Aerovaradero S.A., International Air Cargo Terminals (Havana / Varadero / Holguín), Expropriated Freight Docks & Air Waybill Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-aerovaradero-and-air-cargo-auditor.yaml
+- id: agent-iata-cass-and-cargo-charter-garnishee-marshal
+  name: IATA CASS & Cargo Charter Garnishee Marshal
+  role: IATA Cargo Accounts Settlement System (CASS), Air Cargo Charter Operators, Freight Forwarder Escrows & Air Cargo Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-iata-cass-and-cargo-charter-garnishee-marshal.yaml
+total_agents: 110

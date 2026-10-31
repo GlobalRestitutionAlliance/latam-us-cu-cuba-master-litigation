@@ -1,0 +1,23 @@
+skill:
+  id: "air-cargo-charter-escrow-and-forwarder-garnishment"
+  name: "Air Cargo Charter Escrow & Forwarder Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Air Charter Garnishment & Freight Forwarder Payables Attachment"
+
+description: >
+  Procedure for serving third-party garnishment writs and turnover orders upon licensed air cargo charter airlines
+  (Amerijet, Sky Lease Cargo, IBC Airways) and global freight forwarders (DHL Global Forwarding, Kuehne+Nagel, DB Schenker)
+  holding cargo handling fee balances, charter security escrows, and terminal handling prepayments owed to Aerovaradero.
+
+execution_protocol:
+  step_1: "Monitor FAA and DOT flight authorizations and cargo manifest filings for scheduled and on-demand air cargo charter flights operating between U.S./foreign gateways and Cuban airport terminals."
+  step_2: "Identify commercial contracts between cargo charter airlines and Aerovaradero specifying ramp handling, ground services, cargo unloading, and warehouse terminal fees."
+  step_3: "Serve Fed. R. Civ. P. 69 writs of garnishment and CPLR § 5222 restraining notices on charter airline headquarters and freight forwarding payment desks in Miami, New York, and Atlanta."
+  step_4: "Compel charter carriers and forwarders to withhold future handling payments, depositing all funds into the court registry or Master QSF escrow."
+
+authorities:
+  - "Fed. R. Civ. P. 69 (Writs of Execution & Garnishment)"
+  - "28 U.S.C. § 1610(a)(2) (Commercial Property Attachment)"
+  - "N.Y. C.P.L.R. § 5227 (Payment of Debts Owed to Judgment Debtor)"
+  - "Florida Statutes § 77.01 et seq. (Garnishment Procedures)"

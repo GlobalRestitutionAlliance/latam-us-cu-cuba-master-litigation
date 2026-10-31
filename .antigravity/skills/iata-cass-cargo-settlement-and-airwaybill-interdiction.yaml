@@ -1,0 +1,23 @@
+skill:
+  id: "iata-cass-cargo-settlement-and-airwaybill-interdiction"
+  name: "IATA CASS Cargo Settlement & Air Waybill Interdiction"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Aviation Clearinghouse Interdiction & Freight Account Garnishment"
+
+description: >
+  Operational protocol for intercepting, freezing, and garnishing international air cargo freight settlement balances,
+  Master Air Waybill (MAWB) disbursements, and interline cargo clearing funds flowing through the
+  IATA Cargo Accounts Settlement System (CASS) in Geneva and Montreal payable to Cuban sovereign air carriers.
+
+execution_protocol:
+  step_1: "Track international air waybills (AWBs) and interline cargo settlement flows cleared through IATA CASS linking Cuban air terminals with European, Canadian, and Latin American air freight routes."
+  step_2: "Identify CASS clearing settlement banks and settlement calendars in Geneva and Montreal handling net freight remittance distributions."
+  step_3: "Serve CPLR § 5222 restraining notices, Quebec Superior Court garnishment orders, and Swiss SchKG Art. 271 attachment orders on IATA CASS administration desks and designated settlement banks."
+  step_4: "Interdict net settlement proceeds and divert all clearing balances into the Master Qualified Settlement Fund escrow."
+
+authorities:
+  - "Fed. R. Civ. P. 69 (Execution & Discovery in Aid of Enforcement)"
+  - "N.Y. C.P.L.R. § 5222 (Restraining Notice upon Third Parties)"
+  - "Quebec Code of Civil Procedure Arts. 656 et seq. (Saisie-Arrêt)"
+  - "Swiss Federal Act on Debt Enforcement and Bankruptcy (SchKG) Art. 271"

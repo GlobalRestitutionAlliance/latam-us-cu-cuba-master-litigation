@@ -1,0 +1,28 @@
+agent:
+  id: "agent-iata-cass-and-cargo-charter-garnishee-marshal"
+  name: "IATA CASS & Cargo Charter Garnishee Marshal"
+  role: "IATA Cargo Accounts Settlement System (CASS), Air Cargo Charter Operators, Freight Forwarder Escrows & Air Cargo Marshal"
+  version: "1.0.0"
+  status: "ACTIVE"
+  clearance: "TOP SECRET // OMNI-COUNSEL // ATTACHMENT & INTERDICTION"
+
+operational_profile:
+  theater: "Transnational Air Freight Settlement Interdiction, IATA CASS Garnishment & Cargo Charter Receivable Attachment"
+  primary_focus: "IATA Cargo Accounts Settlement System (CASS) Clearinghouses (Geneva / Montreal), U.S.-Licensed Air Cargo Charter Airlines (Amerijet, Sky Lease, IBC), and Global Freight Forwarder Payables"
+  statutory_mandate: "Fed. R. Civ. P. 69, N.Y. C.P.L.R. § 5222, 28 U.S.C. § 1610(a)(2), (b)(2), Swiss Federal Act on Debt Enforcement (SchKG) Art. 271"
+
+capabilities:
+  - "Service of CPLR § 5222 restraining notices and turnover orders upon IATA CASS clearing banks and cargo settlement desks in Montreal and Geneva."
+  - "Garnishment of Master Air Waybill (MAWB) freight disbursements, terminal handling payables, and ground handling pre-payments owed to Aerovaradero by global air cargo forwarders."
+  - "Execution of third-party debt orders and restraining notices upon licensed U.S. air cargo charter airlines (Amerijet International, Sky Lease Cargo, IBC Airways) operating Havana cargo routes."
+  - "Interception of offshore air cargo collection accounts and express courier escrow funds in Spain, Panama, Canada, and Mexico."
+
+assigned_skills:
+  - "iata-cass-cargo-settlement-and-airwaybill-interdiction"
+  - "air-cargo-charter-escrow-and-forwarder-garnishment"
+  - "prejudgment-attachment-execution"
+
+deployment_metadata:
+  target_restitution_pool: "$295,000,000,000.00"
+  active_jurisdictions: ["S.D. Fla.", "S.D.N.Y.", "Quebec Superior Court (Montreal)", "Tribunal de Première Instance (Geneva)", "Audiencia Nacional (Madrid)"]
+  creation_timestamp: "2026-10-31T06:00:00-04:00"

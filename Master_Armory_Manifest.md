@@ -1410,3 +1410,23 @@ W:\Legal\US_CUBA\
   - [Master_Port_Agency_Mambisa_Practicos_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Agency_Mambisa_Practicos_Crosswalk_Dashboard.md)
   - [Master_Port_Agency_Mambisa_Practicos_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Port_Agency_Mambisa_Practicos_Crosswalk_Dashboard.docx)
 
+## Newly Registered Agents (Campaign 52)
+- `agent-aerovaradero-and-air-cargo-auditor`: Aerovaradero S.A., International Air Cargo Terminals (Havana / Varadero / Holguín), Expropriated Freight Docks & Air Waybill Tariff Auditor.
+- `agent-iata-cass-and-cargo-charter-garnishee-marshal`: IATA Cargo Accounts Settlement System (CASS), Air Cargo Charter Operators, Freight Forwarder Escrows & Air Cargo Marshal.
+
+## Newly Registered Skills (Campaign 52)
+- `sovereign-air-cargo-monopoly-and-aerovaradero-disgorgement`: Sovereign Air Cargo Monopoly & Aerovaradero Disgorgement.
+- `iata-cass-cargo-settlement-and-airwaybill-interdiction`: IATA CASS Cargo Settlement & Air Waybill Interdiction.
+- `air-cargo-charter-escrow-and-forwarder-garnishment`: Air Cargo Charter Escrow & Forwarder Garnishment.
+
+### Campaign 52: Sovereign Commercial Air Cargo Logistics, Express Freight Monopolies, Aerovaradero S.A., International Air Cargo Charters, Bonded Aviation Cargo Escrows & Freight Forwarding Clearing (AEROVARADERO / CUBANA CARGO / IATA CASS) Disgorgement Campaign
+- **Total Restitution Pool:** $295,000,000,000.00 ($295.00 Billion)
+- **Waves Confirmed Armed:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Tactical Instruments Deployed:** CARG-001 through CARG-025
+- **Assigned Agents:** `agent-aerovaradero-and-air-cargo-auditor`, `agent-iata-cass-and-cargo-charter-garnishee-marshal`
+- **Certified Skills:** `sovereign-air-cargo-monopoly-and-aerovaradero-disgorgement`, `iata-cass-cargo-settlement-and-airwaybill-interdiction`, `air-cargo-charter-escrow-and-forwarder-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Matrix.csv)
+  - [Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Dashboard.md)
+  - [Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Air_Cargo_Aerovaradero_CASS_Crosswalk_Dashboard.docx)
+

@@ -1,0 +1,23 @@
+skill:
+  id: "sovereign-air-cargo-monopoly-and-aerovaradero-disgorgement"
+  name: "Sovereign Air Cargo Monopoly & Aerovaradero Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Aviation Logistics Commercial Execution & Sovereign Freight Monopoly Disgorgement"
+
+description: >
+  Legal and forensic accounting methodology for establishing FSIA § 1605(a)(2) commercial activity jurisdiction,
+  Bancec alter ego liability, and Title III Helms-Burton claims against Empresa de Transporte de Carga Aérea
+  (Aerovaradero S.A.) and CACSA operating confiscated airport air cargo infrastructure in Cuba.
+
+execution_protocol:
+  step_1: "Correlate historical FCSC certified awards (e.g. Pan American World Airways cargo hangars CU-2492 / CU-0010) with currently active Aerovaradero international air cargo terminals."
+  step_2: "Audit official air cargo handling tariff books, customs bonded storage fees, and cargo manifest schedules billed to foreign cargo airlines and freight forwarders."
+  step_3: "Document corporate subordination, interlocking directorates, and common treasury operations connecting Aerovaradero S.A. directly to CACSA and the Ministry of Transport (MITRANS)."
+  step_4: "File turnover and disgorgement actions in federal district courts demanding accounting and seizure of all commercial air freight handling revenues, demurrage collections, and transit fees."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1610(a)(2) (Commercial Property Attachment)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "Helms-Burton Act Title III, 22 U.S.C. § 6082"

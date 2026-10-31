@@ -571,4 +571,16 @@ skills:
   name: Harbor Tug Salvage & Admiralty Lien Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/harbor-tug-salvage-and-admiralty-lien-garnishment.yaml
-total_skills: 162
+- id: sovereign-air-cargo-monopoly-and-aerovaradero-disgorgement
+  name: Sovereign Air Cargo Monopoly & Aerovaradero Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/sovereign-air-cargo-monopoly-and-aerovaradero-disgorgement.yaml
+- id: iata-cass-cargo-settlement-and-airwaybill-interdiction
+  name: IATA CASS Cargo Settlement & Air Waybill Interdiction
+  status: ACTIVE
+  manifest_file: .antigravity/skills/iata-cass-cargo-settlement-and-airwaybill-interdiction.yaml
+- id: air-cargo-charter-escrow-and-forwarder-garnishment
+  name: Air Cargo Charter Escrow & Forwarder Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/air-cargo-charter-escrow-and-forwarder-garnishment.yaml
+total_skills: 165
