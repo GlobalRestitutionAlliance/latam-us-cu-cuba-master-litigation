@@ -883,4 +883,16 @@ skills:
   name: Transnational Cigar Distributor Royalties, Bonded Inventory Attachment & Auction Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-cigar-distributor-royalty-and-auction-garnishment.yaml
-total_skills: 240
+- id: gaesa-gaviota-resort-monopoly-and-beachfront-disgorgement
+  name: GAESA Gaviota Resort Monopoly Disgorgement, Beachfront Auditing & Bancec Alter Ego Forensics
+  status: ACTIVE
+  manifest_file: .antigravity/skills/gaesa-gaviota-resort-monopoly-and-beachfront-disgorgement.yaml
+- id: expropriated-historic-hotel-and-coastal-latifundia-restitution
+  name: Expropriated Historic Hotel Properties, Coastal Latifundia & Title III Restitution Protocol
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-historic-hotel-and-coastal-latifundia-restitution.yaml
+- id: transnational-hotel-management-and-gds-escrow-garnishment
+  name: Transnational Hotel Management Fees, GDS Clearinghouses & Tour Operator Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-hotel-management-and-gds-escrow-garnishment.yaml
+total_skills: 243

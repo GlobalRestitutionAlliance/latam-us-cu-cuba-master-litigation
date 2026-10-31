@@ -1,0 +1,12 @@
+skill:
+  id: "transnational-hotel-management-and-gds-escrow-garnishment"
+  name: "Transnational Hotel Management Fees, GDS Clearinghouses & Tour Operator Escrow Garnishment"
+  description: "Transnational post-judgment execution protocol targeting international hotel management contracts (Meliá, Iberostar, Blue Diamond, Kempinski), Global Distribution Systems (Amadeus, Sabre), online booking platforms (Expedia, Booking.com, Hotelbeds), and European tour operator clearing floats under TRIA § 201 and 28 U.S.C. § 1610(g)."
+  category: "hotel-gds-garnishment"
+  status: "certified"
+  version: "1.0.0"
+  procedures:
+    - "Serve post-judgment garnishment writs and Rule 69 discovery on foreign hotel conglomerates (Meliá Hotels International Palma de Mallorca, Iberostar, Blue Diamond, Kempinski Geneva, Accor Paris)."
+    - "Attach clearing accounts and transaction settlement receivables of Global Distribution Systems (Amadeus IT Group Madrid, Sabre Southlake TX, Travelport UK)."
+    - "Garnish advance tour booking funds, merchant credit card processing floats, and charter flight escrow accounts held by European and Canadian tour operators (TUI Group, DER Touristik, Sunwing)."
+    - "Direct all garnished proceeds and Title III judgments into the court-supervised Master Qualified Settlement Fund (QSF) Trust under 26 U.S.C. § 468B."

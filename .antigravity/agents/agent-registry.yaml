@@ -796,4 +796,14 @@ agents:
   role: Global Exclusive Distributorship Networks (Tabacalera S.L.U., Coprova, Diadema, Phoenicia Trading, Infifon), Annual Festival del Habano Humidor Auctions, Customs-Bonded Warehouses (Colón Free Zone, Geneva, Madrid), TRIA § 201 & FSIA § 1610(a)(2) Hard-Currency Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-cigar-royalty-and-luxury-auction-marshal.yaml
-total_agents: 160
+- id: agent-gaesa-gaviota-and-luxury-resort-auditor
+  name: GAESA Gaviota & Luxury Resort Auditor
+  role: Grupo de Administración Empresarial S.A. (GAESA), Grupo de Turismo Gaviota S.A., Gran Caribe S.A., Cubanacán S.A., Expropriated Pre-1959 Coastal Latifundia (Sanchez-Hill CU-2495), Historic Hotels (Riviera CU-0249, Nacional, Habana Libre) & Bancec Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-gaesa-gaviota-and-luxury-resort-auditor.yaml
+- id: agent-transnational-hotel-chain-and-gds-escrow-marshal
+  name: Transnational Hotel Chain & GDS Escrow Marshal
+  role: Transnational Hotel Management Chains (Meliá, Iberostar, Blue Diamond, Kempinski, Accor), Global Distribution Systems (Amadeus, Sabre), Online Booking Engines (Expedia, Booking.com), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), Title IV Sanctions & Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-hotel-chain-and-gds-escrow-marshal.yaml
+total_agents: 162

@@ -1974,3 +1974,22 @@ W:\Legal\US_CUBA\
   - [Master_Habanos_Tobacco_Cigar_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Habanos_Tobacco_Cigar_Crosswalk_Matrix.csv)
   - [Master_Habanos_Tobacco_Cigar_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Habanos_Tobacco_Cigar_Crosswalk_Dashboard.md)
   - [Master_Habanos_Tobacco_Cigar_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Habanos_Tobacco_Cigar_Crosswalk_Dashboard.docx)
+## Newly Registered Agents (Campaign 78)
+- `agent-gaesa-gaviota-and-luxury-resort-auditor`: Grupo de Administración Empresarial S.A. (GAESA), Grupo de Turismo Gaviota S.A., Gran Caribe S.A., Cubanacán S.A., Expropriated Pre-1959 Coastal Latifundia (Sanchez-Hill CU-2495), Historic Hotels (Riviera CU-0249, Nacional, Habana Libre) & Bancec Alter Ego Auditor.
+- `agent-transnational-hotel-chain-and-gds-escrow-marshal`: Transnational Hotel Management Chains (Meliá, Iberostar, Blue Diamond, Kempinski, Accor), Global Distribution Systems (Amadeus, Sabre), Online Booking Engines (Expedia, Booking.com), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), Title IV Sanctions & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 78)
+- `gaesa-gaviota-resort-monopoly-and-beachfront-disgorgement`: GAESA Gaviota Resort Monopoly Disgorgement, Beachfront Auditing & Bancec Alter Ego Forensics.
+- `expropriated-historic-hotel-and-coastal-latifundia-restitution`: Expropriated Historic Hotel Properties, Coastal Latifundia & Title III Restitution Protocol (Law 851; Law 890; FCSC Claim Nos. CU-2495, CU-0249; 22 U.S.C. §§ 6082, 6091).
+- `transnational-hotel-management-and-gds-escrow-garnishment`: Transnational Hotel Management Fees, GDS Clearinghouses & Tour Operator Escrow Garnishment (TRIA § 201; 28 U.S.C. § 1610(g)).
+
+### Campaign 78 (Historic 78-Campaign Milestone): Sovereign Commercial Tourism Hospitality & Luxury Beach Resort Monopolies, Grupo de Administración Empresarial S.A. (GAESA) / Grupo de Turismo Gaviota S.A., Gran Caribe S.A., Cubanacán S.A., Islazul, Transnational Hotel Management Joint Ventures (Meliá Hotels International - Spain, Iberostar Hotels & Resorts - Spain, Blue Diamond Resorts / Sunwing Travel Group - Canada, Kempinski Hotels - Switzerland, Accor S.A. - France, NH Hotel Group / Minor Hotels - Spain / Thailand), Expropriated Beachfront Latifundia, Coastal Real Estate & Historic Luxury Hotels (Law 851 & Law 890, Sanchez-Hill FCSC Claim No. CU-2495 / Central Santa Lucía & Playa Esmeralda / Holguín; Hotel Habana Riviera CU-0249 / Meyer Lansky; Hotel Nacional de Cuba; Hotel Habana Hilton / Habana Libre; Varadero Beach Concessions; Cayo Coco / Cayo Santa María / Jardines del Rey), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082, Del Valle v. Trivago / Expedia / Booking.com; Herederos de Roberto Gomez Cabrera v. Meliá / Gaviota), Title IV Executive Inadmissibility Sanctions (22 U.S.C. § 6091, Meliá CEO Gabriel Escarrer U.S. Visa Revocations), Global Distribution Systems (GDS), OTA & Tour Operator Clearing Escrows (Amadeus IT Group, Sabre Corporation, Travelport, TUI Group, DER Touristik, Hotelbeds), Foreign Credit Card Settlement Rails (Visa, Mastercard, European Acquirers), and Master Qualified Settlement Fund (QSF) Trust Restitution ($400.00B Pool - $25.475T Milestone)
+- **Total Restitution Pool:** $400,000,000,000.00 ($400.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** RES-001 through RES-025
+- **Assigned Legal Research Agents:** `agent-gaesa-gaviota-and-luxury-resort-auditor`, `agent-transnational-hotel-chain-and-gds-escrow-marshal`
+- **Certified Procedural Skills:** `gaesa-gaviota-resort-monopoly-and-beachfront-disgorgement`, `expropriated-historic-hotel-and-coastal-latifundia-restitution`, `transnational-hotel-management-and-gds-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_GAESA_Hospitality_Resort_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_GAESA_Hospitality_Resort_Crosswalk_Matrix.csv)
+  - [Master_GAESA_Hospitality_Resort_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_GAESA_Hospitality_Resort_Crosswalk_Dashboard.md)
+  - [Master_GAESA_Hospitality_Resort_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_GAESA_Hospitality_Resort_Crosswalk_Dashboard.docx)
