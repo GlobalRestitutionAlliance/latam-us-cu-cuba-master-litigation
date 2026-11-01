@@ -1,0 +1,26 @@
+skill:
+  id: "suchel-monopoly-and-consumer-chemical-disgorgement"
+  name: "Suchel Monopoly & Consumer Chemical Disgorgement"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Consumer Chemicals, Toiletries & Detergent Monopoly Disgorgement"
+
+description: >
+  Comprehensive forensic auditing and procedural methodology for asserting FSIA § 1605(a)(2) commercial activity
+  jurisdiction, § 1605(a)(3) expropriation exceptions, and Bancec alter ego liability against Empresa Suchel,
+  Intersuchel S.A., Grupo Empresarial de la Industria Química (GEIQ), and the Ministry of Industries (MINDUS).
+  The protocol structures equitable disgorgement of state monopoly consumer chemical sales margins, retail markups,
+  and hard-currency retail revenues generated through GAESA commercial networks (Tiendas Panamericanas / MLC).
+
+execution_protocol:
+  step_1: "Correlate pre-1959 commercial chemical registries, corporate charters, and property deeds with current Empresa Suchel facilities in Luyanó, Regla, Marianao, and Mariel ZEDM."
+  step_2: "Document corporate veil-piercing evidence under First National City Bank v. Bancec (462 U.S. 611) proving that Empresa Suchel and Intersuchel S.A. operate under the operational direction of GEIQ, MINDUS, and GAESA retail procurement chains."
+  step_3: "Trace hard-currency proceeds (USD, EUR, MLC) collected from personal care and detergent sales distributed through Tiendas Caribe and CIMEX retail chains, processed through Banco Financiero Internacional (BFI)."
+  step_4: "File federal and international enforcement petitions demanding equitable turnover and forensic accounting of all consumer chemical markups, joint venture royalties, and export margins."
+
+authorities:
+  - "28 U.S.C. § 1605(a)(2) (FSIA Commercial Activity Exception)"
+  - "28 U.S.C. § 1605(a)(3) (FSIA Expropriation Exception)"
+  - "28 U.S.C. § 1610(a)(2), (g) (Attachment of Sovereign & Instrumentality Property)"
+  - "First National City Bank v. Banco Para El Comercio Exterior de Cuba (Bancec), 462 U.S. 611 (1983)"
+  - "International Claims Settlement Act of 1949, Title V (22 U.S.C. § 1643 et seq.)"

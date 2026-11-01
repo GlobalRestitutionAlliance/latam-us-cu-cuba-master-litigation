@@ -1028,4 +1028,20 @@ agents:
     B/C Arrests & Master QSF Receivership Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-precedent-and-exequatur-marshal.yaml
-total_agents: 172
+- id: agent-suchel-consumer-chemicals-and-detergent-auditor
+  name: Suchel Consumer Chemicals & Detergent Auditor
+  role: Empresa Suchel (GEIQ / MINDUS), Intersuchel S.A., Unilever Suchel S.A. (Mariel
+    ZEDM Concession), Expropriated Pre-1959 American Chemical Latifundia (Colgate-Palmolive
+    CU-0730, Procter & Gamble CU-0569, Sabatés S.A., Crusellas y Cía) & Bancec Alter
+    Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-suchel-consumer-chemicals-and-detergent-auditor.yaml
+- id: agent-transnational-chemical-and-unilever-escrow-marshal
+  name: Transnational Chemical & Unilever Escrow Marshal
+  role: Unilever PLC (London) / Unilever N.V., Unilever Suchel S.A. (ZEDM), Perfumería
+    Camacho (Spain), Thai Binh Corporation (Vietnam), Helms-Burton Title III Trafficking
+    Actions (22 U.S.C. § 6082), UK Corporate Duty of Care, Dutch Tort Liability &
+    Master QSF Escrow Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-chemical-and-unilever-escrow-marshal.yaml
+total_agents: 174

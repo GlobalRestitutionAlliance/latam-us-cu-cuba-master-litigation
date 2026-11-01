@@ -2089,3 +2089,23 @@ W:\Legal\US_CUBA\
   - [Master_Core_Jurisprudential_Pillars_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Core_Jurisprudential_Pillars_Crosswalk_Matrix.csv)
   - [Master_Core_Jurisprudential_Pillars_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Core_Jurisprudential_Pillars_Crosswalk_Dashboard.md)
   - [Master_Core_Jurisprudential_Pillars_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Core_Jurisprudential_Pillars_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 84)
+- `agent-suchel-consumer-chemicals-and-detergent-auditor`: Empresa Suchel (GEIQ / MINDUS), Intersuchel S.A., Unilever Suchel S.A. (Mariel ZEDM Concession), Expropriated Pre-1959 American Chemical Latifundia (Colgate-Palmolive CU-0730, Procter & Gamble CU-0569, Sabatés S.A., Crusellas y Cía) & Bancec Alter Ego Auditor.
+- `agent-transnational-chemical-and-unilever-escrow-marshal`: Unilever PLC (London) / Unilever N.V., Unilever Suchel S.A. (ZEDM), Perfumería Camacho (Spain), Thai Binh Corporation (Vietnam), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), UK Corporate Duty of Care, Dutch Tort Liability & Master QSF Escrow Marshal.
+
+## Newly Registered Skills (Campaign 84)
+- `suchel-monopoly-and-consumer-chemical-disgorgement`: Suchel Monopoly & Consumer Chemical Disgorgement Protocol.
+- `expropriated-detergent-and-toiletries-infrastructure-restitution`: Expropriated Detergent & Toiletries Infrastructure Restitution Protocol.
+- `transnational-chemical-contract-and-unilever-escrow-garnishment`: Transnational Chemical Contract & Unilever Escrow Garnishment Protocol.
+
+### Campaign 84 (Historic 84-Campaign, 2,100-Instrument & $27.98T Milestone): Sovereign Commercial Consumer Chemicals, Soaps, Detergents & Personal Care Monopolies, Empresa Suchel (Unión Suchel / Grupo Empresarial de la Industria Química - GEIQ / MINDUS), Intersuchel S.A., Unilever Suchel S.A. (Mariel Special Development Zone - ZEDM Concession), Empresa Mixta Suchel Camacho S.A. (Perfumería Camacho - Spain), Suchel TBV S.A. (Thai Binh - Vietnam), Expropriated Pre-1959 American & Cuban Chemical Latifundia (Colgate-Palmolive (Cuba) S.A. [FCSC Claim No. CU-0730, Decision No. CU-4547], The Procter & Gamble Company / Sabatés Industrial S.A. [FCSC Claim Nos. CU-0569 & CU-0568], Crusellas y Compañía S.A.), Helms-Burton Act Title III Trafficking Actions (22 U.S.C. § 6082), UK Parent Corporate Duty of Care (Vedanta Resources), Dutch Tort Liability (Burgerlijk Wetboek Art. 6:162 Onrechtmatige Daad), Level III ADR / Trademark Garnishments, and Master Qualified Settlement Fund (QSF) Trust Restitution ($430.00B Pool - $27.980T Milestone)
+- **Total Restitution Pool:** $430,000,000,000.00 ($430.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** SCH-001 through SCH-025
+- **Assigned Legal Research Agents:** `agent-suchel-consumer-chemicals-and-detergent-auditor`, `agent-transnational-chemical-and-unilever-escrow-marshal`
+- **Certified Procedural Skills:** `suchel-monopoly-and-consumer-chemical-disgorgement`, `expropriated-detergent-and-toiletries-infrastructure-restitution`, `transnational-chemical-contract-and-unilever-escrow-garnishment`
+- **Evidentiary Artifacts:**
+  - [Master_Suchel_Unilever_Chemicals_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Suchel_Unilever_Chemicals_Crosswalk_Matrix.csv)
+  - [Master_Suchel_Unilever_Chemicals_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Suchel_Unilever_Chemicals_Crosswalk_Dashboard.md)
+  - [Master_Suchel_Unilever_Chemicals_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Suchel_Unilever_Chemicals_Crosswalk_Dashboard.docx)

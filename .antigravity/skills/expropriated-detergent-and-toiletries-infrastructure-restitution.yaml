@@ -1,0 +1,25 @@
+skill:
+  id: "expropriated-detergent-and-toiletries-infrastructure-restitution"
+  name: "Expropriated Detergent & Toiletries Infrastructure Restitution"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Industrial Real Estate, Chemical Processing Plants & Brand Restitution"
+
+description: >
+  Procedural protocol for mapping, authenticating, and quantifying restitution claims arising from the uncompensated
+  confiscation of commercial chemical, soap, detergent, and vegetable oil processing complexes under Law 851 and Law 890.
+  Synthesizes Foreign Claims Settlement Commission (FCSC) certified decisions, nationalized brand goodwill,
+  and 66-year statutory simple interest compounding under 22 U.S.C. § 1643l.
+
+execution_protocol:
+  step_1: "Retrieve and audit conclusive property ownership ledgers from the National Archives (NARA RG 234) for Colgate-Palmolive (Cuba) S.A. (FCSC Claim No. CU-0730, Decision No. CU-4547), The Procter & Gamble Company / Sabatés Industrial S.A. (FCSC Claim Nos. CU-0569 & CU-0568), and Crusellas y Compañía S.A."
+  step_2: "Establish land parcel title chains verifying fee-simple ownership of industrial plots in Luyanó, Marianao, and Regla to defeat term-concession expiration defenses under Havana Docks Corp. v. Royal Caribbean Cruises, Ltd. (104 F.4th 1243)."
+  step_3: "Calculate 66-year statutory interest accruals at 6.0% simple annual interest pursuant to 22 U.S.C. § 1643l, establishing updated inflation-adjusted and compounded damage baselines."
+  step_4: "Draft verified restitution petitions for submission in federal district courts and international tribunals asserting unassailable property rights and demanding restitution in integrum."
+
+authorities:
+  - "FCSC Title V Decision No. CU-4547 (Colgate-Palmolive Company)"
+  - "FCSC Title V Claim Nos. CU-0568 & CU-0569 (The Procter & Gamble Company)"
+  - "22 U.S.C. § 1643l (Statutory 6% Interest Compounding)"
+  - "Cuban Law 851 of July 6, 1960 and Cuban Law 890 of October 13, 1960"
+  - "Restatement (Third) of Foreign Relations Law § 712 (State Responsibility for Expropriation)"

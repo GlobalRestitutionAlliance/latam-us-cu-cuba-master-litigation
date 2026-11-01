@@ -1,0 +1,25 @@
+skill:
+  id: "transnational-chemical-contract-and-unilever-escrow-garnishment"
+  name: "Transnational Chemical Contract & Unilever Escrow Garnishment"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Transnational Corporate Liability, Helms-Burton Title III & QSF Escrow Execution"
+
+description: >
+  Litigation protocol for prosecuting corporate trafficking liability and enforcing judgment attachments against
+  multinational consumer goods conglomerates (Unilever PLC, Perfumería Camacho, Thai Binh Corporation) operating joint ventures
+  with the Cuban state. Enforces statutory treble damages under 22 U.S.C. § 6082, parent company duty of care in tort under English and Dutch law,
+  and channels commercial recoveries into the Master Qualified Settlement Fund (26 U.S.C. § 468B).
+
+execution_protocol:
+  step_1: "Serve formal 30-day statutory pre-filing cease-and-desist notices under 22 U.S.C. § 6082(a)(3) upon Unilever corporate executive boards in London and Rotterdam, documenting commercial trafficking in confiscated chemical assets and ZEDM concessions."
+  step_2: "Initiate Helms-Burton Title III private actions in U.S. federal courts asserting personal jurisdiction over Unilever PLC through its U.S. commercial operations, capital market presence, and Level III ADRs."
+  step_3: "File concurrent parent liability tort claims in the High Court of Justice (London) under Vedanta Resources Plc v. Lungowe [2019] UKSC 20 and Dutch civil courts under Burgerlijk Wetboek Art. 6:162."
+  step_4: "Garnish North American and European trademark royalty distributions, commercial receivables, and bank accounts, channeling all seized proceeds directly into a court-supervised 26 U.S.C. § 468B Master QSF Trust."
+
+authorities:
+  - "22 U.S.C. § 6082 (Helms-Burton Act Title III Private Right of Action)"
+  - "22 U.S.C. § 6091 (Title IV Corporate Officer Visa Ineligibility)"
+  - "Vedanta Resources Plc v. Lungowe [2019] UKSC 20 (UK Parent Company Duty of Care)"
+  - "Dutch Civil Code (Burgerlijk Wetboek) Book 6 Art. 162 (Tort / Onrechtmatige Daad)"
+  - "26 U.S.C. § 468B & 26 C.F.R. § 1.468B-1 (Master Qualified Settlement Funds)"

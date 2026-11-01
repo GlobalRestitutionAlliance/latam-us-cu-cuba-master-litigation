@@ -984,4 +984,16 @@ skills:
   name: Unassailable Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
   manifest_file: .antigravity/skills/unassailable-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 258
+- id: suchel-monopoly-and-consumer-chemical-disgorgement
+  name: Suchel Monopoly & Consumer Chemical Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/skills/suchel-monopoly-and-consumer-chemical-disgorgement.yaml
+- id: expropriated-detergent-and-toiletries-infrastructure-restitution
+  name: Expropriated Detergent & Toiletries Infrastructure Restitution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/expropriated-detergent-and-toiletries-infrastructure-restitution.yaml
+- id: transnational-chemical-contract-and-unilever-escrow-garnishment
+  name: Transnational Chemical Contract & Unilever Escrow Garnishment
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-chemical-contract-and-unilever-escrow-garnishment.yaml
+total_skills: 261
