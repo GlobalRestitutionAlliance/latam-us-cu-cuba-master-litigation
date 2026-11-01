@@ -1,0 +1,25 @@
+skill:
+  id: "unassailable-restitution-roadmap-and-qsf-trust-execution"
+  name: "Unassailable Restitution Roadmap & QSF Trust Execution"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Master Qualified Settlement Fund (26 U.S.C. § 468B) & Post-Judgment Receivership Distribution"
+
+description: >
+  Operational protocol for establishing, funding, and administering a court-supervised Master Qualified Settlement Fund (QSF) Trust
+  under 26 U.S.C. § 468B and Treas. Reg. § 1.468B-1. Consolidates cross-border asset liquidations, turnover orders, and transnational settlements
+  into an unassailable fiduciary receivership structure for equitable distribution to certified property claimants.
+
+execution_protocol:
+  step_1: "Draft and submit a joint motion for entry of an order approving the establishment of a Master Qualified Settlement Fund pursuant to 26 U.S.C. § 468B and Fed. R. Civ. P. 53/66, appointing an independent Special Master / Receiver."
+  step_2: "Establish an interest-bearing escrow trust res with an approved domestic fiduciary institution, satisfying Treas. Reg. § 1.468B-1(c) requirements of court approval, liability resolution, and asset segregation."
+  step_3: "Direct all proceeds from Title III judgments, Rule B/C admiralty auctions, EAPO garnishments, and LkSG supply-chain settlements into the Master QSF escrow accounts without intermediate tax realization."
+  step_4: "Implement an audited, multi-tiered distribution matrix allocating recoveries pro rata among certified FCSC claimants, uncertified generational successors, and ongoing forensic asset-recovery operations."
+  step_5: "Issue mandatory annual fiduciary accounting reports to the supervising federal court, auditing every transaction under strict common-law trustee standards."
+
+authorities:
+  - "Internal Revenue Code § 468B (26 U.S.C. § 468B)"
+  - "Treasury Regulation § 1.468B-1 (Qualified Settlement Funds)"
+  - "Federal Rules of Civil Procedure, Rule 53 (Masters) and Rule 66 (Receivers)"
+  - "Cobell v. Salazar, 573 F.3d 808 (D.C. Cir. 2009) (Fiduciary Accounting Obligations)"
+  - "Restatement (Third) of Trusts §§ 76-84 (Trust Administration and Fiduciary Accounting)"

@@ -2069,3 +2069,23 @@ W:\Legal\US_CUBA\
   - [Master_MCV_Comercial_Daimler_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_MCV_Comercial_Daimler_Crosswalk_Matrix.csv)
   - [Master_MCV_Comercial_Daimler_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_MCV_Comercial_Daimler_Crosswalk_Dashboard.md)
   - [Master_MCV_Comercial_Daimler_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_MCV_Comercial_Daimler_Crosswalk_Dashboard.docx)
+
+## Newly Registered Agents (Campaign 83)
+- `agent-core-jurisprudential-pillars-and-statutory-auditor`: Master Jurisprudential Architect, Mitchell Fiduciary Exception, ARSIWA Continuous State Responsibility, Helms-Burton Title III Fee-Simple Title Proofs & Bancec Sovereign Alter Ego Auditor.
+- `agent-transnational-precedent-and-exequatur-marshal`: Transnational Judgment Domestication, European Account Preservation Orders (Regulation EU 655/2014), UK CPR Part 72 Third-Party Debt Orders, Admiralty Rule B/C Arrests & Master QSF Receivership Marshal.
+
+## Newly Registered Skills (Campaign 83)
+- `core-jurisprudential-pillars-and-precedent-hardening`: Core Jurisprudential Pillars & Precedent Hardening Protocol.
+- `transnational-statutory-enforcement-and-treaty-exequatur`: Transnational Statutory Enforcement & Treaty Exequatur Protocol.
+- `unassailable-restitution-roadmap-and-qsf-trust-execution`: Unassailable Restitution Roadmap & QSF Trust Execution Protocol.
+
+### Campaign 83 (Historic 83-Campaign & $27.55T Milestone): Core Jurisprudential Pillars & Multi-Jurisdictional Statutory Enforcement Consolidation, Sovereign Fiduciary Exception & Breach of Trust (United States v. Mitchell / White Mountain Apache Tribe), ILC ARSIWA Art. 14 Continuous State Responsibility & Non-Prescription, Sovereign Alter Ego & Veil-Piercing (First National City Bank v. Bancec / 28 U.S.C. § 1610(g) / English Commercial Court CRF I Ltd. v. BNC), Helms-Burton Act Title III Fee-Simple Ownership & Treble Damages (22 U.S.C. § 6082 / Havana Docks Corp.), Supplemental Admiralty Rules B and C Maritime Liens (46 U.S.C. §§ 31341–31343), Transnational Supply Chain Due Diligence (German LkSG §§ 3, 7, 24 before BAFA / EU CSDDD Directive (EU) 2024/1760 / French Duty of Vigilance / Dutch Civil Code Art. 6:162), European Account Preservation Orders (Regulation (EU) No 655/2014), UK CPR Part 72 Third-Party Debt Orders, and Master Qualified Settlement Fund (QSF) Trust Receivership (26 U.S.C. § 468B) ($425.00B Pool - $27.550T Milestone)
+- **Total Restitution Pool:** $425,000,000,000.00 ($425.00 Billion)
+- **Waves Confirmed Active:** Waves 1–5 (25/25 Instruments, 100% Verified)
+- **Active Legal Instruments Deployed:** PIL-001 through PIL-025
+- **Assigned Legal Research Agents:** `agent-core-jurisprudential-pillars-and-statutory-auditor`, `agent-transnational-precedent-and-exequatur-marshal`
+- **Certified Procedural Skills:** `core-jurisprudential-pillars-and-precedent-hardening`, `transnational-statutory-enforcement-and-treaty-exequatur`, `unassailable-restitution-roadmap-and-qsf-trust-execution`
+- **Evidentiary Artifacts:**
+  - [Master_Core_Jurisprudential_Pillars_Crosswalk_Matrix.csv](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Core_Jurisprudential_Pillars_Crosswalk_Matrix.csv)
+  - [Master_Core_Jurisprudential_Pillars_Crosswalk_Dashboard.md](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Core_Jurisprudential_Pillars_Crosswalk_Dashboard.md)
+  - [Master_Core_Jurisprudential_Pillars_Crosswalk_Dashboard.docx](file:///W:/Legal/US_CUBA/00_Master_Knowledge_Base/Master_Core_Jurisprudential_Pillars_Crosswalk_Dashboard.docx)

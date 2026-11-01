@@ -318,12 +318,14 @@ agents:
   manifest_file: .antigravity/agents/agent-utility-tariff-garnishee-marshal.yaml
 - id: agent-duty-free-and-concessions-auditor
   name: Sovereign Duty-Free Retail Networks & Commercial Concessions Auditor
-  role: Tiendas Caracol, ECASA Commercial Concessions & Dufry/Avolta JV Consignment Auditor
+  role: Tiendas Caracol, ECASA Commercial Concessions & Dufry/Avolta JV Consignment
+    Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-duty-free-and-concessions-auditor.yaml
 - id: agent-aviation-catering-and-bunkering-marshal
   name: In-Flight Airline Catering & Sovereign Bunkering Fuelling Marshal
-  role: Ibeca Airline Catering JV, Airport Ground Handling & Marine/Aviation Bunkering Garnishee Marshal
+  role: Ibeca Airline Catering JV, Airport Ground Handling & Marine/Aviation Bunkering
+    Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-aviation-catering-and-bunkering-marshal.yaml
 - id: agent-postal-and-courier-logistics-auditor
@@ -333,7 +335,8 @@ agents:
   manifest_file: .antigravity/agents/agent-postal-and-courier-logistics-auditor.yaml
 - id: agent-terminal-dues-and-freight-garnishee-marshal
   name: Postal Terminal Dues & International Freight Receivables Garnishee Marshal
-  role: UPU Clearing Settlement Rails, Foreign Airline Cargo Fees & Transnational Courier Garnishee Marshal
+  role: UPU Clearing Settlement Rails, Foreign Airline Cargo Fees & Transnational
+    Courier Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-terminal-dues-and-freight-garnishee-marshal.yaml
 - id: agent-automotive-fleet-and-rental-auditor
@@ -343,507 +346,686 @@ agents:
   manifest_file: .antigravity/agents/agent-automotive-fleet-and-rental-auditor.yaml
 - id: agent-rental-receivables-and-dealership-marshal
   name: Tourist Rental Receivables & Commercial Dealership Garnishee Marshal
-  role: Amadeus Clearing Rails, European Tour Operator Escrows & Commercial Fleet Garnishee Marshal
+  role: Amadeus Clearing Rails, European Tour Operator Escrows & Commercial Fleet
+    Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-rental-receivables-and-dealership-marshal.yaml
 - id: agent-commercial-brewing-and-beverage-auditor
   name: Sovereign Commercial Brewing & Beverage Monopolies Auditor
-  role: Cervecería Bucanero / AB InBev JV, Los Portales / Nestlé JV & Coralsa Beverage Auditor
+  role: Cervecería Bucanero / AB InBev JV, Los Portales / Nestlé JV & Coralsa Beverage
+    Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-commercial-brewing-and-beverage-auditor.yaml
 - id: agent-beverage-royalty-and-dividend-marshal
   name: Commercial Beverage Dividend & Offshore Royalty Garnishee Marshal
-  role: AB InBev Belgian Clearing Rails, Nestlé Swiss Escrows & Commercial Export Receivables Garnishee Marshal
+  role: AB InBev Belgian Clearing Rails, Nestlé Swiss Escrows & Commercial Export
+    Receivables Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-beverage-royalty-and-dividend-marshal.yaml
 - id: agent-agroforestry-and-export-crops-auditor
   name: Sovereign Agro-Forestry & Export Crops Monopoly Auditor
-  role: Grupo Agroforestal (GAF), CubaCafé, Victoria de Girón Citrus & CubaExport Auditor
+  role: Grupo Agroforestal (GAF), CubaCafé, Victoria de Girón Citrus & CubaExport
+    Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-agroforestry-and-export-crops-auditor.yaml
 - id: agent-commodity-trade-and-harvest-garnishee-marshal
   name: Agricultural Commodity Trade & Harvest Receivables Garnishee Marshal
-  role: Japanese Coffee Roaster Clearing Desks, European Citrus Escrows & Commodity Letter of Credit Garnishee Marshal
+  role: Japanese Coffee Roaster Clearing Desks, European Citrus Escrows & Commodity
+    Letter of Credit Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-commodity-trade-and-harvest-garnishee-marshal.yaml
 - id: agent-tobacco-latifundia-and-cigar-auditor
   name: Sovereign Tobacco Latifundia & Premium Cigar Monopoly Auditor
-  role: Tabacuba OSDE, Habanos S.A., Historic Cigar Rolling Palaces & Allied Cigar JV Auditor
+  role: Tabacuba OSDE, Habanos S.A., Historic Cigar Rolling Palaces & Allied Cigar
+    JV Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-tobacco-latifundia-and-cigar-auditor.yaml
 - id: agent-cigar-distributor-and-auction-marshal
   name: Global Cigar Wholesale Distributor & Auction Receivables Garnishee Marshal
-  role: European Wholesale Clearing Rails, Asian Distribution Escrows & Luxury Cigar Auction Garnishee Marshal
+  role: European Wholesale Clearing Rails, Asian Distribution Escrows & Luxury Cigar
+    Auction Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cigar-distributor-and-auction-marshal.yaml
 - id: agent-sovereign-reinsurance-and-esicuba-auditor
   name: Sovereign Commercial Reinsurance & ESICUBA Monopoly Auditor
-  role: ESICUBA State Monopoly, Foreign JV Risk Policies, Reinsurance Treaty Portfolios & Offshore Claims Escrow Auditor
+  role: ESICUBA State Monopoly, Foreign JV Risk Policies, Reinsurance Treaty Portfolios
+    & Offshore Claims Escrow Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-sovereign-reinsurance-and-esicuba-auditor.yaml
 - id: agent-lloyds-broker-and-claims-garnishee-marshal
   name: Lloyd's Reinsurance Broker & Aviation/Maritime Claims Garnishee Marshal
-  role: London Market Syndicates, Lloyd's Broker Clearing Desks, P&I Club Guarantees & Offshore Escrow Garnishee Marshal
+  role: London Market Syndicates, Lloyd's Broker Clearing Desks, P&I Club Guarantees
+    & Offshore Escrow Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-lloyds-broker-and-claims-garnishee-marshal.yaml
 - id: agent-metallurgy-and-foundry-latifundia-auditor
   name: Sovereign Heavy Metallurgy, Steel Foundries & Industrial Scrap Auditor
-  role: GESIME, Antillana de Acero, ACINOX Las Tunas, ERMP Scrap Monopolies & Modernization Export Credit Auditor
+  role: GESIME, Antillana de Acero, ACINOX Las Tunas, ERMP Scrap Monopolies & Modernization
+    Export Credit Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-metallurgy-and-foundry-latifundia-auditor.yaml
 - id: agent-scrap-metal-cargo-and-trade-garnishee-marshal
   name: Global Scrap Metal Cargo, Billets & Metallurgy Trade Garnishee Marshal
-  role: European Steel Trader Escrows, Mediterranean Scrap Shipments, Letters of Credit & Port Cargo Garnishee Marshal
+  role: European Steel Trader Escrows, Mediterranean Scrap Shipments, Letters of Credit
+    & Port Cargo Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-scrap-metal-cargo-and-trade-garnishee-marshal.yaml
 - id: agent-merchant-fleet-and-mambisa-auditor
   name: Sovereign Merchant Fleet, Mambisa & CDC Drydock Auditor
-  role: Empresa de Navegación Mambisa, Acemex Group, Offshore Ship Registries & CDC S.A. Drydock JV Auditor
+  role: Empresa de Navegación Mambisa, Acemex Group, Offshore Ship Registries & CDC
+    S.A. Drydock JV Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-merchant-fleet-and-mambisa-auditor.yaml
 - id: agent-admiralty-arrest-and-charter-garnishee-marshal
   name: Admiralty Vessel Arrest, Shipyard & Charter Hire Garnishee Marshal
-  role: Rule B/C Vessel Arrests, International Charter Hire Garnishment, Freight Escrows & Maritime Lien Marshal
+  role: Rule B/C Vessel Arrests, International Charter Hire Garnishment, Freight Escrows
+    & Maritime Lien Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-admiralty-arrest-and-charter-garnishee-marshal.yaml
 - id: agent-industrial-chemical-and-fertilizer-auditor
   name: Sovereign Industrial Chemicals, Fertilizer Complexes & GEIQ Auditor
-  role: GEIQ State Monopoly, Rayonitro Sulfuric Acid Complex, Cienfuegos/Nuevitas Fertilizer Plants & Quimimport Auditor
+  role: GEIQ State Monopoly, Rayonitro Sulfuric Acid Complex, Cienfuegos/Nuevitas
+    Fertilizer Plants & Quimimport Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-industrial-chemical-and-fertilizer-auditor.yaml
 - id: agent-agrochemical-cargo-and-quimimport-garnishee-marshal
   name: Agrochemical Trade Finance, Quimimport LCs & Chemical Cargo Garnishee Marshal
-  role: Chemical Precursor LCs, Bulk Ammonia/Sulfur Import Escrows & Quimimport Foreign Banking Garnishee Marshal
+  role: Chemical Precursor LCs, Bulk Ammonia/Sulfur Import Escrows & Quimimport Foreign
+    Banking Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-agrochemical-cargo-and-quimimport-garnishee-marshal.yaml
 - id: agent-geominsal-and-polymetallic-mining-auditor
   name: Sovereign Polymetallic Mining, Geominsal & EMINCAR JV Auditor
-  role: Geominsal State Monopoly, Castellanos Zinc/Lead Mine, Trafigura EMINCAR JV, El Cobre & Gold Concessions Auditor
+  role: Geominsal State Monopoly, Castellanos Zinc/Lead Mine, Trafigura EMINCAR JV,
+    El Cobre & Gold Concessions Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-geominsal-and-polymetallic-mining-auditor.yaml
 - id: agent-mineral-concentrate-and-trafigura-garnishee-marshal
   name: Mineral Concentrate Cargo, Trafigura Escrows & Metal Trader Garnishee Marshal
-  role: Trafigura Offtake Escrows, Bulk Ore Carrier Arrests, Geneva Trading Clearing Desks & Smelter Receivables Marshal
+  role: Trafigura Offtake Escrows, Bulk Ore Carrier Arrests, Geneva Trading Clearing
+    Desks & Smelter Receivables Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-mineral-concentrate-and-trafigura-garnishee-marshal.yaml
 - id: agent-bonded-warehousing-and-ausa-auditor
   name: Sovereign Bonded Warehousing, AUSA & Free Trade Zone Auditor
-  role: Almacenes Universales S.A. (AUSA), Cubacontrol S.A., Bonded Warehouses, Free Trade Logistics Zones & THC Tariffs Auditor
+  role: Almacenes Universales S.A. (AUSA), Cubacontrol S.A., Bonded Warehouses, Free
+    Trade Logistics Zones & THC Tariffs Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-bonded-warehousing-and-ausa-auditor.yaml
 - id: agent-freight-forwarding-and-demurrage-garnishee-marshal
   name: Maritime Container Demurrage, Cargo Inspection & Logistics Garnishee Marshal
-  role: Shipping Line Demurrage Escrows, Terminal Handling Charges (THC), Cubacontrol Fees & Panama/Europe Clearing Marshal
+  role: Shipping Line Demurrage Escrows, Terminal Handling Charges (THC), Cubacontrol
+    Fees & Panama/Europe Clearing Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-freight-forwarding-and-demurrage-garnishee-marshal.yaml
 - id: agent-alimport-and-food-monopoly-auditor
   name: Sovereign Food Import Monopoly, ALIMPORT & Grain Latifundia Auditor
-  role: ALIMPORT State Monopoly, TSRA Cash Escrow Accounts, Global Agribusiness Contracts & Flour Mill Auditor
+  role: ALIMPORT State Monopoly, TSRA Cash Escrow Accounts, Global Agribusiness Contracts
+    & Flour Mill Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-alimport-and-food-monopoly-auditor.yaml
 - id: agent-agricultural-trade-and-escrow-garnishee-marshal
   name: TSRA Cash in Advance Escrows, Bulk Grain Cargo & ALIMPORT Garnishee Marshal
-  role: US Agribusiness Purchase Escrows, Third-Country Bank Clearings, Bulk Grain Charterparty & Rule 69 Garnishee Marshal
+  role: US Agribusiness Purchase Escrows, Third-Country Bank Clearings, Bulk Grain
+    Charterparty & Rule 69 Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-agricultural-trade-and-escrow-garnishee-marshal.yaml
 - id: agent-cacsa-and-civil-aviation-auditor
   name: Sovereign Civil Aviation Monopoly, CACSA & Commercial Fleet Auditor
-  role: CACSA State Monopoly, Cubana de Aviación Fleets, Aerogaviota Charters, Airport Concessions & Airline Auditor
+  role: CACSA State Monopoly, Cubana de Aviación Fleets, Aerogaviota Charters, Airport
+    Concessions & Airline Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cacsa-and-civil-aviation-auditor.yaml
 - id: agent-iata-clearing-and-overflight-garnishee-marshal
   name: IATA Clearing House Escrows, Overflight Fees & Airspace Garnishee Marshal
-  role: IATA Multilateral Clearance Desks, BSP Remittances, Havana FIR Overflight Navigation Fees & Aircraft Garnishee Marshal
+  role: IATA Multilateral Clearance Desks, BSP Remittances, Havana FIR Overflight
+    Navigation Fees & Aircraft Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-iata-clearing-and-overflight-garnishee-marshal.yaml
 - id: agent-cupet-and-hydrocarbon-monopoly-auditor
   name: Sovereign Hydrocarbon Monopoly, CUPET & Refinery Latifundia Auditor
-  role: CUPET State Monopoly, Expropriated American Refineries (Esso, Texaco, Sinclair), Coastal Refining Combines & Offshore Concessions Auditor
+  role: CUPET State Monopoly, Expropriated American Refineries (Esso, Texaco, Sinclair),
+    Coastal Refining Combines & Offshore Concessions Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cupet-and-hydrocarbon-monopoly-auditor.yaml
 - id: agent-energy-joint-venture-and-tanker-garnishee-marshal
   name: Energy Joint Venture, Supertanker Cargo & Oil Trade Garnishee Marshal
-  role: Sherritt Energas Dividends, Matanzas Terminal Berths, Crude Tanker Admiralty Arrests & Hydrocarbon Trade Garnishee Marshal
+  role: Sherritt Energas Dividends, Matanzas Terminal Berths, Crude Tanker Admiralty
+    Arrests & Hydrocarbon Trade Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-energy-joint-venture-and-tanker-garnishee-marshal.yaml
 - id: agent-une-and-power-grid-auditor
   name: Sovereign Electric Monopoly, UNE & Power Grid Auditor
-  role: Unión Eléctrica (UNE), Cuban Electric Company (CCE) Takings, Thermoelectric Plants & National Grid Auditor
+  role: Unión Eléctrica (UNE), Cuban Electric Company (CCE) Takings, Thermoelectric
+    Plants & National Grid Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-une-and-power-grid-auditor.yaml
 - id: agent-powership-charter-and-energy-escrow-garnishee-marshal
   name: Karpowership Charter, Generation Concession & Utility Escrow Garnishee Marshal
-  role: Turkish Powership Charters, Capacity Payment Escrows, Foreign Turbomachinery Receivables & Utility Garnishee Marshal
+  role: Turkish Powership Charters, Capacity Payment Escrows, Foreign Turbomachinery
+    Receivables & Utility Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-powership-charter-and-energy-escrow-garnishee-marshal.yaml
 - id: agent-etecsa-and-telecom-monopoly-auditor
   name: Sovereign Telecom Monopoly, ETECSA & Subsea Cable Auditor
-  role: ETECSA State Monopoly, ITT / Cuban Telephone Co. Confiscations, Submarine Fiber Cables & Mobile Network Auditor
+  role: ETECSA State Monopoly, ITT / Cuban Telephone Co. Confiscations, Submarine
+    Fiber Cables & Mobile Network Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-etecsa-and-telecom-monopoly-auditor.yaml
 - id: agent-roaming-clearing-and-telecom-garnishee-marshal
   name: International Roaming, Mobile Top-Up & Telecom Garnishee Marshal
-  role: GSMA Roaming Balances, Hard-Currency Top-Up Gateways (Ding, Recharge), Carrier Transit Payables & Telecom Garnishee Marshal
+  role: GSMA Roaming Balances, Hard-Currency Top-Up Gateways (Ding, Recharge), Carrier
+    Transit Payables & Telecom Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-roaming-clearing-and-telecom-garnishee-marshal.yaml
 - id: agent-geicon-and-cement-monopoly-auditor
   name: Sovereign Cement Monopoly, GEICON & Construction Material Auditor
-  role: GEICON State Monopoly, Lone Star Cement "El Morro" Confiscations, Cementos Cienfuegos & Quarry Concessions Auditor
+  role: GEICON State Monopoly, Lone Star Cement "El Morro" Confiscations, Cementos
+    Cienfuegos & Quarry Concessions Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-geicon-and-cement-monopoly-auditor.yaml
 - id: agent-cement-cargo-and-clinker-trade-garnishee-marshal
   name: Bulk Cement Cargo, Clinker Offtake & JV Escrow Garnishee Marshal
-  role: LafargeHolcim Dividends, Specialized Cement Carrier Arrests, Clinker Export Letters of Credit & Trade Garnishee Marshal
+  role: LafargeHolcim Dividends, Specialized Cement Carrier Arrests, Clinker Export
+    Letters of Credit & Trade Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cement-cargo-and-clinker-trade-garnishee-marshal.yaml
 - id: agent-cubaniquel-and-moa-bay-auditor
   name: Sovereign Nickel Monopoly, Cubaníquel & Moa Bay Auditor
-  role: Cubaníquel State Monopoly, Freeport Sulphur Moa Bay Takings, Pedro Sotto Alba & Nicaro Auditor
+  role: Cubaníquel State Monopoly, Freeport Sulphur Moa Bay Takings, Pedro Sotto Alba
+    & Nicaro Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cubaniquel-and-moa-bay-auditor.yaml
 - id: agent-sherritt-jv-and-nickel-offtake-garnishee-marshal
   name: Sherritt Joint Venture, Nickel Slurry & Offtake Garnishee Marshal
-  role: Sherritt Moa Dividends, Mixed Sulfide Cargo In-Transit Arrests, Fort Saskatchewan Offtake & Metal Garnishee Marshal
+  role: Sherritt Moa Dividends, Mixed Sulfide Cargo In-Transit Arrests, Fort Saskatchewan
+    Offtake & Metal Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-sherritt-jv-and-nickel-offtake-garnishee-marshal.yaml
 - id: agent-azcuba-and-sugar-monopoly-auditor
   name: AZCUBA & Expropriated Sugar Latifundia Auditor
-  role: Grupo Empresarial Agroazucarero (AZCUBA), Expropriated American Sugar Mills & Bulk Export Terminal Auditor
+  role: Grupo Empresarial Agroazucarero (AZCUBA), Expropriated American Sugar Mills
+    & Bulk Export Terminal Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-azcuba-and-sugar-monopoly-auditor.yaml
 - id: agent-cubazucar-and-bulk-sugar-garnishee-marshal
   name: CUBAZÚCAR & Bulk Sugar Cargo Garnishee Marshal
-  role: Empresa Cubana Exportadora de Azúcar (CUBAZÚCAR), Bulk Sugar Carrier Arrests & Broker Off-Take Marshal
+  role: Empresa Cubana Exportadora de Azúcar (CUBAZÚCAR), Bulk Sugar Carrier Arrests
+    & Broker Off-Take Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cubazucar-and-bulk-sugar-garnishee-marshal.yaml
 - id: agent-inmobiliaria-and-urban-latifundia-auditor
   name: Inmobiliaria & Urban Latifundia Auditor
-  role: Inmobiliaria Monte Barreto S.A., Miramar Trade Center, Inmobiliaria Almest (GAESA), Urban Reform Confiscations & Diplomatic Real Estate Auditor
+  role: Inmobiliaria Monte Barreto S.A., Miramar Trade Center, Inmobiliaria Almest
+    (GAESA), Urban Reform Confiscations & Diplomatic Real Estate Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-inmobiliaria-and-urban-latifundia-auditor.yaml
 - id: agent-miramar-trade-center-and-lease-garnishee-marshal
   name: Miramar Trade Center & Lease Garnishee Marshal
-  role: Miramar Trade Center Tenant Leases, Offshore Rent Wire Escrows, Habaguanex Commercial Holdings & Title III Garnishee Marshal
+  role: Miramar Trade Center Tenant Leases, Offshore Rent Wire Escrows, Habaguanex
+    Commercial Holdings & Title III Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-miramar-trade-center-and-lease-garnishee-marshal.yaml
 - id: agent-mambisa-and-port-agency-auditor
   name: Mambisa Port Agency & Pilotage Auditor
-  role: Empresa Consignataria Mambisa, Empresa de Prácticos de Cuba, Expropriated American Docks & Port Agency Tariff Auditor
+  role: Empresa Consignataria Mambisa, Empresa de Prácticos de Cuba, Expropriated
+    American Docks & Port Agency Tariff Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-mambisa-and-port-agency-auditor.yaml
 - id: agent-salvage-towage-and-disbursement-garnishee-marshal
   name: Salvage, Towage & Port Disbursement Marshal
-  role: Antillana de Salvamento Tug Fleets, Foreign Carrier Port Disbursement Accounts (PDAs) & Maritime Lien Marshal
+  role: Antillana de Salvamento Tug Fleets, Foreign Carrier Port Disbursement Accounts
+    (PDAs) & Maritime Lien Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-salvage-towage-and-disbursement-garnishee-marshal.yaml
 - id: agent-aerovaradero-and-air-cargo-auditor
   name: Aerovaradero Air Cargo & Logistics Auditor
-  role: Aerovaradero S.A., International Air Cargo Terminals (Havana / Varadero / Holguín), Expropriated Freight Docks & Air Waybill Auditor
+  role: Aerovaradero S.A., International Air Cargo Terminals (Havana / Varadero /
+    Holguín), Expropriated Freight Docks & Air Waybill Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-aerovaradero-and-air-cargo-auditor.yaml
 - id: agent-iata-cass-and-cargo-charter-garnishee-marshal
   name: IATA CASS & Cargo Charter Garnishee Marshal
-  role: IATA Cargo Accounts Settlement System (CASS), Air Cargo Charter Operators, Freight Forwarder Escrows & Air Cargo Marshal
+  role: IATA Cargo Accounts Settlement System (CASS), Air Cargo Charter Operators,
+    Freight Forwarder Escrows & Air Cargo Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-iata-cass-and-cargo-charter-garnishee-marshal.yaml
 - id: agent-medicuba-and-pharma-monopoly-auditor
   name: MEDICUBA & Pharma Monopoly Auditor
-  role: Empresa Importadora y Exportadora de Productos Médicos (MEDICUBA), BioCubaFarma Holding, Expropriated American Pharma Labs & Procurement Auditor
+  role: Empresa Importadora y Exportadora de Productos Médicos (MEDICUBA), BioCubaFarma
+    Holding, Expropriated American Pharma Labs & Procurement Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-medicuba-and-pharma-monopoly-auditor.yaml
 - id: agent-farmacuba-and-generic-export-garnishee-marshal
   name: FARMACUBA & Generic Export Garnishee Marshal
-  role: FARMACUBA / EMCOMED Distribution, Transnational Generic Drug Off-Take Contracts, Overseas Pharma Joint Ventures & API Escrow Marshal
+  role: FARMACUBA / EMCOMED Distribution, Transnational Generic Drug Off-Take Contracts,
+    Overseas Pharma Joint Ventures & API Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-farmacuba-and-generic-export-garnishee-marshal.yaml
 - id: agent-cuba-ron-and-distillery-auditor
   name: Cuba Ron & Expropriated Distillery Auditor
-  role: Corporación Cuba Ron S.A., Expropriated Arechabala (Havana Club) & Bacardi Distilleries, Aging Bodegas & Rum Latifundia Auditor
+  role: Corporación Cuba Ron S.A., Expropriated Arechabala (Havana Club) & Bacardi
+    Distilleries, Aging Bodegas & Rum Latifundia Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cuba-ron-and-distillery-auditor.yaml
 - id: agent-pernod-ricard-jv-and-spirits-garnishee-marshal
   name: Pernod Ricard JV & Spirits Garnishee Marshal
-  role: Havana Club Holding S.A. (Luxembourg), Pernod Ricard / Diageo JV Dividends, European Bonded Spirits Inventory & Royalty Marshal
+  role: Havana Club Holding S.A. (Luxembourg), Pernod Ricard / Diageo JV Dividends,
+    European Bonded Spirits Inventory & Royalty Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-pernod-ricard-jv-and-spirits-garnishee-marshal.yaml
 - id: agent-melfi-marine-and-container-fleet-auditor
   name: Melfi Marine & Container Fleet Auditor
-  role: Melfi Marine Corp. (Panama / Cuba), Expropriated Container Ships (Seatrain / Naviera de Cuba), TC Mariel & Intermodal Fleet Auditor
+  role: Melfi Marine Corp. (Panama / Cuba), Expropriated Container Ships (Seatrain
+    / Naviera de Cuba), TC Mariel & Intermodal Fleet Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-melfi-marine-and-container-fleet-auditor.yaml
 - id: agent-slot-charter-and-ocean-freight-garnishee-marshal
   name: Slot Charter & Ocean Freight Garnishee Marshal
-  role: Transnational Container Liner Alliances, Ocean Freight Remittances, International Container Leasing Escrows & Vessel Arrest Marshal
+  role: Transnational Container Liner Alliances, Ocean Freight Remittances, International
+    Container Leasing Escrows & Vessel Arrest Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-slot-charter-and-ocean-freight-garnishee-marshal.yaml
 - id: agent-etecsa-telecom-and-subsea-cable-auditor
   name: ETECSA Telecom & Subsea Cable Auditor
-  role: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Expropriated ITT (Cuban Telephone Co.) Infrastructure, ALBA-1 Subsea Fiber & Roaming Settlement Auditor
+  role: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Expropriated ITT (Cuban
+    Telephone Co.) Infrastructure, ALBA-1 Subsea Fiber & Roaming Settlement Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-etecsa-telecom-and-subsea-cable-auditor.yaml
 - id: agent-telecom-settlement-and-roaming-garnishee-marshal
   name: Telecom Settlement & Roaming Garnishee Marshal
-  role: International Roaming Remittances, GSM Clearinghouses, Mobile Top-Up Intermediaries (Ding/DTOne), Satellite Transponder Escrows & Telecommunications Garnishee Marshal
+  role: International Roaming Remittances, GSM Clearinghouses, Mobile Top-Up Intermediaries
+    (Ding/DTOne), Satellite Transponder Escrows & Telecommunications Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-telecom-settlement-and-roaming-garnishee-marshal.yaml
 - id: agent-une-electric-grid-and-power-auditor
   name: UNE Electric Grid & Power Auditor
-  role: Unión Eléctrica (UNE), Ministry of Energy & Mines (MINEM), Expropriated Cuban Electric Company (American & Foreign Power Co., FCSC Claim No. CU-2578) & National Power Grid Auditor
+  role: Unión Eléctrica (UNE), Ministry of Energy & Mines (MINEM), Expropriated Cuban
+    Electric Company (American & Foreign Power Co., FCSC Claim No. CU-2578) & National
+    Power Grid Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-une-electric-grid-and-power-auditor.yaml
 - id: agent-floating-power-plant-and-fuel-escrow-marshal
   name: Floating Power Plant & Fuel Escrow Marshal
-  role: Floating Power Barge Charters (Karpowership / Karadeniz Holdings), Heavy Fuel Oil Procurement Escrows, High-Voltage Substation Hardware & Electrical Tariff Garnishee Marshal
+  role: Floating Power Barge Charters (Karpowership / Karadeniz Holdings), Heavy Fuel
+    Oil Procurement Escrows, High-Voltage Substation Hardware & Electrical Tariff
+    Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-floating-power-plant-and-fuel-escrow-marshal.yaml
 - id: agent-tabacuba-and-cigar-monopoly-auditor
   name: TABACUBA & Cigar Monopoly Auditor
-  role: TABACUBA (Grupo Empresarial de Tabaco de Cuba), Expropriated Cigar Manufactories (Menéndez García / Cifuentes / Partagás / H. Upmann) & Vuelta Abajo Latifundia Auditor
+  role: TABACUBA (Grupo Empresarial de Tabaco de Cuba), Expropriated Cigar Manufactories
+    (Menéndez García / Cifuentes / Partagás / H. Upmann) & Vuelta Abajo Latifundia
+    Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-tabacuba-and-cigar-monopoly-auditor.yaml
 - id: agent-habanos-jv-and-cigar-distributor-marshal
   name: Habanos JV & Cigar Distributor Marshal
-  role: Habanos S.A. (50/50 Joint Venture with Allied Cigar Corp / Imperial Brands), European Bonded Cigar Inventories, Global Distributorship Receivables & Royalty Garnishee Marshal
+  role: Habanos S.A. (50/50 Joint Venture with Allied Cigar Corp / Imperial Brands),
+    European Bonded Cigar Inventories, Global Distributorship Receivables & Royalty
+    Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-habanos-jv-and-cigar-distributor-marshal.yaml
 - id: agent-gaviota-tourism-monopoly-auditor
   name: GAESA, Gaviota & Sovereign Hospitality Latifundia Auditor
-  role: GAESA, Grupo de Turismo Gaviota S.A., Cubanacán, Gran Caribe, Expropriated Pre-1959 Hotel Properties (FCSC Claims CU-0249, CU-1100, CU-2495) & Sovereign Hospitality Auditor
+  role: GAESA, Grupo de Turismo Gaviota S.A., Cubanacán, Gran Caribe, Expropriated
+    Pre-1959 Hotel Properties (FCSC Claims CU-0249, CU-1100, CU-2495) & Sovereign
+    Hospitality Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-gaviota-tourism-monopoly-auditor.yaml
 - id: agent-hotel-jv-and-booking-escrow-marshal
   name: Hotel JV, Helms-Burton Title III & Booking Escrow Marshal
-  role: Transnational Hotel Management Combines (Meliá, Iberostar, Blue Diamond, Kempinski), Helms-Burton Title III (22 U.S.C. § 6082), GDS (Amadeus, Sabre) & Tour Operator Escrow Marshal
+  role: Transnational Hotel Management Combines (Meliá, Iberostar, Blue Diamond, Kempinski),
+    Helms-Burton Title III (22 U.S.C. § 6082), GDS (Amadeus, Sabre) & Tour Operator
+    Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-hotel-jv-and-booking-escrow-marshal.yaml
 - id: agent-sovereign-banking-and-bfi-auditor
   name: Sovereign Banking, BFI & Commercial Bank Auditor
-  role: Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Banco Financiero Internacional (BFI), GAESA Hard-Currency Sweeps & Law 891 Bank Confiscation Auditor
+  role: Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Banco Financiero
+    Internacional (BFI), GAESA Hard-Currency Sweeps & Law 891 Bank Confiscation Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-sovereign-banking-and-bfi-auditor.yaml
 - id: agent-havin-bank-and-correspondent-clearing-marshal
   name: Havin Bank London & Correspondent Clearing Marshal
-  role: Havana International Bank Ltd. (Havin Bank / London), BICSA, UK High Court Commercial Execution (CRF I Ltd. Precedents) & Correspondent Bank Garnishee Marshal
+  role: Havana International Bank Ltd. (Havin Bank / London), BICSA, UK High Court
+    Commercial Execution (CRF I Ltd. Precedents) & Correspondent Bank Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-havin-bank-and-correspondent-clearing-marshal.yaml
 - id: agent-mariel-zedm-and-port-auditor
   name: Mariel ZEDM & Port Latifundia Auditor
-  role: ZEDM, Terminal de Contenedores de Mariel S.A. (TCM S.A.), GAESA / AUSA, Expropriated Mariel Bay Real Estate & Docks (FCSC Claims CU-2492, CU-0498) & Deepwater Port Auditor
+  role: ZEDM, Terminal de Contenedores de Mariel S.A. (TCM S.A.), GAESA / AUSA, Expropriated
+    Mariel Bay Real Estate & Docks (FCSC Claims CU-2492, CU-0498) & Deepwater Port
+    Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-mariel-zedm-and-port-auditor.yaml
 - id: agent-psa-concession-and-maritime-trafficking-marshal
   name: PSA Concession & Maritime Trafficking Marshal
-  role: PSA International (Singapore) Concession Royalties, Helms-Burton Title III Maritime Trafficking (Crowley, Seaboard, CMA CGM, Maersk), Container Handling & Transshipment Dues Marshal
+  role: PSA International (Singapore) Concession Royalties, Helms-Burton Title III
+    Maritime Trafficking (Crowley, Seaboard, CMA CGM, Maersk), Container Handling
+    & Transshipment Dues Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-psa-concession-and-maritime-trafficking-marshal.yaml
 - id: agent-cupet-and-refinery-monopoly-auditor
   name: CUPET, ECC & Petroleum Latifundia Auditor
-  role: Unión Cuba-Petróleo (CUPET), ECC, Expropriated Refineries (Law 851, Esso CU-0064 / Texaco CU-0065), Matanzas Terminal & Hydrocarbon Latifundia Auditor
+  role: Unión Cuba-Petróleo (CUPET), ECC, Expropriated Refineries (Law 851, Esso CU-0064
+    / Texaco CU-0065), Matanzas Terminal & Hydrocarbon Latifundia Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cupet-and-refinery-monopoly-auditor.yaml
 - id: agent-oil-tanker-and-bunkering-escrow-marshal
   name: Oil Tanker Fleets & Bunkering Escrow Marshal
-  role: Transnational Crude Tanker Fleets, Bunkering Conduits, D.D.C. Title III Petroleum Enforcement (Exxon Mobil v. CIMEX & CUPET) & Oil Swap Escrow Marshal
+  role: Transnational Crude Tanker Fleets, Bunkering Conduits, D.D.C. Title III Petroleum
+    Enforcement (Exxon Mobil v. CIMEX & CUPET) & Oil Swap Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-oil-tanker-and-bunkering-escrow-marshal.yaml
 - id: agent-havana-docks-and-cruise-terminal-auditor
   name: Havana Docks & Cruise Terminal Auditor
-  role: Havana Docks Corporation (CU-2492), Expropriated Piers (San Francisco / Machina / Santa Clara), GAESA / AUSA Passenger Terminals & Cruise Port Auditor
+  role: Havana Docks Corporation (CU-2492), Expropriated Piers (San Francisco / Machina
+    / Santa Clara), GAESA / AUSA Passenger Terminals & Cruise Port Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-havana-docks-and-cruise-terminal-auditor.yaml
 - id: agent-cruise-line-trafficking-and-passenger-dues-marshal
   name: Cruise Line Trafficking & Passenger Dues Marshal
-  role: Cruise Line Trafficking (Carnival, Royal Caribbean, Norwegian, MSC Precedents), S.D. Fla. Helms-Burton Title III Judgments, Passenger Head Taxes & Port Dues Marshal
+  role: Cruise Line Trafficking (Carnival, Royal Caribbean, Norwegian, MSC Precedents),
+    S.D. Fla. Helms-Burton Title III Judgments, Passenger Head Taxes & Port Dues Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cruise-line-trafficking-and-passenger-dues-marshal.yaml
 - id: agent-cimex-retail-and-trd-auditor
   name: CIMEX, TRD Caribe & Retail Latifundia Auditor
-  role: Corporación CIMEX S.A., Cadena Panamericanas, Tiendas Caribe (TRD), Tiendas MLC, Law 890 Confiscated Retail Chains (Sears / Woolworth) & GAESA Retail Auditor
+  role: Corporación CIMEX S.A., Cadena Panamericanas, Tiendas Caribe (TRD), Tiendas
+    MLC, Law 890 Confiscated Retail Chains (Sears / Woolworth) & GAESA Retail Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cimex-retail-and-trd-auditor.yaml
 - id: agent-colon-free-zone-and-pos-escrow-marshal
   name: Colon Free Zone Procurement & POS Escrow Marshal
-  role: Panama Colon Free Zone Supply Factoring, FINCIMEX / Orbit S.A. Payment Gateway Clearing, Hard-Currency POS Sweeps & Retail Merchant Float Marshal
+  role: Panama Colon Free Zone Supply Factoring, FINCIMEX / Orbit S.A. Payment Gateway
+    Clearing, Hard-Currency POS Sweeps & Retail Merchant Float Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-colon-free-zone-and-pos-escrow-marshal.yaml
 - id: agent-ecasa-airport-and-ground-handling-auditor
   name: ECASA, Airport Infrastructure & Ground Handling Auditor
-  role: Empresa Cubana de Aeropuertos y Servicios Aeronáuticos S.A. (ECASA), José Martí International Airport, Pan American World Airways (CU-0415) Expropriations, Airport Ramp Concessions & Passenger Departure Tariff Auditor
+  role: Empresa Cubana de Aeropuertos y Servicios Aeronáuticos S.A. (ECASA), José
+    Martí International Airport, Pan American World Airways (CU-0415) Expropriations,
+    Airport Ramp Concessions & Passenger Departure Tariff Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-ecasa-airport-and-ground-handling-auditor.yaml
 - id: agent-airspace-overflight-and-iata-escrow-marshal
   name: Airspace Overflight Charges & IATA Clearing Escrow Marshal
-  role: Empresa Cubana de Navegación Aérea (ECNA), Havana FIR Air Navigation Overflight Fees, IATA Clearing House (Geneva / Montreal) Settlement Floats, OFAC Airline Remittance Conduits & Intermediary Bank Garnishment Marshal
+  role: Empresa Cubana de Navegación Aérea (ECNA), Havana FIR Air Navigation Overflight
+    Fees, IATA Clearing House (Geneva / Montreal) Settlement Floats, OFAC Airline
+    Remittance Conduits & Intermediary Bank Garnishment Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-airspace-overflight-and-iata-escrow-marshal.yaml
 - id: agent-ufc-railway-and-mainline-auditor
   name: UFC Railway, Mainline Infrastructure & Freight Tariff Auditor
-  role: Unión de Ferrocarriles de Cuba (UFC), Consolidated Railroads of Cuba (CU-2500) & Hershey Railway (CU-2495) Expropriations, Mainline Rights-of-Way & Industrial Rail Freight Tariff Auditor
+  role: Unión de Ferrocarriles de Cuba (UFC), Consolidated Railroads of Cuba (CU-2500)
+    & Hershey Railway (CU-2495) Expropriations, Mainline Rights-of-Way & Industrial
+    Rail Freight Tariff Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-ufc-railway-and-mainline-auditor.yaml
 - id: agent-locomotive-procurement-and-rail-escrow-marshal
   name: Locomotive Procurement & Rail Factoring Escrow Marshal
-  role: Russian Sinara / Transmashholding TGM8KM Locomotive Supply Escrows, Chinese CRRC Rolling Stock Factoring, EXIAR Export Guarantees & Intermodal Freight Tariff Marshal
+  role: Russian Sinara / Transmashholding TGM8KM Locomotive Supply Escrows, Chinese
+    CRRC Rolling Stock Factoring, EXIAR Export Guarantees & Intermodal Freight Tariff
+    Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-locomotive-procurement-and-rail-escrow-marshal.yaml
 - id: agent-bucanero-and-brewing-monopoly-auditor
   name: Bucanero, Brewing Monopoly & Beverage Latifundia Auditor
-  role: Cervecería Bucanero S.A., Holguín Mega-Brewery, Coralsa, Confiscated Pre-1959 Breweries (Polar / La Tropical / Hatuey), Tiendas MLC Beer Monopolies & GAESA Hospitality Supply Auditor
+  role: Cervecería Bucanero S.A., Holguín Mega-Brewery, Coralsa, Confiscated Pre-1959
+    Breweries (Polar / La Tropical / Hatuey), Tiendas MLC Beer Monopolies & GAESA
+    Hospitality Supply Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-bucanero-and-brewing-monopoly-auditor.yaml
 - id: agent-abinbev-jv-and-malt-dividend-marshal
   name: AB InBev Joint Venture, Malt Factoring & Dividend Marshal
-  role: Anheuser-Busch InBev (AB InBev) Transnational Joint Venture, Offshore Malt & Hop Factoring Escrows, Foreign Dividend Clearing Rails, Helms-Burton Title III Trafficking & Brand Royalty Marshal
+  role: Anheuser-Busch InBev (AB InBev) Transnational Joint Venture, Offshore Malt
+    & Hop Factoring Escrows, Foreign Dividend Clearing Rails, Helms-Burton Title III
+    Trafficking & Brand Royalty Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-abinbev-jv-and-malt-dividend-marshal.yaml
 - id: agent-alimport-and-food-procurement-auditor
   name: ALIMPORT, Food Monopoly & Agribusiness Latifundia Auditor
-  role: Empresa Cubana Importadora de Alimentos (ALIMPORT), MINCEX, Molinera de Harina S.A., Quaker Oats (CU-2497) & Swift/Armour Confiscated Food Facilities, State Bulk Food Import Monopolies & GAESA Tourist Supply Auditor
+  role: Empresa Cubana Importadora de Alimentos (ALIMPORT), MINCEX, Molinera de Harina
+    S.A., Quaker Oats (CU-2497) & Swift/Armour Confiscated Food Facilities, State
+    Bulk Food Import Monopolies & GAESA Tourist Supply Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-alimport-and-food-procurement-auditor.yaml
 - id: agent-tsra-cash-in-advance-and-grain-escrow-marshal
   name: TSRA Cash-in-Advance & Agribusiness Escrow Marshal
-  role: U.S. TSRA (Trade Sanctions Reform Act) Cash-in-Advance Escrows, Agribusiness Supplier Letters of Credit (Cargill / ADM / Tyson / Bunge), Bulk Grain/Poultry Vessel Arrest & Intermediary Bank Clearing Float Marshal
+  role: U.S. TSRA (Trade Sanctions Reform Act) Cash-in-Advance Escrows, Agribusiness
+    Supplier Letters of Credit (Cargill / ADM / Tyson / Bunge), Bulk Grain/Poultry
+    Vessel Arrest & Intermediary Bank Clearing Float Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-tsra-cash-in-advance-and-grain-escrow-marshal.yaml
 - id: agent-biocubafarma-and-life-sciences-auditor
   name: BioCubaFarma, CIMAB & Sovereign Life Sciences Monopoly Auditor
-  role: BioCubaFarma Sovereign Conglomerate, CIMAB S.A., CIGB, CIM, Expropriated Pre-1959 American Pharmaceutical Laboratories (Law 890, Parke-Davis & Co. FCSC Claim No. CU-2491 / E.R. Squibb / J&J / Abbott), WHO/PAHO Vaccine Procurement Tenders & WIPO Patent Royalties Auditor
+  role: BioCubaFarma Sovereign Conglomerate, CIMAB S.A., CIGB, CIM, Expropriated Pre-1959
+    American Pharmaceutical Laboratories (Law 890, Parke-Davis & Co. FCSC Claim No.
+    CU-2491 / E.R. Squibb / J&J / Abbott), WHO/PAHO Vaccine Procurement Tenders &
+    WIPO Patent Royalties Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-biocubafarma-and-life-sciences-auditor.yaml
 - id: agent-roswell-park-jv-and-biotech-escrow-marshal
   name: Roswell Park Joint Venture & Biotech Escrow Marshal
-  role: Innovative Immunotherapy Alliance S.A. (Buffalo NY / Roswell Park Joint Venture), U.S. Clinical Trial Escrows, Transnational Biotech JVs (ChangHeber China, Biocon India), OFAC Biotech Licensing Conduits & International Patent Garnishee Marshal
+  role: Innovative Immunotherapy Alliance S.A. (Buffalo NY / Roswell Park Joint Venture),
+    U.S. Clinical Trial Escrows, Transnational Biotech JVs (ChangHeber China, Biocon
+    India), OFAC Biotech Licensing Conduits & International Patent Garnishee Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-roswell-park-jv-and-biotech-escrow-marshal.yaml
 - id: agent-csmc-labor-export-and-bilateral-contract-auditor
   name: CSMC Labor Export & Bilateral Contract Auditor
-  role: Comercializadora de Servicios Médicos Cubanos S.A. (CSMC S.A.), MINSAP, Bilateral Host Government Health Contracts (Brazil Mais Médicos / Mexico IMSS / Qatar / Angola / Italy), Salary Garnishment Forensics & State Commercial Revenue Auditor
+  role: Comercializadora de Servicios Médicos Cubanos S.A. (CSMC S.A.), MINSAP, Bilateral
+    Host Government Health Contracts (Brazil Mais Médicos / Mexico IMSS / Qatar /
+    Angola / Italy), Salary Garnishment Forensics & State Commercial Revenue Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-csmc-labor-export-and-bilateral-contract-auditor.yaml
 - id: agent-paho-intermediary-and-tvpra-escrow-marshal
   name: PAHO Intermediary & TVPRA Escrow Marshal
-  role: Pan American Health Organization (PAHO) Financial Intermediation, D.D.C. TVPRA Judgment Enforcement (Rodriguez v. PAHO), U.S. Correspondent Bank Clearing Intercepts, 5% Broker Commission Accounts & Multilateral Escrow Marshal
+  role: Pan American Health Organization (PAHO) Financial Intermediation, D.D.C. TVPRA
+    Judgment Enforcement (Rodriguez v. PAHO), U.S. Correspondent Bank Clearing Intercepts,
+    5% Broker Commission Accounts & Multilateral Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-paho-intermediary-and-tvpra-escrow-marshal.yaml
 - id: agent-cubaniquel-and-mining-concession-auditor
   name: Cubaníquel & Mining Concession Auditor
-  role: Grupo Empresarial Cubaníquel, Empresa Central de Níquel, Moa Bay & Nicaro Laterite Deposits, Expropriated Pre-1959 American Mining Combines (Freeport Sulphur / Moa Bay Mining Co. CU-2498 & Nicaro U.S. Defense Plant), Alter Ego Forensics & State Mining Concession Auditor
+  role: Grupo Empresarial Cubaníquel, Empresa Central de Níquel, Moa Bay & Nicaro
+    Laterite Deposits, Expropriated Pre-1959 American Mining Combines (Freeport Sulphur
+    / Moa Bay Mining Co. CU-2498 & Nicaro U.S. Defense Plant), Alter Ego Forensics
+    & State Mining Concession Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cubaniquel-and-mining-concession-auditor.yaml
 - id: agent-sherritt-jv-and-cobalt-offtake-escrow-marshal
   name: Sherritt JV & Cobalt Offtake Escrow Marshal
-  role: Moa Nickel S.A. 50/50 Joint Venture with Sherritt International Corp., Fort Saskatchewan Hydrometallurgical Refinery (Alberta), International Cobalt Company Inc. (ICCI), Transnational Offtake Agreements (China Minmetals, European Battery Consortia), LME Warehouse Warrants & Dividend Escrow Marshal
+  role: Moa Nickel S.A. 50/50 Joint Venture with Sherritt International Corp., Fort
+    Saskatchewan Hydrometallurgical Refinery (Alberta), International Cobalt Company
+    Inc. (ICCI), Transnational Offtake Agreements (China Minmetals, European Battery
+    Consortia), LME Warehouse Warrants & Dividend Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-sherritt-jv-and-cobalt-offtake-escrow-marshal.yaml
 - id: agent-azcuba-holding-and-zerus-joint-venture-auditor
   name: AZCUBA Holding & Zerus Joint Venture Auditor
-  role: Grupo Empresarial Agroazucarero (AZCUBA), Zerus S.A., Expropriated Pre-1959 American Sugar Empires (Law 851, Cuban-American Sugar Co. CU-2572, United Fruit Co. CU-0026, West Indies Sugar CU-2573, Vertientes-Camagüey CU-0045, Francisco Sugar CU-2574, Amstar CU-2490), Centrales Azucareros, Cane Latifundia & Alter Ego Auditor
+  role: Grupo Empresarial Agroazucarero (AZCUBA), Zerus S.A., Expropriated Pre-1959
+    American Sugar Empires (Law 851, Cuban-American Sugar Co. CU-2572, United Fruit
+    Co. CU-0026, West Indies Sugar CU-2573, Vertientes-Camagüey CU-0045, Francisco
+    Sugar CU-2574, Amstar CU-2490), Centrales Azucareros, Cane Latifundia & Alter
+    Ego Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-azcuba-holding-and-zerus-joint-venture-auditor.yaml
 - id: agent-cubazucar-and-commodity-escrow-marshal
   name: CUBAZÚCAR & Commodity Escrow Marshal
-  role: Empresa Cubana Exportadora de Azúcar y sus Derivados (CUBAZÚCAR / TECUBA), Deepwater Bulk Sugar Maritime Terminals (Cienfuegos, Guayabal, Matanzas), Bilateral State Off-Take Quotas (China COFCO), ICE Sugar No. 11 Futures Clearing, Biomass Energy JVs (Biopower / Central Ciro Redondo) & Commodity Escrow Marshal
+  role: Empresa Cubana Exportadora de Azúcar y sus Derivados (CUBAZÚCAR / TECUBA),
+    Deepwater Bulk Sugar Maritime Terminals (Cienfuegos, Guayabal, Matanzas), Bilateral
+    State Off-Take Quotas (China COFCO), ICE Sugar No. 11 Futures Clearing, Biomass
+    Energy JVs (Biopower / Central Ciro Redondo) & Commodity Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cubazucar-and-commodity-escrow-marshal.yaml
 - id: agent-arechabala-distillery-and-havana-club-title-auditor
   name: Arechabala Distillery & Havana Club Title Auditor
-  role: José Arechabala S.A. (JASA), Cárdenas Distillery (Matanzas), Expropriated Havana Club Rum Brand (Law 890, FCSC Claim No. CU-2499), Corporación Cuba Ron S.A. Alter Ego Forensics, Section 211 Trademark Invalidation & Chain-of-Title Auditor
+  role: José Arechabala S.A. (JASA), Cárdenas Distillery (Matanzas), Expropriated
+    Havana Club Rum Brand (Law 890, FCSC Claim No. CU-2499), Corporación Cuba Ron
+    S.A. Alter Ego Forensics, Section 211 Trademark Invalidation & Chain-of-Title
+    Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-arechabala-distillery-and-havana-club-title-auditor.yaml
 - id: agent-pernod-ricard-offshore-royalty-and-distribution-escrow-marshal
   name: Pernod Ricard Offshore Royalty & Distribution Escrow Marshal
-  role: Havana Club International S.A. (HCI S.A.), Havana Club Holding S.A. (Luxembourg), Pernod Ricard S.A. Global Distribution Conduits, Worldwide Trademark Royalties, D.D.C. Title III Trafficking Judgments (Arechabala v. Pernod Ricard) & Escrow Marshal
+  role: Havana Club International S.A. (HCI S.A.), Havana Club Holding S.A. (Luxembourg),
+    Pernod Ricard S.A. Global Distribution Conduits, Worldwide Trademark Royalties,
+    D.D.C. Title III Trafficking Judgments (Arechabala v. Pernod Ricard) & Escrow
+    Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-pernod-ricard-offshore-royalty-and-distribution-escrow-marshal.yaml
 - id: agent-melfi-offshore-liner-and-maritime-charter-auditor
   name: Melfi Offshore Liner & Maritime Charter Auditor
-  role: Melfi Marine Corporation S.A. (Panama), Empresa de Navegación Caribe (ENC), MITRANS Commercial Shipping Apparatus, Expropriated Pre-1959 American Merchant Fleets (Law 851, Seatrain Lines FCSC CU-2493 & Naviera de Cuba), Time Charterparty Contracts & Bancec Alter Ego Auditor
+  role: Melfi Marine Corporation S.A. (Panama), Empresa de Navegación Caribe (ENC),
+    MITRANS Commercial Shipping Apparatus, Expropriated Pre-1959 American Merchant
+    Fleets (Law 851, Seatrain Lines FCSC CU-2493 & Naviera de Cuba), Time Charterparty
+    Contracts & Bancec Alter Ego Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-melfi-offshore-liner-and-maritime-charter-auditor.yaml
 - id: agent-liner-alliance-and-container-escrow-marshal
   name: Liner Alliance & Container Escrow Marshal
-  role: Transnational Container Liner Feeder Charters (MSC, CMA CGM, Hapag-Lloyd), Supplemental Admiralty Rules B & C Vessel Arrests, Transshipment Freight Clearing Conduits, Marine Bunker Hedging Accounts & Master QSF Escrow Marshal
+  role: Transnational Container Liner Feeder Charters (MSC, CMA CGM, Hapag-Lloyd),
+    Supplemental Admiralty Rules B & C Vessel Arrests, Transshipment Freight Clearing
+    Conduits, Marine Bunker Hedging Accounts & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-liner-alliance-and-container-escrow-marshal.yaml
 - id: agent-etecsa-subsea-cable-and-carrier-settlement-auditor
   name: ETECSA Subsea Cable & Carrier Settlement Auditor
-  role: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Cubacel Mobile Network, Nauta Broadband, ALBA-1 & ARCOS-1 Subsea Fiber-Optic Cables, Expropriated ITT / Cuban Telephone Co. (Law 851, FCSC Claim No. CU-2615), Ministry of Communications (MINCOM) & Bancec Alter Ego Auditor
+  role: Empresa de Telecomunicaciones de Cuba S.A. (ETECSA), Cubacel Mobile Network,
+    Nauta Broadband, ALBA-1 & ARCOS-1 Subsea Fiber-Optic Cables, Expropriated ITT
+    / Cuban Telephone Co. (Law 851, FCSC Claim No. CU-2615), Ministry of Communications
+    (MINCOM) & Bancec Alter Ego Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-etecsa-subsea-cable-and-carrier-settlement-auditor.yaml
 - id: agent-transnational-telecom-interconnect-and-roaming-marshal
   name: Transnational Telecom Interconnect & Roaming Marshal
-  role: U.S. Carrier Direct Interconnect Settlements (AT&T, Verizon, T-Mobile, IDT / Boss Revolution under OFAC 31 C.F.R. § 515.542), International Roaming Clearinghouses (EDCH, Syniverse, Comfone), Transnational Digital Top-Up Aggregators (Ding, Recharge.com, DTOne, Fonoma), TRIA § 201 Garnishments & Master QSF Escrow Marshal
+  role: U.S. Carrier Direct Interconnect Settlements (AT&T, Verizon, T-Mobile, IDT
+    / Boss Revolution under OFAC 31 C.F.R. § 515.542), International Roaming Clearinghouses
+    (EDCH, Syniverse, Comfone), Transnational Digital Top-Up Aggregators (Ding, Recharge.com,
+    DTOne, Fonoma), TRIA § 201 Garnishments & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-telecom-interconnect-and-roaming-marshal.yaml
 - id: agent-cuban-electric-company-and-grid-infrastructure-auditor
   name: Cuban Electric Company & Grid Infrastructure Auditor
-  role: Unión Eléctrica (UNE), Ministry of Energy and Mines (MINEM), Expropriated American & Foreign Power Company / Cuban Electric Company (Law 851, FCSC Claim No. CU-2578 - #1 Largest Corporate Claim in FCSC History, $267.5M Principal Takings, now exceeding $40.0B with 6% interest), National High-Voltage Transmission Grid, Substation Networks & Bancec Alter Ego Auditor
+  role: Unión Eléctrica (UNE), Ministry of Energy and Mines (MINEM), Expropriated
+    American & Foreign Power Company / Cuban Electric Company (Law 851, FCSC Claim
+    No. CU-2578 -
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-cuban-electric-company-and-grid-infrastructure-auditor.yaml
 - id: agent-transnational-powership-and-fuel-escrow-marshal
   name: Transnational Powership & Fuel Escrow Marshal
-  role: Karpower International B.V. (Turkey / Netherlands / Karadeniz Holding) Floating Powership Charters (Mariel, Havana Bay, Santiago de Cuba), Heavy Fuel Oil (HFO) Supply Settlement Rails, Supplemental Admiralty Rule B Maritime Bunkering Attachments, Helms-Burton Title III Energy Trafficking Actions (22 U.S.C. § 6082) & Master QSF Escrow Marshal
+  role: Karpower International B.V. (Turkey / Netherlands / Karadeniz Holding) Floating
+    Powership Charters (Mariel, Havana Bay, Santiago de Cuba), Heavy Fuel Oil (HFO)
+    Supply Settlement Rails, Supplemental Admiralty Rule B Maritime Bunkering Attachments,
+    Helms-Burton Title III Energy Trafficking Actions (22 U.S.C. § 6082) & Master
+    QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-powership-and-fuel-escrow-marshal.yaml
 - id: agent-habanos-holding-and-allied-cigar-syndicate-auditor
   name: Habanos Holding & Allied Cigar Syndicate Auditor
-  role: Corporación Habanos S.A., Allied Cigar Corporation (Hong Kong), Grupo Empresarial de Tabaco de Cuba (TABACUBA), Expropriated Historic Cigar Manufactories (Menéndez García CU-1335, Cifuentes CU-1336, F. Palicio), Vuelta Abajo Vegas & Bancec Alter Ego Auditor
+  role: Corporación Habanos S.A., Allied Cigar Corporation (Hong Kong), Grupo Empresarial
+    de Tabaco de Cuba (TABACUBA), Expropriated Historic Cigar Manufactories (Menéndez
+    García CU-1335, Cifuentes CU-1336, F. Palicio), Vuelta Abajo Vegas & Bancec Alter
+    Ego Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-habanos-holding-and-allied-cigar-syndicate-auditor.yaml
 - id: agent-transnational-cigar-royalty-and-luxury-auction-marshal
   name: Transnational Cigar Royalty & Luxury Auction Marshal
-  role: Global Exclusive Distributorship Networks (Tabacalera S.L.U., Coprova, Diadema, Phoenicia Trading, Infifon), Annual Festival del Habano Humidor Auctions, Customs-Bonded Warehouses (Colón Free Zone, Geneva, Madrid), TRIA § 201 & FSIA § 1610(a)(2) Hard-Currency Escrow Marshal
+  role: Global Exclusive Distributorship Networks (Tabacalera S.L.U., Coprova, Diadema,
+    Phoenicia Trading, Infifon), Annual Festival del Habano Humidor Auctions, Customs-Bonded
+    Warehouses (Colón Free Zone, Geneva, Madrid), TRIA § 201 & FSIA § 1610(a)(2) Hard-Currency
+    Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-cigar-royalty-and-luxury-auction-marshal.yaml
 - id: agent-gaesa-gaviota-and-luxury-resort-auditor
   name: GAESA Gaviota & Luxury Resort Auditor
-  role: Grupo de Administración Empresarial S.A. (GAESA), Grupo de Turismo Gaviota S.A., Gran Caribe S.A., Cubanacán S.A., Expropriated Pre-1959 Coastal Latifundia (Sanchez-Hill CU-2495), Historic Hotels (Riviera CU-0249, Nacional, Habana Libre) & Bancec Alter Ego Auditor
+  role: Grupo de Administración Empresarial S.A. (GAESA), Grupo de Turismo Gaviota
+    S.A., Gran Caribe S.A., Cubanacán S.A., Expropriated Pre-1959 Coastal Latifundia
+    (Sanchez-Hill CU-2495), Historic Hotels (Riviera CU-0249, Nacional, Habana Libre)
+    & Bancec Alter Ego Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-gaesa-gaviota-and-luxury-resort-auditor.yaml
 - id: agent-transnational-hotel-chain-and-gds-escrow-marshal
   name: Transnational Hotel Chain & GDS Escrow Marshal
-  role: Transnational Hotel Management Chains (Meliá, Iberostar, Blue Diamond, Kempinski, Accor), Global Distribution Systems (Amadeus, Sabre), Online Booking Engines (Expedia, Booking.com), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), Title IV Sanctions & Master QSF Escrow Marshal
+  role: Transnational Hotel Management Chains (Meliá, Iberostar, Blue Diamond, Kempinski,
+    Accor), Global Distribution Systems (Amadeus, Sabre), Online Booking Engines (Expedia,
+    Booking.com), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), Title
+    IV Sanctions & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-hotel-chain-and-gds-escrow-marshal.yaml
 - id: agent-central-bank-reserves-and-bcc-auditor
   name: Central Bank Reserves & BCC Auditor
-  role: Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Expropriated American Commercial Banks (Law 891, First National City Bank CU-2623, Chase Manhattan CU-2618, First National Bank of Boston CU-2619), Bancec Alter Ego Unity & UK Commercial Court Debt Auditor
+  role: Banco Central de Cuba (BCC), Banco Nacional de Cuba (BNC), Expropriated American
+    Commercial Banks (Law 891, First National City Bank CU-2623, Chase Manhattan CU-2618,
+    First National Bank of Boston CU-2619), Bancec Alter Ego Unity & UK Commercial
+    Court Debt Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-central-bank-reserves-and-bcc-auditor.yaml
 - id: agent-transnational-interbank-clearing-and-havin-marshal
   name: Transnational Interbank Clearing & Havin Bank Marshal
-  role: Havana International Bank Ltd. (Havin Bank London / UK FCA/PRA Regulated), Banco Financiero Internacional (BFI / GAESA), SWIFT / TARGET2 Settlement Rails, European Correspondent Accounts, TRIA § 201 Garnishments & Master QSF Escrow Marshal
+  role: Havana International Bank Ltd. (Havin Bank London / UK FCA/PRA Regulated),
+    Banco Financiero Internacional (BFI / GAESA), SWIFT / TARGET2 Settlement Rails,
+    European Correspondent Accounts, TRIA § 201 Garnishments & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-interbank-clearing-and-havin-marshal.yaml
 - id: agent-almest-real-estate-and-gaesa-construction-auditor
   name: Almest Real Estate & GAESA Construction Auditor
-  role: Inmobiliaria Almest S.A. (GAESA), Unión de Construcciones Militares (UCM), Urban Reform Confiscations (Law of October 14, 1960), Luxury Hotel Real Estate (Torre K, Manzana Kempinski, Packard) & Bancec Alter Ego Auditor
+  role: Inmobiliaria Almest S.A. (GAESA), Unión de Construcciones Militares (UCM),
+    Urban Reform Confiscations (Law of October 14, 1960), Luxury Hotel Real Estate
+    (Torre K, Manzana Kempinski, Packard) & Bancec Alter Ego Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-almest-real-estate-and-gaesa-construction-auditor.yaml
 - id: agent-transnational-contractor-and-bouygues-escrow-marshal
   name: Transnational Contractor & Bouygues Escrow Marshal
-  role: "Bouygues Bâtiment International (France / Euronext: EN), Multinational General Contractors, French Duty of Vigilance Law (Loi de Vigilance), Helms-Burton Title III Construction Trafficking (22 U.S.C. § 6082), TVPRA Conscript Labor & Master QSF Escrow Marshal"
+  role: 'Bouygues Bâtiment International (France / Euronext: EN), Multinational General
+    Contractors, French Duty of Vigilance Law (Loi de Vigilance), Helms-Burton Title
+    III Construction Trafficking (22 U.S.C. § 6082), TVPRA Conscript Labor & Master
+    QSF Escrow Marshal'
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-contractor-and-bouygues-escrow-marshal.yaml
 - id: agent-caribbean-drydock-and-asticar-shipyard-auditor
   name: Caribbean Drydock & ASTICAR Shipyard Auditor
-  role: Caribbean Drydock Company S.A. (CDC), Empresa Astilleros del Caribe (ASTICAR), Havana Bay Graving & Floating Docks, Expropriated Pre-1959 Marine Railways & Bancec Alter Ego Auditor
+  role: Caribbean Drydock Company S.A. (CDC), Empresa Astilleros del Caribe (ASTICAR),
+    Havana Bay Graving & Floating Docks, Expropriated Pre-1959 Marine Railways & Bancec
+    Alter Ego Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-caribbean-drydock-and-asticar-shipyard-auditor.yaml
 - id: agent-transnational-shipbuilder-and-damen-escrow-marshal
   name: Transnational Shipbuilder & DAMEN Escrow Marshal
-  role: DAMEN Shipyards Group (Netherlands), Transnational Ship Repair Consortia, Helms-Burton Title III Drydock Trafficking (22 U.S.C. § 6082), Supplemental Admiralty Rule B/C Vessel Arrests & Master QSF Escrow Marshal
+  role: DAMEN Shipyards Group (Netherlands), Transnational Ship Repair Consortia,
+    Helms-Burton Title III Drydock Trafficking (22 U.S.C. § 6082), Supplemental Admiralty
+    Rule B/C Vessel Arrests & Master QSF Escrow Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-shipbuilder-and-damen-escrow-marshal.yaml
 - id: agent-mcv-comercial-and-cimex-automotive-auditor
   name: MCV Comercial & CIMEX Automotive Auditor
-  role: Empresa Mixta MCV Comercial S.A., Corporación CIMEX S.A. (GAESA), Mercedes-Benz / Daimler Assembly & Distribution Facilities, Expropriated Pre-1959 Automotive Latifundia (GM CU-2494, Ford CU-2495, Ambar Motors) & Bancec Alter Ego Auditor
+  role: Empresa Mixta MCV Comercial S.A., Corporación CIMEX S.A. (GAESA), Mercedes-Benz
+    / Daimler Assembly & Distribution Facilities, Expropriated Pre-1959 Automotive
+    Latifundia (GM CU-2494, Ford CU-2495, Ambar Motors) & Bancec Alter Ego Auditor
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-mcv-comercial-and-cimex-automotive-auditor.yaml
 - id: agent-transnational-automaker-and-daimler-escrow-marshal
   name: Transnational Automaker & Daimler Escrow Marshal
-  role: Daimler Truck AG (Leinfelden-Echterdingen), Mercedes-Benz Group AG (Stuttgart), German Supply Chain Act (LkSG §§ 3, 7), Helms-Burton Title III Trafficking Actions (22 U.S.C. § 6082), Title IV Sanctions, German ZPO Attachment & Master QSF Escrow Marshal
+  role: Daimler Truck AG (Leinfelden-Echterdingen), Mercedes-Benz Group AG (Stuttgart),
+    German Supply Chain Act (LkSG §§ 3, 7), Helms-Burton Title III Trafficking Actions
+    (22 U.S.C. § 6082), Title IV Sanctions, German ZPO Attachment & Master QSF Escrow
+    Marshal
   status: ACTIVE
   manifest_file: .antigravity/agents/agent-transnational-automaker-and-daimler-escrow-marshal.yaml
-total_agents: 170
+- id: agent-core-jurisprudential-pillars-and-statutory-auditor
+  name: Core Jurisprudential Pillars & Statutory Auditor
+  role: Master Jurisprudential Architect, Mitchell Fiduciary Exception, ARSIWA Continuous
+    State Responsibility, Helms-Burton Title III Fee-Simple Title Proofs & Bancec
+    Sovereign Alter Ego Auditor
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-core-jurisprudential-pillars-and-statutory-auditor.yaml
+- id: agent-transnational-precedent-and-exequatur-marshal
+  name: Transnational Precedent & Exequatur Marshal
+  role: Transnational Judgment Domestication, European Account Preservation Orders
+    (Regulation EU 655/2014), UK CPR Part 72 Third-Party Debt Orders, Admiralty Rule
+    B/C Arrests & Master QSF Receivership Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-transnational-precedent-and-exequatur-marshal.yaml
+total_agents: 172

@@ -716,11 +716,13 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/passenger-port-dues-and-shore-excursion-escrow-garnishment.yaml
 - id: sovereign-commercial-retail-monopoly-and-cimex-disgorgement
-  name: Sovereign Commercial Retail Monopolies, Hard-Currency Tiendas MLC & CIMEX Disgorgement
+  name: Sovereign Commercial Retail Monopolies, Hard-Currency Tiendas MLC & CIMEX
+    Disgorgement
   status: ACTIVE
   manifest_file: .antigravity/skills/sovereign-commercial-retail-monopoly-and-cimex-disgorgement.yaml
 - id: department-store-expropriation-and-trademark-restitution
-  name: Department Store Expropriation, Helms-Burton Title III Trafficking & Trademark Restitution
+  name: Department Store Expropriation, Helms-Burton Title III Trafficking & Trademark
+    Restitution
   status: ACTIVE
   manifest_file: .antigravity/skills/department-store-expropriation-and-trademark-restitution.yaml
 - id: colon-free-zone-procurement-and-pos-clearing-garnishment
@@ -728,7 +730,8 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/colon-free-zone-procurement-and-pos-clearing-garnishment.yaml
 - id: sovereign-airport-monopoly-and-ecasa-disgorgement
-  name: Sovereign Commercial Airport Monopolies, ECASA Infrastructure & Concession Disgorgement
+  name: Sovereign Commercial Airport Monopolies, ECASA Infrastructure & Concession
+    Disgorgement
   status: ACTIVE
   manifest_file: .antigravity/skills/sovereign-airport-monopoly-and-ecasa-disgorgement.yaml
 - id: commercial-airspace-overflight-fee-interdiction
@@ -740,7 +743,8 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/iata-clearinghouse-and-airline-settlement-garnishment.yaml
 - id: sovereign-railway-monopoly-and-ufc-disgorgement
-  name: Sovereign Commercial Railway Monopolies, UFC Infrastructure & Freight Tariff Disgorgement
+  name: Sovereign Commercial Railway Monopolies, UFC Infrastructure & Freight Tariff
+    Disgorgement
   status: ACTIVE
   manifest_file: .antigravity/skills/sovereign-railway-monopoly-and-ufc-disgorgement.yaml
 - id: railroad-right-of-way-expropriation-and-title-iii-enforcement
@@ -752,7 +756,8 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/locomotive-procurement-and-export-credit-garnishment.yaml
 - id: sovereign-brewing-monopoly-and-bucanero-disgorgement
-  name: Sovereign Commercial Brewing Monopolies, Bucanero Infrastructure & Distribution Disgorgement
+  name: Sovereign Commercial Brewing Monopolies, Bucanero Infrastructure & Distribution
+    Disgorgement
   status: ACTIVE
   manifest_file: .antigravity/skills/sovereign-brewing-monopoly-and-bucanero-disgorgement.yaml
 - id: helms-burton-title-iii-brewing-trafficking-interdiction
@@ -764,11 +769,13 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/brewery-joint-venture-dividend-and-malt-escrow-garnishment.yaml
 - id: sovereign-food-monopoly-and-alimport-disgorgement
-  name: Sovereign Food Import Monopolies, ALIMPORT Procurement & Supply Concession Disgorgement
+  name: Sovereign Food Import Monopolies, ALIMPORT Procurement & Supply Concession
+    Disgorgement
   status: ACTIVE
   manifest_file: .antigravity/skills/sovereign-food-monopoly-and-alimport-disgorgement.yaml
 - id: expropriated-food-processing-and-milling-restitution
-  name: Expropriated Food Processing Plants, Flour Mills & Helms-Burton Title III Restitution
+  name: Expropriated Food Processing Plants, Flour Mills & Helms-Burton Title III
+    Restitution
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-food-processing-and-milling-restitution.yaml
 - id: tsra-cash-in-advance-and-letter-of-credit-garnishment
@@ -788,7 +795,8 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/biotech-joint-venture-dividend-and-clinical-escrow-garnishment.yaml
 - id: sovereign-medical-labor-export-and-csmc-disgorgement
-  name: Sovereign Medical Labor Export Monopoly, CSMC S.A. Disgorgement & Contract Auditing
+  name: Sovereign Medical Labor Export Monopoly, CSMC S.A. Disgorgement & Contract
+    Auditing
   status: ACTIVE
   manifest_file: .antigravity/skills/sovereign-medical-labor-export-and-csmc-disgorgement.yaml
 - id: tvpra-forced-labor-and-commercial-intermediary-interdiction
@@ -796,7 +804,8 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/tvpra-forced-labor-and-commercial-intermediary-interdiction.yaml
 - id: bilateral-health-contract-receivable-and-escrow-garnishment
-  name: Bilateral Health Contract Receivable Garnishment, Diplomatic Wire Attachment & QSF Distribution
+  name: Bilateral Health Contract Receivable Garnishment, Diplomatic Wire Attachment
+    & QSF Distribution
   status: ACTIVE
   manifest_file: .antigravity/skills/bilateral-health-contract-receivable-and-escrow-garnishment.yaml
 - id: sovereign-nickel-mining-monopoly-and-cubaniquel-disgorgement
@@ -804,11 +813,13 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/sovereign-nickel-mining-monopoly-and-cubaniquel-disgorgement.yaml
 - id: expropriated-mining-concession-and-mineral-title-restitution
-  name: Expropriated Mining Concession, Mineral Title Restitution & Title III Trafficking Actions
+  name: Expropriated Mining Concession, Mineral Title Restitution & Title III Trafficking
+    Actions
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-mining-concession-and-mineral-title-restitution.yaml
 - id: transnational-cobalt-offtake-and-sherritt-dividend-escrow-garnishment
-  name: Transnational Cobalt Offtake Garnishment, Sherritt Dividend Interdiction & QSF Trust Marshalling
+  name: Transnational Cobalt Offtake Garnishment, Sherritt Dividend Interdiction &
+    QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-cobalt-offtake-and-sherritt-dividend-escrow-garnishment.yaml
 - id: azcuba-holding-and-sugar-agroindustrial-disgorgement
@@ -820,7 +831,8 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-sugar-latifundia-and-mill-restitution.yaml
 - id: transnational-sugar-offtake-and-commodity-clearing-garnishment
-  name: Transnational Sugar Offtake Garnishment, Commodity Clearing Interdiction & QSF Trust Marshalling
+  name: Transnational Sugar Offtake Garnishment, Commodity Clearing Interdiction &
+    QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-sugar-offtake-and-commodity-clearing-garnishment.yaml
 - id: cuba-ron-corporation-and-distillery-monopoly-disgorgement
@@ -828,11 +840,13 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/cuba-ron-corporation-and-distillery-monopoly-disgorgement.yaml
 - id: expropriated-arechabala-trademark-and-section-211-restitution
-  name: Expropriated Arechabala Trademark, Section 211 Invalidation & Title III Trafficking Actions
+  name: Expropriated Arechabala Trademark, Section 211 Invalidation & Title III Trafficking
+    Actions
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-arechabala-trademark-and-section-211-restitution.yaml
 - id: transnational-spirits-royalty-and-pernod-ricard-dividend-garnishment
-  name: Transnational Spirits Royalty Garnishment, Pernod Ricard Dividend Interdiction & QSF Trust Marshalling
+  name: Transnational Spirits Royalty Garnishment, Pernod Ricard Dividend Interdiction
+    & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-spirits-royalty-and-pernod-ricard-dividend-garnishment.yaml
 - id: melfi-marine-offshore-fleet-and-liner-disgorgement
@@ -840,11 +854,13 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/melfi-marine-offshore-fleet-and-liner-disgorgement.yaml
 - id: expropriated-maritime-fleet-and-seatrain-lines-restitution
-  name: Expropriated Maritime Fleet, Seatrain Lines Restitution & Admiralty Title Actions
+  name: Expropriated Maritime Fleet, Seatrain Lines Restitution & Admiralty Title
+    Actions
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-maritime-fleet-and-seatrain-lines-restitution.yaml
 - id: transnational-liner-charterparty-and-container-clearing-garnishment
-  name: Transnational Liner Charterparty Garnishment, Container Clearing Interdiction & QSF Trust Marshalling
+  name: Transnational Liner Charterparty Garnishment, Container Clearing Interdiction
+    & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-liner-charterparty-and-container-clearing-garnishment.yaml
 - id: etecsa-sovereign-telecom-network-and-subsea-cable-disgorgement
@@ -852,55 +868,68 @@ skills:
   status: ACTIVE
   manifest_file: .antigravity/skills/etecsa-sovereign-telecom-network-and-subsea-cable-disgorgement.yaml
 - id: expropriated-itt-telecom-infrastructure-and-spectrum-restitution
-  name: Expropriated ITT Telecom Infrastructure, Spectrum Restitution & Title III Trafficking Actions
+  name: Expropriated ITT Telecom Infrastructure, Spectrum Restitution & Title III
+    Trafficking Actions
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-itt-telecom-infrastructure-and-spectrum-restitution.yaml
 - id: transnational-carrier-interconnect-and-roaming-escrow-garnishment
-  name: Transnational Carrier Interconnect Garnishment, Roaming Clearing Interdiction & QSF Trust Marshalling
+  name: Transnational Carrier Interconnect Garnishment, Roaming Clearing Interdiction
+    & QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-carrier-interconnect-and-roaming-escrow-garnishment.yaml
 - id: une-sovereign-electric-monopoly-and-grid-disgorgement
-  name: Unión Eléctrica Sovereign Grid Disgorgement, Power Tariff Auditing & Bancec Alter Ego Forensics
+  name: Unión Eléctrica Sovereign Grid Disgorgement, Power Tariff Auditing & Bancec
+    Alter Ego Forensics
   status: ACTIVE
   manifest_file: .antigravity/skills/une-sovereign-electric-monopoly-and-grid-disgorgement.yaml
 - id: expropriated-american-and-foreign-power-title-restitution
-  name: Expropriated American & Foreign Power Company Restitution, CCE Title Tracing & Title III Trafficking Actions
+  name: Expropriated American & Foreign Power Company Restitution, CCE Title Tracing
+    & Title III Trafficking Actions
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-american-and-foreign-power-title-restitution.yaml
 - id: transnational-powership-charter-and-bunker-escrow-garnishment
-  name: Transnational Powership Charter Hire Garnishment, Bunker Fuel Attachment & QSF Trust Marshalling
+  name: Transnational Powership Charter Hire Garnishment, Bunker Fuel Attachment &
+    QSF Trust Marshalling
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-powership-charter-and-bunker-escrow-garnishment.yaml
 - id: habanos-corporation-and-premium-cigar-monopoly-disgorgement
-  name: Corporación Habanos S.A. Premium Cigar Monopoly Disgorgement & Commercial Veil-Piercing Forensics
+  name: Corporación Habanos S.A. Premium Cigar Monopoly Disgorgement & Commercial
+    Veil-Piercing Forensics
   status: ACTIVE
   manifest_file: .antigravity/skills/habanos-corporation-and-premium-cigar-monopoly-disgorgement.yaml
 - id: expropriated-historic-cigar-trademark-and-palace-restitution
-  name: Expropriated Historic Cigar Trademarks, Rolling Palaces & Vegas Restitution Protocol
+  name: Expropriated Historic Cigar Trademarks, Rolling Palaces & Vegas Restitution
+    Protocol
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-historic-cigar-trademark-and-palace-restitution.yaml
 - id: transnational-cigar-distributor-royalty-and-auction-garnishment
-  name: Transnational Cigar Distributor Royalties, Bonded Inventory Attachment & Auction Escrow Garnishment
+  name: Transnational Cigar Distributor Royalties, Bonded Inventory Attachment & Auction
+    Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-cigar-distributor-royalty-and-auction-garnishment.yaml
 - id: gaesa-gaviota-resort-monopoly-and-beachfront-disgorgement
-  name: GAESA Gaviota Resort Monopoly Disgorgement, Beachfront Auditing & Bancec Alter Ego Forensics
+  name: GAESA Gaviota Resort Monopoly Disgorgement, Beachfront Auditing & Bancec Alter
+    Ego Forensics
   status: ACTIVE
   manifest_file: .antigravity/skills/gaesa-gaviota-resort-monopoly-and-beachfront-disgorgement.yaml
 - id: expropriated-historic-hotel-and-coastal-latifundia-restitution
-  name: Expropriated Historic Hotel Properties, Coastal Latifundia & Title III Restitution Protocol
+  name: Expropriated Historic Hotel Properties, Coastal Latifundia & Title III Restitution
+    Protocol
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-historic-hotel-and-coastal-latifundia-restitution.yaml
 - id: transnational-hotel-management-and-gds-escrow-garnishment
-  name: Transnational Hotel Management Fees, GDS Clearinghouses & Tour Operator Escrow Garnishment
+  name: Transnational Hotel Management Fees, GDS Clearinghouses & Tour Operator Escrow
+    Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-hotel-management-and-gds-escrow-garnishment.yaml
 - id: sovereign-central-bank-disgorgement-and-bcc-forensics
-  name: Banco Central de Cuba Sovereign Disgorgement, Reserve Auditing & Bancec Alter Ego Forensics
+  name: Banco Central de Cuba Sovereign Disgorgement, Reserve Auditing & Bancec Alter
+    Ego Forensics
   status: ACTIVE
   manifest_file: .antigravity/skills/sovereign-central-bank-disgorgement-and-bcc-forensics.yaml
 - id: expropriated-commercial-bank-network-and-vault-restitution
-  name: Expropriated Commercial Bank Networks, Vault Specie & Law 891 Restitution Protocol
+  name: Expropriated Commercial Bank Networks, Vault Specie & Law 891 Restitution
+    Protocol
   status: ACTIVE
   manifest_file: .antigravity/skills/expropriated-commercial-bank-network-and-vault-restitution.yaml
 - id: transnational-interbank-clearing-and-havin-escrow-garnishment
@@ -943,4 +972,16 @@ skills:
   name: Transnational Automotive Contract & Daimler Escrow Garnishment
   status: ACTIVE
   manifest_file: .antigravity/skills/transnational-automotive-contract-and-daimler-escrow-garnishment.yaml
-total_skills: 255
+- id: core-jurisprudential-pillars-and-precedent-hardening
+  name: Core Jurisprudential Pillars & Precedent Hardening
+  status: ACTIVE
+  manifest_file: .antigravity/skills/core-jurisprudential-pillars-and-precedent-hardening.yaml
+- id: transnational-statutory-enforcement-and-treaty-exequatur
+  name: Transnational Statutory Enforcement & Treaty Exequatur
+  status: ACTIVE
+  manifest_file: .antigravity/skills/transnational-statutory-enforcement-and-treaty-exequatur.yaml
+- id: unassailable-restitution-roadmap-and-qsf-trust-execution
+  name: Unassailable Restitution Roadmap & QSF Trust Execution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/unassailable-restitution-roadmap-and-qsf-trust-execution.yaml
+total_skills: 258

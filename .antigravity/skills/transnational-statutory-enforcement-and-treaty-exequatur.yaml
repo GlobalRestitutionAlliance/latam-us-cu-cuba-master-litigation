@@ -1,0 +1,26 @@
+skill:
+  id: "transnational-statutory-enforcement-and-treaty-exequatur"
+  name: "Transnational Statutory Enforcement & Treaty Exequatur"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Transnational Exequatur, Maritime In Rem Arrest & Sovereign Debt Garnishment"
+
+description: >
+  Standardized protocol for orchestrating cross-border judgment recognition, protective account preservation, and maritime in rem arrest.
+  Leverages English Commercial Court sovereign commercial capacity precedents, European Account Preservation Orders (Regulation (EU) No 655/2014),
+  UK CPR Part 72 Third-Party Debt Orders, and Supplemental Admiralty Rules B and C maritime liens across international financial centers.
+
+execution_protocol:
+  step_1: "Domesticate foreign and federal commercial judgments under English High Court authority (CRF I Ltd. v. Banco Nacional de Cuba & Republic of Cuba [2023] EWHC 80 (Comm)), confirming sovereign bank capacity to be sued and enforcing third-party commercial debt assignments."
+  step_2: "File ex parte European Account Preservation Order (EAPO) applications pursuant to Regulation (EU) No 655/2014 across commercial banking centers in France, Spain, the Netherlands, and Luxembourg to freeze bank balances of GAESA, CIMEX, and Cuban financial intermediaries."
+  step_3: "Serve Interim Third-Party Debt Orders under UK Civil Procedure Rules (CPR) Part 72 upon Havin Bank Ltd. (London) and transnational clearinghouses to garnish commercial receivables owed to the Cuban sovereign state."
+  step_4: "Issue Supplemental Admiralty Rule B attachment process against sovereign electronic funds transfers (EFTs) in intermediary correspondent banking corridors in New York and European financial centers."
+  step_5: "Execute Supplemental Admiralty Rule C in rem arrest warrants via U.S. Marshals Service against commercial cargo and dark-fleet vessels utilizing confiscated deepwater port infrastructure, perfecting 46 U.S.C. § 31342 maritime liens for unpaid terminal usage."
+
+authorities:
+  - "CRF I Ltd. v. Banco Nacional de Cuba & The Republic of Cuba [2023] EWHC 80 (Comm)"
+  - "Regulation (EU) No 655/2014 (European Account Preservation Order)"
+  - "UK Civil Procedure Rules (CPR) Part 72 (Third-Party Debt Orders)"
+  - "Federal Rules of Civil Procedure, Supplemental Admiralty Rules B and C"
+  - "46 U.S.C. §§ 31341–31343 (Maritime Commercial Instruments and Liens)"
+  - "New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards (1958)"
