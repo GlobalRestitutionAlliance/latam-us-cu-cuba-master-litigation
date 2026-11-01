@@ -250,6 +250,15 @@ Date: October 30, 2026
 
 **Total System Files in Chain of Custody Log:** **105 Immutable Records**
 
+## [2026-11-01T18:45:00-05:00] - Release v1.0.4: Master Continental Organization & ISO 3166-1 Alpha-2 Alignment
+
+### 1. Architectural Scope & Repository Migration
+- **Standardized Namespace Migration:** Formally transitioned repository structure and GitHub slug to `us-cu-cuba-master-litigation` under the global `GlobalRestitutionAlliance` organizational hierarchy.
+- **Continental Workspace Relocation:** Local workspace mapped into the hemispheric continental taxonomy at `W:/Legal/LATIN_AMERICA/US_CU_CUBA/`.
+- **Remote Origin URL:** Updated remote origin to `https://github.com/GlobalRestitutionAlliance/us-cu-cuba-master-litigation.git`.
+- **Organization Topics:** Tagged repository with topics `latin-america`, `sovereign-restitution`, `iso2-cu`, and `litigation-framework`.
+- **Integrity Baseline:** Preserved all 84 campaigns, 2,100 verified legal instruments, 1,805 vectors, and the $27.980 Trillion restitution valuation pool with zero data divergence.
+
 ## [COMMAND ALPHA AUDIT ADDENDUM] DIRECTIVE ALPHA: THE VANGUARD BEACHHEAD (THE BAIT)
 **Timestamp:** 2026-10-30 09:33:48 UTC  
 **Status:** COMPLETED & CRYPTOGRAPHICALLY LOCKED  

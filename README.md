@@ -1,7 +1,7 @@
 # US-CUBA MASTER LITIGATION: INSTITUTIONAL RESTITUTION FRAMEWORK
-[![Integrity Verification](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/integrity-verification.yml)
-[![Decentralized Mirror Sync](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/actions/workflows/mirror-sync.yml)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.3-blue.svg)](https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation/releases/tag/v1.0.3)
+[![Integrity Verification](https://github.com/GlobalRestitutionAlliance/us-cu-cuba-master-litigation/actions/workflows/integrity-verification.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cu-cuba-master-litigation/actions/workflows/integrity-verification.yml)
+[![Decentralized Mirror Sync](https://github.com/GlobalRestitutionAlliance/us-cu-cuba-master-litigation/actions/workflows/mirror-sync.yml/badge.svg)](https://github.com/GlobalRestitutionAlliance/us-cu-cuba-master-litigation/actions/workflows/mirror-sync.yml)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.4-blue.svg)](https://github.com/GlobalRestitutionAlliance/us-cu-cuba-master-litigation/releases/tag/v1.0.4)
 [![Litigation Status](https://img.shields.io/badge/Campaigns_Active-84_Phases-success.svg)](Master_Armory_Manifest.md)
 [![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-174_Deployed-blue.svg)](.antigravity/agents/agent-registry.yaml)
 [![Certified Skills](https://img.shields.io/badge/Certified_Skills-261_Active-purple.svg)](.antigravity/skills/skill-registry.yaml)
@@ -143,8 +143,8 @@ Verify file-by-file cryptographic hash parity against the master manifest:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/GlobalRestitutionAlliance/us-cuba-master-litigation.git
-cd us-cuba-master-litigation
+git clone https://github.com/GlobalRestitutionAlliance/us-cu-cuba-master-litigation.git
+cd us-cu-cuba-master-litigation
 
 # 2. Verify SHA-256 integrity across all repository files
 sha256sum -c VERIFICATION_KEYS/sha256_manifest.txt --strict
