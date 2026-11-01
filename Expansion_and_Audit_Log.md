@@ -250,6 +250,14 @@ Date: October 30, 2026
 
 **Total System Files in Chain of Custody Log:** **105 Immutable Records**
 
+## [2026-11-01T18:53:00-05:00] - Release v1.0.5: Continental Prefix Hierarchy Implementation (Strategy 2 & 3)
+
+### 1. Architectural Scope & Repository Migration
+- **Standardized Continental Slug:** Formally transitioned repository slug to `latam-us-cu-cuba-master-litigation` under the `GlobalRestitutionAlliance` organizational hierarchy, ensuring automatic alphabetical clustering of Latin American sovereign actions.
+- **Remote Origin URL:** Set remote origin to `https://github.com/GlobalRestitutionAlliance/latam-us-cu-cuba-master-litigation.git`.
+- **Global Profile Hub Integration:** Synchronized instrumentation metadata with the organization profile README hub at `GlobalRestitutionAlliance/GlobalRestitutionAlliance`.
+- **Integrity Baseline:** Preserved all 84 campaigns, 2,100 verified legal instruments, 1,805 vectors, and the $27.980 Trillion restitution valuation pool with zero data divergence.
+
 ## [2026-11-01T18:45:00-05:00] - Release v1.0.4: Master Continental Organization & ISO 3166-1 Alpha-2 Alignment
 
 ### 1. Architectural Scope & Repository Migration

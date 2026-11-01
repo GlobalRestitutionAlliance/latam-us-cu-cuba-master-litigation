@@ -224,4 +224,5 @@
 | `00_Master_Knowledge_Base/Master_1805_Vector_Crosswalk_Dashboard.docx` | `0527202e0f92af2d28917ed6c3b5c031ce1fd91770b5efa2f07f068f8a52be76` | `2026-10-30 16:52:00 UTC` | Verified | Master 1,805-Vector Evidentiary Cross-Walk Dashboard & Swarm Command Matrix (Word Master) |
 | `00_Master_Knowledge_Base/Master_1805_Vector_Crosswalk_Dashboard.md` | `bf5f7299591a3e57f0f2bdccc399bccd0350e9d105b06396fc9bd4d312e68a12` | `2026-10-30 16:52:00 UTC` | Verified | Master 1,805-Vector Evidentiary Cross-Walk Dashboard & Swarm Command Matrix (Markdown Master) |
 
+| `2026-11-01T18:53:00-05:00` | `README.md / Expansion_and_Audit_Log.md` | `CONTINENTAL_PREFIX_ALIGNMENT` | N/A | Release v1.0.5: latam prefix hierarchy implementation | Maintainer Council |
 | `2026-11-01T18:45:00-05:00` | `README.md / Expansion_and_Audit_Log.md` | `CONTINENTAL_ISO2_MIGRATION` | N/A | Release v1.0.4: Continental hierarchy & us-cu-cuba slug alignment | Maintainer Council |
